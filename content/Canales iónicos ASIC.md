@@ -1,0 +1,1 @@
+Los canales iónicos ASIC pueden actuar como receptores de la acidez a nivel neuronal. "Éstos son canales iónicos que se encuentran inactivos al pH fisiológico (7,4) y se activan cuando el pH desciende, son permeables al ión de sodio y en menor medida al de calcio, y al activarse incrementan la excitabilidad de la célula que los expresa".

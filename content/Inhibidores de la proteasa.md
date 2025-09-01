@@ -1,0 +1,1 @@
+Algunas plantas y microorganismos producen inhibidores de la proteasa como mecanismo de defensa. Por ejemplo, ciertas legumbres contienen inhibidores de la [[Proteasa||proteasa]] que pueden actuar como defensas naturales contra los herbívoros.

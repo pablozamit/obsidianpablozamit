@@ -1,0 +1,2 @@
+"put 7 8 piece of clove in 1 liter water, wait for min 12 hour, drink everyday, after a meanwhile you will see your hair darker.  
+another tip, if you feel very tired in the day, put 3 4 clove in your tea, it will go away your tiredness, but you shouldn't try on energetic time, it hardly reduce your [[cortisol]] and you feel tired(opposite)" Ray Peat forum.

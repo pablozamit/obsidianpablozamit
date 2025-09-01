@@ -1,0 +1,3 @@
+La lipofuscina es un pigmento de color marrón-amarillento que se acumula en las células del cuerpo a medida que envejecemos. Se forma a partir de la oxidación y acumulación de productos de desecho celulares, como los lípidos y las proteínas dañadas. La lipofuscina se encuentra principalmente en los tejidos que están expuestos a un mayor estrés oxidativo, como el corazón, el hígado y el sistema nervioso.
+
+A medida que las células envejecen, su capacidad para eliminar la lipofuscina disminuye, lo que lleva a su acumulación progresiva. Esta acumulación de lipofuscina se considera un marcador del envejecimiento celular y se ha asociado con el deterioro de la función celular y el desarrollo de enfermedades relacionadas con la edad.

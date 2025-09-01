@@ -1,0 +1,2 @@
+La lisina es un aminoácido esencial que el organismo no puede sintetizar por sí mismo, por lo que debe obtenerse a través de la dieta. Juega un papel crucial en diversas funciones del organismo, como la formación de proteínas, la síntesis de colágeno, la absorción de calcio y el fortalecimiento del sistema inmunológico. También se ha sugerido que la lisina puede tener efectos beneficiosos en la prevención del herpes, la reducción del estrés y el apoyo al crecimiento muscular.
+

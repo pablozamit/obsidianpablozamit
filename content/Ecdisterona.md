@@ -1,0 +1,9 @@
+La ecdisterona, conocida también como 20-hidroxiecdisona, es un tipo de ecdisteroide, que es una clase de compuestos químicos que son hormonas esteroides de los artrópodos, principalmente insectos, pero que también se encuentran en ciertas especies de plantas. En los insectos, los ecdisteroides regulan la muda y la metamorfosis.
+
+En las plantas, la ecdisterona se cree que actúa como un agente de defensa químico para disuadir a los herbívoros debido a sus efectos disruptivos en el desarrollo y la fisiología de los insectos.
+
+En el contexto de la nutrición y la suplementación deportiva, la ecdisterona ha ganado interés por sus potenciales efectos anabólicos en humanos. Algunos estudios sugieren que la ecdisterona podría tener un efecto promotor en la síntesis de proteínas y, por lo tanto, en el crecimiento muscular. Esto ha llevado a su comercialización como un suplemento para el entrenamiento de fuerza y la construcción de masa muscular.
+
+La ecdisterona es un tipo de fitoecdisteroide, una subclase de los ecdisteroides que se encuentra en las plantas. Aunque es estructuralmente similar a los esteroides anabólicos utilizados por algunos atletas para mejorar el rendimiento, no es idéntica a ninguna hormona esteroide endógena humana y su modo de acción en humanos es menos comprendido.
+
+El interés en la ecdisterona y otros fitoecdisteroides ha aumentado significativamente debido a estudios que sugieren que pueden tener varios efectos biológicos positivos, incluyendo propiedades adaptogénicas, anabólicas, antioxidantes y estimulantes del sistema inmunológico. Sin embargo, se requiere más investigación para comprender completamente su seguridad y eficacia, y su uso como suplemento deportivo está sujeto a debate y regulaciones en diferentes jurisdicciones.

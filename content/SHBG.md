@@ -1,0 +1,1 @@
+	Globulina fijadora de hormonas sexuales, una glucoproteína que se fija a las hormonas sexuales, específicamente a testosterona y estradiol.

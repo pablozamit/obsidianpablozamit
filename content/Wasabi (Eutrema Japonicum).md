@@ -1,0 +1,1 @@
+- _**[Wasabi Japonica](https://www.mdpi.com/2673-9488/3/2/16) (with 6-MSITC being the bioactive substance):** This ingredient has been shown to upregulate SIRT1 protein levels. SIRT1 is primarily known for its role in regulating cellular metabolism, and it has been implicated in several cellular processes, including DNA repair, apoptosis, and inflammation._

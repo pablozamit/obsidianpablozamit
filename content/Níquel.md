@@ -1,0 +1,3 @@
+La exposición al níquel metálico y sus compuestos solubles no debe superar los 0,05 mg/cm³ medidos en niveles de níquel equivalente para una exposición laboral de ocho horas diarias y cuarenta semanales. Los vapores y el polvo de [sulfato de níquel](https://es.wikipedia.org/wiki/Sulfato_de_n%C3%ADquel_(II) "Sulfato de níquel (II)") se sospecha que sean [cancerígenos](https://es.wikipedia.org/wiki/Cancer%C3%ADgeno "Cancerígeno").[11](https://es.wikipedia.org/wiki/N%C3%ADquel#cite_note-es_cancer%C3%ADgeno_el_sulfuro_de_niquel-11)​
+
+El [carbonilo de níquel](https://es.wikipedia.org/wiki/Carbonilo_de_n%C3%ADquel "Carbonilo de níquel") (Ni(CO)4), generado durante el proceso de obtención del metal, es un gas extremadamente tóxico.

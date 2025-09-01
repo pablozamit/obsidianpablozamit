@@ -1,0 +1,1 @@
+La forskolina, también conocida como coleonol, es un compuesto que se extrae de manera natural de las hojas de Coleus forskohlii y ha sido utilizada en el estudio de la ﬁsiología de las células como un activador de la enzima adenilato ciclasa, favoreciendo por tanto el **aumento de los niveles intracelulares de AMP cíclico** (AMPc).
