@@ -1,1 +1,0 @@
-Legumbre empleada como suplemento por su contenido en [[L-Dopa]].

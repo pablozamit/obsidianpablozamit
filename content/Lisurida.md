@@ -1,1 +1,0 @@
-Antiparkinsoniano que disminuye la [[Prolactina]] y aumenta la [[Dopamina]]. Hay testimonios que lo asocian a mayor control eyaculatorio (ver [[Eyaculación precoz]])

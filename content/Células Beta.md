@@ -1,1 +1,0 @@
-Las células beta son un grupo de células del páncreas.

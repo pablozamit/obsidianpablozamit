@@ -1,2 +1,0 @@
-
-Nigella sativa

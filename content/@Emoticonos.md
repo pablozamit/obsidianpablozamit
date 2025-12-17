@@ -1,5 +1,0 @@
-
-
-
-Libro de consulta:  📖
-

@@ -1,1 +1,0 @@
-·Activa el receptor [[5HT1A (receptor)]] 'moderadamente' (?)

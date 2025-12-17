@@ -1,2 +1,0 @@
-Acetil-L-Carnitina
-

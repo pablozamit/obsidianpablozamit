@@ -1,2 +1,0 @@
-"Activated charcoal removes BPA"
-

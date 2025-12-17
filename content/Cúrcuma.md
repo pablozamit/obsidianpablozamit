@@ -1,1 +1,0 @@
-Quelador de [[Hierro]].

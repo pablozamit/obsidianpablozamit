@@ -1,1 +1,0 @@
-La fosfatidilserina, o PS para abreviar, **es un miembro de una clase de compuestos químicos conocidos como fosfolípidos** La PS es un componente esencial en todas nuestras células

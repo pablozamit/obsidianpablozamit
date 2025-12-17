@@ -1,1 +1,0 @@
-El exemestano pertenece a una clase de medicamentos llamados inhibidores de [[aromatasa]]. Su acción consiste en disminuir la cantidad de estrógenos producidos por el cuerpo.

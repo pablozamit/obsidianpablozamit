@@ -1,5 +1,0 @@
-Androgénica.
-
-# Marcas recomendadas
-
-·ND

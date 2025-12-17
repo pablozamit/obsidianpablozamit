@@ -1,1 +1,0 @@
-·Promueve las ondas alfa.

@@ -1,1 +1,0 @@
-·'Es un gas disuelto, penetra los biofilms creados por bacterias anaeróbicas'

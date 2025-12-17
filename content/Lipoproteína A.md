@@ -1,1 +1,0 @@
-Parámetro importante en riesgo cardiovascular.

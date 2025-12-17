@@ -1,1 +1,0 @@
-Monk fruit (eritritol). 
