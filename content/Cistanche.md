@@ -1,0 +1,1 @@
+La Cistanche, también conocida como 'jopo de cordero', es [[Andrógenos|androgénica]].

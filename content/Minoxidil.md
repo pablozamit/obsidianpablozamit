@@ -1,0 +1,15 @@
+Este medicamento se desarrolló para disminuir la presión arterial y su objetivo es aumentar el flujo sanguíneo. Se empezó posteriormente a usar para hacer crecer el [[Cabello|cabello]] en determinadas partes del cuerpo.
+
+Dado este efecto, extiende la fase anágena (la fase anágena es la **fase de crecimiento, es decir, en la que se construye el [[Cabello|cabello]] sano**) del [[Cabello|cabello]]; y por ese motivo no suele funcionar en aquellas personas cuyo [[Cabello|cabello]] ya está muy deteriorado o ya ha dejado de salir.
+
+Por tanto, es más efectivo para frenar la caída cuando inicia.
+
+Cada persona tiene una sensibilidad muy diferente al minoxidil, y por eso cuando se receta se empieza con dosis muy bajas hasta encontrar la adecuada, que permita evitar sus efectos secundarios.
+
+El minoxidil aumenta la [[Prolactina|prolactina]], que es un antagonista de la [[Dopamina|dopamina]], y por eso algunos de esos efectos secundarios son bajadas de [[Libido|libido]], motivación, etc; todo lo que asociamos con [[Dopamina|dopamina]].
+
+[[Tadalafil]] consigue algo parecido.
+
+# Formatos Típicos:
+
+-   Tópico al 5%

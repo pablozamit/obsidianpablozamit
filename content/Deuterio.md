@@ -1,0 +1,3 @@
+El deuterio es uno de los isótopos del hidrógeno, que también se conoce como hidrógeno-2 o hidrógeno pesado. Un isótopo es una variante de un elemento químico que tiene el mismo número de protones pero un número diferente de neutrones en su núcleo atómico. En el caso del deuterio, su núcleo, llamado deuterón, contiene un protón y un neutrón, a diferencia del isótopo de hidrógeno más común, protio, que no tiene neutrones en su núcleo.
+
+¿El principal beneficio de la [[Dieta cetogénica]] es el agotamiento del deuterio?

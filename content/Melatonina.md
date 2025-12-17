@@ -1,0 +1,118 @@
+La melatonina es una hormona derivada del triptófano, producida principalmente en la glándula pineal durante la noche, aunque también se sintetiza en intestino, médula ósea, retina y otras estructuras. Su secreción está regulada por el ciclo luz–oscuridad, con niveles muy bajos durante el día y un pico nocturno que actúa como “señal de oscuridad” para sincronizar el reloj interno del organismo.
+
+Es uno de los mayores [[Antioxidantes|antioxidantes]].
+
+
+    
+
+#### ¿Dónde se produce la melatonina?
+
+- Menos del **5%** se produce en la pineal.
+    
+- Más del **95%** se genera en las **mitocondrias** de nuestras células.
+    
+- La melatonina mitocondrial NO depende del reloj circadiano ni se libera al torrente sanguíneo, sino que se utiliza localmente según las necesidades de cada célula, especialmente en respuesta a la radiación infrarroja cercana (NIR).
+- 
+# Efectos
+
+1.  Posible [[Estrógeno|antiestrogénico]].
+
+## Melatonina y [[Sueño|sueño]]
+
+Regulación del sueño y del ritmo circadiano: La melatonina ayuda a conciliar el sueño y a estabilizar el horario biológico interno, especialmente útil en insomnio de conciliación, jet lag y trastornos del ritmo sueño–vigilia
+
+#### Mucho más que la hormona del sueño
+
+#### Lo que tradicionalmente se creía
+
+- Se pensaba que la melatonina era producida solamente por la glándula pineal, donde también se la asociaba principalmente al sueño y los ritmos circadianos del cuerpo.
+    
+
+- Al eliminar la glándula pineal en estudios, el ritmo circadiano no desaparece, solo se vuelve menos estable. Es decir, la pineal amplifica la señal, pero el “reloj biológico” tiene múltiples fuentes: retina, núcleo supraquiasmático (SCN), intestino, piel e incluso las mitocondrias.
+    
+- Nuevos sensores pueden medir melatonina y cortisol en el sudor:
+    
+    - Tras hacer ejercicio, primero sube el cortisol y después aparece la melatonina, incluso en el sudor. Si está en el sudor, no puede venir únicamente de la pineal, sino que se produce de manera sistémica (en todo el cuerpo).
+        
+- La melatonina realmente funciona como antioxidante de primera línea, y cada tejido puede fabricarla según sus necesidades; es una defensa frente al estrés oxidativo (radicales libres).
+- 
+## Estética
+
+Efectos sobre cabello y piel: Ensayos con melatonina tópica han mostrado aumento moderado de densidad capilar, prolongación de la fase anágena y efecto fotoprotector cutáneo, lo que la posiciona como ingrediente cosmético interesante más que como “cura” definitiva de la alopecia.
+
+Uso tópico para cabello o piel: Los productos con melatonina tópica (lociones capilares, sérums faciales) se aplican generalmente 1 vez al día, por la noche, sobre cuero cabelludo o piel limpia; la tolerancia suele ser buena, pero pueden aparecer irritación local o alergia, por lo que conviene empezar con zonas pequeñas y suspender en caso de reacción.
+
+
+## Inflamación
+
+Modulación de la inflamación y del sistema inmune: La melatonina interactúa con vías como NF-κB, NLRP3 y STAT3, ayudando a disminuir mediadores proinflamatorios y a potenciar ciertas funciones inmunitarias, lo que se ha relacionado con efectos en migraña, enfermedades inflamatorias intestinales y algunos tumores.
+# Elementos que Destruyen la Melatonina
+
+Cosas que reducen la melatonina (resumen):
+
+-   [[Flúor|Flúor]].
+-   [[Ansiedad|Estrés]]/[[Cortisol|Cortisol]].
+-   Luz artificial.
+-   Exposición a campos electromagnéticos (EMF).
+-   El [[Ayuno|ayuno]] a corto plazo reduce los niveles de melatonina en sangre en un 20%.
+-   Deficiencias de [[Folato|folato]], [[Magnesio|magnesio]] y [[Zinc|zinc]].
+-   Ingesta de [[Cafeína|cafeína]].
+
+# Biosíntesis y cómo aumentar niveles
+
+La **biosíntesis de la melatonina** es un proceso que ocurre principalmente en la glándula pineal del [[Cerebro|cerebro]] (aunque también se produce en otros tejidos), a partir del [[Aminoácidos|aminoácido]] **triptófano**. Este proceso sigue una vía bien caracterizada y regulada por el ritmo circadiano.
+
+Prioriza siempre hábitos antes que suplementos: Exposición a la luz natural de día, oscuridad y reducción de pantallas por la noche, horarios regulares de sueño y una buena higiene del descanso son la base para un ritmo circadiano saludable.
+
+
+
+
+
+### Etapas de la Biosíntesis de Melatonina:
+
+1.  **Triptófano → 5-hidroxitriptófano**
+    -   **Enzima:** *Triptófano hidroxilasa*
+    -   El triptófano es hidroxilado para formar 5-hidroxitriptófano.
+2.  **5-hidroxitriptófano → [[Serotonina]] (5-HT)**
+    -   **Enzima:** *Aminoácido aromático descarboxilasa*
+    -   Se forma [[Serotonina|serotonina]] al eliminarse un grupo carboxilo.
+3.  **[[Serotonina]] → N-acetilserotonina**
+    -   **Enzima:** *Aralkilamina N-acetiltransferasa (AANAT)*
+    -   Esta es la enzima **clave reguladora** del proceso y su actividad es controlada por la luz. Aumenta en la oscuridad.
+4.  **N-acetilserotonina → Melatonina**
+    -   **Enzima:** *Hidroxiindol-O-metiltransferasa (HIOMT)* también conocida como **ASMT**
+    -   Esta enzima convierte N-acetilserotonina en melatonina mediante una [[Metilación|metilación]].
+
+# Aplicaciones:
+
+-   [[Quelación|Quelación]] de [[Metales pesados|metales pesados]]: "Toma megadosis de melatonina por la noche para equilibrar y también para [[Quelación|quelar]] [[Metales pesados|metales pesados]]."
+
+
+# Uso
+
+Dosis habituales en adultos: Para insomnio o jet lag, muchas guías y revisiones recomiendan empezar con dosis bajas, alrededor de 0,5–1 mg, pudiendo llegar a 2–3 mg si es necesario, unos 30–60 minutos antes de acostarse; rara vez se necesita superar los 5 mg, y la mayoría de expertos propone no exceder 10 mg al día sin supervisión médica.
+
+
+
+# Bibliografía comentada
+
+
+- Melatonin and your sleep: Is it safe, what are the side effects and ... | 2025 | Artículo divulgativo universitario que resume el papel de la melatonina en el sueño, sus dosis prácticas y el perfil de seguridad general a corto plazo en niños y adultos. [](https://health.ucdavis.edu/blog/cultivating-health/melatonin-and-your-sleep-is-it-safe-what-are-the-side-effects-and-how-does-it-work/2025/02)​
+    
+- Melatonin - Healthdirect | 2023 | Revisión para población general sobre qué es la melatonina, cómo regula el ciclo sueño–vigilia y qué se sabe sobre posibles efectos “antienvejecimiento” y antioxidantes. [](https://www.healthdirect.gov.au/melatonin)​
+    
+- Chronic Administration of Melatonin: Physiological and Clinical ... | 2023 | Revisión clínica que analiza ensayos de administración crónica de melatonina, mostrando beneficio moderado en insomnio y un buen perfil de seguridad a dosis de hasta 10 mg diarios en adultos. [](https://pmc.ncbi.nlm.nih.gov/articles/PMC10053496/)​
+    
+- Safety of higher doses of melatonin in adults: A systematic review ... | 2022 | Revisión sistemática que evalúa ensayos con dosis ≥10 mg en adultos y concluye que la melatonina parece segura, aunque se incrementan efectos como somnolencia, cefalea y mareos y faltan datos de largo plazo. [](https://pubmed.ncbi.nlm.nih.gov/34923676/)​
+    
+- Melatonin as an anti-inflammatory hormone bridging migraine relief ... | 2025 | Revisión que integra datos experimentales y clínicos y propone la melatonina como modulador inflamatorio con potencial en la prevención de migraña y como coadyuvante en oncología. [](https://pubmed.ncbi.nlm.nih.gov/40791587/)​
+    
+- Intestinal microbiota and melatonin in the treatment of ... | 2022 | Revisión sobre la interacción entre melatonina y microbiota intestinal, mostrando cómo protege la barrera epitelial, reduce la permeabilidad y modula la respuesta inmune intestinal. [](https://pmc.ncbi.nlm.nih.gov/articles/PMC9682189/)​
+    
+- Clinical Studies Using Topical Melatonin | 2024 | Artículo que revisa estudios clínicos de melatonina tópica como agente fotoprotector, antienvejecimiento cutáneo y estimulante del crecimiento capilar, con resultados prometedores pero preliminares. [](https://pmc.ncbi.nlm.nih.gov/articles/PMC11121188/)​
+    
+- Melatonin for hair regrowth: Preclinical insights, current evidence ... | 2023 | Revisión centrada en melatonina y cabello, que describe datos preclínicos y clínicos de melatonina tópica sobre densidad capilar y caída del pelo en alopecia androgenética. [](https://www.ejgm.co.uk/download/melatonin-for-hair-regrowth-preclinical-insights-current-evidence-and-future-perspectives-16520.pdf)​
+    
+- Melatonin: Avenues in cancer therapy and its nanotechnological ... | 2024 | Revisión oncológica que expone los posibles mecanismos anticancerígenos de la melatonina y su uso experimental junto a terapias convencionales y nuevas formulaciones. [](https://onlinelibrary.wiley.com/doi/full/10.1002/mba2.58)​
+    
+- Melatonin Dosage: How Much Melatonin to Take | 2025 | Revisión práctica sobre rangos de dosis recomendados para sueño en adultos, resaltando que dosis bajas (0,5–3 mg) suelen ser suficientes y que no se recomienda superar 10 mg sin supervisión.

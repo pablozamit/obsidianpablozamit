@@ -1,0 +1,1 @@
+La neuromelanina protege a los neuronas dopaminérgicas en la sustancia nigra al unirse a metales y amortiguar el estrés oxidativo. La luz azul induce oxidación en la neuromelanina, liberando metales tóxicos y causando una pérdida de dopamina, un neurotransmisor clave que se reduce en el Parkinson.

@@ -1,0 +1,1 @@
+"El hipogonadismo es la causa más común de endocrinopatía que conduce a la disfunción eréctil."

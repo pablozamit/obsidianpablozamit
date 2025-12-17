@@ -1,0 +1,1 @@
+Alquilaron autobuses limusina para transportar a los asistentes desde sus hoteles a la conferencia y condujeron camiones con vallas publicitarias, convirtiendo estos vehículos en anuncios móviles.

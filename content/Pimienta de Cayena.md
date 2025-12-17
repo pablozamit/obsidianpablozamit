@@ -1,0 +1,1 @@
+Usado en la [[Medicina Tradicional China]] para tratar la [[Eyaculación precoz]].

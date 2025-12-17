@@ -1,0 +1,1 @@
+Un estudio de Nature (2013) encontró que la exposición prolongada a luz brillante reduce las neuronas dopaminérgicas en ratas, apoyando la idea de daño inducido por luz. Otro artículo de Harvard Health (2020) destaca que la luz azul interfiere con la melatonina y los ritmos circadianos, lo que podría exacerbar problemas neurológicos.

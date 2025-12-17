@@ -1,0 +1,3 @@
+"Pon 7 u 8 clavos en 1 litro de agua, espera al menos 12 horas, bebe todos los días, después de un tiempo verás tu [[Cabello|cabello]] más oscuro.
+
+Otro consejo, si te sientes muy cansado durante el día, pon 3 o 4 clavos en tu té, tu cansancio desaparecerá, pero no deberías probarlo en momentos de energía, ya que reduce mucho tu [[Cortisol]] y te sentirás cansado (efecto opuesto)." (Foro de Ray Peat)

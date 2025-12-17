@@ -1,0 +1,7 @@
+Monk fruit (eritritol).
+
+La fruta del monje, conocida científicamente como Siraitia grosvenorii, es una planta nativa del sureste de Asia, famosa por sus frutos que se utilizan como edulcorantes naturales debido a su contenido de mogrosidas, que son compuestos que pueden ser hasta 300 veces más dulces que el [[Azúcar|azúcar]] sin aportar calorías. Aunque es más conocida por su uso como edulcorante, la investigación sobre sus efectos en la salud es limitada pero creciente.
+
+### Metabolismo, Fisiología y Neurología
+
+Se han realizado estudios para evaluar el impacto de la fruta del monje en el [[Metabolismo|metabolismo]], especialmente en contextos de enfermedades [[Metabolismo|metabólicas]] como la [[Diabetes|diabetes]]. Un estudio en ratas con [[Diabetes|diabetes]] tipo 2 mostró que el consumo de yogur simbiótico endulzado con extracto de fruta del monje mejoró la regulación de la [[Glucosa|glucosa]] en sangre, redujo la resistencia a la [[Insulina|insulina]] y el daño [[Hígado|hepático]] y [[Riñón|renal]], además de mejorar la [[Microbiota intestinal|microbiota intestinal]] y aumentar los niveles de [[Ácidos grasos|ácidos grasos]] de cadena corta. Otro estudio destacó efectos positivos en biomarcadores lipídicos y el [[Metabolismo|metabolismo]] [[Hígado|hepático]] en ratas diabéticas alimentadas con yogur simbiótico endulzado con extracto de fruta del monje.

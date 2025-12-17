@@ -1,0 +1,1 @@
+El cardo mariano, también conocido como 'cardo de leche', es utilizado como hepatoprotector gracias a su contenido en silimarina, que actúa en el hígado **aumentando las defensas [[Antioxidantes|antioxidantes]] y ejerciendo un efecto [[Inflamación|antiinflamatorio]]**.

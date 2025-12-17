@@ -1,0 +1,44 @@
+# Bicarbonato de Sodio (NaHCO3)
+
+El bicarbonato de sodio (NaHCO3) puede influir en los niveles de [[Testosterona]], el rendimiento deportivo y la sensibilidad de los [[Andrógenos|receptores de andrógenos]] a través de la vía [[cAMP]] > PKA.
+
+El [[cAMP]] estimula la producción de la enzima PKA (proteína cinasa A), que regula el metabolismo del glucógeno, el [[Azúcar|azúcar]] y las grasas. Existe evidencia que sugiere que niveles altos de PKA pueden aumentar la sensibilidad de los receptores de [[Andrógenos|andrógenos]] y, por tanto, el uso de hormonas androgénicas.
+
+## Efecto Ergogénico
+
+El bicarbonato de sodio actúa como un búfer del pH, haciendo que los músculos sean más alcalinos durante el entrenamiento. Esto puede aumentar el uso de oxígeno y, en consecuencia, el rendimiento y la fuerza.
+
+## Citas y Testimonios
+
+### [[Ray Peat]] sobre el Bicarbonato
+
+> "El [[Agua con gas|agua carbonatada]] o 'agua de soda' debería mejorar la circulación al cerebro cuando la producción de [[CO2]] del cerebro no es adecuada." (...) "Una semana después, una estudiante contó que (...) le dio a su madre, paralizada por un derrame cerebral, un vaso de agua con una cucharada de bicarbonato. Su madre había estado hemipléjica durante 6 meses, pero 15 minutos después de beber el bicarbonato, la parálisis desapareció y se mantuvo normal."
+
+> "Las personas con [[Hipotiroidismo]] producen poco [[CO2]]. (...) El [[CO2]] (respirar en una bolsa, beber [[Agua con gas]] o bañarse en agua con bicarbonato) seguido de suplementación tiroidea, sería la terapia apropiada para este tipo de isquemia funcional del cerebro."
+
+### Testimonios del Foro de [[Ray Peat]]
+
+- **Mezcla con Vinagre:** Un usuario menciona mezclar bicarbonato con vinagre de manzana, lo que produce [[Acetato de sodio]].
+- **Efecto Antiinflamatorio:** Se cita que el bicarbonato es [[Alergia|antiinflamatorio]] y que ha ayudado en casos de artritis reumatoide.
+- **Aumento de Temperatura:** Otro usuario reporta un aumento significativo de la temperatura corporal, atribuido a niveles más altos de [[CO2]], al añadir bicarbonato a su zumo de naranja.
+- **Momento de Ingesta:** Se sugiere tomarlo entre comidas, cuando el nivel de ácido estomacal es bajo, para una mejor absorción.
+
+### Reacción con Ácido Estomacal
+El bicarbonato de sodio reacciona con el ácido del estómago (HCl) para producir sal (NaCl), agua (H2O) y [[CO2]]. Según Henderson, el [[CO2]] es un factor clave en el equilibrio ácido-base de la sangre, el control de la respiración y ejerce una influencia tónica sobre el [[Corazón]] y la circulación periférica.
+
+## Beneficios para el Sueño
+
+Existe evidencia anecdótica que sugiere una mejora en la calidad del [[Ayuno|sueño]]. Un usuario compartió datos de seguimiento del sueño que mostraban una mejora notable en las noches que tomaba bicarbonato de sodio en comparación con las que no.
+
+## Protocolo para el Estreñimiento (Dr. Cheney)
+
+- **Día 1:** ½ cucharadita en agua fría, 6 veces al día (cada 2 horas).
+- **Día 2:** ½ cucharadita en agua fría, 4 veces al día.
+- **Día 3:** ½ cucharadita en agua fría, 2 veces al día (mañana y noche).
+
+Posteriormente, ½ cucharadita cada mañana hasta que los síntomas desaparezcan.
+
+## Notas sobre la Dosificación y Efectos Secundarios
+
+- **Dosis Máxima (Arm & Hammer):** No exceder siete dosis de ½ cucharadita al día (o tres si eres mayor de 60 años) y no mantener la dosis máxima por más de dos semanas.
+- **Síndrome de Leche y Alcalinos:** Un consumo excesivo y prolongado, especialmente con suplementación de [[Calcio]], puede llevar a este síndrome. Es crucial tener una función renal y hepática saludable y un buen metabolismo para evitar desequilibrios de [[Calcio]].

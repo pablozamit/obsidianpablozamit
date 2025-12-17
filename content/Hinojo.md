@@ -1,0 +1,2 @@
+-   **[[Digestión|Digestión]]:** El hinojo es conocido por sus propiedades carminativas, ayudando a aliviar la hinchazón, gases y mejorar la [[Digestión|digestión]].
+-   **Efectos [[Antioxidantes|Antioxidantes]]:** Rico en [[Antioxidantes|antioxidantes]] como la [[Vitamina C|vitamina C]] y los [[Flavonoide|flavonoides]], el hinojo puede ayudar a combatir el [[Ansiedad|estrés]] oxidativo.

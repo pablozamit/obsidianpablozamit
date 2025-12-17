@@ -1,0 +1,5 @@
+Los lipopolisacáridos (LPS) son moléculas complejas que se encuentran en la membrana externa de las bacterias Gram negativas. Son considerados [[Endotoxinas|endotoxinas]] y desempeñan un papel importante en la activación del [[Sistema inmune|sistema inmunológico]]. Los LPS están compuestos por una porción lipídica llamada lípido A, un núcleo oligosacárido y una cadena de polisacárido llamada antígeno O. El lípido A es la parte tóxica del LPS y puede desencadenar una respuesta [[Inflamación|inflamatoria]] en el organismo. Los LPS son reconocidos por receptores del [[Sistema inmune|sistema inmunitario]], como los receptores TLR4, y su interacción con estos receptores puede desencadenar una respuesta [[Inflamación|inflamatoria]].
+
+## LPS y Zumo de Naranja
+
+"El consumo de zumo de [[Naranja|naranja]] con una comida rica en [[Grasa|grasas]] y carbohidratos previno el aumento de la concentración de [[Endotoxinas|endotoxinas]] inducido por la comida."

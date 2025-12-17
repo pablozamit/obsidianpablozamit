@@ -1,0 +1,2 @@
+la quitina es un biopolímero abundante que es relativamente resistente a ser degradado.[2](https://es.wikipedia.org/wiki/Quitinasa#cite_note-Akaki1-2)​ Generalmente no es digerido por los animales excepto por algunas especies de peces.[3](https://es.wikipedia.org/wiki/Quitinasa#cite_note-pmid15556391-3)​ Está establecido que la [[digestión]] de quitina por animales requiere una simbiosis con bacterias y lentas fermentaciones, similar a la [[digestión]] de celulosa por parte de rumiantes
+

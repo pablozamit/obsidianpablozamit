@@ -1,0 +1,1 @@
+Agente activo de la [[Cúrcuma]].

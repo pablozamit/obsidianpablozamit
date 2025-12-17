@@ -1,0 +1,7 @@
+El glucagón es una [[Hormona|hormona]] peptídica producida por las [[Células Beta|células alfa]] de los islotes de Langerhans en el páncreas. Su principal función es elevar la concentración de [[Glucosa|glucosa]] en la sangre, actuando como un antagonista de la [[Insulina|insulina]], que tiene el efecto contrario.
+
+**Funciones en el [[Metabolismo|Metabolismo]], la Fisiología y/o la Neurología**
+
+En el [[Metabolismo|metabolismo]], el glucagón juega un papel crucial en la regulación de los niveles de [[Glucosa|glucosa]] en la sangre. Se libera cuando los niveles de [[Glucosa|glucosa]] son bajos, estimulando la gluconeogénesis y la glucogenólisis en el [[Hígado|hígado]], lo que resulta en un aumento de la [[Glucosa|glucosa]] en la sangre. También promueve la lipólisis en el tejido adiposo, liberando [[Ácidos grasos|ácidos grasos]] libres como fuente de energía alternativa.
+
+Desde un punto de vista fisiológico, el glucagón también ayuda a mantener la homeostasis de la [[Glucosa|glucosa]] durante el [[Ayuno|ayuno]] o entre comidas. A nivel neurológico, aunque el glucagón es predominantemente una [[Hormona|hormona]] [[Metabolismo|metabólica]], la regulación de la glucemia tiene un impacto indirecto en la función [[Cerebro|cerebral]], ya que el [[Cerebro|cerebro]] depende en gran medida de la [[Glucosa|glucosa]] como su fuente principal de energía.

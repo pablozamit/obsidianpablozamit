@@ -1,0 +1,1 @@
+Postura de yoga que actúa sobre algunos haces de la musculatura del suelo pélvico, ayudando al control eyaculatorio.
