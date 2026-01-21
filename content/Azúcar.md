@@ -31,3 +31,12 @@ El **azúcar**, comúnmente conocido como [[Sacarosa]], es un [[Carbohidratos|ca
 ## Tipos de Azúcar
 
 Existen diversos tipos de [[Azúcar]], como la [[Glucosa]], [[Fructosa]], [[Sacarosa]] ([[Azúcar de mesa]]), [[Lactosa]] y [[Maltosa]], cada uno con [[Características]] y [[Usos específicos]].
+
+## Notas Relacionadas
+- [[Glucosa]]
+- [[Fructosa]]
+- [[Sacarosa]]
+- [[Metabolismo]]
+- [[Insulina]]
+
+(?faltan fuentes)

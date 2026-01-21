@@ -1,5 +1,3 @@
-
-
 # Aspirina (Ácido Acetilsalicílico)
 
 La [[Aspirina]] es un [[Fármaco]] ampliamente utilizado con diversas propiedades.
@@ -61,3 +59,12 @@ La [[Aspirina]] es un [[Fármaco]] ampliamente utilizado con diversas propiedade
 
 -   **Posible:** "La [[Aspirina]] inhibe la producción de [[Melanina]]."
     -   [https://twitter.com/ze_rusty/status/1666715881705971712/photo/1](https://twitter.com/ze_rusty/status/1666715881705971712/photo/1)
+
+## Notas Relacionadas
+- [[Vitamina K]]
+- [[Serotonina]]
+- [[Progesterona]]
+- [[Metabolismo]]
+- [[Tadalafil]]
+
+(?faltan fuentes)

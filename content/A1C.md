@@ -21,6 +21,10 @@ Aunque el A1C es un indicador muy útil, no debe ser el único criterio para ges
 1.  Nathan, D. M., Kuenen, J., Borg, R., Zheng, H., Schoenfeld, D., & Heine, R. J. (2008). *Translating the A1C assay into estimated average glucose values*. Diabetes Care, 31(8), 1473-1478. [Enlace](https://consensus.app/papers/translating-assay-into-estimated-average-glucose-values-nathan/6cf8371687d05035bfce22a1f18529af/?utm_source=chatgpt)
 2.  Berard, L., Siemens, R., & Woo, V. (2018). *Monitoring Glycemic Control*. Canadian Journal of Diabetes, 42(Suppl 1), S47-S53. [Enlace](https://consensus.app/papers/monitoring-glycemic-control-berard/8e591113788055e185ef60fb0f4be10e/?utm_source=chatgpt)
 
+## Notas Relacionadas
+- [[Diabetes]]
+- [[Glucosa]]
+- [[Glucosilación de la hemoglobina]]
 
 ```json
 {

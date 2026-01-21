@@ -23,3 +23,11 @@ Los defensores del Agua Kangen le atribuyen diversos beneficios para la [[Salud]
 ## Consideraciones y Evidencia Científica
 
 Es importante señalar que, a pesar de su popularidad, la comunidad científica no ha validado de manera concluyente muchos de los beneficios para la [[Salud]] atribuidos al Agua Kangen. Expertos en [[Endocrinología]] y [[Nutrición]] indican que no existe evidencia científica sólida que respalde que el [[Agua]] alcalina pueda generar beneficios significativos para la [[Salud]] o que pueda alterar de forma relevante el [[pH]] del cuerpo, ya que el organismo cuenta con mecanismos eficientes ([[Pulmones]] y [[Riñones]]) para mantener un [[Equilibrio ácido-base]] estable. Además, las máquinas para producir Agua Kangen pueden ser costosas y requieren [[Mantenimiento]]. Se recomienda que las personas con [[Condiciones médicas]] preexistentes consulten a un profesional de la [[Salud]] antes de consumir Agua Kangen de forma regular.
+
+## Notas Relacionadas
+- [[Agua]]
+- [[pH]]
+- [[Hidrógeno molecular]]
+- [[Estrés oxidativo]]
+
+(?faltan fuentes)

@@ -26,3 +26,12 @@ La aldosterona cumple funciones vitales en el mantenimiento del [[Equilibrio hid
 ## Regulación de la Secreción
 
 La secreción de aldosterona es estimulada principalmente por el [[Sistema renina-angiotensina-aldosterona (SRAA)]], el incremento de los niveles plasmáticos de [[Potasio]], y en menor medida, por la [[Hormona adrenocorticotropa (ACTH)]] y la [[Acidosis plasmática]].
+
+## Notas Relacionadas
+- [[Hormonas]]
+- [[Potasio]]
+- [[Sodio]]
+- [[Renina]]
+- [[Angiotensina]]
+
+(?faltan fuentes)

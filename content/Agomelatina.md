@@ -24,3 +24,12 @@ La agomelatina se distingue de otros antidepresivos por su mecanismo de acción 
 -   **Interacciones:** No debe usarse concomitantemente con inhibidores potentes del [[CYP1A2]] (como [[Fluvoxamina]] o [[Ciprofloxacino]]).
 -   **Poblaciones Especiales:** No se recomienda su uso en menores de 18 años ni en ancianos mayores de 75 años. Se debe tener precaución en pacientes con [[Insuficiencia renal]] moderada o grave.
 -   **No Proconvulsivante:** Los estudios no han mostrado propiedades proconvulsivantes.
+
+## Notas Relacionadas
+- [[Melatonina]]
+- [[Ritmos circadianos]]
+- [[5HT2C]]
+- [[Depresión]]
+- [[Sueño]]
+
+(?faltan fuentes)

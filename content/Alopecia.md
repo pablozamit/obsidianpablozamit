@@ -48,3 +48,14 @@ Es fundamental que los tratamientos estén supervisados por un profesional, ya q
 En un estudio, un hombre pudo recuperarse de la alopecia simplemente untándose el [[Cuero cabelludo]] con [[Grasa de cerdo]].
 
 ![[Pasted image 20231220141138.png]]
+
+## Notas Relacionadas
+- [[Cabello]]
+- [[Hormonas]]
+- [[Testosterona]]
+- [[Dutasterida]]
+- [[Finasterida]]
+- [[5-alfa reductasas]]
+- [[Zinc]]
+
+(?faltan fuentes)

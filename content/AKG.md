@@ -10,3 +10,11 @@ El **Alfa-cetoglutarato (AKG)** es un compuesto natural involucrado en el [[Meta
 4.  **Apoyo a la [[Salud ósea]]:** Puede promover la [[Formación ósea]] y mitigar la [[Pérdida ósea]], lo que es particularmente útil para personas con riesgos de [[Osteoporosis]].
 5.  **Regulación de la [[Microbiota intestinal]]:** El AKG puede tener un efecto beneficioso en la [[Salud intestinal]] al influir en la [[Microbiota]] y mejorar la [[Absorción de nutrientes]].
 6.  **Apoyo durante [[Restricciones calóricas]]:** Se ha demostrado que la suplementación con AKG puede simular algunos de los beneficios metabólicos del [[Ayuno]] o la [[Restricción calórica]], mejorando la [[Salud metabólica]] en general.
+
+## Notas Relacionadas
+- [[Ciclo de Krebs]]
+- [[Estrés oxidativo]]
+- [[Longevidad]]
+- [[Ayuno]]
+
+(?faltan fuentes)

@@ -10,3 +10,11 @@ En el [[Semen]], el PSA actúa como una [[Proteasa]] con preferencia desnaturali
 
 El PSA puede dividirse de una manera simple en dos tipos básicos: activo e inactivo, o bien [[PSA libre y complejo|libre y complejo]].
 
+## Notas Relacionadas
+- [[Próstata]]
+- [[Semen]]
+- [[Testosterona]]
+- [[DHT]]
+
+(?faltan fuentes)
+

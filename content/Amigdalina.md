@@ -17,3 +17,11 @@ Sin embargo, la comunidad científica y las autoridades sanitarias advierten sob
 ## Riesgos
 
 El principal riesgo asociado con la amigdalina es su [[Toxicidad]]. Al ser metabolizada en el cuerpo, libera [[Cianuro]], una sustancia altamente tóxica. La [[Intoxicación por cianuro]] puede provocar [[Síntomas]] graves como [[Náuseas]], [[Mareos]], [[Dificultad para respirar]] e incluso la [[Muerte]] en casos extremos. Debido a estos [[Riesgos]] y a la ausencia de beneficios probados, la venta y el uso de laetril o amigdalina como [[Suplemento]] o [[Tratamiento alternativo]] están prohibidos en muchos países.
+
+## Notas Relacionadas
+- [[Cáncer]]
+- [[Toxicidad]]
+- [[Cianuro]]
+- [[Vitamina B17]]
+
+(?faltan fuentes)

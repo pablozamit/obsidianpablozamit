@@ -1,6 +1,3 @@
----
-enviado: true
----
 # 5-HIAA (Ácido 5-hidroxiindolacético)
 
 ## ¿Qué es el 5-HIAA?
@@ -19,6 +16,13 @@ Después de que la serotonina es liberada y ejerce sus funciones, es recapturada
 La medición de los niveles de 5-HIAA, especialmente en la orina, se utiliza como un indicador de la actividad metabólica de la serotonina en el cuerpo.
 
 Es particularmente útil para ayudar a diagnosticar [[Tumores carcinoides]]. Estos tumores pueden secretar grandes cantidades de serotonina, lo que lleva a una elevación de los niveles de 5-HIAA en la orina y puede indicar su presencia.
+
+## Notas Relacionadas
+- [[Serotonina]]
+- [[Monoamino oxidasas (MAO)]]
+- [[Sueño]]
+
+(?faltan fuentes)
 
 
 ```json

@@ -42,3 +42,12 @@ Las mejores fuentes de [[Antioxidantes]] son los [[Alimentos]] de origen [[Veget
 -   [[Glutatión]]
 
 Es importante tener una [[Dieta]] variada para obtener diferentes tipos de [[Antioxidantes]], ya que cada uno tiene una función específica y no son intercambiables.
+
+## Notas Relacionadas
+- [[Vitamina C]]
+- [[Glutatión]]
+- [[Melatonina]]
+- [[Toxicidad]]
+- [[Estrés oxidativo]]
+
+(?faltan fuentes)

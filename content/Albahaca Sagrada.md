@@ -26,4 +26,13 @@ La **albahaca sagrada**, también conocida como **tulsí** o por su nombre cient
 9.  [https://pmc.ncbi.nlm.nih.gov/articles/PMC4178353/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4178353/)
 10. [https://bioenergetic.forum/topic/3873/holy-basil-phyto-testosterone-progesterone-and-thyro-mimetic/18](https://bioenergetic.org/forum/topic/3873/holy-basil-phyto-testosterone-progesterone-and-thyro-mimetic/18)
 
+## Notas Relacionadas
+- [[Ashwagandha]]
+- [[Testosterona]]
+- [[Cortisol]]
+- [[Adaptógenos]]
+- [[Ácido ursólico]]
+
+(?faltan fuentes)
+
 

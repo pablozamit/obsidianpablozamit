@@ -29,3 +29,11 @@ Si una o más de estas condiciones están presentes, tanto las [[Proteínas]] in
 
 -   **Artículo:** "Advanced Glycation End Products in Foods and a Practical Guide to Their Reduction in the Diet": [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3704564/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3704564/)
 -   **Efecto de la Aspirina:** La [[Aspirina]] aparentemente inhibe la formación de ciertos AGEs.
+
+## Notas Relacionadas
+- [[Glucosa]]
+- [[Óxido nítrico]]
+- [[Estrés oxidativo]]
+- [[Aspirina (ácido acetilsalicílico)]]
+
+(?faltan fuentes)

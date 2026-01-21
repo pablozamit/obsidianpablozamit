@@ -15,3 +15,12 @@ La **Ashwagandha**, también conocida como [[Ginseng indio]], es una [[Raíz]] d
 Un usuario reportó un caso extraño de posible [[Síndrome de serotonina]]:
 
 "Tomaba ashwagandha + [[Rhodiola]] y tomaba mucho. Me sentía muy [[Relajación|relajado]], la [[Meditación]] y el [[Entrenamiento]] del [[Gimnasio]] mejoraron mucho. *Lo más preocupante fue mi [[Anhedonia|orgasmo anhedónico]]*."
+
+## Notas Relacionadas
+- [[Adaptógenos]]
+- [[Serotonina]]
+- [[Cortisol]]
+- [[Testosterona]]
+- [[Libido]]
+
+(?faltan fuentes)

@@ -1,4 +1,3 @@
-
 # Agmatina
 
 La **agmatina** es un compuesto químico que se produce naturalmente en los organismos a partir del [[Aminoácidos|aminoácido]] [[Arginina]]. Esta molécula ha demostrado ejercer acciones modulatorias en múltiples dianas moleculares, notablemente en sistemas de [[Neurotransmisores]], [[Canales iónicos]], síntesis de [[Óxido nítrico]] (NO) y [[Metabolismo]] de [[Poliaminas]], lo cual provee las bases para futuras investigaciones en potenciales aplicaciones.
@@ -14,9 +13,9 @@ La agmatina es considerada un compuesto muy prometedor por sus múltiples efecto
 -   **Anti-neuropatía**
 -   **[[Nootrópicos|Nootrópico]]**
 -   **[[Neuroprotector]]**
--   Reduce la [[Tolerancia]] (a ciertas sustancias)
--   Reduce el [[Síndrome de abstinencia]]
--   Mejora el [[Flujo sanguíneo]]
+-   **Reduce la [[Tolerancia]] (a ciertas sustancias)**
+-   **Reduce el [[Síndrome de abstinencia]]**
+-   **Mejora el [[Flujo sanguíneo]]**
 -   Relativamente segura
 
 ### Estudios Relevantes
@@ -30,3 +29,11 @@ La agmatina es considerada un compuesto muy prometedor por sus múltiples efecto
 
 "1.5g es un buen comienzo. Diferentes rangos de dosificación producirán diferentes efectos, solo asegúrate de tomarlo con el [[Estómago]] vacío y alejado de la ingesta de [[Proteínas]]. Yo tomo 250mg 2-3 veces al día."
 
+## Notas Relacionadas
+- [[Arginina]]
+- [[Óxido nítrico]]
+- [[Receptores NMDA]]
+- [[GABA]]
+- [[Glutamato]]
+
+(?faltan fuentes)

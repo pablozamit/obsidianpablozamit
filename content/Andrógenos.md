@@ -37,3 +37,12 @@ Los **andrógenos** son un grupo de [[Hormonas]] sexuales (mal llamadas masculin
 ---
 
 **Fuente:** [https://med.unne.edu.ar/sitio/multimedia/imagenes/ckfinder/files/files/cap27_masc.pdf](https://med.unne.edu.ar/sitio/multimedia/imagenes/ckfinder/files/files/cap27_masc.pdf)
+
+## Notas Relacionadas
+- [[Testosterona]]
+- [[DHT]]
+- [[Estradiol]]
+- [[Finasterida]]
+- [[5-alfa reductasas]]
+
+(?faltan fuentes)

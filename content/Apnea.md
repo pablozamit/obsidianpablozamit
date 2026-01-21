@@ -1,5 +1,3 @@
-
-
 # Apnea
 
 ## Uso de [[Oxígeno]] y [[CO2]]
@@ -12,3 +10,10 @@ Mantén la [[Respiración]] al final de tu exhalación hasta que sientas las pri
 -   **10-20 segundos:** Es bastante normal hoy en día, pero como sabemos, lo "normal" es un estado sutilmente estresado, así que hay espacio para mejorar.
 -   **20-30 segundos:** Estás por encima del promedio.
 -   **Más de 40 segundos:** Eres un respirador eficiente.
+
+## Notas Relacionadas
+- [[Oxígeno]]
+- [[CO2]]
+- [[Respiración]]
+
+(?faltan fuentes)

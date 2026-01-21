@@ -33,3 +33,12 @@ La ALCAR es utilizada tanto por sus propiedades deportivas como terapéuticas.
 ## Efectos Secundarios y Precauciones
 
 Es importante destacar que la ALCAR puede tener efectos secundarios como [[Molestias estomacales]], [[Náuseas]], [[Vómitos]], [[Calambres abdominales]], [[Diarrea]] y [[Mal olor corporal]], especialmente con una ingesta excesiva. Se recomienda consultar a un profesional de la salud antes de su uso.
+
+## Notas Relacionadas
+- [[L-Carnitina]]
+- [[Energía celular]]
+- [[Memoria]]
+- [[Atención]]
+- [[Mitocondrias]]
+
+(?faltan fuentes)

@@ -36,6 +36,13 @@ La [[Glicina]] parece regular al alza de forma potente la actividad de la 5-alfa
 ### Dopamina y Prolactina
 Un estudio sobre la hiperprolactinemia sugiere una relación con la actividad de la 5-alfa reductasa. La [[Dopamina]] podría regular la expresión de la 5-AR a través de su antagonismo con la [[Prolactina]].
 
+## Notas Relacionadas
+- [[Testosterona]]
+- [[Progesterona]]
+- [[Alopregnanolona]]
+
+(?faltan fuentes)
+
 ## Fuentes
 
 - **Estudio sobre Hiperprolactinemia y actividad 5-a-reductasa:** [https://pubmed.ncbi.nlm.nih.gov/2943108/](https://pubmed.ncbi.nlm.nih.gov/2943108/)

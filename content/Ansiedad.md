@@ -52,3 +52,12 @@ Algunos [[Suplementos]] naturales pueden ayudar a aliviar los [[Síntomas]] de l
 -   **[[Teanina]]**
 
 Es fundamental buscar [[Orientación profesional]] si la [[Ansiedad]] interfiere significativamente con la [[Vida diaria]].
+
+## Notas Relacionadas
+- [[GABA]]
+- [[Cortisol]]
+- [[Magnesio]]
+- [[Ashwagandha]]
+- [[Depresión]]
+
+(?faltan fuentes)

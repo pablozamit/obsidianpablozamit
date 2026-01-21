@@ -21,4 +21,10 @@ Un estudio en ratones alimentados con una dieta alta en grasas (HFD) investigó 
 
 ## Fuente
 
-- **Estudio sobre ABA y metabolismo:** [https://www.sciencedirect.com/science/article/abs/pii/S0891584925001121](https://www.sciencedirect.com/science/article/abs/pii/S0891584925001121)
+## Notas Relacionadas
+- [[Metionina]]
+- [[Aminoácidos]]
+- [[GABA]]
+- [[Obesidad]]
+
+(?faltan fuentes)

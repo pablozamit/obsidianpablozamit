@@ -27,4 +27,13 @@ Algunas técnicas para "reprogramar" o relajar la [[Amígdala]] incluyen:
 -   **Reevaluación Cognitiva:** Identificar y cuestionar [[Pensamientos negativos]] o distorsionados asociados a [[Emociones intensas]] puede modificar las [[Respuestas emocionales]] generadas por la [[Amígdala]].
 -   **Conexión Social Positiva:** La producción de [[Oxitocina]] a través de la [[Conexión social]] positiva puede ayudar a modular y regular la actividad excesiva de la [[Amígdala]].
 -   **Neurotapping:** Esta técnica busca desactivar la [[Amígdala cerebral]] y "resetear" la [[Memoria]] insertada en el cuerpo, a través de la [[Tensión]] que la [[Intensidad emocional]] ha dejado, pulsando sobre ciertos puntos clave del [[Sistema nervioso autónomo]].
--   **Hábitos Saludables:** Mantener hábitos como [[Dormir]] adecuadamente, una [[Dieta equilibrada]] y [[Ejercicio]] periódico contribuye a regular las [[Emociones]].
+-  - **Hábitos Saludables:** Mantener hábitos como [[Dormir]] adecuadamente, una [[Dieta equilibrada]] y [[Ejercicio]] periódico contribuye a regular las [[Emociones]].
+
+## Notas Relacionadas
+- [[Estrés]]
+- [[Cerebro]]
+- [[Oxitocina]]
+- [[Endorfinas]]
+- [[Meditación]]
+
+(?faltan fuentes)

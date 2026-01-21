@@ -1,5 +1,3 @@
-
-
 # Agujas de Pino
 
 Las agujas frescas de [[Pino silvestre]] han sido utilizadas por las poblaciones indígenas de todo el mundo como fuentes de [[Vitamina C]] y otros [[Fitoquímicos]] para tratar [[Infecciones respiratorias]] y otras dolencias.
@@ -20,4 +18,12 @@ Entre sus componentes principales encontramos:
 ---
 
 **Fuente:** [https://herbolariodeconfianza.es/blog/suramina-agujas-de-pino-usos-beneficios-y-contraindicaciones-n476](https://herbolariodeconfianza.es/blog/suramina-agujas-de-pino-usos-beneficios-y-contraindicaciones-n476)
+
+## Notas Relacionadas
+- [[Vitamina C]]
+- [[Quercetina]]
+- [[Suramina]]
+- [[Ácido shikímico]]
+
+(?faltan fuentes)
 

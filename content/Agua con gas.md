@@ -1,4 +1,3 @@
-
 # Agua con Gas (Agua Carbonatada)
 
 El **agua con gas**, conocida también como agua mineral carbonatada, es [[Agua]] en la que se ha disuelto [[CO2|dióxido de carbono (CO2)]] bajo presión, lo que le confiere un carácter efervescente.
@@ -13,3 +12,10 @@ No se ha encontrado que el agua con gas hidrate más que el [[Agua]] normal; de 
 
 -   Vichy Catalan
 -   Pellegrino (considerada una opción superior, especialmente en botella de cristal, según Carlos Stro).
+
+## Notas Relacionadas
+- [[Agua]]
+- [[CO2]]
+- [[Salud metabólica]]
+
+(?faltan fuentes)

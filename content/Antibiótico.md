@@ -42,3 +42,12 @@ Se utilizan para tratar [[Infecciones]] leves, apoyar el [[Sistema inmunitario]]
 ### Consideraciones Importantes
 
 Es importante recordar que el uso prolongado de cualquier [[Antibiótico]], natural o sintético, puede generar [[Resistencia]], por lo que se aconseja utilizarlos de forma selectiva y por periodos limitados.
+
+## Notas Relacionadas
+- [[Sistema inmunológico]]
+- [[Flora intestinal]]
+- [[Ajo]]
+- [[Cúrcuma]]
+- [[Propóleo]]
+
+(?faltan fuentes)

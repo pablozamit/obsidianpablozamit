@@ -23,3 +23,12 @@ Los **adaptógenos** son sustancias naturales, generalmente [[Hierbas]], [[Raíc
 ## Consideraciones
 
 Es importante señalar que, si bien se han realizado numerosos estudios sobre los adaptógenos, la evidencia que respalda algunos de sus usos medicinales es insuficiente. Siempre es recomendable consultar con un profesional médico antes de consumir sustancias consideradas adaptógenos, especialmente si se tienen condiciones médicas preexistentes o se toman otros medicamentos.
+
+## Notas Relacionadas
+- [[Estrés]]
+- [[Cortisol]]
+- [[Hormonas]]
+- [[Homeostasis]]
+- [[Ashwagandha]]
+
+(?faltan fuentes)

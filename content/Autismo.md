@@ -32,3 +32,12 @@ Es fundamental que los [[Tratamientos]] se centren en las [[Necesidades específ
 ---
 
 **Fuente:** [https://pmc.ncbi.nlm.nih.gov/articles/PMC7572136/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7572136/)
+
+## Notas Relacionadas
+- [[ABA]]
+- [[Flora intestinal]]
+- [[Neurodesarrollo]]
+- [[Glutatión]]
+- [[Magnesio]]
+
+(?faltan fuentes)

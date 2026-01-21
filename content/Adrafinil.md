@@ -23,3 +23,12 @@ El **adrafinil** es un [[Nootrópicos|nootrópico]] sintético y un estimulante 
 ## Interacciones
 
 Puede interactuar con otros [[Medicamentos]], como el [[Modafinilo]] (aumentando sus efectos y efectos secundarios), [[Medicamentos para la depresión]] (IMAO) y [[Warfarina]].
+
+## Notas Relacionadas
+- [[Modafinilo]]
+- [[Nootrópicos]]
+- [[Dopamina]]
+- [[GABA]]
+- [[Serotonina]]
+
+(?faltan fuentes)

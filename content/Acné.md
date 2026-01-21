@@ -52,3 +52,13 @@ Algunos suplementos pueden ayudar a combatir el acné, aunque siempre se recomie
 -   [[Té verde]] (EGCG): Puede disminuir la conversión de [[Testosterona]] en [[DHT]], reduciendo el acné hormonal.
 -   [[Ortiga]] (*Urtica dioica*): Inhibe la actividad de la [[5-alfa reductasas]], lo que puede reducir el acné hormonal.
 -   [[Berberina]]
+
+## Notas Relacionadas
+- [[Piel]]
+- [[Sebo]]
+- [[Hormonas]]
+- [[Zinc]]
+- [[5-alfa reductasas]]
+- [[DHT]]
+
+(?faltan fuentes)

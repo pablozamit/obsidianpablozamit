@@ -34,3 +34,15 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3021432/
 
 Un estudio encontró que los pacientes con depresión presentaban una depleción significativa de n3 PUFA, particularmente el ácido docosahexaenoico (DHA), en las membranas celulares de los glóbulos rojos, sugiriendo que la depleción de PUFA en las membranas celulares puede tener importancia etiológica en la depresión [(Peet et al., 1998)](https://consensus.app/papers/depletion-omega3-fatty-acid-levels-blood-cell-membranes-peet/feb44d6f39f4588d8eee5e33fe34006c/?utm_source=chatgpt).
 
+# Suplementación
+
+Idealmente buscar marca con certificado IFOS:
+
+Los suplementos de omega-3 que obtienen esta certificación son probados por lotes o batches específicos en laboratorios independientes. Las pruebas cubren varios aspectos clave:
+
+orivo.no +1
+
+- Contenido de ingredientes activos: Verifica que los niveles de EPA y DHA (los ácidos grasos omega-3 principales) coincidan o superen lo que indica la etiqueta.
+- Pureza y contaminantes: Analiza la presencia de sustancias nocivas como mercurio, plomo, PCB (bifenilos policlorados), dioxinas y otros contaminantes, asegurando que estén por debajo de los límites seguros establecidos por organismos como la OMS o la UE.
+- Frescura y oxidación: Mide niveles de oxidación (usando valores como peróxido, anisidina y TOTOX) para garantizar que el aceite no esté rancio o degradado.
+- Estabilidad: Evalúa la durabilidad del producto a lo largo del tiempo.

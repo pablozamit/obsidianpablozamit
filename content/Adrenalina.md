@@ -12,3 +12,11 @@ Algunas sustancias que se consideran que tienen un efecto anti-adrenalina incluy
 -   [[Vitamina D3|D3]]
 -   [[Calcio]]
 -   [[Aspirina]]
+
+## Notas Relacionadas
+- [[Estrés]]
+- [[Cortisol]]
+- [[Dopamina]]
+- [[Aspirina (ácido acetilsalicílico)]]
+
+(?faltan fuentes)

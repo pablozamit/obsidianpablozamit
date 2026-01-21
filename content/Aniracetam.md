@@ -29,3 +29,12 @@ El **Aniracetam** es un [[Nootrópicos|nootrópico]] sintético de la familia de
 -   **Estatus Legal:** Se vende en [[Europa]] como [[Medicamento]] recetado. En [[Estados Unidos]], está calificado como GRAS (Generalmente Reconocido como Seguro) y/o [[Suplemento alimentario]] por la [[FDA]], aunque no está aprobado para uso en [[Humanos]].
 -   **Evidencia Científica:** No existe suficiente evidencia científica que avale todas las propiedades y la seguridad del Aniracetam, y persisten las polémicas sobre su eficacia y seguridad.
 -   **Efectos Secundarios:** Los efectos secundarios comunes pueden incluir [[Dolor de cabeza]], [[Náuseas]] y [[Fatiga]], que suelen ser leves. En ocasiones, se han reportado [[Agitación]], [[Ansiedad]], [[Intranquilidad]] e [[Insomnio]].
+
+## Notas Relacionadas
+- [[Nootrópicos]]
+- [[Racetams]]
+- [[Piracetam]]
+- [[Acetilcolina]]
+- [[Receptores NMDA]]
+
+(?faltan fuentes)

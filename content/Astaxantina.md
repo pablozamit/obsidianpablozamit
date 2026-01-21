@@ -1,5 +1,3 @@
-
-
 # Astaxantina
 
 La **astaxantina** es un [[Carotenoide]] [[Liposoluble]], un tipo de [[Pigmento natural]] que se encuentra en una amplia variedad de [[Organismos marinos]] y que es responsable de la coloración rojiza de muchas especies de [[Mariscos]], como el [[Salmón]], la [[Trucha]] y los [[Camarones]]. Es un poderoso [[Antioxidantes|antioxidante]], lo cual ha sido implicado en sus diversas actividades biológicas tanto en estudios con [[Animales]] como en [[Humanos]].
@@ -21,3 +19,12 @@ La astaxantina se puede encontrar como [[Suplemento nutricional]] y es valorada 
 ## Proveedores
 
 -   [https://prlabs.com/asta-complete-fx.html](https://prlabs.com/asta-complete-fx.html)
+
+## Notas Relacionadas
+- [[Antioxidantes]]
+- [[Carotenoide]]
+- [[Vitamina E]]
+- [[Piel]]
+- [[Salud ocular]]
+
+(?faltan fuentes)

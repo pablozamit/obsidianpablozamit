@@ -25,3 +25,12 @@ A menudo se la denomina la "molécula de la felicidad" o "molécula de la dicha"
 -   **[[Motivación]] y [[Recompensa]]:** Participa en los procesos de [[Motivación]] y [[Recompensa]].
 -   **[[Homeostasis]]:** Ayuda a mantener el [[Equilibrio corporal]].
 -   **[[Sistema cardiovascular]]:** Actúa como [[Vasodilatación|vasodilatador]], relajando [[Venas]] y [[Arterias]].
+
+## Notas Relacionadas
+- [[Sistema endocannabinoide]]
+- [[Dopamina]]
+- [[Serotonina]]
+- [[Ansiedad]]
+- [[Depresión]]
+
+(?faltan fuentes)
