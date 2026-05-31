@@ -22,6 +22,12 @@ Un análisis reciente de más de 1,100 estudios ha identificado **12 compuestos 
 - Estos compuestos atacan vías centrales como la muerte celular coordinada, la evasión inmunitaria y el metabolismo celular.
 - Estrategia clave: Muchos de estos agentes (como el [[Diente de león]]) atacan **vulnerabilidades mitocondriales** específicas que las células sanas no presentan.
 
+## Fotobiomodulación (PBM)
+
+Ciertas longitudes de onda de luz —especialmente [[Luz infrarroja|NIR 734 nm]] y luz verde 530-540 nm— pueden inducir senescencia en células cancerosas sin dañar células sanas, a través de la modulación de la homeostasis [[Mitocondria|mitocondrial]].
+
+Ver sección completa en [[Terapia de luz roja#Fotobiomodulación y Cáncer]]
+
 ## Estudios sin Ordenar
 
 Un estudio revela que **el metabolismo de la serina es clave en el cáncer**, no solo por su papel en la producción de glicina y unidades de un carbono, sino principalmente por su participación en la **síntesis de lípidos esenciales para el crecimiento celular**. Estos hallazgos podrían ayudar a desarrollar **nuevas estrategias terapéuticas dirigidas a interrumpir el metabolismo de la serina** en células cancerosas.

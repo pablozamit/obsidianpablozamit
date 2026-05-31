@@ -38,7 +38,29 @@ Con solo 12 minutos, 2 veces por semana, se logran mejoras en 3 meses como:
 ◈ Tamaño de poros en ~1/3  
 ◈ Producción de sebo en ~70%
 
-La luz roja potencia la función mitocondrial, protegiendo la piel de daños y suministrando la energía necesaria para regenerarse adecuadamente:
+La luz roja potencia la función [[Mitocondria|mitocondrial]], protegiendo la piel de daños y suministrando la energía necesaria para regenerarse adecuadamente:
 
 ![[Pasted image 20241225174508.png]]
+
+## Fotobiomodulación y Cáncer
+
+Ciertas longitudes de onda de luz infrarroja cercana (NIR) y luz verde pueden inducir senescencia en células cancerosas sin dañar células sanas, abriendo una vía terapéutica no tóxica.
+
+### NIR 734 nm
+
+La luz NIR de 734 nm aumenta significativamente los niveles de senescencia en células cancerosas (10%–203%) pero no en células no cancerosas. Este efecto se asocia con una modulación de la homeostasis mitocondrial, incluyendo aumento de especies reactivas de oxígeno y del potencial de membrana mitocondrial.
+
+> 734 nm NIR light significantly increases senescence levels in cancer (10.0%–203.2%) but not in non-cancer cells. Changes in senescence were associated with significant modulation of mitochondrial homeostasis, including increased levels of reactive oxygen species and mitochondrial membrane potential post-NIR-light treatment.
+
+_—NIR light promotes the progression of senescence in cancer cells, J. Biophotonics (2024)_ [10.1002/jbio.202400046]
+
+### Luz verde 530-540 nm + Rojo 630-730 nm
+
+Las mismas longitudes de onda que dominan el ambiente lumínico del bosque sombreado —530 nm verde y 730 nm rojo— son las más efectivas para tratar cáncer de piel mediante fotobiomodulación. Estudios polacos probaron 540 nm verde y 630 nm rojo en carcinoma de piel, logrando **remisión completa del 100%** en todas las áreas tratadas tanto a los 3 como a los 6 meses de seguimiento.
+
+> At the first follow-up visit after 3 months, we observed complete remission in all treated areas in both groups (red 100% vs. green 100%). At the second follow-up after 6 months, we observed a recurrence of...
+
+_—Estudio polaco sobre PBM y cáncer de piel (fuente pendiente de verificación)_
+
+Ver también: [[Cáncer]], [[Luz infrarroja]]
 
