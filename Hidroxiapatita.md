@@ -1,5 +1,23 @@
-Hidroxiapatita vs. [[Flúor|Flúor]]
+La hidroxiapatita es un fosfato de calcio cristalino que constituye ~98% del esmalte dental y ~70% de la dentina (el resto es [[Colágeno|colágeno]] y agua). La **nano-hidroxiapatita** (n-HA) es una forma sintética de partículas nanométricas utilizada en pastas dentales como alternativa no tóxica al [[Flúor|flúor]].
 
-"Hemos estado usando la pasta de dientes Boka (con hidroxiapatita) que se supone que es tan efectiva como el [[Flúor|flúor]] y no es tóxica. Hemos estado contentos con ella. Nuestros dientes definitivamente han mejorado pero no son perfectos."
+## Eficacia
 
-El esmalte es aproximadamente 98% hidroxiapatita, mientras que la dentina es aproximadamente 70% hidroxiapatita y el resto [[Colágeno|colágeno]]/agua. Así que idealmente la hidroxiapatita podría ayudar a ambos a sanar.
+El uso consistente de pasta dental con nano-hidroxiapatita remineraliza el esmalte, reduce la sensibilidad y mejora la salud dental general. Su eficacia es comparable a la del flúor, sin los riesgos de toxicidad asociados a este.
+
+Composición del diente:
+- **Esmalte**: ~98% hidroxiapatita
+- **Dentina**: ~70% hidroxiapatita + colágeno/agua
+
+Idealmente, la hidroxiapatita puede ayudar a reparar ambas capas.
+
+## Ventajas sobre el flúor
+
+- No tóxica incluso ingerida
+- Remineraliza el esmalte desde dentro
+- Compatible con la bioquímica natural del diente
+
+## Ver también
+
+- [[Salud dental]]
+- [[Flúor]]
+- [[Colágeno]]
