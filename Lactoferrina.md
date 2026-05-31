@@ -14,6 +14,25 @@ Lactoferrina podría contribuir a la [[Longevidad|longevidad]] al estimular el [
 
 -   **Salud de la [[Piel]]:** La administración oral de lactoferrina atenúa el daño fotodérmico inducido por UVB en ratones, sugiriendo potenciales beneficios protectores para la [[Piel|piel]].
 
+    ### Barrera cutánea y envejecimiento
+
+    Un estudio con **300 mg/día de lactoferrina oral durante 2 meses** mostró mejoras significativas en hidratación, reducción de arrugas y función de barrera.
+
+    **Mecanismo**: la lactoferrina entra al torrente sanguíneo → reconstruye los lípidos de la barrera desde dentro de las células → restaura el pH 5.0 (manto ácido) → la humedad queda retenida en lugar de evaporarse → la función celular se normaliza.
+
+    **Resultados del estudio** (2 meses, 300 mg/día):
+    - Hidratación: aumentó significativamente (p<0.01)
+    - Barrera natural: mejorada
+    - Profundidad de arrugas: más superficial
+    - Textura y suavidad: mejoradas
+
+    **Timeline**:
+    - Semana 2-4: la piel se siente menos tirante/seca
+    - Semana 6-8: textura más suave, barrera más fuerte
+    - Mes 2-3: hidratación aumentada significativamente, arrugas más superficiales
+
+    **Protocolo**: 300 mg/día con el desayuno.
+
 ### Efecto Anti-Obesidad
 
 En un ensayo clínico, personas tomando 300 mg de lactoferrina perdieron más del 12% de grasa visceral, mientras que el control perdió menos del 2%. El área total de grasa se redujo más del doble en el grupo de lactoferrina.
