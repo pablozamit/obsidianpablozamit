@@ -42,6 +42,18 @@ La luz roja potencia la función [[Mitocondria|mitocondrial]], protegiendo la pi
 
 ![[Pasted image 20241225174508.png]]
 
+## Testosterona
+
+La aplicación de luz roja/NIR en los testículos es una práctica popular para aumentar la [[Testosterona|testosterona]]. La luz roja estimula la función [[Mitocondria|mitocondrial]] en las células de Leydig, responsables de la producción de testosterona. Metabólicamente, los testículos tienen una alta demanda energética y la fotobiomodulación puede optimizar su función.
+
+## Crecimiento capilar
+
+El uso diario de luz roja/NIR en el cuero cabelludo durante 6 meses produce aumento de densidad capilar y aparición de baby hairs en la línea de implantación. La piel también mejora en salud general. Distancia recomendada: ~60 cm (2 pies), sesiones de 15-20 min por zona, aunque exposiciones más largas mientras se trabaja/estudia también funcionan.
+
+## Biphasic dose response
+
+La fotobiomodulación sigue una curva dosis-respuesta bifásica: más tiempo no siempre es mejor. Superar cierto umbral puede producir efectos negativos. La intensidad sigue la ley del inverso del cuadrado (I = P/4πr²): la misma energía recibida en 5h a 1m se recibe en ~2 min a 7.5 cm (3 pulgadas).
+
 ## Fotobiomodulación y Cáncer
 
 Ciertas longitudes de onda de luz infrarroja cercana (NIR) y luz verde pueden inducir senescencia en células cancerosas sin dañar células sanas, abriendo una vía terapéutica no tóxica.
