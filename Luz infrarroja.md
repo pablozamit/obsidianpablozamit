@@ -2,7 +2,7 @@ La radiación infrarroja (IR) es radiación electromagnética con longitudes de 
 
 ## Subdivisiones del IR
 
-- **IR-A (NIR, infrarrojo cercano):** 700 nm – 1400 nm. Penetra profundamente en la piel y tejidos. Es el rango más usado en [[Terapia de luz roja|fotobiomodulación]].
+- **IR-A (NIR, infrarrojo cercano):** 700 nm – 1400 nm. Penetra profundamente en la piel y tejidos. Es el rango más usado en [[Terapia de luz roja|fotobiomodulación]]. El pico de transmisión tisular se sitúa entre **800–875 nm**, un corredor de transparencia entre la hemoglobina y el agua (Jeffery et al. 2025).
 - **IR-B:** 1400 nm – 3000 nm. Penetra menos, asociado al calor.
 - **IR-C (FIR, infrarrojo lejano):** 3000 nm – 1 mm. Se siente como calor radiante.
 
