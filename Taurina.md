@@ -15,6 +15,16 @@ https://pubmed.ncbi.nlm.nih.gov/37836520/
 
 La taurina es conocida por apoyar la salud del corazón, mejorando el flujo sanguíneo y reduciendo la presión arterial.
 
+### Reducción de presión arterial vía adrenalina
+
+La taurina reduce la presión arterial elevada por estrés al disminuir los niveles de [[Adrenalina|adrenalina]].
+
+En un estudio con 10 adultos jóvenes con hipertensión borderline, **6 g/día de taurina durante 7 días** redujo la presión arterial sistólica en **9 puntos**. La caída en la presión se acompañó de una reducción en los niveles de adrenalina sérica. El glucagón estimuló un aumento mayor de adrenalina en el grupo hipertenso frente al normotenso; la taurina atenuó ese pico de adrenalina inducido por glucagón.
+
+> "Evidence presented suggests, therefore, that sympathoadrenal tone is increased in young borderline hypertensive individuals, and that oral administration of taurine attenuates increased tone, leading to the reduction of blood pressure."
+
+**Ref**: Fujita T, et al. Effects of increased adrenomedullary activity and taurine in young patients with borderline hypertension. *Circulation*. 1987;75(3):525-532.
+
 Revisar: https://pubmed.ncbi.nlm.nih.gov/32957558/
 
 
