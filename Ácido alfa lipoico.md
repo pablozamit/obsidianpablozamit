@@ -1,0 +1,2 @@
+- Estudios revisados por pares, como uno en BMC Veterinary Research (2024), confirman que el ALA (600 mg/kg) mejora el volumen testicular y hemodinámica en machos envejecidos, restaurando el equilibrio antioxidante y la producción de energía en condiciones de baja testosterona.
+- Aunque prometedor, el autor advierte precaución por su capacidad quelante de metales pesados, coincidiendo con respuestas que recomiendan protocolos específicos para evitar riesgos en casos de intoxicación por mercurio.

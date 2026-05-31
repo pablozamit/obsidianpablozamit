@@ -1,0 +1,1 @@
+El nivel de amilasa en la saliva humana es aproximadamente treinta veces más abundante en una persona promedio de 25 años que en una de 81 años. En contraste, las ballenas y los delfines (...) no tienen diferencia en la composición enzimática celular entre jóvenes y viejos (Longevity Now, p. 56).

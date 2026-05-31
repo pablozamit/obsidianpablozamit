@@ -1,0 +1,7 @@
+{
+  "callID": "call_0e4ff0e6646642cdbc807ed7",
+  "sessionID": "ses_3801167a9ffeFXI9hhc7u4cVZ5",
+  "tool": "todowrite",
+  "fullOutput": "[\n  {\n    \"content\": \"Crear inbox-links.md en la raíz del vault\",\n    \"status\": \"in_progress\",\n    \"priority\": \"high\"\n  },\n  {\n    \"content\": \"Crear inbox-done.md en la raíz del vault\",\n    \"status\": \"pending\",\n    \"priority\": \"high\"\n  },\n  {\n    \"content\": \"Añadir inbox-links.md e inbox-done.md a $ExcludeFiles en sync_obsidian.ps1\",\n    \"status\": \"pending\",\n    \"priority\": \"high\"\n  }\n]",
+  "timestamp": 1774793106760
+}

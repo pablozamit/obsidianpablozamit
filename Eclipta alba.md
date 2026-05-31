@@ -1,0 +1,1 @@
+Hierba usada en medicina ayurvédica para hacer crecer el [[Cabello]] y prevenir las [[Canas]].

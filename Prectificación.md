@@ -1,0 +1,7 @@
+
+## Precios específicos
+
+Specific numbers are more believable and memorable than round numbers. So a 57% off sale is better than a 50% off sale.
+
+[A study](https://email.demandcurve.com/e/c/eyJlbWFpbF9pZCI6ImRnUzA1d1VEQUtXeUM2U3lDd0dPaVdMR1dydDdFcmsxSldXS0tZbz0iLCJocmVmIjoiaHR0cHM6Ly9wc3ljbmV0LmFwYS5vcmcvcmVjb3JkLzE5ODktMjA5NTMtMDAxP3V0bV9jYW1wYWlnbj1Hcm93dGgrTmV3c2xldHRlcislMjMxNjdcdTAwMjZ1dG1fY29udGVudD1Hcm93dGgrTmV3c2xldHRlcislMjMxNjdcdTAwMjZ1dG1fbWVkaXVtPW5ld3NsZXR0ZXJcdTAwMjZ1dG1fc291cmNlPWVtYWlsIiwiaW50ZXJuYWwiOiJiNGU3MDUwNjg0MzRhNWIyMGIiLCJsaW5rX2lkIjozMjY5N30/d98904ad19a1661e0fea4cda6e5d18a07e9683e3069b08de565e936f4df382db) found that beggars received +60% more donations by asking for oddly specific amounts rather than the typical quarter, dollar, dime, etc.
+

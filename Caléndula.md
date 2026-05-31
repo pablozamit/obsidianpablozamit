@@ -1,0 +1,5 @@
+La caléndula, conocida científicamente como Calendula officinalis, es una planta herbácea anual o perenne de la familia Asteraceae, ampliamente reconocida por sus propiedades medicinales. Sus flores se utilizan tradicionalmente en diversas aplicaciones terapéuticas. A continuación, se detallan algunos de los efectos y funciones de la caléndula basados en investigaciones científicas:
+
+-   **Estética (Salud de la Piel, Cabello, Huesos, etc.):** La caléndula tiene propiedades [[Inflamación|antiinflamatorias]] y se utiliza para promover la [[Cicatrización]] de heridas y mejorar la salud de la piel. Un estudio demostró que el extracto de caléndula protege contra el estrés oxidativo inducido por UVB en la piel, manteniendo niveles de glutatión reducido y afectando la secreción/actividad de las metaloproteinasas de matriz. Además, se ha observado su efecto en la promoción de la [[Cicatrización]] de heridas y la reducción de la [[Inflamación]] en modelos animales.
+
+La caléndula se destaca principalmente por sus aplicaciones tópicas en la salud de la piel, aprovechando sus propiedades [[Inflamación|antiinflamatorias]] y [[Cicatrización|cicatrizantes]].

@@ -1,0 +1,7 @@
+{
+  "callID": "call_51c7283cb5244ee19aaaac41",
+  "sessionID": "ses_3801167a9ffeFXI9hhc7u4cVZ5",
+  "tool": "read",
+  "fullOutput": "<path>H:\\Otros ordenadores\\Mi portátil\\obsidianpablozamit\\.opencode\\.gitignore</path>\n<type>file</type>\n<content>1: node_modules\n2: package.json\n3: bun.lock\n4: .gitignore\n\n(End of file - total 4 lines)\n</content>",
+  "timestamp": 1774792768276
+}

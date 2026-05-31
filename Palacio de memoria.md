@@ -1,0 +1,1 @@
+Consiste en asignar información a lugares conocidos en una ruta familiar. Cuanto más exagerada o inusual sea la imagen, más fuerte será el recuerdo. Este método aprovecha la memoria espacial y de ubicación, que son sistemas muy potentes en el cerebro.

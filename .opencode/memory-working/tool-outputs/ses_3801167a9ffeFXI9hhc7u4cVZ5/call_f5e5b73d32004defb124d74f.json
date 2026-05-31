@@ -1,0 +1,7 @@
+{
+  "callID": "call_f5e5b73d32004defb124d74f",
+  "sessionID": "ses_3801167a9ffeFXI9hhc7u4cVZ5",
+  "tool": "bash",
+  "fullOutput": "{\"error\":{\"code\":\"VALIDATION\",\"detail\":\"Unable to validate request parameter(s)\",\"meta\":{\"errors\":[{\"input\":null,\"loc\":[\"header\",\"x-subscription-token\"],\"msg\":\"Field required\",\"type\":\"missing\"}]},\"status\":422},\"type\":\"ErrorResponse\"}",
+  "timestamp": 1774795768997
+}

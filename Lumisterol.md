@@ -1,0 +1,1 @@
+El lumisterol es un esterol que se encuentra en la [[Piel|piel]] humana y es precursor de la [[Vitamina D|vitamina D]]. Cuando la [[Piel|piel]] se expone a la [[Luz solar|luz solar]], el lumisterol se convierte en [[Vitamina D|vitamina D3]], que luego es procesada por el [[Hígado|hígado]] y los [[Riñón|riñones]] para convertirse en su forma activa.

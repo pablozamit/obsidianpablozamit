@@ -1,0 +1,11 @@
+{
+	"id": "diff-sender",
+	"name": "Diff Sender",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Envía cambios de notas a n8n webhook",
+	"author": "Pablo",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}

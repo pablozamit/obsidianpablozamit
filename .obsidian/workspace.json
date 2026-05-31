@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "cfc5bd36a6361081",
+    "type": "split",
+    "children": [
+      {
+        "id": "20e9aa803582b877",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c32367278fa9c54f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dff723bc8519bcae",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fcc1c1d517ebb45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "753f74a851fb1282",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "b1b926c5194c64e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "68f0479a1c5d405d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287.5
+  },
+  "right": {
+    "id": "0294d2cd36c61c4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fe79b3123e865a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ee44eb76e867b00",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Productividad.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Productividad"
+            }
+          },
+          {
+            "id": "622c180eed7e4612",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "bf07bc2b897f302c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "c508f972b35e3f58",
+            "type": "leaf",
+            "state": {
+              "type": "gemini-agent-view",
+              "state": {},
+              "icon": "sparkles",
+              "title": "Agent Mode"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 484.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publicar cambios...": false,
+      "templates:Insertar plantilla": false,
+      "bases:Crear nueva base": false,
+      "canvas:Crear nuevo lienzo": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "markdown-importer:Abrir el importador de Markdown": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "diff-sender:Enviar cambios a n8n": false,
+      "yet-another-obsidian-synchronizer:YAOS": false,
+      "gemini-scribe:Gemini Scribe: Agent Mode": false
+    }
+  },
+  "active": "c32367278fa9c54f",
+  "lastOpenFiles": [
+    "Magnesio.md",
+    "Butea Superba.md",
+    "gemini-scribe/Agent-Sessions/Estrategias para optimizar GABA.md",
+    "Ácido butírico.md",
+    "gemini-scribe/Agent-Sessions/--Intestino Irritable.md",
+    "gemini-scribe/Agent-Sessions/Síntesis de Arginina del Vault.md",
+    "gemini-scribe/Agent-Sessions/Arginina- HCL vs AAKG.md",
+    "Sildenafilo.md",
+    "Silicio.md",
+    "Sindrome CKM.md",
+    "Sin título.md",
+    "Sin título.canvas",
+    "Sin título 1.md",
+    "Sin título 1.canvas",
+    "Sin título 6.md",
+    "Sin título 7.md",
+    "Sin título 8.md",
+    "Sin título 9.md",
+    "Sin título 10.md",
+    "Sin título 11.md",
+    "Sin título 12.md",
+    "Sin título 13.md",
+    "Sin título 14.md",
+    "Sin título 15.md",
+    "Sin título 16.md",
+    "Sin título 17.md",
+    "Sin título 18.md",
+    "Sin título 19.md",
+    "gemini-scribe/example-prompts.json",
+    "gemini-scribe/Agent-Sessions",
+    "gemini-scribe/Prompts",
+    "gemini-scribe",
+    "Biohacking Week (newsletter)/Semana del 9 al 15 de febrero de 2026.txt",
+    "Biohacking News - Guiones/Biohacking News 06-02-2026.txt",
+    "Pasted image 20251106122905.png",
+    "Pasted image 20251106121701.png",
+    "page_1.jpg",
+    "Pasted image 20230213083947.png",
+    "scripts/enviar-sesion.js",
+    "scripts/Nuevo Documento de texto.txt",
+    "scripts/desktop.ini",
+    "scripts",
+    "Pasted image 20251025125517.png",
+    "Pasted image 20251025125354.png",
+    "Pasted image 20250917102443.png",
+    "Pasted image 20230625113200.png",
+    "Pasted image 20250304085651.png",
+    "Pasted image 20250204144838.png"
+  ]
+}

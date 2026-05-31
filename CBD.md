@@ -1,0 +1,1 @@
+El CBD activa el receptor [[5HT1A (receptor)]] 'moderadamente'.

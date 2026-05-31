@@ -1,0 +1,7 @@
+{
+  "callID": "call_e725c94e35644e10b2897f16",
+  "sessionID": "ses_3801167a9ffeFXI9hhc7u4cVZ5",
+  "tool": "todowrite",
+  "fullOutput": "[\n  {\n    \"content\": \"Probar Firecrawl scrape con proxy stealth al artículo de x.com\",\n    \"priority\": \"high\",\n    \"status\": \"in_progress\"\n  },\n  {\n    \"content\": \"Si falla, probar Apify Twitter scraper\",\n    \"priority\": \"high\",\n    \"status\": \"pending\"\n  }\n]",
+  "timestamp": 1774796533063
+}

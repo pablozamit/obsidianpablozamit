@@ -1,0 +1,86 @@
+Resumen de Sesión - 01-02-2026
+
+1. Bromantano:
+- Nuevo proveedor identificado en USA: Swiss Chems (https://swisschems.is/product/bromantane-powder-5-grams/ref/6489/). Se añade con advertencia de "No Verificado".
+- Investigación sobre Mecanismo de Acción: Actúa mediante la upregulación genómica de la tirosina hidroxilasa (incremento de 2-2.5x), lo que optimiza la síntesis de dopamina de novo sin depletar reservas. 
+- Beneficios cognitivos: Mejora la memoria de trabajo, aumenta la plasticidad del hipocampo (aprendizaje) y elimina la fatiga mental/brainfog.
+- Dualidad: Estimulante y ansiolítico simultáneamente gracias a la modulación de GABA sin sedación. Los efectos son acumulativos y persisten semanas después de dejarlo.
+
+2. Sueño y Restricción Crónica:
+- Estudio Van Dongen et al. (2003): Dormir 6 horas por noche durante 14 días produce el mismo deterioro cognitivo que pasar 24 horas seguidas en vela.
+- El peligro del "plateau" subjetivo: A partir del día 3-4, los sujetos dejan de sentir que el cansancio aumenta, aunque su rendimiento objetivo (atención, memoria) sigue cayendo linealmente.
+- PVT (Vigilancia Psicomotora): Los lapsos de atención aumentan constantemente sin adaptarse a la falta de sueño. La recuperación real requiere un mínimo de 7-9 horas.
+
+3. Flexores de cadera:
+- Creada nueva nota "Flexores de cadera.md".
+- Ejercicio destacado: Flexión de cadera en decúbito supino (Single leg supine hip flexion).
+- Beneficio: Considerado uno de los mejores movimientos para el psoas al replicar la mecánica natural de balanceo de la pierna durante la marcha.
+- Imagen descriptiva integrada en la nota mostrando la activación del iliopsoas y recto femoral.
+
+4. Magnesio:
+- Añadida sección sobre Treonato de Magnesio (L-Treonato).
+- Beneficio destacado: Potencial para reducir la necesidad real de sueño de 7-8 horas a 5-6 horas diarias manteniendo la funcionalidad cognitiva, debido a su alta biodisponibilidad en el cerebro.
+
+5. Pinealon:
+- Creada nueva nota "Pinealon.md" sobre este tripéptido ruso (Glu-Asp-Arg).
+- Mecanismo: Bioregulador citogenético que interactúa con el ADN para modular proteínas de choque térmico y serotonina.
+- Beneficio excepcional: Al igual que el treonato de magnesio, se reporta que puede reducir la necesidad de sueño a 5-6 horas diarias durante periodos prolongados sin pérdida de funcionalidad cerebral.
+
+6. Niacinamida (Vitamina B3) y Caspa:
+- Investigación: La crema tópica de niacinamida al 4% ha demostrado reducir la caspa en un 76.7% en 12 semanas.
+- Mecanismo: Actúa como antifúngico, inhibe la enzima PARP y restaura el ciclo de maduración de los queratinocitos (normalizando el recambio de 7-10 días a 28 días).
+- Integración: Se ha actualizado la nota de "Vitamina B3.md" y se ha vinculado con la nota de "Caspa.md", explicando la relación biológica.
+
+9. Combo de Inducción al Sueño:
+- Nuevo stack integrado: [[Bicarbonato de sodio]] + [[Inositol]] + [[Teanina]].
+- Aplicación: Utilizado antes de dormir para mejorar la profundidad y estabilidad del sueño.
+- Actualizadas las notas individuales de cada ingrediente para reflejar su sinergia en este protocolo.
+
+10. Picnogenol:
+- Creada nueva nota "Picnogenol.md".
+- Investigación: Un estudio de 2007 mostró que 180 mg incrementan la expansión arterial en un 42% en hombres jóvenes.
+- Aplicación: Mejora de la función eréctil mediante la promoción de la relajación arterial y la vasodilatación.
+
+11. Creatina Monohidrato (Absorción y Preparación):
+- Error común: Mezclar con agua fría genera una suspensión de cristales que causa molestias gastrointestinales (diarrea osmótica).
+- Protocolo óptimo: Disolver en agua caliente (~50°C) hasta que el líquido sea transparente para asegurar una solución real.
+- Mecanismo: El transporte celular (CreaT/SLC6A8) es dependiente de sodio; niveles bajos de sal/electrolitos merman su captación.
+
+12. Aceite de Ricino (Flush y Detox):
+- Mecanismo: El ácido ricinoleico activa los receptores EP3 para una purga coordinada del colon (2-6 horas).
+- Beneficios: Limpieza hepática vía vena porta (dilución de bilis) y mejora del sistema linfático.
+- Protocolo: Se ha integrado el protocolo de 3 días (Día 1: Prep ligera; Día 2: Purga con 2-4 cucharadas en té de jengibre; Día 3: Recuperación con caldos y electrolitos).
+
+13. Vitamina E (Errores de Suplementación):
+- Problemas detectados: Suplementos de solo alfa-tocoferol son incompletos. El aceite de germen de trigo aporta demasiado PUFA.
+- Esteroidogénesis: El gamma-tocoferol es antiinflamatorio pero no apoya la producción de hormonas masculinas.
+
+14. Clavo (Aceite y Especia):
+- Cortisol: Capacidad probada para reducir la cortisona en un 40% y atenuar el estrés bioquímico.
+- Cognición: Efecto neuroprotector que mejora la memoria y reduce la actividad de la acetilcolinesterasa.
+- Antimicrobiano: Inhibición del 100% en bacterias patógenas orales y eficacia superior frente a Candida comparado con fármacos.
+- Precaución: Posible efecto anti-androgénico.
+
+15. Bromantano y L-Tirosina (Limitación por Sustrato):
+- Concepto: El bromantano optimiza la capacidad de producción (genética), pero requiere "combustible" (sustrato).
+- Protocolo: Se recomienda combinar con 500-1000 mg de L-Tirosina para asegurar que las enzimas disinhibidas tengan materia prima disponible para sintetizar dopamina, especialmente en ayunas.
+
+16. Aspirina (Protección Gástrica):
+- Problema: Dosis altas pueden causar irritación microscópica de la mucosa.
+- Solución: Disolver en agua tibia con 1/3 de cucharadita de bicarbonato de sodio reduce el daño celular del 20% al 3.4% y elimina erosiones. 
+- Alternativa: La glicina presenta un efecto protector similar.
+
+17. Zinc (Deficiencia y Mecanismos):
+- Metabolismo: Estabiliza la insulina vía inhibición de PTP1B y es esencial para la conversión T4->T3 (desyodasas).
+- Digestión: Crítico para la producción de HCl y la integridad de las uniones estrechas intestinales (barrera).
+- Inmunidad/Mental: Reduce la IL-6, protege de excitotoxicidad glutamatérgica y regula el cortisol.
+- Suplementación: Uso estratégico de carnosina de zinc con ionóforos (quercetina).
+
+20. Declinación Hormonal y Precursores:
+- Concepto: Las hormonas como la progesterona y la testosterona no decaen "misteriosamente"; lo hacen cuando faltan las materias primas.
+- Materias primas: Pregnenolona, colesterol, B5, B6, zinc y magnesio. Sin materiales de construcción, no hay producción hormonal.
+
+19. NAC (Envejecimiento y Canas):
+- Hallazgo: El NAC ayuda a prevenir las canas al proteger a los melanocitos (células pigmentarias) del daño oxidativo.
+- Mecanismo: Actúa como precursor del glutatión para "limpiar" radicales libres excesivos derivados de la disfunción mitocondrial en el folículo.
+- Conclusión: Las canas son señales de deterioro mitocondrial prevenibles o reversibles mediante soporte antioxidante celular.

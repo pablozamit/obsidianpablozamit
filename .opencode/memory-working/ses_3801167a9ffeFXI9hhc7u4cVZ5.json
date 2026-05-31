@@ -1,0 +1,53 @@
+{
+  "sessionID": "ses_3801167a9ffeFXI9hhc7u4cVZ5",
+  "slots": {
+    "error": [],
+    "decision": [],
+    "todo": [],
+    "dependency": []
+  },
+  "pool": [
+    {
+      "id": "wm_1774798436922_6f0r1pj",
+      "type": "file-path",
+      "content": "subagente-biohacking.md",
+      "source": "tool:read",
+      "timestamp": 1774798587619,
+      "relevanceScore": 2.400375,
+      "mentions": 2,
+      "lastEventCounter": 5
+    },
+    {
+      "id": "wm_1774797708439_20ghauz",
+      "type": "file-path",
+      "content": "oxidativo.md",
+      "source": "tool:glob",
+      "timestamp": 1774797708082,
+      "relevanceScore": 2.11531875,
+      "mentions": 1,
+      "lastEventCounter": 5
+    },
+    {
+      "id": "wm_1774798437005_sni87nx",
+      "type": "file-path",
+      "content": "inbox-links.md",
+      "source": "tool:read",
+      "timestamp": 1774798436908,
+      "relevanceScore": 1.6475,
+      "mentions": 1,
+      "lastEventCounter": 5
+    },
+    {
+      "id": "wm_1774798437069_f0j6mi5",
+      "type": "file-path",
+      "content": "inbox-done.md",
+      "source": "tool:read",
+      "timestamp": 1774798436908,
+      "relevanceScore": 1.35,
+      "mentions": 1,
+      "lastEventCounter": 5
+    }
+  ],
+  "eventCounter": 5,
+  "updatedAt": "2026-03-29T15:36:27.630Z"
+}

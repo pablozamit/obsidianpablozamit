@@ -1,0 +1,7 @@
+{
+  "callID": "call_93436c07f6d748ed9704972f",
+  "sessionID": "ses_3801167a9ffeFXI9hhc7u4cVZ5",
+  "tool": "read",
+  "fullOutput": "<path>H:\\Otros ordenadores\\Mi portátil\\obsidianpablozamit\\scripts\\sync_obsidian.ps1</path>\n<type>file</type>\n<content>18: $ExcludeDirs = @(\".obsidian\", \".git\", \".smart-connections\", \".smart-env\", \".trash\", \"scripts\", \"utils\", \"Weeklynotes\", \"Biohacking Week (newsletter)\", \"suplementacion-app\")\n19: $ExcludeFiles = @(\"desktop.ini\", \"*.DS_Store\", \"*.gdoc\", \"inbox-links.md\", \"inbox-done.md\")\n20: \n\n(Showing lines 18-20 of 74. Use offset=21 to continue.)\n</content>",
+  "timestamp": 1774793136573
+}

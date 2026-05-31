@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "cfc5bd36a6361081",
+    "type": "split",
+    "children": [
+      {
+        "id": "941844ef3a6072f5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "GABA.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dff723bc8519bcae",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fcc1c1d517ebb45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "753f74a851fb1282",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b1b926c5194c64e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 316
+  },
+  "right": {
+    "id": "0294d2cd36c61c4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fe79b3123e865a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ee44eb76e867b00",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GABA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "941844ef3a6072f5",
+  "lastOpenFiles": [
+    "Fruta del monje.md",
+    "Gonadoesteroides.md",
+    "GABA.md",
+    "Glucosa.md",
+    "Glucagón.md",
+    "Glutatión.md",
+    "Orgasmo seco.md",
+    "Eyaculación precoz.md",
+    "Cortisol.md",
+    "Esencialismo.md"
+  ]
+}

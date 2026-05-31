@@ -1,0 +1,7 @@
+{
+  "callID": "call_cf7880247a5a4ad8b28f59c0",
+  "sessionID": "ses_3801167a9ffeFXI9hhc7u4cVZ5",
+  "tool": "bash",
+  "fullOutput": "Found existing installation: twscrape 0.17.0\r\nUninstalling twscrape-0.17.0:\r\n  Successfully uninstalled twscrape-0.17.0\r\nFound existing installation: trafilatura 2.0.0\r\nUninstalling trafilatura-2.0.0:\r\n  Successfully uninstalled trafilatura-2.0.0\r\nDONE\n",
+  "timestamp": 1774801722203
+}

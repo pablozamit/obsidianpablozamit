@@ -1,0 +1,7 @@
+{
+  "callID": "call_a8a87b23b8644ee08b2a7f2f",
+  "sessionID": "ses_3801167a9ffeFXI9hhc7u4cVZ5",
+  "tool": "bash",
+  "fullOutput": "/usr/bin/bash: line 1: agent-browser: command not found\n",
+  "timestamp": 1774794804954
+}

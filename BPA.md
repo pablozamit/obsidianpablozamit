@@ -1,0 +1,3 @@
+El **Bisfenol A (BPA)** es un compuesto químico utilizado en la fabricación de ciertos plásticos y resinas. Se encuentra comúnmente en productos de uso diario como botellas de plástico, envases de alimentos y revestimientos internos de latas.
+
+El BPA ha generado preocupación debido a su capacidad para actuar como un **disruptor endocrino**, lo que significa que puede imitar o interferir con las hormonas del cuerpo, como los [[Andrógenos]].

@@ -1,0 +1,10 @@
+
+
+Nrf2 (factor nuclear relacionado con el eritroide 2, factor 2) es un regulador clave del estado [[redox]] celular y juega un papel vital en la protección celular contra el estrés oxidativo y electrolítico. Nrf2 regula la expresión de genes que codifican antioxidantes, enzimas de desintoxicación y proteínas citoprotectoras al activar elementos de respuesta antioxidante (ARE) en el ADN.
+
+- **Regulación y Mecanismo de Acción**: Nrf2 se mantiene inactivo en el citoplasma bajo condiciones normales, unido al inhibidor Keap1 (proteína asociada a ECH Kelch-like). Bajo estrés oxidativo o exposición a [[electrolitos]], Nrf2 se libera de Keap1, transloca al núcleo y se une a ARE, induciendo la expresión de genes antioxidantes y de desintoxicación. Este proceso ayuda a proteger las células contra el daño por radicales libres y agentes tóxicos [(Hayes & Dinkova-Kostova, 2014)](https://consensus.app/papers/nrf2-network-provides-interface-[[[[redox]]]]-metabolism-hayes/96e16743450d552ba0cdbded0d2dfa12/?utm_source=chatgpt).
+    
+- **Implicaciones en la Salud**: La activación de Nrf2 contribuye a la protección contra diversas enfermedades, incluyendo [[cáncer]], enfermedades neurodegenerativas, enfermedades cardiovasculares y pulmonares, mediante la inducción de vías antioxidantes y de desintoxicación. Sin embargo, la regulación anormal de Nrf2 también se ha asociado con la resistencia a la quimioterapia en ciertos tipos de [[cáncer]], lo que subraya su papel dual en la salud y la enfermedad [(He et al., 2020)](https://consensus.app/papers/nrf2-transcription-factor-stress-response-beyond-he/a9445a62a89d576d9e26d5518649562b/?utm_source=chatgpt).
+    
+
+Nrf2 no solo modula la respuesta antioxidante, sino que también influye en procesos celulares como el metabolismo, la inflamación y la respuesta inmunitaria, lo que lo convierte en un objetivo terapéutico potencial para diversas patologías. La regulación de Nrf2 es compleja e implica múltiples mecanismos, incluida la modulación por factores epigenéticos y la interacción con otras vías de señalización celular.

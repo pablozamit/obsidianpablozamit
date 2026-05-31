@@ -1,0 +1,1 @@
+Enzima que degrada la [[Quitina]].

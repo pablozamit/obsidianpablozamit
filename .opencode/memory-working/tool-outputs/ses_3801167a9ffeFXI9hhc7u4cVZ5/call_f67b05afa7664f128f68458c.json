@@ -1,0 +1,7 @@
+{
+  "callID": "call_f67b05afa7664f128f68458c",
+  "sessionID": "ses_3801167a9ffeFXI9hhc7u4cVZ5",
+  "tool": "todowrite",
+  "fullOutput": "[\n  {\n    \"content\": \"Instalar twscrape + trafilatura\",\n    \"priority\": \"high\",\n    \"status\": \"in_progress\"\n  },\n  {\n    \"content\": \"Crear script de lectura de X.com con twscrape\",\n    \"priority\": \"high\",\n    \"status\": \"pending\"\n  },\n  {\n    \"content\": \"Actualizar documentación con nuevo flujo\",\n    \"priority\": \"high\",\n    \"status\": \"pending\"\n  }\n]",
+  "timestamp": 1774800610722
+}
