@@ -24,7 +24,7 @@ Sin embargo, se sabe que la desactivación de cromosomas X puede ocurrir, y que 
 ## Compuestos Naturales Potentes
 Un análisis reciente de más de 1,100 estudios ha identificado **12 compuestos naturales** con actividad anticancerígena de amplio espectro:
 - Estos compuestos atacan vías centrales como la muerte celular coordinada, la evasión inmunitaria y el metabolismo celular.
-- Estrategia clave: Muchos de estos agentes (como el [[Diente de león]]) atacan **vulnerabilidades mitocondriales** específicas que las células sanas no presentan.
+- Estrategia clave: Muchos de estos agentes (como el [[Diente de león]] o la [[Goma de masilla (mastic)|goma de masilla]]) atacan **vulnerabilidades mitocondriales** específicas que las células sanas no presentan.
 
 ## Fotobiomodulación (PBM)
 
