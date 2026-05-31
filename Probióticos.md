@@ -30,6 +30,15 @@ A continuación verás una **lista breve** de alimentos fáciles de encontrar en
         - _Lactobacillus plantarum_
         - _Lactobacillus brevis_
 
+## Yogur de L. Reuteri Casero
+
+El yogur de _Lactobacillus reuteri_ casero se ha popularizado por sus efectos notables sobre la digestión y el estado de ánimo. Se prepara con solo 3 ingredientes, fermentando a ~37°C (99°F) durante 36 horas.
+
+- **Inóculo inicial:** 10 mil millones de CFU como arranque; después se usa 1 cucharada del lote anterior
+- **Textura:** El primer lote sale separado (suerosus), pero los siguientes mejoran
+- **Efectos reportados:** Borborigmos (gorgoteo intestinal), sensación de digestión activa y mejora del estado de ánimo
+- **Consumo:** 2 cucharadas son suficientes para notar efectos
+
 ## Eliminación de Nanoplásticos
 
 _Lactiplantibacillus plantarum_ (antes _Lactobacillus plantarum_), una cepa probiótica presente de forma natural en el [[Kimchi]] y otras verduras fermentadas, ha demostrado capacidad para eliminar nanoplásticos del organismo a través de los desechos.
