@@ -22,7 +22,8 @@ La [[Aspirina]] es un [[Fármaco]] ampliamente utilizado con diversas propiedade
 -   La [[Aspirina]] lleva usándose más de 3000 años (?).
 -   Disminuye la [[Histaminas|histamina]] (?), aunque quizás no en dosis de 100 mg (?).
 -   Se opone a los [[Ácidos grasos poliinsaturados (PUFAS)|PUFAS]].
--   Disminuye la [[Serotonina]]: [https://pubmed.ncbi.nlm.nih.gov/2132758](https://pubmed.ncbi.nlm.nih.gov/2132758)
+-   Disminuye la [[Serotonina]] al inhibir la triptófano hidroxilasa (TPH) [PMID: 31629717].
+-   Bloquea la producción de [[Óxido nítrico]] (NO) e inhibe [[NF-κB]], rompiendo el bucle inflamatorio [PMID: 7544010, 15987633].
 
 ### Relación con la [[Eyaculación precoz]]
 
@@ -55,6 +56,14 @@ Aunque se suele exagerar el riesgo de sangrado, las dosis altas pueden causar ir
 -   "Una de las consecuencias de la [[Inflamación]] es la [[Hiperglucemia]], y la [[Aspirina]] ayuda a corregirla (Yuan et al. 2001)".
 
 ## Beneficios
+
+### Rendimiento Físico y Resistencia
+
+La aspirina mejora el metabolismo de la [[Glucosa]], reduce el lactato durante el ejercicio y aumenta la resistencia [PMID: 18824931, 32269652]. Se ha estudiado como pretratamiento eficaz para el ejercicio en esclerosis múltiple [PMID: 29076760].
+
+### Función Pulmonar
+
+En entornos con contaminación o en fumadores, la aspirina mejora la función pulmonar: aumenta el FEV1 y la FVC, indicadores reducidos en asma y fibrosis [PMID: 31553629, 26396235].
 
 ### Reducción de [[Lipofuscina]] (en combinación con [[Aceite de clavo]])
 
