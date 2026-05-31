@@ -76,6 +76,16 @@ La aspirina mejora el metabolismo de la [[Glucosa]], reduce el lactato durante e
 
 En entornos con contaminación o en fumadores, la aspirina mejora la función pulmonar: aumenta el FEV1 y la FVC, indicadores reducidos en asma y fibrosis [PMID: 31553629, 26396235].
 
+### Efecto antimetastásico (TXA2)
+
+Un estudio de *Nature* (2025) reveló que la aspirina podría ayudar a combatir la metástasis del [[Cáncer|cáncer]] mediante el bloqueo del [[Tromboxano|tromboxano A2]] (TXA2). El mecanismo:
+
+1. Las células cancerosas engañan a los vasos sanguíneos para que liberen TXA2.
+2. El TXA2 envía una señal que suprime la capacidad de los linfocitos T (T-cells) para atacar las metástasis.
+3. La aspirina bloquea la producción de TXA2 al inhibir COX, "desencadenando" a los linfocitos T para que ataquen las células metastásicas.
+
+David Sinclair reporta tomar una aspirina infantil recubierta de 81 mg al día basándose en esta evidencia, aunque reconoce que ya no se recomienda de forma general para prevención primaria. El riesgo de sangrado debe sopesarse frente al beneficio potencial.
+
 ### Reducción de [[Lipofuscina]] (en combinación con [[Aceite de clavo]])
 
 "El estudio a continuación demuestra que la humilde [[Aspirina]], y el ingrediente principal del [[Aceite de clavo]] - [[Eugenol]] - pueden reducir de manera fiable la [[Lipofuscina]] ya acumulada. De hecho, en dosis "grandes" (como las llama el estudio), la combinación de [[Aspirina]] y [[Eugenol]] (administrada durante solo 8 semanas) redujo los niveles de [[Lipofuscina]] por debajo de los niveles incluso del grupo de control (sano, joven)."
