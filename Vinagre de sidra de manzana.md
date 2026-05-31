@@ -1,3 +1,5 @@
+Regula los niveles de glucosa en sangre.
+
 El vinagre de sidra de manzana (ACV) es un alimento funcional con múltiples mecanismos de acción sobre la salud metabólica, digestiva y neurológica.
 
 ## Mecanismos de acción

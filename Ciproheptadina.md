@@ -1,5 +1,7 @@
 La ciproheptadina (Perlactin, Periactine) es un antihistamínico de primera generación con un perfil multirreceptor que le confiere efectos únicos. Bloquea [[Histaminas|H1]] y antagoniza fuertemente los receptores 5-HT2 (A y C) de [[Serotonina|serotonina]], además de tener efectos anticolinérgicos.
 
+- "Me ayudó a revertir los efectos negativos de la [[Ashwagandha]]."
+
 ## Mecanismo de acción
 
 - **Antagonista H1**: antihistamínico de primera generación; atraviesa fácilmente la [[Barrera hematoencefálica]], produciendo alivio rápido y sedación.
@@ -44,6 +46,10 @@ La ciproheptadina destaca por inducir sueño reparador y natural, superior a los
 ### Perfil único vs. antihistamínicos modernos
 
 Los antihistamínicos de segunda generación son muy selectivos para H1 y apenas cruzan la [[Barrera hematoencefálica]], produciendo poco o ningún efecto sobre el sueño. El perfil no selectivo de la ciproheptadina (H1 + 5-HT2 + anticolinérgico) le da un espectro de acción mucho más amplio.
+
+## Efecto gastrointestinal
+
+"La ciproheptadina tiene un efecto casi curativo en los problemas gastrointestinales según la literatura."
 
 ## Efectos adversos
 
