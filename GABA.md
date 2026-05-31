@@ -82,3 +82,7 @@ Fuentes alternativas de GABA incluyen putrescina, espermina, espermidina y ornit
 
 1.  [[Sal]]
 2.  [[Yoga]]
+
+## Stack potente: Mg Glicinato + L-Teanina
+
+La combinación de [[Magnesio|glicinato de magnesio]] con [[Teanina|L-teanina]] actúa como "combustible de cohete" para la producción de GABA. La teanina reduce la hiperactivación de receptores de glutamato, mientras el magnesio actúa como antagonista NMDA y la [[Glicina|glicina]] cubre la subunidad del receptor de glicina. Especialmente indicado para quienes consumen [[Estimulantes|estimulantes]].

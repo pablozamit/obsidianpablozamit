@@ -25,6 +25,17 @@ Depende de lo que quieras enfocar:
 
 El [[Magnesio|magnesio]] elimina [[Metales pesados|metales pesados]]: "El [[Magnesio|magnesio]] es protector contra el [[Aluminio|aluminio]], [[Mercurio|mercurio]], [[Plomo|plomo]], [[Cadmio|cadmio]], arsénico, berilio y [[Níquel|níquel]], y se ha demostrado que reduce los niveles en sangre, [[Huesos|huesos]] y órganos de estos [[Metales pesados|metales]]."
 
+## Neuroprotección: Stack Magnesio Glicinato + L-Teanina
+
+El consumo de cualquier [[Estimulantes|estimulante]] ([[Café|cafeína]], nicotina, [[Teanina|teanina]], metilfenidato, anfetaminas, [[Modafinilo|modafinilo]], cocaína, MDMA, etc.) produce una depleción severa de magnesio. La combinación de **glicinato de magnesio** + **[[Teanina|L-teanina]]** es esencial para la neuroprotección:
+
+- **L-teanina** reduce la hiperactivación de todos los receptores de [[Glutamato|glutamato]], modula el [[Cortisol|cortisol]]/[[Adrenalina|adrenalina]] y reduce la neuroinflamación inducida por estimulantes.
+- La combinación Mg glicinato + L-teanina actúa como "combustible de cohete" para la producción de [[GABA|GABA]] y regula todos los sitios receptores de glutamato.
+- El glicinato cubre la subunidad del receptor de [[Glicina|glicina]]; otras formas de magnesio no lo hacen.
+- Puede tomarse con la cafeína y antes de dormir para máxima efectividad.
+
+Para café descafeinado, se recomienda suplementar [[Vitamina B1|tiamina]] adicional.
+
 ## Carbonato de [[Magnesio|Magnesio]]
 
 El **carbonato de [[Magnesio|magnesio]]** se convierte en cloruro de [[Magnesio|magnesio]] cuando se mezcla con [[Ácido clorhídrico|ácido clorhídrico]] en el [[Estómago|estómago]]. Su biodisponibilidad puede ser moderada comparada con otras formas. A menudo se utiliza por sus propiedades antiácidas y laxantes suaves. Aunque no es la forma más biodisponible de [[Magnesio|magnesio]], sigue siendo una opción eficaz para ciertas necesidades dietéticas y de suplementación, especialmente para aquellos que buscan una solución para la [[Indigestión|indigestión]] o el [[Estreñimiento|estreñimiento]] ocasional.
