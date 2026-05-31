@@ -43,6 +43,17 @@ La eficacia del tratamiento depende del tipo de alopecia y de la rapidez con la 
 
 Es fundamental que los tratamientos estén supervisados por un profesional, ya que no todos son adecuados para todos los casos.
 
+### 2-Desoxi-D-Ribosa (2DDR) tópico
+
+Un estudio inglés de 2024 (Anjum et al.) demostró que un gel tópico de 2-desoxi-D-ribosa (2DDR) —un azúcar derivado de la desoxirribosa— es comparable en eficacia (~90%) al [[Minoxidil]] al 2% para la alopecia androgenética en ratones. Mecanismos:
+
+- Incrementa el número de folículos en fase anágena (crecimiento).
+- Aumenta la longitud y densidad del cabello.
+- Eleva el recuento de vasos sanguíneos (angiogénesis vía VEGF).
+- No mostró beneficio adicional al combinarse con minoxidil.
+
+**Precaución**: No es azúcar de mesa. La 2DDR actúa como señal de daño/inflamación que promueve VEGF, por lo que su uso crónico podría conllevar riesgos de estrés oxidativo. Algunos investigadores sugieren probar fructosa u otros azúcares más seguros como alternativa.
+
 ## Remedios Populares / Anécdotas
 
 En un estudio, un hombre pudo recuperarse de la alopecia simplemente untándose el [[Cuero cabelludo]] con [[Grasa de cerdo]].

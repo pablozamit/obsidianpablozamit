@@ -13,3 +13,7 @@ El minoxidil aumenta la [[Prolactina|prolactina]], que es un antagonista de la [
 # Formatos Típicos:
 
 -   Tópico al 5%
+
+## Alternativas
+
+- **[[Alopecia|2-Desoxi-D-Ribosa (2DDR) tópica]]**: gel de azúcar tópico comparable al minoxidil al 2% en eficacia (Anjum, 2024). Sin beneficio al combinarlos. Mecanismo vía VEGF/angiogénesis.
