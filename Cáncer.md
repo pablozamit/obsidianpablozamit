@@ -4,6 +4,10 @@
 
 ### Cáncer como Disfunción Mitocondrial
 
+Thomas Seyfried (Boston College) plantea que el cáncer es una enfermedad metabólica mitocondrial, no genética. La hipótesis del [[Deuterio|deuterio]] de Stephanie Seneff (MIT) propone que la sobrecarga de deuterio es la causa de que las mitocondrias fallen, y que la célula cancerosa es una respuesta biológica coordinada para proteger al organismo.
+
+Ver sección completa en [[Deuterio#Deuterio y Cáncer (Hipótesis de Stephanie Seneff)]]
+
 ### La Teoría de la Mutación
 
 Según [[Ray Peat]], la 'teoría de la mutación de genes' es la teoría del cáncer que se enseña comúnmente y que, entre otras cosas, te hace temer la [[Luz solar|luz solar]].

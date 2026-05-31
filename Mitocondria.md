@@ -26,6 +26,8 @@ La nitazoxanida, un fármaco antiparasitario y antiviral de amplio espectro, act
 Esto la sitúa como un candidato prometedor para enfermedades neurodegenerativas, además de su uso como antiparasitario y antiviral.
 
 ## Mitocondrias y Cáncer
+Las mitocondrias son extremadamente sensibles al [[Deuterio|deuterio]]; su acumulación altera la producción de ATP y genera ROS, lo que según la hipótesis de Stephanie Seneff (MIT) puede desencadenar la transformación cancerosa (ver [[Deuterio#Deuterio y Cáncer (Hipótesis de Stephanie Seneff)]]).
+
 Las mitocondrias de las células cancerosas presentan vulnerabilidades metabólicas únicas. Compuestos como el [[Diente de león]] son capaces de atacar selectivamente estas mitocondrias para inducir la apoptosis (muerte celular) sin dañar las células sanas.
 
 ## Ver Más
