@@ -2,7 +2,7 @@ El espectro electromagnético de la luz del Sol contiene:
 
 -   [[Luz infrarroja]] (produce [[Melatonina]]). Invisible.
 -   Fotones del espectro visible.
--   [[Luz ultravioleta]] (síntesis de [[Vitamina D]] y [[Óxido nítrico]]). Invisible.
+-   [[Luz ultravioleta]] (síntesis de [[Vitamina D]], liberación de [[Óxido nítrico]] y producción de [[Luz ultravioleta#Biología de la Adicción a la Luz Solar|β-endorfina]]). Invisible.
 
 Las plantas obtuvieron la habilidad de la fotosíntesis: capturar fotones del Sol.
 
