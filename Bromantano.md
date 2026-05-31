@@ -159,6 +159,22 @@ Ciclo Intermitente: Patrón 5 días on / 2 días off mantiene estimulación cont
 
 Dosificación de Mantenimiento Post-Ciclo: Después de un ciclo inicial de 28 días, algunos usuarios reportan que una dosis cada 3-7 días mantiene los beneficios persistentes sin reiniciar un ciclo completo.[psychonautwiki](https://psychonautwiki.org/wiki/Bromantane)​
 
+### Stack Modafinilo + Bromantano
+
+El bromantano "llena el depósito" (aumenta la síntesis de dopamina), mientras el [[Modafinilo|modafinilo]] "pisa el acelerador" (aumenta la liberación). Cuando el reservorio dopaminérgico está bajo, vaciarlo más rápido con estimulantes tiene un límite; bromantano lo soluciona desde la raíz.
+
+**Protocolo recomendado** (tomar todo junto por la mañana con comida/grasa):
+- 200 mg modafinilo
+- 25-50 mg bromantano
+- 500 mg CDP colina
+- 1000 mg L-tirosina
+- 400 mg L-teanina
+
+**Ciclo**:
+- Modafinilo: 5 días on / 2 off
+- Bromantano: hasta 7×/semana
+- Trimestral: 1 semana completamente off de estimulantes
+
 **Combinaciones Sinérgicas y Compatibilidades**
 
 Combinaciones Recomendadas: L-Teanina (100-200 mg) potencia calma sin sedación; Vitaminas B (B6, B12, folato) como cofactores para síntesis de dopamina; Magnesio como cofactor para síntesis de GABA; Creatina monohidrato potencia ATP mitocondrial; **L-Tirosina (500-1000 mg)** como sustrato directo para dar "combustible" a las enzimas TH/AADC recientemente optimizadas genéticamente (especialmente importante si se toma en ayunas para evitar la limitación por sustrato).

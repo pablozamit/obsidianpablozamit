@@ -14,4 +14,10 @@
 
 Para la mayoría de las personas sanas, 30-50 mg de modafinilo (1/3 - 1/2 de la dosis más pequeña) funciona. Dura 6-8 horas; los médicos dicen que lo tomes por la mañana, con o sin comida.
 
+## Stack con Bromantano
+
+El modafinilo mantiene alerta y concentrado, pero si las tareas siguen sintiéndose como una carga, es un problema de dopamina. El stack con [[Bromantano]] resuelve esto aumentando la síntesis basal de dopamina en lugar de solo forzar su liberación.
+
+Protocolo: 200 mg modafinilo + 25-50 mg bromantano + 500 mg CDP colina + 1000 mg L-tirosina + 400 mg L-teanina. Ver [[Bromantano#Stack Modafinilo + Bromantano]].
+
 ## [[Eyaculación precoz]]
