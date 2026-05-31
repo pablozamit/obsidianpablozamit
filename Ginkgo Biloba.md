@@ -1,15 +1,58 @@
 El Ginkgo biloba es una de las especies de árboles más antiguas, conocida por sus propiedades medicinales. Sus extractos se obtienen principalmente de sus hojas y se utilizan en la medicina tradicional y moderna.
 
--   **Salud [[Cerebro|Cerebral]] y Cognitiva:** Mejora la circulación sanguínea en el [[Cerebro|cerebro]] y puede mejorar la [[Memoria|memoria]] y la concentración.
--   **Salud Cardiovascular:** Puede mejorar la circulación sanguínea en general, lo que beneficia la salud del [[Corazón|corazón]].
--   **Propiedades [[Antioxidantes|Antioxidantes]]:** Rico en [[Antioxidantes|antioxidantes]], el Ginkgo biloba ayuda a combatir el [[Ansiedad|estrés]] oxidativo.
+## Salud cerebral y cognitiva
 
-## Rendimiento cerebral
+Mejora la circulación sanguínea en el [[Cerebro|cerebro]] y puede mejorar la [[Memoria|memoria]] y la concentración.
 
-Usar **alpha-GPC y/o ginkgo biloba** como alternativa natural a la nicotina para potenciar el rendimiento cerebral.
+## Salud cardiovascular
 
-La nicotina activa los receptores de acetilcolina en el cerebro, mientras que el **ginkgo biloba es una hierba que previene su degradación**.
+Puede mejorar la circulación sanguínea en general, lo que beneficia la salud del [[Corazón|corazón]].
 
-**240 mg de extracto de ginkgo** han demostrado ayudar en casos de Alzheimer.
+## Propiedades antioxidantes
 
-Masterjohn aconseja **tomar estos suplementos por la mañana y tarde para evitar alterar el sueño**.
+Rico en [[Antioxidantes|antioxidantes]], ayuda a combatir el [[Ansiedad|estrés]] oxidativo.
+
+## Mecanismos de acción
+
+### Inhibición de MAO-A y MAO-B
+El Ginkgo biloba previene la degradación de [[Dopamina|dopamina]] y [[Noradrenalina|noradrenalina]] mediante la inhibición de las enzimas [[Monoamino oxidasas (MAO)|MAO-A y MAO-B]]. Este mecanismo lo diferencia de otros potenciadores dopaminérgicos.
+
+### Flujo sanguíneo cerebral
+Mejora el flujo sanguíneo cerebral al aumentar la biodisponibilidad de [[Óxido nítrico|óxido nítrico]] y por posible inhibición de [[PDE5]].
+
+### Capacidad antioxidante y redox cerebral
+Aumenta la capacidad antioxidante total, mejora el equilibrio redox del cerebro y reduce la neuroinflamación, incrementando la energía disponible para las neuronas.
+
+### Transmisión dopaminérgica en la corteza prefrontal (PFC)
+A diferencia de la mayoría de compuestos dopaminérgicos que actúan en regiones mesolímbicas (como el núcleo accumbens o NAc) —responsables de la motivación, el drive y la energía—, el Ginkgo eleva selectivamente la [[Dopamina|dopamina]] en la [[Corteza prefrontal|corteza prefrontal]] (PFC). Esto se traduce en competencia y control cognitivo en lugar de un impulso motivacional bruto.
+
+## Dosis y protocolo
+
+- **200 mg** de extracto estandarizado: dosis inicial que eleva la transmisión dopaminérgica en el PFC, mejorando la atención sostenida, el filtro de distracciones y la toma de decisiones calculadas bajo estrés.
+- **240 mg**: dosis con evidencia en casos de Alzheimer.
+- **320 mg**: dosis avanzada que elimina el "entumecimiento del lóbulo frontal" (frontal lobe languor), permitiendo sesiones de trabajo profundo de hasta 4 horas sin distracción.
+- **Momento de toma**: por la mañana y tarde para evitar alterar el sueño (Chris Masterjohn).
+
+## Stack sugerido
+
+- **[[Bacopa|Bacopa Monnieri (Brahmi)]]**: combinación sinérgica. Mientras Ginkgo fuerza oxigenación y flujo, Bacopa proporciona neuroprotección y regulación de monoaminas.
+- **Sueño adecuado y omega-3**: los aumentos dopaminérgicos requieren membranas del PFC sanas; sin sueño y omega-3, el enfoque se vuelve inestable y se desvanece rápidamente.
+
+## Precauciones
+
+- Riesgo de sangrado en cirugía (efecto antiagregante plaquetario).
+- Posible necesidad de ciclos (on/off) para mantener eficacia.
+- La ausencia de efectos puede deberse a la calidad del extracto o dosis insuficiente.
+
+## Medicina tradicional china
+
+Considerado uno de los nootrópicos herbales más potentes durante siglos.
+
+## Ver también
+
+- [[Nootrópicos]]
+- [[Células dopaminérgicas]]
+- [[Dopamina]]
+- [[Bacopa]]
+- [[Rhodiola]]
+- [[Catuaba]]
