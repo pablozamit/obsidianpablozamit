@@ -1,3 +1,6 @@
+## Gestión del TDAH
+
+Ver [[TDAH]] para estrategias y tácticas específicas: química primero, procrastinación (3 tipos: TDAH, ansiosa, parálisis por decisión), introspección con diario jerárquico, gestión del tiempo con calendario + temporizador, inbox zero, accountability buddy, y más.
 
 ## Sistema de 4 niveles
 
@@ -13,4 +16,10 @@
 
 **La Importancia de la Priorización** La priorización efectiva puede sentirse incómoda porque implica rechazar actividades valiosas. Sin embargo, hay tareas que, aunque requieran pocas horas semanales, pueden ser transformadoras para alcanzar objetivos. Al reflexionar sobre el pasado, a menudo se lamenta el tiempo dedicado a actividades de bajo valor. La clave para una priorización sostenible y equilibrada no reside en priorizar valores constantemente, sino en las tareas. Es posible, y necesario, fluctuar el orden de prioridad de las tareas en el día a día o semana a semana para lograr un balance. 
 
-**Nivel Cuatro: Flujo** El cuarto nivel de productividad es el "flujo", un estado de concentración profunda y máxima eficiencia. Al alcanzar el flujo, se experimenta una sensación de ser imparable, con una confianza absoluta en la capacidad de realizar cualquier tarea deseada al más alto nivel. Aunque externamente se perciba como gran disciplina, internamente se siente más fácil que nunca. 
+**Nivel Cuatro: Flujo** El cuarto nivel de productividad es el "flujo", un estado de concentración profunda y máxima eficiencia. Al alcanzar el flujo, se experimenta una sensación de ser imparable, con una confianza absoluta en la capacidad de realizar cualquier tarea deseada al más alto nivel. Aunque externamente se perciba como gran disciplina, internamente se siente más fácil que nunca.
+
+## Ver también
+
+- [[TDAH]]
+- [[Nootrópicos]]
+- [[Esencialismo]] 
