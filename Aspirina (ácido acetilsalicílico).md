@@ -17,6 +17,17 @@ La [[Aspirina]] es un [[Fármaco]] ampliamente utilizado con diversas propiedade
 -   En mi experimento personal, no tuve cambios en la [[Erección]].
 -   "Ahora estoy tomando un gramo al día, la calidad no mejora pero me paso la noche duro."
 
+### Protocolo para DE (Oxidative State)
+
+Una alternativa reportada es tomar **500 mg de aspirina** disueltos en **agua caliente con bicarbonato de sodio**. El mecanismo propuesto:
+
+- Reduce la inflamación y mejora el flujo sanguíneo
+- Aumenta el [[CO2]], que es el vasodilatador óptimo
+- Permite que las gónadas oxiden [[Glucosa]], necesaria para mantener una erección firme
+- El [[Bicarbonato de sodio|bicarbonato]] reduce el [[Lactato]], que de lo contrario espesa la sangre, reduce el CO2 y causa vasoconstricción
+
+Ver: [[Protección Gástrica y Protocolo de Ingesta]] para el protocolo con bicarbonato.
+
 ## Otros Efectos y Consideraciones
 
 -   La [[Aspirina]] lleva usándose más de 3000 años (?).
