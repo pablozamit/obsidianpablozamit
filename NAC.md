@@ -121,5 +121,15 @@ La suplementación con NAC puede mejorar el rendimiento en aquellos con niveles 
 
 El NAC puede reducir la excreción de ciertos medicamentos, lo que lleva a un aumento de los niveles plasmáticos.
 
+## NACET (N-acetilcisteína etil éster)
+
+Forma esterificada de [[Acetilcisteína|NAC]] con biodisponibilidad muy superior:
+
+- **Dosis eficaces**: 100-200 mg de NACET ≈ gramos de NAC (Elijah Krings, 2026)
+- **Inhibición de COX-1**: 200 veces más potente que la [[Aspirina (ácido acetilsalicílico)|aspirina]] (Elijah Krings, 2026)
+- Atraviesa mejor membranas celulares por su forma esterificada
+
+Ver también: [[Acetilcisteína]], [[Aspirina (ácido acetilsalicílico)]], [[Glutatión]]
+
 ## Donde Comprar
 - **Tienda recomendada**: [NAC 900 mg - Solutions4Health](https://solutions4health.com/products/nac-900-mg?variant=43818784981209)

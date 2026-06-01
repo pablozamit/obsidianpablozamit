@@ -18,3 +18,7 @@ Esta nota es un resumen. Para más detalles, ver [[NAC]].
 - **Efectos Secundarios:** Generalmente es bien tolerada, pero puede causar molestias gastrointestinales (náuseas, vómitos, diarrea). Las reacciones alérgicas son raras.
 
 **Nota:** Se debe consultar a un profesional de la salud antes de iniciar su uso, especialmente en pacientes con asma, mujeres embarazadas y niños.
+
+## NACET
+
+El NACET (N-acetilcisteína etil éster) es una forma esterificada con biodisponibilidad muy superior: 100-200 mg de NACET equivalen a gramos de NAC. Ver [[NAC#NACET (N-acetilcisteína etil éster)]] para detalles.

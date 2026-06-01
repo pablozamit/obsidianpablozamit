@@ -84,7 +84,7 @@ Basado en el protocolo personal de BasedBiohacker (abril 2026), que combina 9-Me
 - **[[Jalea real]]**: 5 g 2×/día
 - **[[Pinealon]] + [[Epitalon]]**: dosis matutina
 - **[[Cerebrolisina]]**: ciclo comenzado 10-15 días después del inicio
-- [[NAC|NACET]] (N-acetilcisteína etil éster): 1-2×/semana
+- [[NAC#NACET (N-acetilcisteína etil éster)|NACET]] (N-acetilcisteína etil éster): 1-2×/semana
 - **[[Psilocibina]]**: 1-2×/semana (microdosis)
 
 Este protocolo es experimental y no constituye recomendación médica.
