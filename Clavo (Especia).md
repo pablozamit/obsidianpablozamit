@@ -7,6 +7,16 @@ El clavo es una especia con potentes propiedades medicinales debido a su alto co
 - **Acción Neuroprotectora**: Pretratamientos con aceite de clavo atenúan las alteraciones bioquímicas y conductuales inducidas por el estrés, mejorando el rendimiento en tareas de memoria (corto y largo plazo) y reduciendo la actividad de la acetilcolinesterasa (AChE).
 - **Testimonio**: "Si te sientes muy cansado durante el día, pon 3 o 4 clavos en tu té; tu cansancio desaparecerá. No se recomienda en momentos de alta energía ya que reduce mucho el cortisol y puede causar letargo." (Foro de Ray Peat)
 
+## Estabilización de mastocitos e histamina
+
+El eugenol es un potente estabilizador de mastocitos: previene la liberación de histamina cuando estos son activados, reduce los niveles séricos de histamina y puede prevenir reacciones alérgicas graves [PMID: 9508673].
+
+- **Alergias mediadas por IgE**: Reduce reacciones alérgicas y respuestas cutáneas en pruebas de alergia.
+- **Picor histaminérgico**: Aplicado tópicamente, alivia el prurito inducido por histamina y mejora dermatitis atópica, actuando sobre vías de señalización del picor.
+- **MCAS/MCAD**: Para personas con trastornos de activación de mastocitos, el eugenol también impide que las bacterias superficiales produzcan histamina en alimentos fermentados y otros alimentos ricos en histamina, manteniendo los niveles más bajos.
+
+El eugenol también está presente en el [[Tulsi (Albahaca Sagrada, Albahaca India)|tulsi]] (albahaca sagrada), que puede ser una fuente alternativa más accesible.
+
 ## Propiedades Antimicrobianas y Biofilms
 - **Salud Oral**: La combinación de aceite de clavo y aceite de alcanfor inhibe el **100%** del crecimiento de patógenos orales como *S. mutans*, *A. actinomycetemcomitans* y *P. gingivalis*.
 - **Antifúngico**: Ha mostrado un efecto inhibitorio sobre la **Candida** superior al clotrimazol (medicamento antifúngico farmacéutico).
