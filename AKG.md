@@ -11,10 +11,16 @@ El **Alfa-cetoglutarato (AKG)** es un compuesto natural involucrado en el [[Meta
 5.  **Regulación de la [[Microbiota intestinal]]:** El AKG puede tener un efecto beneficioso en la [[Salud intestinal]] al influir en la [[Microbiota]] y mejorar la [[Absorción de nutrientes]].
 6.  **Apoyo durante [[Restricciones calóricas]]:** Se ha demostrado que la suplementación con AKG puede simular algunos de los beneficios metabólicos del [[Ayuno]] o la [[Restricción calórica]], mejorando la [[Salud metabólica]] en general.
 
+## AKG y edad biológica
+
+El **calcio-alfa-cetoglutarato (Ca-AKG)** a dosis de **1.000 mg** formó parte de un activador de [[Colágeno]] que redujo la **edad biológica** en **1,4 años** medida por reloj de metilación. La combinación con glicina, prolina, hidroxiprolina, astaxantina y vitamina C sugiere un efecto sinérgico sobre la longevidad.
+
 ## Notas Relacionadas
 - [[Ciclo de Krebs]]
 - [[Estrés oxidativo]]
 - [[Longevidad]]
 - [[Ayuno]]
+- [[Colágeno]]
+- [[Astaxantina]]
 
 (?faltan fuentes)

@@ -20,11 +20,17 @@ La astaxantina se puede encontrar como [[Suplemento nutricional]] y es valorada 
 
 -   [https://prlabs.com/asta-complete-fx.html](https://prlabs.com/asta-complete-fx.html)
 
+## Sinergia con activador de colágeno
+
+La astaxantina (4 mg, de polvo de algas) formó parte de un activador de [[Colágeno]] que redujo la edad biológica en 1,4 años (reloj de metilación), combinada con Ca-[[AKG]], glicina, prolina, hidroxiprolina y vitamina C.
+
 ## Notas Relacionadas
 - [[Antioxidantes]]
 - [[Carotenoide]]
 - [[Vitamina E]]
 - [[Piel]]
 - [[Salud ocular]]
+- [[Colágeno]]
+- [[AKG]]
 
 (?faltan fuentes)
