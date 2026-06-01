@@ -46,6 +46,22 @@ Existe evidencia anecdótica que sugiere una mejora en la calidad del [[Ayuno|su
 
 - **Stack Sugerido**: Se combina eficazmente con [[Inositol]] y [[Teanina]] antes de dormir para maximizar la relajación y la profundidad del descanso.
 
+## Salud ósea
+
+### Reducción de pérdida ósea
+
+Un estudio de 3 meses con 171 personas >50 años (ensayo con 4 grupos: bicarbonato potásico, bicarbonato sódico, cloruro potásico o placebo, todos con calcio + vitamina D basal) demostró que el bicarbonato (ambos tipos) reduce la resorción ósea:
+
+- **N-telopéptido urinario (NTx)** — biomarcador de degradación ósea — disminuyó significativamente
+- **Excreción de calcio** — se redujo
+- El potasio (cloruro potásico) **no** tuvo efecto, confirmando que el beneficio viene del bicarbonato, no del catión acompañante
+
+**Dosis**: ~5 g/día. **Mecanismo**: aumentar el contenido alcalino de la dieta atenúa la pérdida ósea. **Precaución**: el bicarbonato reduce el ácido estomacal temporalmente y aumenta la absorción de calcio; no debe tomarse con comida o calcio (riesgo de síndrome de leche y alcalinos).
+
+### Cicatrización ósea con CO2
+
+El CO2 absorbido por vía tópica acelera la cicatrización ósea. En 4 semanas, la tasa de curación fue **4× mayor con CO2** (72% vs 18% en controles), con mejoras en parámetros biomecánicos.
+
 ## Otros Usos
 - **Protección Gástrica**: Disolver 1/3 de cucharadita de bicarbonato con dosis altas de [[Aspirina]] reduce significativamente el daño a la mucosa estomacal y previene erosiones.
 
