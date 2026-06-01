@@ -119,6 +119,10 @@ Suspende la técnica si sientes incomodidad.
 
 
 
+### Artrosis y dolor articular
+
+La inmersión en [[Agua con gas|agua carbonatada]] tibia (37°C, 20 min/día) elimina el dolor artrósico en una semana (caso documentado: artrosis trapeciometacarpiana, VAS 73 → 0 mm). El CO2 absorbido por vía tópica mejora la circulación local y reduce la inflamación.
+
 ### Cicatrización ósea con CO2
 
 El CO2 absorbido por vía tópica acelera la cicatrización ósea. En 4 semanas, la tasa de curación fue **4× mayor con CO2** (72% vs 18% en controles), con mejoras en parámetros biomecánicos. Ver [[Bicarbonato de sodio#Cicatrización ósea con CO2]].
