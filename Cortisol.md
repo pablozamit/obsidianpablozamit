@@ -60,6 +60,38 @@ El zinc reduce el cortisol de forma rápida y dosis-dependiente. En un ensayo cl
 - **Mecanismo**: Indica al eje HPA que detenga la producción de cortisol. Esencial para quienes tienen niveles altos por la noche ("wired but tired").
 - **Efecto**: Reducción documentada del **19%** del cortisol nocturno con dosis de 1-2 gramos.
 
+## [[Melisa]] (Toronjil)
+
+El extracto de melisa (*Melissa officinalis*) modula el estado de ánimo y reduce el cortisol, probablemente vía potenciación de [[GABA]].
+
+## [[Progesterona]]
+
+La progesterona tiene efectos ansiolíticos y antiglucocorticoides: compite por el receptor de glucocorticoides y reduce la señal de cortisol. Conectada con la producción de [[Alopregnanolona]], el neuroesteroide más potente para la relajación.
+
+## [[Vitamina B6|Vitamina B6 (P5P)]]
+
+La forma activa P5P es cofactor en la síntesis de [[GABA]] y la regulación del eje HPA.
+
+## [[Alopregnanolona]]
+
+Neuroesteroide producido a partir de [[Progesterona]], potente modulador alostérico positivo de [[GABA|GABA-A]]. Reduce la actividad del eje HPA.
+
+## [[Magnesio]]
+
+Regula el eje HPA, bloquea los receptores NMDA y potencia [[GABA]]. Ver [[Magnesio]].
+
+## [[Grounding]] (conexión a tierra)
+
+Caminar descalzo sobre hierba, tierra o arena sincroniza el potencial eléctrico del cuerpo con la tierra y reduce el cortisol, mejora el sueño y disminuye la inflamación. (Lorwen Harris Nagle, PhD; Sosa)
+
+## [[Ducha fría]]
+
+La exposición al frío activa el sistema nervioso parasimpático tras la respuesta inicial, reduciendo el cortisol a largo plazo y aumentando la resiliencia al estrés.
+
+# Prácticas complementarias (Sosa)
+
+Además de los suplementos, Sosa recomienda un enfoque integral: higiene de sueño, theta waves (20 min/día), visualización, autohipnosis, reencuadre cognitivo, paseos en naturaleza, honestidad radical, disciplina sexual, diario de pensamientos, y meditación con vela.
+
 # Otras Notas
 
 La [[Fosfatidilserina]] es un suplemento interesante que ya he empezado a usar para ayudar con el [[Insomnio|insomnio]]. Tengo el clásico [[Insomnio|insomnio]] por fatiga suprarrenal de despertarse entre las 2 y las 4 de la mañana con el corazón latiendo fuerte, y se supone que la Fosfatidilserina disminuye el cortisol para evitar eso por la noche. Hasta ahora ha sido lo único que me ha ayudado a [[Sueño|dormir]].
