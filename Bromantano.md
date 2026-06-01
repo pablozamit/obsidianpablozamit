@@ -406,3 +406,5 @@ Comprobar fuentes
 67. [https://www.salispharm.com/knowledge/how-should-bromantane-powder-be-taken](https://www.salispharm.com/knowledge/how-should-bromantane-powder-be-taken)
 68. [https://www.thno.org/v11p5077.pdf](https://www.thno.org/v11p5077.pdf)
 69. [https://www.reddit.com/r/Nootropics/comments/zi2q28/bioavailavility_of_bromantane_oral_vs_intranasal/](https://www.reddit.com/r/Nootropics/comments/zi2q28/bioavailavility_of_bromantane_oral_vs_intranasal/)
+
+Ver también: [[9-metil-beta-carbolina]]

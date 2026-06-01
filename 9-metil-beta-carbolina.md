@@ -37,9 +37,23 @@ Estimula el crecimiento de neuritas (proyecciones neuronales que forman axones y
 - **Longevidad neuronal**: menor declive cognitivo con la edad
 - **Estabilidad de circuitos**: las habilidades adquiridas se mantienen
 
-### Transportador DAT
+### Diferenciación y proliferación de neuronas dopaminérgicas
 
-Algunos efectos dopaminérgicos dependen del transportador DAT. Cuando DAT está inhibido o disminuido (por [[Modafinilo|modafinilo]], [[Anfetamina|anfetaminas]], metilfenidato), la síntesis de dopamina por 9-Me-BC se reduce, pero los efectos neuríticos y neuroprotectores permanecen intactos [PMID: 17913302, 20374418].
+A diferencia de otros dopaminérgicos, la 9-Me-BC promueve activamente la diferenciación y proliferación de neuronas dopaminérgicas, no solo su función. Esto la sitúa un paso más allá del [[Bromantano]], que upregula la tirosina hidroxilasa pero no genera nuevas neuronas.
+
+### Inhibición de MAO-B
+
+Además de MAO-A, inhibe también la [[Monoamino oxidasas (MAO)|MAO-B]], la isoforma que metaboliza preferentemente la dopamina. Esta doble inhibición ralentiza la degradación de dopamina desde ambos frentes.
+
+### Modulación de microglía
+
+Modula la [[Microglía]], reduciendo la [[Neuroinflamación]]. Este efecto antiinflamatorio contribuye a la protección de las neuronas dopaminérgicas y al mantenimiento de un [[Sistema inmunológico|entorno cerebral]] saludable.
+
+### Transportador DAT: entrada celular y contraindicaciones
+
+La 9-Me-BC entra en la neurona a través del transportador DAT. Por tanto, **no debe combinarse con inhibidores del DAT** como [[Modafinilo]], [[Phenylpiracetam]], anfetaminas, metilfenidato u otros que bloqueen este transportador. Si el DAT está ocupado, el compuesto no puede acceder a la neurona para ejercer su efecto.
+
+Algunos estudios indican que, aunque la síntesis de dopamina se reduce cuando DAT está inhibido, los efectos neuríticos y neuroprotectores permanecen intactos [PMID: 17913302, 20374418]. Sin embargo, BasedBiohacker recomienda no apilar con inhibidores de DAT durante el ciclo para maximizar los resultados.
 
 ## Beneficios
 
@@ -57,8 +71,22 @@ La 9-Me-BC compite con la [[Tirosina|tirosina]], necesaria tanto para la síntes
 
 ## Dosificación
 
-- **Ciclo**: 2-4 semanas a 15 mg/día, 2 semanas de descanso, repetir
-- **Administración**: sublingual (óptimo) u oral
-- **Fuente**: SwissChems
+- **Ciclo**: 3-4 semanas a 15 mg/día, 2 semanas de descanso, repetir
+- **Administración**: sublingual (óptimo, aunque quema la lengua) u oral (se pierde parte del efecto al tragar)
+- **Fotosensibilidad**: la 9-Me-BC compite con la [[Tirosina]], necesaria tanto para la síntesis de dopamina como para la producción de [[Melanina|melanina]] (protección solar). Evitar exposición solar intensa durante el ciclo.
+- **Fuentes**: SwissChems, Kimerachems
 
-Ver también: [[Dopamina]], [[Células dopaminérgicas]], [[Nootrópicos]], [[MAO]]
+## Ejemplo de protocolo (BasedBiohacker)
+
+Basado en el protocolo personal de BasedBiohacker (abril 2026), que combina 9-Me-BC con otros compuestos de acción dopaminérgica y neurotrófica:
+
+- **9-Me-BC**: 15 mg/día, ciclo de 3 semanas
+- **[[Jalea real]]**: 5 g 2×/día
+- **[[Pinealon]] + [[Epitalon]]**: dosis matutina
+- **[[Cerebrolisina]]**: ciclo comenzado 10-15 días después del inicio
+- [[NAC|NACET]] (N-acetilcisteína etil éster): 1-2×/semana
+- **[[Psilocibina]]**: 1-2×/semana (microdosis)
+
+Este protocolo es experimental y no constituye recomendación médica.
+
+Ver también: [[Dopamina]], [[Células dopaminérgicas]], [[Nootrópicos]], [[Bromantano]], [[Monoamino oxidasas (MAO)]], [[Neuroinflamación]]

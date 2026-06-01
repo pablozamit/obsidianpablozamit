@@ -2,4 +2,6 @@ Aumenta la testosterona en hombres sanos en un 22% en solo 2 semanas, posicioná
 
 Incremento de 57 ng/dL en hombres jóvenes en ese período, comparándolo con efectos similares a péptidos o esteroides.
 
-- Sugiere consumir la jalea real **por la mañana** para resultados óptimos.
+- Sugiere consumir la jalea real **por la mañana** para resultados óptimos.
+
+Ver también: [[9-metil-beta-carbolina]]
