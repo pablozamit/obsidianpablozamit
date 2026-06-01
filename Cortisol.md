@@ -52,6 +52,10 @@ La [[Glicina|glicina]] puede reducir agudamente el cortisol a aproximadamente el
 
 ## [[Teanina]]
 
+## [[Zinc]]
+
+El zinc reduce el cortisol de forma rápida y dosis-dependiente. En un ensayo clínico (1990), 25-50 mg de zinc elemental redujeron el cortisol a la mitad en 2 horas (Dalton / Outdoctrination).
+
 ## [[Taurina]] (Señal de Apagado)
 - **Mecanismo**: Indica al eje HPA que detenga la producción de cortisol. Esencial para quienes tienen niveles altos por la noche ("wired but tired").
 - **Efecto**: Reducción documentada del **19%** del cortisol nocturno con dosis de 1-2 gramos.
