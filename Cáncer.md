@@ -32,6 +32,12 @@ Ciertas longitudes de onda de luz —especialmente [[Luz infrarroja|NIR 734 nm]]
 
 Ver sección completa en [[Terapia de luz roja#Fotobiomodulación y Cáncer]]
 
+## Ejercicio de alta intensidad
+
+El suero sanguíneo de hombres tras una sesión de ejercicio de alta intensidad mata células cancerosas en cultivo, sin afectar células sanas (P.D. Mangan, 2023). El mecanismo implica factores transmitidos por la sangre inducidos por el ejercicio. Cada sesión de ejercicio intenso inhibe el cáncer.
+
+Ver también: [[Ejercicios]], [[Efecto Warburg]], [[Metabolismo oxidativo]]
+
 ## Estudios sin Ordenar
 
 Un estudio revela que **el metabolismo de la serina es clave en el cáncer**, no solo por su papel en la producción de glicina y unidades de un carbono, sino principalmente por su participación en la **síntesis de lípidos esenciales para el crecimiento celular**. Estos hallazgos podrían ayudar a desarrollar **nuevas estrategias terapéuticas dirigidas a interrumpir el metabolismo de la serina** en células cancerosas.
