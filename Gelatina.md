@@ -1,5 +1,7 @@
 "[[Glicina|Glicina]], [[BCAA|BCAA]] ayudan a prevenir que la tirosina y la fenilalanina se conviertan en [[Noradrenalina|norepinefrina]], que ha sido implicada en la [[Eyaculación precoz|eyaculación precoz]]; pero la gelatina no tiene muchos [[BCAA|BCAA]]."
 
+Ver también: [[Colágeno]]
+
 # Aminoácidos en la Gelatina
 
 Los [[Aminoácidos|aminoácidos]] presentes en la gelatina incluyen:
