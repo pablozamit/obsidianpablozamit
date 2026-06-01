@@ -305,6 +305,7 @@ Es mejor caracterizado como **"adaptógeno dopaminérgico nootrópico"** o **"re
 
 **Casos de Uso Óptimos**
 
+✅ [[TDAH]] (alternativa a estimulantes convencionales como adderall o metilfenidato, sin riesgo de dependencia ni spikes de dopamina). Dosis reportada: 25 mg/día.
 ✅ Fatiga crónica con ansiedad comórbida, Depresión leve-moderada (especialmente si motivación/anergia predomina), Underperformance cognitivo asociado a estrés crónico, Recuperación post-enfermedad (astenia), Mejora de rendimiento físico en atletas (aunque WADA prohibe), Prevención de agotamiento en profesionales de alta demanda.
 
 ❌ Trastorno bipolar tipo I (riesgo de manía), Psicosis activa (dopamina puede exacerbar), Adicción activa a estimulantes (aunque seguro post-rehabilitación).
