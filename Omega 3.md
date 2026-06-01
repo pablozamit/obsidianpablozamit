@@ -14,7 +14,7 @@ Los 10 alimentos más ricos en ácidos grasos omega-3 [[EPA]] (ácido eicosapent
 
 1. [[Salmón]] salvaje:** Una de las fuentes más ricas en [[EPA]] y DHA. El [[salmón]] salvaje contiene niveles más altos de omega-3 en comparación con el [[salmón]] de cultivo.
 2. **Arenque:** Este pescado es una excelente fuente de omega-3, ofreciendo altas cantidades de [[EPA]] y DHA.
-3. **Sardinas:** Pequeñas pero nutritivas, las sardinas son ricas en omega-3 y se pueden consumir enteras, incluyendo sus huesos, para un extra de calcio.
+3. **[[Sardinas]]:** Pequeñas pero con un perfil nutricional excepcional (25g proteína, ~2g EPA+DHA, 370% RDA B12, calcio de espinas comestibles). El enlatado preserva los omega-3 intactos.
 4. **Caballa:** Un pescado azul, rico en omega-3, vitamina D y selenio. Su contenido en [[EPA]] y DHA es muy elevado.
 5. **[[Atún]]:** Especialmente el [[atún]] blanco o [[atún]] albacora, que contiene cantidades significativas de omega-3. Sin embargo, es recomendable limitar su consumo debido al mercurio.
 6. **Anchoas:** Pequeñas en tamaño pero grandes en contenido de omega-3. Son también una buena fuente de selenio y vitamina B12.
