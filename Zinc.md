@@ -86,6 +86,7 @@ La deficiencia de zinc es una causa subyacente de múltiples patologías sistém
 - **Excitotoxicidad**: Bloquea el exceso de glutamato al unirse a subunidades NMDA.
 - **Neurogénesis**: Necesario para la expresión de BDNF y la señalización TrkB.
 - **Estrés**: Su carencia hiperactiva el eje HPA, elevando crónicamente el [[Cortisol]].
+- **Reducción aguda de cortisol**: La suplementación con zinc reduce el cortisol de forma rápida y dosis-dependiente. En un ensayo clínico (1990), zinc oral (25-50 mg elemental) redujo el cortisol a la mitad en 2 horas, con descensos más acusados a dosis mayores (de ~14 a <4 ug/dL con 37.5 mg).
 
 ### 6. Salud Dermatológica
 - Controla la liberación de citoquinas proinflamatorias (TNF-α, IL-6) en los queratinocitos. Su ausencia provoca acné, eccema y **efluvio telógeno**.
