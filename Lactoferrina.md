@@ -42,7 +42,7 @@ La lactoferrina reduce la grasa visceral mediante un mecanismo dual: bloquea la 
 
 En un ensayo clínico, personas tomando 300 mg de lactoferrina perdieron más del **12% de grasa visceral**, mientras que el control perdió menos del 2%. El área total de grasa se redujo más del doble en el grupo de lactoferrina, con una reducción de **14.6 cm² de área de grasa visceral en 8 semanas** y **3-4 cm de cintura**.
 
-Sin cambios en dieta o estilo de vida. Esto probablemente se debe a sus efectos antiinflamatorios y capacidad de unirse directamente a endotoxinas. También reduce el apetito de forma natural (sin estimulantes).
+Sin cambios en dieta o estilo de vida. Esto probablemente se debe a sus efectos antiinflamatorios y capacidad de unirse directamente a [[Endotoxinas|endotoxinas]]. También reduce el apetito de forma natural (sin estimulantes).
 
 #### Protocolo de inicio progresivo (Healthy Alfred)
 
