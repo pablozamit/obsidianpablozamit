@@ -12,4 +12,6 @@ El [[ATP]] se forma a través del [[Metabolismo]] de los [[Alimentos]] en las [[
 
 "Se estima que la tasa de generación de [[ATP]] basada en la [[Oxidación]] de [[Carbohidratos]] está en el rango de 0.51-0.68 mmol/s/kg de [[Masa corporal]], mientras que la tasa de generación de [[ATP]] basada en el suministro de combustible de [[Triacilglicéridos]] es aproximadamente 2-3 veces menor (0.24 mmol/s/kg de [[Masa corporal]]).
 
+Ver también: [[Tensión muscular]]
+
 

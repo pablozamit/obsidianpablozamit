@@ -33,3 +33,5 @@ Las mitocondrias de las células cancerosas presentan vulnerabilidades metabóli
 ## Ver Más
 
 [[Hipótesis de desacoplamiento metabólico]]
+
+Ver también: [[Tensión muscular]]

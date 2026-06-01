@@ -130,3 +130,5 @@ El CO2 absorbido por vía tópica acelera la cicatrización ósea. En 4 semanas,
 ## Otros estudios
 
 https://pubmed.ncbi.nlm.nih.gov/40223145/
+
+Ver también: [[Tensión muscular]]
