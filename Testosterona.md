@@ -1,6 +1,8 @@
 
 La testosterona, un esteroide de 19 átomos de C es sintetizada a partir del [[colesterol]] en las células de Leydig de los testículos, la corteza suprarrenal y en las células tecales del ovario.
 
+El colesterol es necesario estructuralmente, pero **el colesterol dietario no es un factor limitante**: el cuerpo lo sintetiza endógenamente a partir de cualquier macronutriente, y las células de Leydig lo obtienen por captación de LDL y síntesis de novo. Los verdaderos cuellos de botella son la señalización de LH y las enzimas esteroidogénicas. Ver [[Colesterol#Colesterol y producción hormonal]].
+
 > [!IMPORTANT]
 > **La [[Testosterona]] no "decae" por misterio.**
 > Los niveles disminuyen cuando los **precursores** y materias primas desaparecen. Sin materiales de construcción no hay hormonas.

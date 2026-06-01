@@ -73,6 +73,23 @@ La creatina no se difunde libremente; requiere un transportador dependiente de *
 - **Pureza**: Se recomienda el sello **Creapure®**.
 
 
+# Seguridad y controversias
+
+## Creatina y AGAT (regulación por feedback)
+
+La creatina exógena reduce la producción endógena (disminuye guanidinoacetato, downregula AGAT). Esto es **regulación por feedback normal**, no toxicidad. Ocurre con cualquier suplemento que aporte algo que el cuerpo ya produce (ej. melatonina exógena → ↓ producción endógena). No hay evidencia de que esto "desregule" el metabolismo de arginina o glicina de forma relevante.
+
+## Argumentos refutados
+
+Las críticas a la creatina suelen usar dos tácticas:
+
+1. **Pathway laundering**: mencionar vías bioquímicas reales (AGAT, ciclo de la urea, arginina, glicina) para concluir daño que los datos no respaldan. Nombrar una vía no es evidencia de disrupción patológica.
+2. **Comment-section epidemiology**: usar comentarios negativos aislados (hinchazón, diarrea, fatiga, caída de cabello) como "prueba" de inseguridad. Las reacciones adversas individuales existen, pero la evidencia agregada de miles de estudios muestra un perfil de seguridad excepcional.
+
+## Perfil de seguridad real
+
+La creatina monohidrato es uno de los suplementos más estudiados de la historia. No hay evidencia consistente de daño renal en individuos sanos, ni de disrupción del ciclo de la urea, ni de acumulación patológica de amoníaco en dosis normales (3-5 g/día). Los problemas digestivos (hinchazón, diarrea) suelen deberse a cristales no disueltos en agua fría (ver [[Creatina#Protocolo de Preparación y Absorción|protocolo de absorción]]).
+
 # Notas a Repasar
 
 "Tomo 5gr durante una semana porque leí que apoya el ciclo de [[Metilación|metilación]]."

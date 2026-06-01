@@ -37,3 +37,10 @@ En un máximo de 30 días, se puede lograr una depleción de PUFAS con una [[Die
 
 **Importante:** Con una sola comida rica en PUFA, se pueden volver a saturar los [[Tejidos]].
 
+## Controversia adicional
+
+- Un estudio observacional de 2026 (ADNI) encontró asociación entre suplementos de [[Omega 3]] y deterioro cognitivo acelerado en ancianos, con reducción del metabolismo de glucosa cerebral (ver [[Omega 3#Estudio ADNI 2026: deterioro cognitivo en ancianos]]).
+- Los omega-3 oxidados generan [[Acroleína]], un aldehído 10-100 veces más reactivo que los radicales libres, con efectos inmunosupresores y citotóxicos (ver [[Peroxidación lipídica]]).
+
+Ver también: [[Omega 3]], [[Peroxidación lipídica]], [[Acroleína]], [[EPA]], [[DHA]]
+

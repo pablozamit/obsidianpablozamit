@@ -46,3 +46,25 @@ orivo.no +1
 - Pureza y contaminantes: Analiza la presencia de sustancias nocivas como mercurio, plomo, PCB (bifenilos policlorados), dioxinas y otros contaminantes, asegurando que estén por debajo de los límites seguros establecidos por organismos como la OMS o la UE.
 - Frescura y oxidación: Mide niveles de oxidación (usando valores como peróxido, anisidina y TOTOX) para garantizar que el aceite no esté rancio o degradado.
 - Estabilidad: Evalúa la durabilidad del producto a lo largo del tiempo.
+
+# Controversias y precauciones
+
+## Estudio ADNI 2026: deterioro cognitivo en ancianos
+
+Un estudio observacional de 2026 de la Iniciativa de Neuroimagen para la Enfermedad de Alzheimer (ADNI) encontró que los usuarios de suplementos de omega-3 presentaban un deterioro cognitivo acelerado en personas mayores:
+
+- **Puntuaciones MMSE** cayeron más rápido
+- **ADAS-Cog13 y CDR-SB** aumentaron más pronunciadamente
+- **Metabolismo de glucosa (FDG-PET)** reducido en regiones cerebrales críticas
+- El efecto negativo **no** se relacionó con acumulación de amiloide o tau
+
+Limitaciones del estudio (como señalaron [[Siim Land]] y [[Dr. Can Akgündüz]]):
+- Es observacional, no un ensayo controlado; no se puede establecer causalidad
+- Quienes toman suplementos pueden tener ya más riesgo de deterioro cognitivo o más quejas de memoria (*confounding by indication*)
+- Numerosos estudios observacionales previos han encontrado efectos neuroprotectores del omega-3
+
+## Oxidación de los suplementos
+
+Los ácidos grasos omega-3 tienen 5-6 dobles enlaces en su estructura, lo que los hace extremadamente susceptibles a la oxidación. Al entrar en el cuerpo a 37°C, los aceites de pescado en cápsulas pueden oxidarse rápidamente, generando [[Peroxidación lipídica|aldehídos tóxicos]] como la [[Acroleína]]. Ver [[Peroxidación lipídica]] para el mecanismo detallado.
+
+Ver también: [[Ácidos grasos poliinsaturados (PUFAS)]], [[EPA]], [[DHA]], [[Peroxidación lipídica]], [[Acroleína]]
