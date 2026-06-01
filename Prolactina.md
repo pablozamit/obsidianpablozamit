@@ -6,6 +6,14 @@ La prolactina desempeña un papel central en la fisiopatología de la **[[Migra�
 
 En pacientes con cefalea en racimos, se ha observado una regulación alterada de la secreción de prolactina durante los períodos activos y durante los intervalos libres de síntomas, sugiriendo la influencia de mecanismos serotoninérgicos y dopaminérgicos.
 
+## Efectos sobre andrógenos
+
+La hiperprolactinemia interfiere con la producción de **[[DHT]]** (dihidrotestosterona) al inhibir la enzima **[[5-alfa reductasas|5α-reductasa]]**. En estudios, la elevación de testosterona en respuesta a HCG en condiciones de hiperprolactinemia fue normal, pero el aumento de DHT fue marcadamente disminuido. Esto sugiere que la prolactina altera el metabolismo de la testosterona a DHT. También se observó en un paciente con hiperprolactinemia por sección accidental del tallo hipofisario. Ver [[DHT]] y [[5-alfa reductasas]].
+
+## Relación con hipotiroidismo
+
+El hipotiroidismo duplica los niveles de prolactina en hombres. El tratamiento con hormona tiroidea (T4) en hombres hipotiroideos duplica la testosterona total y libre, y reduce la prolactina a la mitad. Ver [[Hipotiroidismo]] y [[Tiroides (glándula)]].
+
 ## Formas de reducirla
 
 ·[[Vitamina E]]: especialmente el [[Alfa-tocoferol]], aunque las únicas fuentes son 1) testimoniales, 2) este artículo de Ray Peat: https://raypeat.com/articles/articles/vitamin-e.shtml
@@ -51,3 +59,8 @@ Those are some things I do/take (if you think they might not be that effective, 
 - [[Cabergolina]]
 - [[Bromocriptina]]
 - [[Dopamina]]
+- [[DHT]]
+- [[5-alfa reductasas]]
+- [[Hipotiroidismo]]
+- [[Testosterona]]
+- [[Tiroides (glándula)]]

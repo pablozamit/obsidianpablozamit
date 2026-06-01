@@ -2,6 +2,10 @@ Dihidrotestosterona.
 
 La DHT es una [[Hormona|hormona]] [[Andrógenos|andrógena]].
 
+## Inhibición por prolactina
+
+La **[[Prolactina]]** elevada interfiere con la producción de DHT. En condiciones de hiperprolactinemia, el aumento de **[[Testosterona]]** en respuesta a HCG es normal, pero la conversión a DHT está marcadamente disminuida por inhibición de la **[[5-alfa reductasas|5α-reductasa]]**. Esto se ha observado tanto en hiperprolactinemia experimental como en pacientes con sección del tallo hipofisario.
+
 Posibles aplicaciones:
 
 -   Tamaño del pene ([[Faloculturismo]]): el uso tópico parece efectivo pero solo en micropenes.
@@ -38,6 +42,13 @@ A diferencia de otros [[Andrógenos|andrógenos]] como la [[Testosterona]], la D
 "La [[Nicotina]] detiene la degradación de DHT a 3adiol."
 
 "La DHT es probablemente lo que evita que la [[Testosterona]] se aromatice en los hombres, así que si tienes [[Testosterona|T]] alta pero DHT por debajo del promedio, esto es más peligroso que una proporción 1:1 o una proporción a favor de la DHT." @Haidut
+
+## Ver también
+
+- [[Prolactina]]
+- [[5-alfa reductasas]]
+- [[Testosterona]]
+- [[Hipotiroidismo]]
 
 # Distribuidores
 

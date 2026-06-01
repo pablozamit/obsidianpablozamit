@@ -37,12 +37,15 @@ La [[Progesterona|progesterona]] a dosis bajas incrementa la expresión de 5α-r
 La [[Glicina]] parece regular al alza de forma potente la actividad de la 5-alfa reductasa (5-AR).
 
 ### Dopamina y Prolactina
-Un estudio sobre la hiperprolactinemia sugiere una relación con la actividad de la 5-alfa reductasa. La [[Dopamina]] podría regular la expresión de la 5-AR a través de su antagonismo con la [[Prolactina]].
+La **[[Prolactina]]** es un regulador negativo de la 5α-reductasa. En hiperprolactinemia experimental, la elevación de [[Testosterona]] en respuesta a HCG fue normal, pero el aumento de **[[DHT]]** fue marcadamente disminuido, demostrando interferencia directa con la actividad de la 5α-reductasa. Resultados similares se observaron en un paciente con sección del tallo hipofisario (PMID: 2943108). La [[Dopamina]] podría regular la expresión de la 5-AR a través de su antagonismo con la [[Prolactina]].
 
 ## Notas Relacionadas
 - [[Testosterona]]
 - [[Progesterona]]
 - [[Alopregnanolona]]
+- [[Prolactina]]
+- [[DHT]]
+- [[Dopamina]]
 
 (?faltan fuentes)
 

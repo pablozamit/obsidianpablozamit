@@ -13,8 +13,18 @@ El colesterol es necesario estructuralmente, pero **el colesterol dietario no es
 *Consejo de [[Ray Peat]] sobre cómo aumentar testosterona:*
 "Arregla la [[Tiroides (glándula)|tiroides]], come ensalada de zanahoria, y quizás toma [[pregnenolona]], y deja que la testosterona suba al nivel que tenga que subir".
 
+## Inhibición de conversión a DHT por prolactina
+
+La **[[Prolactina]]** elevada inhibe la **[[5-alfa reductasas|5α-reductasa]]**, reduciendo la conversión de testosterona a **[[DHT]]**. En hiperprolactinemia, la respuesta de testosterona a HCG es normal pero el aumento de DHT está marcadamente disminuido.
+
+## Hipotiroidismo y testosterona
+
+En hombres con **[[Hipotiroidismo]]**, el tratamiento con T4 duplica la testosterona total y libre, y reduce la prolactina a la mitad. El hipotiroidismo duplica los niveles de prolactina, lo que a su vez interfiere con la producción de DHT.
+
 **Otros enlaces**
--[[TRT (Terapia de Reemplazo de Testosterona)]]
+- [[TRT (Terapia de Reemplazo de Testosterona)]]
+- [[Prolactina]]
+- [[DHT]]
 
 
 ![[Pasted image 20240215102332.png]]
