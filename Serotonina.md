@@ -1,6 +1,10 @@
 ·[[Neuroquímicos]]
 ·[[Receptores de serotonina]]
 
+## Regulación por luz solar
+
+La exposición a luz brillante ([[Luz solar]]) aumenta la síntesis de serotonina a través de las células de **[[Melanopsinas|melanopsina]]** retinales que se conectan con los núcleos del rafe. La serotonina es el precursor de la [[Melatonina]]: más luz diurna → más serotonina → más melatonina nocturna. Ver [[Luz solar#Serotonina y melatonina]].
+
 ""La serotonina fue nombrada así ya que regula el tono del suero: es un vasoconstrictor, liberado de forma sistémica en respuesta a la irritación o inflamación intestinal.""
 
 

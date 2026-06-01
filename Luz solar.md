@@ -1,29 +1,103 @@
+# Luz solar
+
 El espectro electromagnético de la luz del Sol contiene:
 
--   [[Luz infrarroja]] (produce [[Melatonina]]). Invisible.
--   Fotones del espectro visible.
--   [[Luz ultravioleta]] y **luz violeta** (~410 nm) (síntesis de [[Vitamina D]], liberación de [[Óxido nítrico]], producción de [[Luz ultravioleta#Biología de la Adicción a la Luz Solar|β-endorfina]], y activación del fotorreceptor corneal [[Luz ultravioleta#Luz violeta (410 nm) y fotorecepción corneal|Opn5]] para cicatrización). Invisible.
+- [[Luz infrarroja]] (produce [[Melatonina]]). Invisible.
+- Fotones del espectro visible.
+- [[Luz ultravioleta]] y **luz violeta** (~410 nm) (síntesis de [[Vitamina D]], liberación de [[Óxido nítrico]], producción de β-endorfina, y activación del fotorreceptor corneal Opn5 para cicatrización). Invisible.
 
-## Penetración del NIR Solar en el Cuerpo
+## Síntesis de vitamina D
 
-Un estudio de 2025 (Jeffery et al., *Nature: Scientific Reports*) demostró que las longitudes de onda NIR de la luz solar (>600 nm) atraviesan completamente el tórax humano. El espectro solar abarca ~200–3000 nm; por debajo de 600 nm prácticamente nada pasa, pero a partir de ahí la transmisión aumenta hasta un pico entre **800–875 nm**, un corredor de transparencia biológica entre los dos absorbentes tisulares dominantes: la hemoglobina y el agua.
+Un fotón UVB atraviesa 150 millones de km, impacta una molécula de **7-dehidrocolesterol** en la piel y rompe un enlace químico. En 48 horas, ese enlace roto se convierte en una hormona que controla más de 200 genes.
 
-Una única exposición de 15 minutos a 850 nm en la espalda mejoró la visión cromática 24 horas después (tritán +16%, protán +9%), incluso con la cabeza envuelta en papel de aluminio para bloquear la luz en los ojos — lo que indica que el efecto no está mediado por la visión, sino por la [[Mitocondria|respuesta mitocondrial]] sistémica.
+La **[[Vitamina D]]** se produce así:
 
-Ver también: [[Luz infrarroja]], [[Terapia de luz roja]]
+1. **UVB (290–315 nm)** + **7-dehidrocolesterol** en la epidermis → **previtamina D3**
+2. **Isomerización térmica** a temperatura corporal → **vitamina D3** (colecalciferol)
+3. **Hígado**: añade un grupo hidroxilo → **25-hidroxivitamina D** (calcidiol)
+4. **Riñón**: añade un segundo hidroxilo → **calcitriol** (1,25-dihidroxivitamina D), la hormona activa
 
-Las plantas obtuvieron la habilidad de la fotosíntesis: capturar fotones del Sol.
+El calcitriol entra en la célula, cruza la membrana nuclear y se une a los **receptores de vitamina D (VDR)** situados directamente sobre el ADN. Estos receptores activan más de 200 genes implicados en la absorción de calcio, la mineralización ósea, la función inmune y la regulación del crecimiento celular.
 
-"La historia de la vida en general y del humano en particular es una historia de fotones y electrones."
+### Producción vs. suplementos
 
-Otros tipos de luz:
+- **10–15 minutos** de exposición solar al mediodía en brazos y cara producen **10.000–20.000 UI** de vitamina D3.
+- Un suplemento típico contiene **400–1.000 UI**.
+- La piel fabrica **10–50 veces más** que un suplemento.
 
--   [[Luz LED]]
+### Mecanismo de seguridad
 
-Experimentos:
+El cuerpo tiene un mecanismo de seguridad integrado: cuando se acumula suficiente previtamina D3, la exposición UV adicional convierte el exceso en subproductos inertes. **No es posible sobredosificarse con vitamina D producida por el sol**, pero sí con suplementos.
 
-*Effects of prior light exposure on early evening performance, subjective sleepiness, and hormonal secretion*
+### Problema de latitud
 
-# Entradas Relacionadas
+Por encima del **paralelo 35** (línea que cruza Memphis, Albuquerque y Sevilla), el sol invernal está demasiado bajo. Los fotones UVB atraviesan tanta atmósfera que casi todos son absorbidos antes de llegar a la piel. Los niveles de vitamina D caen de octubre a marzo.
 
--   [[Helioterapia]]
+### Pigmentación
+
+La **melanina** absorbe los fotones UVB antes de que lleguen al 7-dehidrocolesterol. Una persona con piel muy oscura necesita **3–5 veces más exposición solar** que una de piel clara para sintetizar la misma cantidad de vitamina D. En latitudes norteñas, la combinación de menos UVB disponible y más melanina filtrándolo crea un déficit agravado.
+
+## Óxido nítrico y presión arterial
+
+La luz solar reduce la presión arterial por una vía independiente de la vitamina D. La piel almacena **[[Óxido nítrico]]** (NO) en reservorios químicos de la epidermis y la dermis. La radiación **UVA** rompe los enlaces que mantienen el NO almacenado, liberándolo al torrente sanguíneo. El NO relaja las paredes arteriales → vasodilatación → disminución de la presión arterial.
+
+- Los reservorios de NO se recargan durante la noche a partir de nitratos y nitritos dietéticos.
+- El sol matinal los libera, y la vasodilatación dura horas.
+- Para la hipertensión, la luz solar matinal en la piel es una intervención fotoquímica directa.
+
+## Ritmo circadiano
+
+Los ojos contienen **células ganglionares fotosensibles** con **[[Melanopsinas|melanopsina]]**, sintonizada específicamente a la luz azul de **480 nm**. Envían señales directas al **núcleo supraquiasmático (NSQ)** del hipotálamo, el reloj maestro circadiano.
+
+- La iluminación interior típica produce **100–500 lux**.
+- Las células de melanopsina necesitan **1.000–2.000 lux** para un anclaje circadiano robusto.
+- La sombra exterior en un día nublado produce **10.000–25.000 lux**.
+- El sol directo produce **50.000–100.000 lux**.
+- Sin luz matinal adecuada, el reloj circadiano deriva a ~24,2 h en lugar de 24 h.
+
+Ver [[Ritmo circadiano]].
+
+### Envejecimiento del cristalino
+
+El cristalino del ojo se vuelve amarillo con la edad. A los 65 años, transmite significativamente menos luz azul que a los 20. La longitud de onda específica que necesita la melanopsina (480 nm) es precisamente la que el cristalino envejecido filtra con más agresividad. La señal del reloj se debilita por ambos extremos: menos tiempo al aire libre (menos fotones) y menos transmisión (menos fotones llegando a las células).
+
+## Serotonina y melatonina
+
+Las mismas células de melanopsina se conectan con los **núcleos del rafe**, donde se fabrica la **[[Serotonina]]**. Más luz brillante → más síntesis de serotonina. La relación es directa, continua e independiente de la estación o la temperatura.
+
+La serotonina es el precursor de la **[[Melatonina]]**. La glándula pineal convierte serotonina en melatonina después del anochecer. Mayor producción diurna de serotonina → más materia prima disponible para la síntesis nocturna de melatonina. El eje luz-estado de ánimo-sueño es un único pipeline bioquímico continuo.
+
+## Huesos y calcio
+
+Sin calcitriol adecuado, el intestino absorbe solo el **10–15% del calcio dietético**. Con calcitriol, la absorción sube al **30–40%**. La osteoporosis es, en parte, una enfermedad de insolación insuficiente.
+
+Los receptores de vitamina D también existen en el **músculo esquelético**. El calcitriol activa genes implicados en la síntesis de proteínas musculares y la coordinación neuromuscular. La luz solar que fortalece los huesos también fortalece los músculos y reflejos que previenen la caída que los rompería.
+
+## Sistema inmune
+
+El calcitriol modula el sistema inmune activando **catelicidinas**, péptidos antimicrobianos que los macrófagos usan para matar bacterias y virus. El pico invernal de infecciones respiratorias correlaciona precisamente con el nadir estacional de vitamina D.
+
+## Ventana segura de exposición
+
+Los mismos fotones UVB que sintetizan vitamina D también crean **dímeros de timina** en el ADN. Las células tienen enzimas de reparación por escisión de nucleótidos que corrigen miles de lesiones al día, pero la capacidad de reparación disminuye con la edad.
+
+**10–20 minutos** de exposición solar al mediodía sin protección en brazos, cara y piernas es suficiente para:
+- Síntesis casi máxima de vitamina D
+- Liberación significativa de óxido nítrico
+- Anclaje circadiano robusto
+- Estimulación relevante de serotonina
+
+Todo ello dentro de la capacidad diaria de reparación de la piel. Más allá de esa ventana, el protector solar tiene sentido.
+
+## Ver también
+
+- [[Vitamina D]]
+- [[Luz ultravioleta]]
+- [[Luz infrarroja]]
+- [[Óxido nítrico]]
+- [[Melanopsinas]]
+- [[Ritmo circadiano]]
+- [[Serotonina]]
+- [[Melatonina]]
+- [[Helioterapia]]
+- [[Terapia de luz roja]]

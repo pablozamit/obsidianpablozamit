@@ -1,41 +1,54 @@
-# Tipos
+# Vitamina D
 
-D2:
+## Tipos
 
-D3:
+D2: ergocalciferol (fuentes vegetales).
+D3: colecalciferol (fuentes animales, producida por la piel con luz solar).
 
-D4:
+## Fotoquímica
 
+La síntesis cutánea de vitamina D a partir de la [[Luz solar]] sigue una cascada precisa:
 
-# Metabolismo
+1. **UVB (290–315 nm)** rompe un enlace en el **7-dehidrocolesterol** de la epidermis → **previtamina D3**
+2. **Isomerización térmica** a temperatura corporal (48 h) → **vitamina D3** (colecalciferol)
+3. **Hígado**: hidroxilación en carbono 25 → **25-hidroxivitamina D** (calcidiol), la forma circulante que se mide en sangre
+4. **Riñón**: hidroxilación en carbono 1 → **calcitriol** (1,25-dihidroxivitamina D), la hormona activa
 
+El calcitriol entra en el núcleo celular y se une a los **receptores de vitamina D (VDR)**, factores de transcripción que activan más de **200 genes** implicados en:
+- Absorción de calcio en el intestino
+- Regulación del fósforo
+- Mineralización ósea
+- Función de células inmunitarias
+- Regulación del crecimiento celular
 
-# Beneficios
+Desde que el fotón UVB rompe el enlace hasta que el calcitriol activa genes pasan aproximadamente **48 horas**.
 
+## Producción solar vs. suplementos
 
+- **10–15 minutos** de exposición al mediodía en brazos y cara → **10.000–20.000 UI**
+- Suplemento típico: **400–1.000 UI**
+- La piel produce **10–50 veces más** que un suplemento
+- El cuerpo **no puede sobredosificarse** con vitamina D solar (el exceso de previtamina D3 se convierte en subproductos inertes), pero sí con suplementos
 
-D
+## Latitud
 
-"Esta relación epidemiológica se ha desdibujado un tanto en los últimos treinta años debido a que muchas personas en latitudes más oscuras se suplementan con vitamina D, al tiempo que muchas personas en latitudes mas luminosas se cubren con protector solar. Es un hecho establecido que la vitamina D previene y trata el [[cáncer]], llegando de hecho a erradicar la Esclerosis Múltiple"
-![[Pasted image 20230309142905.png]]
+Por encima del paralelo 35 (Sevilla, Memphis), el sol invernal no produce UVB suficiente. Los niveles de vitamina D caen de octubre a marzo.
 
-https://www.ernestoprietogratacos.com/post/helioadaptaci%C3%B3n
+## Pigmentación
 
-"El daño a la piel es proporcional a la malnutrición de la persona. Mientras más [[vitaminas]] y oligoelementos antioxidantes recibe un individuo más difícil es dorarse por efecto de un baño de sol."
+La melanina compite con el 7-dehidrocolesterol por los fotones UVB. Las personas con piel oscura necesitan **3–5 veces más exposición** para igualar la síntesis de una persona de piel clara.
 
+## Beneficios
 
+- Aumenta la **[[testosterona]]** en hombres (metaanálisis, ~4.000 UI/día)
+- La deficiencia se asocia con **[[Depresión]]**, especialmente en mujeres (estudio SUN)
+- Previene y trata el [[cáncer]]
+- Erradica la esclerosis múltiple en algunos casos (relación epidemiológica)
 
-# Estudios resumidos
+## Ver también
 
- [_The Impact of Vitamin D on Androgens and Anabolic Steroids among Adult Males: A Meta-Analytic Review_](https://www.mdpi.com/2079-9721/12/10/228)
-
- Este metaanálisis revisa estudios que involucran en total a más de 1700 hombres. Las conclusiones que nos interesan son que la vitamina D aumenta los niveles de [[testosterona]] específicamente, es decir: no parece afectar a otros parámetros hormonales; y que al parecer se requieren unas **4.000 unidades internacionales** al día para lograr este efecto.
-
-- **Importancia en Invierno**: Este mecanismo explicaría con una hipótesis novedosa cómo el cuerpo humano podría mantener niveles saludables de esta vitamina en ausencia de sol.
-
-> [!CAUTION]
-> **Falta de Evidencia Sólida**: Con el conocimiento actual, no hay pruebas concluyentes de que la activación de la grasa parda genere luz UVB suficiente para una síntesis real de vitamina D. La ciencia convencional sigue sosteniendo que los UVB externos (sol/lámparas) son la única fuente efectiva. Ver [[Termogénesis inducida por el frío#Crítica y Contraargumentos Científicos]].
-
- [_Predicted vitamin D levels and risk of depression in the SUN study: A prospective cohort study_](https://www.sciencedirect.com/science/article/pii/S0022395624005533#sec5)
-
-Por mucho sol que tengamos en España, nuestros niveles de vitamina D todavía son bajos. Esto está directamente relacionado con la depresión, especialmente en mujeres. Conclusión: si tienes síntomas de depresión, generar vitamina D debería ser tu prioridad.
+- [[Luz solar]]
+- [[Luz ultravioleta]]
+- [[Óxido nítrico]]
+- [[Termogénesis inducida por el frío]]
+- [[Testosterona]]
