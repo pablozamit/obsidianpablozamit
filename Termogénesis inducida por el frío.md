@@ -45,3 +45,8 @@ La exposición al frío no sustituye a la luz solar ni a la suplementación. Par
 - [[Vitamina D]]
 - [[Mitocondria]]
 - [[Grasa parda]]
+- [[Batocinas]]
+- [[Glucosa]]
+- [[Termogénesis]]
+- [[Reflejo de inmersión]]
+- [[Duchas frías]]
