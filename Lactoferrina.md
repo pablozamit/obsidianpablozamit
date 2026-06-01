@@ -16,18 +16,21 @@ Lactoferrina podría contribuir a la [[Longevidad|longevidad]] al estimular el [
 
     ### Barrera cutánea y envejecimiento
 
-    Un estudio con **300 mg/día de lactoferrina oral durante 2 meses** mostró mejoras significativas en hidratación, reducción de arrugas y función de barrera.
+    Un estudio con **300 mg/día de lactoferrina oral durante 2 meses** mostró mejoras significativas en hidratación, reducción de arrugas y función de barrera. Un estudio mayor (330 adultos, 95% mujeres) con 200-600 mg/día encontró una mejora del **31% en hidratación** y reducción de aspereza en 8-12 semanas.
 
     **Mecanismo**: la lactoferrina entra al torrente sanguíneo → reconstruye los lípidos de la barrera desde dentro de las células → restaura el pH 5.0 (manto ácido) → la humedad queda retenida en lugar de evaporarse → la función celular se normaliza.
 
+    Cuando la barrera cutánea está colapsada, la humedad se evapora **50% más rápido**, el pH sube a **6.0+** (textura envejecida) y las cremas tópicas no penetran. La lactoferrina sistémica resuelve la causa desde dentro.
+
     **Resultados del estudio** (2 meses, 300 mg/día):
-    - Hidratación: aumentó significativamente (p<0.01)
+    - Hidratación: aumentó significativamente (p<0.01), hasta +31% en estudios mayores
     - Barrera natural: mejorada
     - Profundidad de arrugas: más superficial
     - Textura y suavidad: mejoradas
 
     **Timeline**:
     - Semana 2-4: la piel se siente menos tirante/seca
+    - Semana 6: líneas en la frente visiblemente más suaves, arrugas perioculares reducidas
     - Semana 6-8: textura más suave, barrera más fuerte
     - Mes 2-3: hidratación aumentada significativamente, arrugas más superficiales
 
