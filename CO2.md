@@ -66,6 +66,8 @@ Este estudio utilizaba una concentración de CO2 de entre el 5 y 7%; esto puede 
 -   Respirar en una bolsa de papel (Se acerca más al rango terapéutico).
 -   Combinación de ambas.
 
+**Aplicación para sueño**: La respiración en bolsa antes de dormir produce una caída casi inmediata de [[Cortisol|cortisol]], resolviendo despertares nocturnos y nocturia. Alternativa práctica a CO2 embotellado, bicarbonato o altitud para "CO2maxxing".
+
 **Cómo hacerlo**:
 
 1.  Usa una bolsa de papel limpia.

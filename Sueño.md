@@ -26,6 +26,12 @@ El estudio de [Van Dongen et al. (2003)](https://pubmed.ncbi.nlm.nih.gov/1268346
 ### Conclusión
 La necesidad de sueño es un requerimiento biológico estricto (generalmente entre 7 y 9 horas). No existe una adaptación biológica real a la restricción crónica; simplemente se pierde la capacidad de percibir el deterioro cognitivo acumulado.
 
+# Técnicas
+
+## Respiración en bolsa (bag breathing) antes de dormir
+
+Respirar en una bolsa de papel 5-10 minutos antes de acostarse eleva el [[CO2]], produciendo una caída casi inmediata de [[Cortisol|cortisol]]. Resuelve despertares nocturnos y nocturia al mejorar la oxigenación tisular y reducir la respuesta de estrés. Ver protocolo completo en [[CO2#Cómo hacerlo]].
+
 # Suplementación
 
 ## Té de sueño (Dan Go)
