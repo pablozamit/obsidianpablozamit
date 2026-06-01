@@ -45,7 +45,7 @@ Uso tópico para cabello o piel: Los productos con melatonina tópica (lociones 
 
 ## Inflamación
 
-Modulación de la inflamación y del sistema inmune: La melatonina interactúa con vías como NF-κB, NLRP3 y STAT3, ayudando a disminuir mediadores proinflamatorios y a potenciar ciertas funciones inmunitarias, lo que se ha relacionado con efectos en migraña, enfermedades inflamatorias intestinales y algunos tumores.
+Modulación de la inflamación y del sistema inmune: La melatonina interactúa con vías como NF-κB, NLRP3 y STAT3, ayudando a disminuir mediadores proinflamatorios y a potenciar ciertas funciones inmunitarias, lo que se ha relacionado con efectos en **[[Migraña]]**, enfermedades inflamatorias intestinales y algunos tumores.
 # Elementos que Destruyen la Melatonina
 
 Cosas que reducen la melatonina (resumen):

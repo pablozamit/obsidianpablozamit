@@ -8,9 +8,10 @@ Los prolactinomas son los tumores secretores más comunes de la hipófisis. Se c
 - **Prolactinomas Gigantes**: Mayores a 40 mm.
 
 ## Sintomatología y Efectos
-El exceso de prolactinoma puede asociarse con:
+El exceso de prolactina puede asociarse con:
 - **Hipogonadismo**: Reducción de hormonas sexuales y síntomas relacionados.
 - **Efectos de masa**: Dolores de cabeza (cefaleas) y alteraciones visuales debido a la presión sobre estructuras adyacentes.
+- **Migraña**: La señalización de prolactina a través de los receptores en la vía del dolor trigémino y la liberación de **[[CGRP]]** es un mecanismo independiente del efecto de masa. La **[[Migraña]]** puede ser la manifestación principal de un prolactinoma, y responde al tratamiento con agonistas dopaminérgicos.
 - **Invasividad**: Los tumores gigantes pueden extenderse hacia el seno esfenoidal, la base del cráneo o el tronco encefálico.
 
 ## Tratamiento y Manejo

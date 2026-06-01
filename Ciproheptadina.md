@@ -21,7 +21,7 @@ La [[Serotonina|serotonina]] normalmente suprime el apetito. Al bloquear los rec
 
 ### Prevención de migraña
 
-El antagonismo 5-HT2 ayuda a prevenir migrañas al reducir la inflamación neurogénica y los cambios vasculares mediados por serotonina. Popular en niños para migraña abdominal, síndrome de vómitos cíclicos, dolor abdominal funcional y dispepsia.
+El antagonismo 5-HT2 ayuda a prevenir **[[Migraña|migrañas]]** al reducir la inflamación neurogénica y los cambios vasculares mediados por serotonina. Popular en niños para migraña abdominal, síndrome de vómitos cíclicos, dolor abdominal funcional y dispepsia.
 
 ### Síndrome serotoninérgico
 

@@ -1,5 +1,11 @@
 La prolactina es una hormona peptídica segregada principalmente por la glándula hipófisis. Su exceso patológico puede estar asociado a la presencia de un **[[Prolactinoma]]**.
 
+## Papel en la migraña y cefalea
+
+La prolactina desempeña un papel central en la fisiopatología de la **[[Migraña]]** y la cefalea en racimos. Los receptores de prolactina se distribuyen en la vía del dolor trigémino, y su señalización regula la liberación de **[[CGRP]]**, una molécula clave en la patogénesis de la migraña. Estudios en roedores muestran que la prolactina induce comportamiento migrañoso y que la deleción del gen de la prolactina atenúa los síntomas inducidos por CGRP.
+
+En pacientes con cefalea en racimos, se ha observado una regulación alterada de la secreción de prolactina durante los períodos activos y durante los intervalos libres de síntomas, sugiriendo la influencia de mecanismos serotoninérgicos y dopaminérgicos.
+
 ## Formas de reducirla
 
 ·[[Vitamina E]]: especialmente el [[Alfa-tocoferol]], aunque las únicas fuentes son 1) testimoniales, 2) este artículo de Ray Peat: https://raypeat.com/articles/articles/vitamin-e.shtml
@@ -36,3 +42,12 @@ Those are some things I do/take (if you think they might not be that effective, 
 
   
 "Vitamin E (UNIQUE E) seems to make my prolactin higher! which is weird. Maybe there is some trace of soy in it".
+
+## Ver también
+
+- [[Migraña]]
+- [[CGRP]]
+- [[Prolactinoma]]
+- [[Cabergolina]]
+- [[Bromocriptina]]
+- [[Dopamina]]
