@@ -18,4 +18,13 @@ Se ha identificado un tipo específico de [[Vitamina E|vitamina E]] conocida com
 
 ## ·[[Potasio]]
 
+# Reparación del ADN
+
+El consumo de 1 kiwi al día aumenta significativamente la reparación del ADN y reduce el daño oxidativo existente. El mecanismo es dual:
+
+1. **Mejora del sistema antioxidante**: la vitamina C, polifenoles, flavonoides y otros compuestos bioactivos reducen la formación de daño oxidativo.
+2. **Estimulación de la reparación por escisión de bases (BER)**: activa la eliminación de 8-oxoguanina, el daño oxidativo más frecuente en el ADN.
+
+Este beneficio no se debe a un solo nutriente sino a la sinergia de toda la matriz alimentaria del kiwi.
+
 # Otros Usos
