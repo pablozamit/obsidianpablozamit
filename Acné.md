@@ -21,7 +21,7 @@ Las principales causas del acné incluyen:
 Los tratamientos para el acné se enfocan en reducir la producción de [[Sebo]], eliminar las [[Bacterias]], destapar los [[Poros]] y disminuir la [[Inflamación]].
 
 -   **Tratamientos Tópicos (aplicados en la [[Piel]]):**
-    -   [[Retinoides]] (adapaleno, tretinoína, tazaroteno): Ayudan a desbloquear los [[Poros]].
+    -   [[Retinoides]] ([[Tretinoína|adapaleno, tretinoína]], tazaroteno): Ayudan a desbloquear los [[Poros]].
     -   [[Peróxido de benzoilo]]: Elimina [[Bacterias]] y remueve [[Células]] muertas, reduciendo la [[Inflamación]].
     -   [[Antibióticos]] tópicos (eritromicina, clindamicina): Ayudan a controlar la [[Bacterias|bacteria]] *P. acnes*.
     -   [[Ácido azelaico]]: Posee propiedades [[Antibióticos|antibióticas]] y es eficaz para el acné.
