@@ -38,6 +38,18 @@ Lactoferrina podría contribuir a la [[Longevidad|longevidad]] al estimular el [
 
 ### Efecto Anti-Obesidad
 
-En un ensayo clínico, personas tomando 300 mg de lactoferrina perdieron más del 12% de grasa visceral, mientras que el control perdió menos del 2%. El área total de grasa se redujo más del doble en el grupo de lactoferrina.
+La lactoferrina reduce la grasa visceral mediante un mecanismo dual: bloquea la síntesis de nuevas grasas y acelera la degradación de las existentes. Reduce la expresión de genes que crean nuevos adipocitos y aumenta [[cAMP]], señal de movilización de grasas.
 
-Sin cambios en dieta o estilo de vida. Esto probablemente se debe a sus efectos antiinflamatorios y capacidad de unirse directamente a endotoxinas.
+En un ensayo clínico, personas tomando 300 mg de lactoferrina perdieron más del **12% de grasa visceral**, mientras que el control perdió menos del 2%. El área total de grasa se redujo más del doble en el grupo de lactoferrina, con una reducción de **14.6 cm² de área de grasa visceral en 8 semanas** y **3-4 cm de cintura**.
+
+Sin cambios en dieta o estilo de vida. Esto probablemente se debe a sus efectos antiinflamatorios y capacidad de unirse directamente a endotoxinas. También reduce el apetito de forma natural (sin estimulantes).
+
+#### Protocolo de inicio progresivo (Healthy Alfred)
+
+Para evitar molestias digestivas, escalar la dosis gradualmente:
+
+- Semana 1: 15 mg/día
+- Semana 2: 30 mg/día con comida
+- Semana 3: 60 mg/día con comida
+- Semana 4: 120 mg/día con comida
+- Semana 5+: 240-300 mg/día con comida
