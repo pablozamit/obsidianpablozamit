@@ -45,7 +45,7 @@ Fenelzina, **[[Fenogreco|fenogreco]]**, [[Café|café]], tranilcipromina, isocar
 [[Azul de metileno]], pirlindol, [[Hierba de San Juan]], [[Quercetina]], moclobemida.
 
 ### Selectivos MAO-B
-Safinamida, [[Resveratrol]], EGCG ([[Té verde]]), rasagilina.
+[[Selegilina]], safinamida, [[Resveratrol]], EGCG ([[Té verde]]), rasagilina.
 
 ## Señales de alta actividad MAO
 

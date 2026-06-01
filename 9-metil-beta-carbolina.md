@@ -89,4 +89,4 @@ Basado en el protocolo personal de BasedBiohacker (abril 2026), que combina 9-Me
 
 Este protocolo es experimental y no constituye recomendación médica.
 
-Ver también: [[Dopamina]], [[Células dopaminérgicas]], [[Nootrópicos]], [[Bromantano]], [[Monoamino oxidasas (MAO)]], [[Neuroinflamación]]
+Ver también: [[Dopamina]], [[Células dopaminérgicas]], [[Nootrópicos]], [[Bromantano]], [[Selegilina]], [[Monoamino oxidasas (MAO)]], [[Neuroinflamación]]
