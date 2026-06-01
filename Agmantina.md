@@ -1,4 +1,4 @@
-La Agmatina es una amina biogénica que el organismo produce a partir del aminoácido arginina mediante la enzima arginina descarboxilasa, y actúa como neuromodulador con efectos sobre varios sistemas del cerebro y del cuerpo.
+La Agmatina es una amina biogénica que el organismo produce a partir del aminoácido arginina mediante la enzima arginina descarboxilasa, y actúa como neuromodulador con efectos sobre varios sistemas del cerebro y del cuerpo. Ver [[Agmatina]] para información más completa.
 
 Qué hace: modula receptores y sistemas como los imidazólicos, α2-adrenérgicos y NMDA, puede inhibir la óxido nítrico sintasa neuronal y participar en la regulación del dolor, el estado de ánimo, la neuroprotección y la función cardiovascular.
 
