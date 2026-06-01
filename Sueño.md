@@ -28,7 +28,17 @@ La necesidad de sueño es un requerimiento biológico estricto (generalmente ent
 
 # Suplementación
 
-[[Glicina]] + [[Magnesio]] (5-10 gramos + 100 a 1000 mg).
+## Té de sueño (Dan Go)
+
+Infusión 2 horas antes de dormir con:
+
+- **[[Manzanilla]]** — relajante (apigenina, agonista GABAérgico suave)
+- **[[Glicina]]** — mejora calidad del sueño, reduce temperatura corporal para facilitar fases profundas
+- **Electrolitos** — mejoran la absorción de agua, evitando despertar para orinar (nocturia)
+
+Combinado con **[[Magnesio|glicinato de magnesio]]** para amplificar el efecto. Resultados inmediatos según reporte.
+
+## [[Glicina]] + [[Magnesio]] (5-10 gramos + 100 a 1000 mg).
 
 - **[[Taurina]]**: Reduce el cortisol nocturno en un 19%, ayudando a "apagar" el sistema de estrés y facilitando la entrada en sueño profundo. Dosis: 1-2 g en la cena/antes de dormir.
 - **Combo de Inducción al Sueño**:
