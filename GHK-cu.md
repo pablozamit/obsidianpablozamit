@@ -34,6 +34,8 @@ Otros:
 
 El AHK-Cu es otro péptido de cobre relacionado que incrementa los factores de crecimiento y ayuda a revertir el adelgazamiento del [[Cabello|cabello]].
 
+Forma parte del stack "Klow" junto con [[BPC-157]], [[TB500]] y [[KPV]], para recuperación general, piel, salud articular y reparación intestinal.
+
 # Dónde Conseguirlo:
 
 (Sección para dónde conseguirlo, sin enlaces directos)
