@@ -30,6 +30,9 @@ Las erecciones permanentes, el encogimiento escrotal (que se da también en nive
 
 ## Vías de regulación
 
+### Progesterona (dosis bajas)
+La [[Progesterona|progesterona]] a dosis bajas incrementa la expresión de 5α-reductasa en el cerebro, potenciando la producción de neuroesteroides ([[Alopregnanolona|alopregnanolona]], [[5α-dhp|5α-DHP]], androsterona).
+
 ### Glicina
 La [[Glicina]] parece regular al alza de forma potente la actividad de la 5-alfa reductasa (5-AR).
 
