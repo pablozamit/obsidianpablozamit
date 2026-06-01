@@ -12,4 +12,22 @@ Esta "adicción" al sol no es accidental, sino diseñada evolutivamente. La expo
 - Liberación de [[Óxido nítrico]]
 - Estimulación [[Mitocondria|mitocondrial]] mediada por [[Luz infrarroja]]
 
-Ver también: [[Luz solar]], [[Helioterapia]], [[Terapia de luz roja]]
+## Luz violeta (410 nm) y fotorecepción corneal
+
+El cuerpo recluta la luz como herramienta de curación a nivel molecular. La córnea, tras una lesión, **sobrexpresa el fotorreceptor Opn5** (opsina 5), volviéndose ávida de luz violeta (~410 nm). Esto demuestra que el cuerpo es fotosensible a nivel tisular, no solo a través del eje ojo → núcleo supraquiasmático ([[Ritmo circadiano|NSQ]]).
+
+### Fotorecepción periférica
+
+La córnea detecta luz localmente y ejecuta sus propios programas circadianos e inmunes mediante **fotorecepción periférica**, independiente de la vía visual clásica. La [[Melanopsinas|melanopsina]] no es el único fotopigmento extra-retiniano; Opn5 en la córnea es otro ejemplo de fotosensibilidad directa en tejidos.
+
+### Ritmicidad necesaria
+
+El efecto curativo no ocurre con luz constante: solo el **ciclo luz violeta/oscuridad** acelera la cicatrización. La oscilación circadiana es un requisito, no un acompañamiento.
+
+### Implicaciones
+
+- Las gafas de sol que bloquean UV también filtran el violeta (~410 nm), privando a la córnea de esta señal curativa.
+- El tratamiento del **queratocono** con riboflavina (B2) + UV-A es una aplicación clínica que ya usa luz violeta/UV para fortalecer la córnea.
+- La luz violeta a 410 nm también se ha relacionado con la eliminación de bacterias asociadas a [[Enfermedad de Alzheimer|Alzhéimer]] (P. gingivalis) presentes en la cavidad oral.
+
+Ver también: [[Luz solar]], [[Helioterapia]], [[Terapia de luz roja]], [[Ritmo circadiano]]

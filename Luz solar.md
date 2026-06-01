@@ -2,7 +2,7 @@ El espectro electromagnético de la luz del Sol contiene:
 
 -   [[Luz infrarroja]] (produce [[Melatonina]]). Invisible.
 -   Fotones del espectro visible.
--   [[Luz ultravioleta]] (síntesis de [[Vitamina D]], liberación de [[Óxido nítrico]] y producción de [[Luz ultravioleta#Biología de la Adicción a la Luz Solar|β-endorfina]]). Invisible.
+-   [[Luz ultravioleta]] y **luz violeta** (~410 nm) (síntesis de [[Vitamina D]], liberación de [[Óxido nítrico]], producción de [[Luz ultravioleta#Biología de la Adicción a la Luz Solar|β-endorfina]], y activación del fotorreceptor corneal [[Luz ultravioleta#Luz violeta (410 nm) y fotorecepción corneal|Opn5]] para cicatrización). Invisible.
 
 ## Penetración del NIR Solar en el Cuerpo
 
