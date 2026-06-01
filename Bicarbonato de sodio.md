@@ -8,13 +8,18 @@ El [[cAMP]] estimula la producción de la enzima PKA (proteína cinasa A), que r
 
 El bicarbonato de sodio actúa como un búfer del pH, haciendo que los músculos sean más alcalinos durante el entrenamiento. Esto puede aumentar el uso de oxígeno y, en consecuencia, el rendimiento y la fuerza.
 
+## Mejora de la función tiroidea
+
+En pacientes con enfermedad renal crónica y acidosis metabólica, el bicarbonato eleva el CO2 sérico a niveles normales (≥24 mM), aumentando las hormonas tiroideas [[T3]] y [[T4]].
+
 ## Efecto Antiinflamatorio e Inmunomodulador
 
 Investigaciones recientes han demostrado que el bicarbonato de sodio activa una vía antiinflamatoria a través del bazo y las células mesoteliales (células que recubren los órganos).
 
 ### Modulación del Sistema Inmunitario
 - **Polarización de Macrófagos**: El consumo de bicarbonato desplaza el equilibrio de los macrófagos (un tipo de célula inmunitaria) desde un estado **M1** (pro-inflamatorio o de "ataque") hacia un estado **M2** (anti-inflamatorio o de "reparación").
-- **Reducción de Citoquinas**: Se ha observado una disminución significativa en el **TNF-α** (una proteína que promueve la inflamación) y un aumento en los linfocitos T reguladores (células que ayudan a mantener el orden en el sistema inmune).
+- **Reducción de Citoquinas**: Se ha observado una disminución significativa en el **TNF-α** y un aumento en los linfocitos T reguladores **FOXP3+CD4+** en bazo, sangre y riñones.
+- **Vía colinérgica mesotelial**: Las señales antiinflamatorias se transmiten al bazo mediante células mesoteliales que actúan como una extensión neuronal.
 - **Aplicaciones Potenciales**: Esta respuesta sugiere que el bicarbonato podría ser una herramienta segura y económica para tratar enfermedades inflamatorias y autoinmunas, como la artritis reumatoide o la enfermedad inflamatoria intestinal (IBD).
 
 ### Protocolo de Estudio (Humano)
