@@ -1,3 +1,21 @@
+# Tiroides (suplemento)
+
+Suplementos de hormona tiroidea, incluyendo T3 sintética y tiroides desecado natural (NDT).
+
+## NDT (Natural Desiccated Thyroid)
+
+El NDT es tiroides bovino desecado de pasto (grass-fed), que contiene T4, T3 y otras hormonas tiroideas en proporción natural. Se presenta en polvo (1–2 scoop/día).
+
+### Beneficios reportados
+
+- Aumento de la tasa metabólica → pérdida de peso (hasta 3 kg en 2 semanas sin cambiar dieta/ejercicio)
+- Energía estable durante todo el día (sin bajón vespertino)
+- Mejora del estado de ánimo, enfoque y motivación
+- Manos y pies más calientes (mejora de la termorregulación)
+- Mañanas más fáciles (menos resistencia al despertar)
+- Señales de hambre normalizadas
+
+Ver [[Hipotiroidismo]] y [[Tiroides (glándula)]].
 
 ## Efectos testimoniales
 
@@ -19,5 +37,12 @@ Casi 2 semanas en T3, esto es lo que he notado hasta ahora.
 
 ## Formatos y marcas
 
-Armour Thyroid
-WP-Thyroid
+- Armour Thyroid (porcino)
+- WP-Thyroid (porcino)
+- Life Giving Store Grass Fed Beef Thyroid (bovino, NDT en polvo)
+
+## Ver también
+
+- [[Hipotiroidismo]]
+- [[Tiroides (glándula)]]
+- [[Prolactina]]
