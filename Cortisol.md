@@ -30,6 +30,10 @@ El estudio sugiere que el cortisol en [[Cabello|cabello]] y saliva podría utili
 
 # Cómo Disminuirlo
 
+## [[Emodina]]
+
+La emodina (presente en [[Cáscara sagrada]]) inhibe la enzima 11β-HSD1 que convierte cortisona inactiva en [[Cortisol|cortisol]] activo [PMID: 20962821].
+
 ## [[Ashwagandha]]
 
 300-500 mg de extracto al día, soluble en agua, los efectos aumentan si se consume regularmente.
