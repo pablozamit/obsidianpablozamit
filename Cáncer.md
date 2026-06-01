@@ -32,11 +32,17 @@ Ciertas longitudes de onda de luz —especialmente [[Luz infrarroja|NIR 734 nm]]
 
 Ver sección completa en [[Terapia de luz roja#Fotobiomodulación y Cáncer]]
 
+## Estiramiento y reducción de tumores
+
+El estiramiento diario reduce el crecimiento tumoral. Un estudio en ratones de 2018 mostró que **10 minutos diarios de estiramiento** redujeron el volumen de tumores mamarios en un **52%** (p<0.001). El mecanismo implica la activación de respuestas inmunitarias y la elevación de mediadores pro-resolución.
+
+El efecto está mediado por la **[[Fascia]]**: la red fascial contiene colágeno y microtúbulos con propiedades piezoeléctricas que convierten la tensión mecánica del estiramiento en señales bioeléctricas, modulando la inflamación y la función inmune.
+
 ## Ejercicio de alta intensidad
 
 El suero sanguíneo de hombres tras una sesión de ejercicio de alta intensidad mata células cancerosas en cultivo, sin afectar células sanas (P.D. Mangan, 2023). El mecanismo implica factores transmitidos por la sangre inducidos por el ejercicio. Cada sesión de ejercicio intenso inhibe el cáncer.
 
-Ver también: [[Ejercicios]], [[Efecto Warburg]], [[Metabolismo oxidativo]]
+Ver también: [[Ejercicios]], [[Efecto Warburg]], [[Metabolismo oxidativo]], [[Fascia]]
 
 ## Estudios sin Ordenar
 

@@ -21,7 +21,7 @@ Cualquier factor que reduzca la producción de [[ATP]] contribuye a la tensión 
 
 ## Tensigridad y localización del problema
 
-El músculo y la fascia forman una estructura viva de tensigridad (*tensegrity*): al presionar un punto, la tensión se redistribuye a lo largo de toda la estructura. Si empujas en un sitio, el área que soporta más estrés suele estar en otro lugar. Los músculos visiblemente tensos **no son necesariamente donde está el problema**, sino donde la tensión se manifiesta.
+El músculo y la [[Fascia]] forman una estructura viva de tensigridad (*tensegrity*): al presionar un punto, la tensión se redistribuye a lo largo de toda la estructura. Si empujas en un sitio, el área que soporta más estrés suele estar en otro lugar. Los músculos visiblemente tensos **no son necesariamente donde está el problema**, sino donde la tensión se manifiesta.
 
 ## Implicaciones prácticas
 
@@ -32,4 +32,4 @@ La mayoría de los músculos crónicamente tensos son aquellos a los que se les 
 1. Realizan un papel que no están diseñados para hacer (desequilibrio postural)
 2. No tienen suficiente energía disponible (déficit metabólico)
 
-Ver también: [[ATP]], [[Mitocondria]], [[Calcio]], [[Magnesio]], [[Potasio]], [[T3]], [[CO2]], [[Vitamina B1]], [[Metabolismo oxidativo]], [[Ejercicios de respiración]]
+Ver también: [[ATP]], [[Mitocondria]], [[Calcio]], [[Magnesio]], [[Potasio]], [[T3]], [[CO2]], [[Vitamina B1]], [[Metabolismo oxidativo]], [[Ejercicios de respiración]], [[Fascia]]
