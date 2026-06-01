@@ -31,6 +31,34 @@ El **agua de arroz** es un remedio natural con diversos beneficios y usos, tanto
 -   **Da [[Volumen]]:** Puede crear un efecto visual de mayor [[Densidad]] y [[Grosor]] en el [[Cabello]].
 -   **Protege el [[Cabello]]:** Ayuda a proteger el [[Cabello]] de los efectos nocivos del [[Sol]] y la [[Contaminación]].
 
+## Beneficios para la Salud Dental
+
+El agua de arroz también se usa para el blanqueamiento y fortalecimiento dental:
+
+### Preparación específica para dientes
+- ½ taza de arroz + 1 taza de agua limpia.
+- Remover con la mano 30–40 segundos hasta que el agua se vuelva turbia.
+- Colar y guardar el agua blanca en un frasco limpio.
+
+### Cómo usar
+- Por la noche, después del cepillado habitual, mojar el cepillo en agua de arroz y cepillar suavemente durante **2 minutos**.
+- No enjuagar inmediatamente: esperar **5–10 minutos** para máxima absorción de minerales.
+- Frecuencia: **2–3 veces por semana** (no a diario, puede causar sensibilidad).
+- Potenciador opcional: añadir una pizca de sal marina o bicarbonato una vez por semana.
+- El agua de arroz **fermentada (12–24 h)** da un efecto blanqueador más fuerte.
+
+### Precauciones
+- No daña el esmalte cuando se usa 2–3 veces por semana.
+- El uso diario no está recomendado; puede causar sensibilidad.
+
+### Consejos complementarios
+- Usar **arroz integral** para mayor contenido mineral.
+- Reducir consumo de café/té para evitar manchas.
+- Complementar con hilo dental y raspado lingual.
+- Comer una manzana o apio después de las comidas para limpieza natural.
+
+Ver [[Salud dental]] e [[Higiene dental]].
+
 ## Cómo Preparar Agua de Arroz
 
 Existen varias formas de preparar agua de [[Arroz]]:
