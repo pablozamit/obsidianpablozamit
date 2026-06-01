@@ -36,3 +36,7 @@ Estudios muestran que una megadosis reduce las toxinas intestinales hasta un **4
 - [[Toxina]]
 - [[Probióticos]]
 - [[Lipopolisacáridos]]
+- [[Clorela]]
+- [[Enterosgel]]
+- [[Zeolita]]
+- [[Pectina cítrica modificada]]

@@ -61,6 +61,12 @@ Algunos estudios preliminares indican que la zeolita clinoptilolita puede **redu
 - **Calidad**: Solo consumir zeolita **grado médico o suplementario**, ya que algunas fuentes naturales pueden estar contaminadas con metales como plomo.
 
 
+## Precauciones específicas
+
+### Zeolita nano y aluminio
+
+Existe preocupación sobre la **zeolita nano** (nanopartículas): su estructura ultrafina podría teóricamente depositar **aluminio** en el cerebro. Aunque la zeolita clinoptilolita convencional no se absorbe y actúa solo en el tracto digestivo, el tamaño nanométrico de algunas formulaciones plantea un riesgo teórico de absorción sistémica. Hasta que se demuestre que esto no ocurre, algunos prefieren otros binders.
+
 ## Calidad de los suplementos de zeolita
 
 Se recomienda:
@@ -74,3 +80,11 @@ Se recomienda:
 - **EE. UU.** (por ejemplo, clinoptilolita del estado de Nuevo México)
     
 - **Europa (especialmente Eslovaquia, Hungría y Croacia)** → muy rica en clinoptilolita y con controles más estrictos
+
+## Ver también
+
+- [[Clorela]]
+- [[Carbón activado]]
+- [[Enterosgel]]
+- [[Pectina cítrica modificada]]
+- [[Metales pesados]]

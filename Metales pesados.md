@@ -4,7 +4,7 @@ Esta página web contiene muchos análisis independientes de productos y supleme
 
 ## Cómo Eliminarlos
 
-[[Cilantro]] y clorela.
+[[Cilantro]] y [[Clorela]].
 
 [[Tamarindo]]
 
