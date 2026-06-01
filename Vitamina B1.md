@@ -1,6 +1,22 @@
 Tiamina.
 
-Benfotiamina sería la ideal, puesto que la mejor versión, apenas la hay, sería la TTFD. Hay una web que vende Thiamax, para mí el mejor suplemento de B1. Tarda en llegar y es más cara. Pero sabemos que atraviesa la [[Barrera hematoencefálica]] y es ultraefectiva. La benfotiamina es una excelente versión también (Carlos Stro)
+## Formas de suplementación
+
+### Benfotiamina
+Forma liposoluble de tiamina con mejor absorción que la HCL. Buena opción general.
+
+### TTFD (Tetrahidrofurfuril disulfuro de tiamina)
+Atraviesa la [[Barrera hematoencefálica]] y es ultraefectiva. Vendida como Thiamax. Tarda en llegar y es más cara. (Carlos Stro)
+
+### Dibenzoyltiamina (DBT)
+Derivado de tiamina considerado por algunos como el más potente por su combinación de propiedades:
+- **Antioxidante**: más potente que otras formas
+- **Antiinflamatorio**
+- **Neuroprotección**
+- **Penetración celular**: alta capacidad de entrega a la célula
+- Eficaz a dosis más bajas que otras formas
+
+Actualmente es caro (~75 USD/día) y solo está disponible en laboratorios de investigación para pruebas analíticas (ultrapuro). No es una opción práctica para el público general (Morph, 2026).
 
 Según [[Ray Peat]], combinar B1 + [[Cafeína]] te hará recordar todo.
 
