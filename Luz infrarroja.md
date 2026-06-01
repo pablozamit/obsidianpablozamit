@@ -10,7 +10,20 @@ La radiación infrarroja (IR) es radiación electromagnética con longitudes de 
 
 La longitud de onda de **734 nm** (NIR) ha demostrado capacidad para inducir senescencia en células cancerosas (10%–203%) sin afectar células sanas, modulando la homeostasis [[Mitocondria|mitocondrial]] (aumento de ROS y potencial de membrana).
 
-Ver también: [[Cáncer]]
+## NIR y tiroiditis de Hashimoto
+
+La fotobiomodulación con luz NIR combinada con suplementos tiroideos muestra resultados notables en pacientes con [[Hipotiroidismo]] autoinmune (Hashimoto) [PMID: 32186976]:
+
+| Marcador | Cambio |
+|---|---|
+| [[T3]] | +53% |
+| Anticuerpos TPO (TPOAb) | -73% |
+| Dosis de levotiroxina (T4) | -50% |
+| Pacientes que dejaron T4 | 28% |
+
+Las propiedades antiinflamatorias de la luz NIR reducen la [[Inflamación]] tiroidea, mejoran la relación T3/T4 y alivian los síntomas. Master Metabolism lo describe como "el tratamiento más efectivo para el Hashimoto".
+
+Ver también: [[Cáncer]], [[Hipotiroidismo]], [[T3]], [[Luz solar]]
 
 ## Fuentes de luz infrarroja
 
