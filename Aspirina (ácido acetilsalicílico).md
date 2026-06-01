@@ -47,7 +47,7 @@ Ver: [[Protección Gástrica y Protocolo de Ingesta]] para el protocolo con bica
 
 ### Efecto sobre la [[Prolactina]] y el [[Período refractario]]
 
--   ¿Disminuye la [[Prolactina]] y el [[Período refractario]]?
+- Disminuye la [[Prolactina|prolactina]], lo que acorta el [[Período refractario]] post-eyaculatorio.
 -   "Literalmente estoy listo para volver a empezar un minuto después del [[Clímax]]."
 
 ### Protección Gástrica y Protocolo de Ingesta
@@ -67,6 +67,17 @@ Aunque se suele exagerar el riesgo de sangrado, las dosis altas pueden causar ir
 -   "Una de las consecuencias de la [[Inflamación]] es la [[Hiperglucemia]], y la [[Aspirina]] ayuda a corregirla (Yuan et al. 2001)".
 
 ## Beneficios
+
+### Desacoplamiento mitocondrial y termogénesis
+
+La aspirina desacopla la [[Mitocondria|fosforilación oxidativa mitocondrial]], aumentando la velocidad del metabolismo y la producción de calor corporal (termogénesis). Este efecto es aditivo con la [[Café|cafeína]] y comparable en magnitud al del DNP (dinitrofenol), pero con un perfil de seguridad mucho más favorable (ver [[Mitocondria#Aspirina y cafeína]]).
+
+Al desviar el metabolismo hacia la [[Glucosa|oxidación de glucosa]] en lugar de [[Ácidos grasos poliinsaturados (PUFAS)|grasas]], incrementa la producción de [[CO2]], que actúa como:
+- Vasodilatador sistémico (mejora el flujo sanguíneo y el oxígeno tisular)
+- Antiinflamatorio directo (reduce la acidosis y el lactato)
+- Facilitador del rendimiento físico (los músculos trabajan más tiempo con menos dolor)
+
+Este cambio metabólico —de [[Glucólisis|glucólisis anaeróbica]] a respiración oxidativa— es la base de su potencial terapéutico en enfermedades con metabolismo glucolítico disfuncional como [[Cáncer]] y [[Diabetes]].
 
 ### Efecto protiroideo
 
