@@ -33,6 +33,15 @@ Consiste en asignar información a lugares conocidos en una ruta familiar. Cuant
 
 La memoria se fortalece no al ver la información, sino al esforzarse por traerla de vuelta. Métodos como el "blurting" (volcar el cerebro), que consiste en escribir o verbalizar todo lo que se recuerda sobre un tema sin consultar notas, identifican las áreas que necesitan ser reforzadas.
 
+### Shadow Study
+
+1. Lee solo encabezados y subtítulos (sin notas ni subrayar).
+2. Cierra el libro.
+3. Escribe de memoria qué dice cada sección (te sentirás perdido — es el punto).
+4. Abre y corrige los huecos.
+
+Funciona porque fuerza la recuperación real de información (efecto testing), no solo reconocimiento pasivo. La retención y el rendimiento son muy superiores a la relectura pasiva.
+
 Hacer exámenes repetidamente; por ejemplo, varios tests al día, con mayor frecuencia de preguntas falladas.
 ## 10 Preguntas para Mejorar Cualquier Habilidad Rápidamente
 
