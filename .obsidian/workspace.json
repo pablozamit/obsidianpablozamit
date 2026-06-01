@@ -159,11 +159,17 @@
       "digitalgarden:Digital Garden Publication Center": false,
       "diff-sender:Enviar cambios a n8n": false,
       "yet-another-obsidian-synchronizer:YAOS": false,
-      "gemini-scribe:Gemini Scribe: Agent Mode": false
+      "gemini-scribe:Gemini Scribe: Agent Mode": false,
+      "periodic-notes:Open this week": false
     }
   },
   "active": "c32367278fa9c54f",
   "lastOpenFiles": [
+    "Tromboxano.md",
+    "Estimulantes.md",
+    "Corteza prefrontal.md",
+    "Goma de masilla (mastic).md",
+    "AGENTS.md",
     "Magnesio.md",
     "Butea Superba.md",
     "gemini-scribe/Agent-Sessions/Estrategias para optimizar GABA.md",
@@ -187,11 +193,6 @@
     "Sin título 12.md",
     "Sin título 13.md",
     "Sin título 14.md",
-    "Sin título 15.md",
-    "Sin título 16.md",
-    "Sin título 17.md",
-    "Sin título 18.md",
-    "Sin título 19.md",
     "gemini-scribe/example-prompts.json",
     "gemini-scribe/Agent-Sessions",
     "gemini-scribe/Prompts",

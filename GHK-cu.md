@@ -27,6 +27,12 @@ Otros:
 -   Reduce la [[Inflamación|inflamación]] de la [[Piel|piel]].
 -   Aumenta el crecimiento/espesor del [[Cabello|cabello]].
 -   Aumenta el tamaño de los folículos pilosos.
+-   Ayuda a reconstruir los vasos sanguíneos del folículo piloso.
+-   Repara el ADN de las células foliculares.
+
+## AHK-Cu
+
+El AHK-Cu es otro péptido de cobre relacionado que incrementa los factores de crecimiento y ayuda a revertir el adelgazamiento del [[Cabello|cabello]].
 
 # Dónde Conseguirlo:
 
