@@ -68,6 +68,10 @@ Aunque se suele exagerar el riesgo de sangrado, las dosis altas pueden causar ir
 
 ## Beneficios
 
+### Efecto protiroideo
+
+La aspirina en dosis altas (2g+ al día) libera la hormona tiroidea unida a proteínas transportadoras en sangre, aumentando su disponibilidad para las células. Esto produce un efecto similar —aunque más suave— al de suplementar con hormona tiroidea directamente. Mecanismo descrito por Ray Peat y reportado por Metabolic Blueprint.
+
 ### Rendimiento Físico y Resistencia
 
 La aspirina mejora el metabolismo de la [[Glucosa]], reduce el lactato durante el ejercicio y aumenta la resistencia [PMID: 18824931, 32269652]. Se ha estudiado como pretratamiento eficaz para el ejercicio en esclerosis múltiple [PMID: 29076760].
