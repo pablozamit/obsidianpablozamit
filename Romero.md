@@ -1,6 +1,14 @@
 
 # Beneficios
 
+## Protección antioxidante al freír
+
+Añadir romero (0.5% p/v, ~5g de polvo por litro de aceite) al freír reduce significativamente la oxidación de los aceites, disminuyendo hasta un **74% la formación de compuestos dañinos** (aldehídos, peróxidos). Efectivo tanto en aceites vírgenes (oliva, coco) como refinados.
+
+El mecanismo se debe a los antioxidantes fenólicos del romero ([[Ácido carnósico|carnósico]], rosmarínico, carnosol) que secuestran radicales libres durante la fritura, evitando la degradación oxidativa de los ácidos grasos.
+
+Ver también: [[Ácido carnósico]], [[Ácidos grasos poliinsaturados (PUFAS)]]
+
 ## Posiblemente [[Estrógeno||antiestrogénico]]:
 
 ![[Pasted image 20230331060209.png]]
