@@ -1,4 +1,8 @@
-La **ibogaína** es un alcaloide derivado de la planta *Tabernanthe iboga*, nativa de África Occidental, y se ha estudiado por su potencial como tratamiento para diversas adicciones, incluyendo opioides, cocaína y otras sustancias.
+La **ibogaína** es un alcaloide derivado de la planta *Tabernanthe iboga* (iboga), un arbusto perenne nativo de las selvas de África Central (Gabón, Congo), usado tradicionalmente en rituales espirituales y de iniciación.
+
+## Historia del descubrimiento
+
+En 1962, **Howard Lotsof**, un neoyorquino de 19 años adicto a la heroína, probó ibogaína por curiosidad. Tras 36 horas, despertó sin síntomas de abstinencia ni craving. Repitió el experimento en seis amigos adictos: cinco tuvieron el mismo resultado. Lotsof pasó los siguientes 48 años intentando que se aprobara como medicina. Murió en 2010 sin lograrlo. Sus datos iniciales han sido replicados y hoy se considera el tratamiento para adicciones más prometedor jamás descubierto.
 
 ### Beneficios Probados
 
