@@ -6,7 +6,7 @@ Tiamina.
 Forma liposoluble de tiamina con mejor absorción que la HCL. Buena opción general.
 
 ### TTFD (Tetrahidrofurfuril disulfuro de tiamina)
-Atraviesa la [[Barrera hematoencefálica]] y es ultraefectiva. Vendida como Thiamax. Tarda en llegar y es más cara. (Carlos Stro)
+Atraviesa la [[Barrera hematoencefálica]] y es ultraefectiva. Vendida como Thiamax (100 mg). Tarda en llegar y es más cara. Bypassea los transportadores TTP1/TTP2, por lo que su absorción no depende de la expresión de estos. Dosis típica: 100 mg/día. (Carlos Stro, Meat Head)
 
 ### Dibenzoyltiamina (DBT)
 Derivado de tiamina considerado por algunos como el más potente por su combinación de propiedades:
@@ -62,6 +62,11 @@ Dosages I used was 100-400mg daily"
 7. Oral absorption of _Thiamine_ is very low as uptake depends on enzymes TTP1 and TTP2. These enzymes are less expressed in a lot of individuals. 50mg of ups _thiamine_ dissolved in water injected with an insulin syringe made of plastic is amazing.
 8. You haven't taken _thiamine_ unless you inject it. IV or subcutaneous. You will see the light :)
 9. [[Café|Coffee]] has _thiamine_ antagonists blocking carbohydrate metabolism. I had to stop drinking coffee made me to tired. Pur caffeine and coke make no problem at all.
+
+10. **Testimonio con TTFD 100 mg (Meat Head, 2026)**: 
+    - Día 1: aumento de energía claro ~3-4 h después de tomar
+    - Día 2: mismo efecto, pero a la 1 h
+    - Días 3-7: sin pico energético notable, pero línea base de energía consistentemente más alta; cardio más fácil; cambios sutiles en apetito (comer se siente más opcional que necesario)
 
 # Contraindicaciones
 
