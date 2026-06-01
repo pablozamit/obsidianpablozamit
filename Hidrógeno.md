@@ -1,4 +1,10 @@
 
+**El agua hidrogenada alarga los telómeros en adultos de 70+ años** 
+
+Un ensayo controlado aleatorizado de 6 meses en 40 adultos de 70+ años encontró que el grupo que bebió agua hidrogenada experimentó **crecimiento de los telómeros**, mientras que el grupo con agua normal los **acortó**. Además, el grupo de hidrógeno mostró mejoría en metabolitos cerebrales en la materia gris frontal (memoria y función ejecutiva) y mejor rendimiento físico (Jake Gilman, 2026).
+
+Los [[Telómeros]] son las tapas protectoras al final del ADN; se acortan con cada división celular. Cuando son demasiado cortos, la célula se vuelve senescente. El alargamiento de telómeros se asocia con menor riesgo de enfermedades relacionadas con la edad.
+
 **Beneficios del Hidrógeno en la Recuperación del Ejercicio y Marcadores Biológicos** 
 
 Un estudio reciente en adultos mayores que bebieron agua rica en hidrógeno durante un protocolo de entrenamiento de resistencia mostró una reducción de los marcadores de daño muscular, una mejora en los lípidos sanguíneos y una recuperación mejorada, sin afectar la fuerza muscular. Tyler Leber y Alex Tarnava son coautores de otro estudio en atletas de élite que demostró efectos similares, con una reducción significativa de la creatina quinasa y la mioglobina en el grupo de hidrógeno, junto con una regulación de la respuesta del cortisol y un aumento de la testosterona libre y la DHEA. 
@@ -36,4 +42,6 @@ Las unidades de inhalación de hidrógeno utilizadas en ensayos clínicos a menu
 **Efectos del Hidrógeno en el Cerebro y la Calidad del Sueño** 
 
 El hidrógeno tiene un impacto significativo en el cerebro, y la práctica de la respiración controlada junto con la inhalación de hidrógeno puede mejorar la claridad mental y la capacidad de concentración. Además, se ha observado que la inhalación de hidrógeno mejora la calidad del sueño, ayudando a las personas a conciliar el sueño más rápido y a permanecer dormidas por más tiempo.
+
+Ver también: [[Agua Kangen]], [[Antioxidantes]], [[Longevidad]], [[Epitalon]]
 
