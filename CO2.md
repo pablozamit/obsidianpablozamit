@@ -117,6 +117,10 @@ Suspende la técnica si sientes incomodidad.
 
 
 
+### Cicatrización ósea con CO2
+
+El CO2 absorbido por vía tópica acelera la cicatrización ósea. En 4 semanas, la tasa de curación fue **4× mayor con CO2** (72% vs 18% en controles), con mejoras en parámetros biomecánicos. Ver [[Bicarbonato de sodio#Cicatrización ósea con CO2]].
+
 ## Otros estudios
 
 https://pubmed.ncbi.nlm.nih.gov/40223145/
