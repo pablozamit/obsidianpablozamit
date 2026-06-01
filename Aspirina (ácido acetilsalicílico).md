@@ -66,6 +66,10 @@ Aunque se suele exagerar el riesgo de sangrado, las dosis altas pueden causar ir
 
 -   "Una de las consecuencias de la [[Inflamación]] es la [[Hiperglucemia]], y la [[Aspirina]] ayuda a corregirla (Yuan et al. 2001)".
 
+### Efecto dopaminérgico (dosis bajas)
+
+Dosis bajas de aspirina (10-15 mg/día) upregulan la tirosina hidroxilasa, la enzima limitante en la síntesis de [[Dopamina]]. Esto aumenta la producción de dopamina en neuronas dopaminérgicas, con potencial relevancia en [[Parkinson]] (Metabolic M, 2026). El efecto no se reproduce con dosis altas (500 mg).
+
 ## Beneficios
 
 ### Desacoplamiento mitocondrial y termogénesis
