@@ -9,6 +9,19 @@ Investigaciones y teorías emergentes (Thomas P. Seager, PhD) sugieren un mecani
 - **Conversión de Colesterol**: Esta luz interna es capaz de convertir el colesterol almacenado en las células en previtamina D3 de forma endógena.
 - **Evidencia en Crioterápia**: Un estudio realizado en mujeres polacas con Esclerosis Múltiple (EM) mostró que la crioterapia (exposición al frío extremo) aumentó significativamente los niveles séricos de 25-hidroxivitamina D.
 
+## Metabolismo oxidativo del BAT en humanos
+
+Un estudio de Ouellet et al. (2012, *J Clin Invest*) cuantificó por primera vez el metabolismo oxidativo del [[Grasa parda|tejido adiposo pardo (BAT)]] en humanos mediante PET con 11C-acetato, 18FDG y 18FTHA (trazador de ácidos grasos) durante exposición controlada al frío en 6 hombres sanos.
+
+Hallazgos clave:
+- El BAT capta **glucosa y ácidos grasos no esterificados (NEFA)** durante la exposición al frío.
+- Se activa el **metabolismo oxidativo** en BAT, pero no en el músculo esquelético ni en la grasa subcutánea adyacentes.
+- La activación del BAT se asocia con un **aumento del gasto energético total**.
+- Relación **inversa entre actividad del BAT y escalofríos** (temblor): a más BAT activo, menos necesidad de tiritar.
+- Aumento de la **radiodensidad del BAT** tras exposición al frío, indicando reducción del contenido de triglicéridos en el tejido.
+
+Conclusión: el BAT actúa como efector de **termogénesis sin escalofríos** (nonshivering thermogenesis) en humanos.
+
 ## Implicaciones para el Biohacking
 - **Duchas Frías y Baños de Hielo**: Podrían actuar no solo como estresores horméticos, sino como una herramienta para el metabolismo de la vitamina D en latitudes con poco sol.
 - **Salud Autoinmune**: Dado que muchos trastornos autoinmunes están vinculados a irregularidades en el metabolismo de la vitamina D, la exposición al frío podría ofrecer una vía terapéutica complementaria.
