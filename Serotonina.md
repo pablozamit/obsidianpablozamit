@@ -4,6 +4,10 @@
 ""La serotonina fue nombrada así ya que regula el tono del suero: es un vasoconstrictor, liberado de forma sistémica en respuesta a la irritación o inflamación intestinal.""
 
 
+## Serotonina y cortisol
+
+La serotonina estimula la producción de [[Cortisol]] en las glándulas suprarrenales de forma **dosis-dependiente**. Los antagonistas de serotonina (como la [[Ciproheptadina]]) abolieron la respuesta de cortisol a la serotonina, y se observó aumento de [[cAMP]] confirmando la producción de cortisol [PMID: 1374544].
+
 ## Por estudiar
 
 https://twitter.com/Outdoctrination/status/1679189746117902359

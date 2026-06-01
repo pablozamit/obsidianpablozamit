@@ -12,6 +12,8 @@ El **cortisol** es una [[Hormona|hormona]] que produce tu cuerpo en las glándul
 
 ## Producción del Cortisol
 
+La [[Serotonina]] estimula la producción de cortisol en las suprarrenales de forma dosis-dependiente vía [[cAMP]], efecto que es bloqueado por antagonistas serotoninérgicos [PMID: 1374544].
+
 Primero, el [[Hipotálamo|hipotálamo]] (una región del [[Cerebro|cerebro]]) detecta una situación de [[Ansiedad|estrés]] o una necesidad de energía y libera una [[Hormona|hormona]] llamada CRH (hormona liberadora de corticotropina). Esta [[Hormona|hormona]] viaja a la hipófisis, que está justo debajo del [[Hipotálamo|hipotálamo]], y le indica que libere ACTH (hormona adrenocorticotropa).
 
 La ACTH viaja por la sangre hasta las glándulas suprarrenales, que están ubicadas encima de los [[Riñón|riñones]]. Allí, estimula la corteza suprarrenal para que produzca y libere cortisol al torrente sanguíneo.
