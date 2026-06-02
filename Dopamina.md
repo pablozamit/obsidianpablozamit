@@ -1,5 +1,9 @@
 La dopamina es un neuroquímico que actúa como neurotransmisor. Desempeña un papel crucial en la regulación de la secreción de **[[Prolactina]]**; los agonistas de dopamina se utilizan clínicamente para el manejo de **[[Prolactinoma|prolactinomas]]**.
 
+## Sistema de recompensa y gratitud
+
+La dopamina liberada por el [[Área tegmental ventral]] hacia el [[Núcleo accumbens]] y la [[Corteza prefrontal]] constituye el [[Recompensa|sistema de recompensa]] del cerebro. La práctica sostenida de [[Gratitud]] (8 semanas) crea nuevas conexiones físicas entre el [[Hipocampo]] (memoria) y el [[Área tegmental ventral|VTA]] (recompensa), permitiendo que los recuerdos positivos se enlacen con mayor resonancia emocional (vía @thecurioustales, 5 abr 2026).
+
 -   El Dr. Richard Deth ha descubierto que los receptores de dopamina del [[Cerebro|cerebro]] requieren que el proceso de [[Metilación|metilación]] funcione correctamente.
 
 ### Suplementos que Restablecen los Niveles de Dopamina

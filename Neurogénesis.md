@@ -14,6 +14,7 @@ La neurogénesis en adultos no ocurre en todo el [[Cerebro|cerebro]], sino princ
     -   Estimulación mental y [[Aprendizaje|aprendizaje]] continuo.
     -   Dieta saludable (por ejemplo, [[Ácidos grasos omega-3|ácidos grasos omega-3]]).
     -   [[Sueño|Sueño]] adecuado.
+    -   Práctica sostenida de [[Gratitud]] — 8 semanas de ejercicios específicos de gratitud producen formación de nuevas redes neurales en el [[Hipocampo|giro dentado del hipocampo]] y aumento de densidad de materia gris en corteza cingulada anterior y prefrontal medial (vía @thecurioustales, 5 abr 2026).
 -   **Negativos**:
     -   [[Ansiedad|Estrés]] crónico y [[Depresión|depresión]].
     -   Envejecimiento.

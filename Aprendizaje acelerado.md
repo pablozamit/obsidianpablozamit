@@ -14,7 +14,11 @@ El aprendizaje eficaz implica un proceso activo de detective, donde el cerebro b
 
 La relevancia de la información se crea activamente al buscar conexiones con el conocimiento previo, en lugar de ser una cualidad inherente. Además, el cerebro aprende mejor al superar desafíos significativos.
 
-_Realiza una lluvia de ideas cuando un nuevo concepto que tengas que aprender te resulte aburrido o irrelevante. ¿Qué asociaciones puedes hacer con cosas que te gusten? Por ejemplo, quizás no te interese la química, pero sí la música psicodélica. Quizás no te interese la anatomía, pero sí el fútbol, y por tanto las lesiones más comunes._.
+_Realiza una lluvia de ideas cuando un nuevo concepto que tengas que aprender te resulte aburrido o irrelevante. ¿Qué asociaciones puedes hacer con cosas que te gusten? Por ejemplo, quizás no te interese la química, pero sí la música psicodélica. Quizás no te interese la anatomía, pero sí el fútbol, y por tanto las lesiones más comunes._
+
+# Ver también
+
+- [[Gratitud]] — la práctica sostenida de gratitud (8 semanas con ejercicios específicos) crea nuevas conexiones físicas entre el [[Hipocampo|hipocampo]] y el centro de recompensa, mejorando la consolidación de recuerdos y el aprendizaje.
 
 
 # Técnicas
