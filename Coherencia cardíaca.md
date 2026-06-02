@@ -16,3 +16,7 @@ Estudios muestran que 5 minutos de coherencia pueden:
 -   Aumentar DHEA 100%.
 -   Mejorar concentración 24%.
 -   Reducir [[Ansiedad]] 40%.
+
+## Variantes de coherencia cardíaca
+
+- **[[Vortex Breath]] (Respiración Vórtex)**: protocolo de Nick Sweeney (@basedethos) con ratio 1:1 y duraciones decrecientes (13s/13s → 1s/1s). La fase inicial (13/13) lleva al practicante a respiración de resonancia profunda. Ver [[Vortex Breath]] para análisis completo.

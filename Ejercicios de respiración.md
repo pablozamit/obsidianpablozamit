@@ -29,6 +29,19 @@ Un reporte de caso midió dopamina sérica antes y después de 3 meses de práct
   - Alternativa: **30 rondas** por sesión
   - Alternativa: **21 ciclos** cada mañana durante 30 días
 
+## [[Vortex Breath]] (Respiración Vórtex)
+
+Protocolo de Nick Sweeney (@basedethos) con ratio 1:1 y duraciones decrecientes. Un ciclo de 64 s:
+
+- 13s in / 13s out
+- 8s in / 8s out
+- 5s in / 5s out
+- 3s in / 3s out
+- 2s in / 2s out
+- 1s in / 1s out
+
+La fase inicial (13/13) lleva al practicante a la **zona de respiración de resonancia** (~2.3 rpm → 5-6 rpm en fases intermedias), maximizando HRV y activación vagal. El framing místico del autor ("phi ratio vortex", "caduceus") no tiene base fisiológica, pero el componente respiratorio sí produce activación parasimpática documentada. Ver [[Vortex Breath]] para análisis completo y crítica.
+
 ## Notas Relacionadas
 - [[Sistema nervioso parasimpático]]
 - [[Sueño]]
@@ -38,3 +51,4 @@ Un reporte de caso midió dopamina sérica antes y después de 3 meses de práct
 - [[Coherencia cardíaca]]
 - [[CO2]]
 - [[Nervio vago]]
+- [[Vortex Breath]]

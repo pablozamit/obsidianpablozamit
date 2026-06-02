@@ -5,7 +5,7 @@ Ver [[Nervio vago]] y [[Ejercicios de respiración]].
 
 ## Vías de inducción parasimpática
 
-- **Respiración** (coherencia cardíaca, exhalación larga): ver [[Ejercicios de respiración]]
+- **Respiración** (coherencia cardíaca, exhalación larga, [[Vortex Breath]]): ver [[Ejercicios de respiración]]
 - **Estimulación vagal mecánica**: canto, zumbido, gárgaras, buceo facial, cuclillas
 - **[[Viparita Karani]]** (descanso pélvico apoyado): tumbarse con bolster firme bajo pelvis, piernas apoyadas. Elimina demanda gravitatoria → señal de "apoyo total, esfuerzo cero" → parasimpático profundo en 3-10 min.
 - **[[Yoga Nidra]]**: estado de "sueño local" con ondas delta/alfa/theta
