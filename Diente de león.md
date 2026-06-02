@@ -47,5 +47,5 @@ Investigaciones recientes (estudios revisados por pares) indican que el **Extrac
 
 ## Potencial Probiótico
 
-La raíz es rica en **inulina** (hasta el 45% de su composición total), una fibra prebiótica.
+La raíz es rica en **[[Inulina|inulina]]** (hasta el 45% de su composición total), una fibra prebiótica con efecto sobre la [[Fructosa]] y la [[Lipogénesis de novo]] documentado en ratón (ver [[Inulina#'Vacuna' contra la fructosa (Norwitz 2025, *Nature Metabolism*)|el paper de Norwitz 2025]]).
 

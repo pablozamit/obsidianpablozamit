@@ -4,7 +4,7 @@ El **butirato** (butanoato) es un [[Ácidos grasos de cadena corta|ácido graso 
 
 El [[Butirato|butirato]] se produce en el [[Colon|colon]] por fermentación anaeróbica de carbohidratos y otros sustratos por bacterias específicas, principalmente del género *Faecalibacterium*, *Roseburia*, *Eubacterium* y *Clostridium* clusters IV y XIVa. Los sustratos incluyen:
 
-- **Fibra vegetal**: FOS, inulina, almidón resistente, β-glucanos, pectinas
+- **Fibra vegetal**: FOS, [[Inulina]], almidón resistente, β-glucanos, pectinas
 - **Fibra animal**: [[Colágeno]], [[Glucosamina]] y [[Condroitina]] del cartílago y los tejidos conectivos. Ver [[Fibra animal]].
 - **Proteínas parcialmente digeridas**: aunque la fermentación proteolítica produce menos butirato y más subproductos potencialmente nocivos (amoníaco, fenoles, indoles)
 
@@ -27,7 +27,7 @@ La suplementación directa con **[[Butirato de sodio]]** (o butirato de calcio/m
 - Ésteres de butirato (butirato de tributirina, monobutirina)
 - Triglicéridos de cadena media que liberan butirato en el [[Colon|colon]]
 
-Alternativa más fisiológica: **alimentar a las bacterias productoras** con [[Fibra animal]] (cartílago, [[Colágeno|colágeno]]), FOS, inulina, almidón resistente.
+Alternativa más fisiológica: **alimentar a las bacterias productoras** con [[Fibra animal]] (cartílago, [[Colágeno|colágeno]]), FOS, [[Inulina]], almidón resistente.
 
 # Fuentes alimentarias de butirato preformado
 
@@ -40,6 +40,7 @@ Alternativa más fisiológica: **alimentar a las bacterias productoras** con [[F
 - [[Ácidos grasos de cadena corta]]
 - [[Fibra animal]]
 - [[Fibra]]
+- [[Inulina]]
 - [[Microbiota]]
 - [[Butirato de sodio]]
 - [[Permeabilidad intestinal]]
