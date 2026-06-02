@@ -12,6 +12,38 @@ Las hormonas tiroideas se llaman T3 y T4 por la cantidad de átomos de yodo que 
 
 Un buen protocolo sería: [[Algas|algas]] + [[Nueces de Brasil]].
 
+# Fuentes animales: tiroides de pescado y mariscos
+
+> "The thyroid from the head/gills is also relatively significant I think."
+> _—Ray Peat HubblyBubbly Emporium @RayPeatHeadShop (31 ene 2026)_
+
+La **tiroides de pescado** (visible en la zona de la garganta, entre las branquias) es una fuente directa y concentrada de [[Yodo|yodo]]:
+
+- Concentración mucho mayor que el filete magro
+- Aporta también pequeñas cantidades de [[Hormona tiroidea|T4/T3]] (es tejido endocrino funcional)
+- Acompaña naturalmente al [[Selenio]] (cofactor de la conversión T4 → T3)
+- Cocinar el pescado **entero con cabeza** (lubina, dorada, salmón, sardina fresca) preserva este tejido
+
+Otros alimentos animales ricos en [[Yodo]]:
+
+- **[[Sardinas]] enlatadas** (aportan ~35 µg/100g)
+- **[[Hígado de bacalao]]**
+- **Mariscos y crustáceos** (mejillones, gambas, almejas)
+- **Pescado de agua salada** en general
+
+## Suplementación con [[Yodo]] + [[Magnesio]]
+
+> "(My iodine and magnesium supplement)" (imagen de @RayPeatHeadShop con pescado al vapor, 31 ene 2026)
+
+La práctica mostrada por el autor: tomar [[Yodo|yodo]] + [[Magnesio|magnesio]] junto a una comida de pescado. Lógica subyacente:
+
+- El [[Magnesio|magnesio]] es cofactor esencial de la **5'-desiodinasa** (enzima que convierte T4 en T3 activa)
+- El [[Yodo|yodo]] es el sustrato para la síntesis de T3/T4
+- Ambos son cofactores tiroideos: deficiencia de uno limita la producción hormonal incluso con suficiente del otro
+- La comida de pescado (con [[Vitamina D|vitamina D]] y [[Omega 3|omega-3]]) completa el cuadro de soporte tiroideo
+
+Ver [[Tiroides (glándula)]] y [[Tiroides (suplemento)]] para el abordaje completo.
+
 
 https://www.infowarsstore.com/survival-shield-x-2-nascent-iodine
 
