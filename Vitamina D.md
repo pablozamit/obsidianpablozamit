@@ -30,6 +30,16 @@ Desde que el fotón UVB rompe el enlace hasta que el calcitriol activa genes pas
 - La piel produce **10–50 veces más** que un suplemento
 - El cuerpo **no puede sobredosificarse** con vitamina D solar (el exceso de previtamina D3 se convierte en subproductos inertes), pero sí con suplementos
 
+### Lámparas de UVB: ¿"fabricar verano en febrero"?
+
+Una posición biohacker crítica (@yungkingmito, 1 oct 2025) considera que las **lámparas de UVB** usadas para "simular verano en invierno" **rompen la coherencia estacional**:
+
+- Argumento: el cuerpo evolucionó para **no producir vitamina D** en invierno (melatonina alta, [[Anión superóxido|pulsos de superóxido]] distintos, ritmo circadiano diferente). Forzar niveles altos fuera de estación desincroniza el sistema.
+- Matiz: la deficiencia severa de vitamina D ([[Depresión|inmunosupresión]], [[Osteoporosis|desmineralización ósea]]) **sí** debe corregirse, idealmente primero con exposición real al sol o, si no es posible, con suplementación prudente + control de 25-OH-D. La lámpara de UVB tiene su lugar en latitudes extremas (paralelo > 50), pero no debe sustituir el ritmo estacional natural donde la luz natural es alcanzable.
+- Evidencia a favor del marco: el metabolismo de la vitamina D tiene un **mecanismo de seguridad interno** (ver arriba) y la producción solar depende del ángulo del sol; "forzar" un estado de verano crónico no es lo mismo que exponer la piel a sol real.
+
+> _—La posición del autor no es rechazar la suplementación en invierno, sino cuestionar el uso de lámparas de UVB **en latitudes donde se puede exponerse al sol real** y subrayar que la vitamina D **no es la única señal del sol** (también [[Óxido nítrico|NO]], [[Serotonina|serotonina]], [[β-endorfinas]])._
+
 ## Latitud
 
 Por encima del paralelo 35 (Sevilla, Memphis), el sol invernal no produce UVB suficiente. Los niveles de vitamina D caen de octubre a marzo.
@@ -64,3 +74,5 @@ Ver análisis completo en [[Melanoma#Godar et al. (2018) — análisis mundial d
 - [[Termogénesis inducida por el frío]]
 - [[Testosterona]]
 - [[Melanoma]]
+- [[Anión superóxido]]
+- [[Mitocondria]]

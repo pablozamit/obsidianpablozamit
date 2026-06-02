@@ -67,6 +67,16 @@ Las mismas células de melanopsina se conectan con los **núcleos del rafe**, do
 
 La serotonina es el precursor de la **[[Melatonina]]**. La glándula pineal convierte serotonina en melatonina después del anochecer. Mayor producción diurna de serotonina → más materia prima disponible para la síntesis nocturna de melatonina. El eje luz-estado de ánimo-sueño es un único pipeline bioquímico continuo.
 
+## Pulsos de superóxido y ritmo día/noche
+
+Una línea de pensamiento biohacker (@yungkingmito, 1 oct 2025) lleva la conexión luz-oscuridad al terreno de la [[Especies reactivas del oxígeno|biología redox mitocondrial]]:
+
+- **De día** (fotones presentes): la [[Mitocondria|mitocondria]] recibe señal de carga energética (fotones que modulan el estado redox, la [[Cadenas transportadoras de electrones (CTE)|cadena de transporte de electrones]] trabaja con flujo alto) y se generan [[Anión superóxido|pulsos de superóxido]] como señal de actividad. Estos pulsos **entrenan** las defensas antioxidantes vía Nrf2.
+- **De noche** (oscuridad): la menor entrada calórica y lumínica permite que esos pulsos de superóxido se desplieguen en **autofagia, reparación de ADN y remodelación de matriz extracelular** (colágeno, elastina) sin interferencia.
+- La consecuencia práctica es la que ya recoge la nota: **luz natural diurna + oscuridad nocturna real**, sin luces artificiales después del atardecer ni [[Vitamina D|lámparas de UVB]] "fabricando verano en febrero".
+
+> _—El marco es sugerente pero **no se debe leer como biología establecida**: la conexión superóxido/autofagia circadiana es investigación activa, no un mecanismo confirmado. Ver [[Anión superóxido#Caveats: la parte poética|caveats]] y el contrapeso bioquímico de @RogerSeheult (2 oct 2025)._
+
 ## α-MSH, melanocortina y energía sexual
 
 La exposición a **UVB/luz solar** estimula el lóbulo anterior de la hipófisis a producir **α-MSH** (hormona estimulante de melanocitos alfa). El α-MSH es el ligando endógeno de los receptores **melanocortínicos MC3R y MC4R** en el [[Hipotálamo]].
@@ -117,3 +127,6 @@ Todo ello dentro de la capacidad diaria de reparación de la piel. Más allá de
 - [[Libido]]
 - [[Testosterona]]
 - [[Hipotálamo]]
+- [[Especies reactivas del oxígeno]]
+- [[Anión superóxido]]
+- [[Mitocondria]]

@@ -31,7 +31,16 @@ La afirmación de que la cetosis depleciona NAD+ es, por tanto, **discutible** y
 - **Epilepsia**: la [[Dieta cetogénica|dieta cetogénica]] clásica se usa desde los años 1920 para epilepsia refractaria.
 - **[[Cáncer]]**: ciertas líneas celulares cancerosas ([[Efecto Warburg]]) tienen dificultades para usar cetonas como combustible.
 
-# Ver también
+## Crítica a la cetosis forzada fuera de contexto estacional
+
+Una posición biohacker (@yungkingmito, 1 oct 2025) cuestiona la **cetosis inducida artificialmente** (dieta keto, ayunos prolongados en verano) por considerarla desalineada con los ritmos estacionales:
+
+- Argumento del autor: en **verano** el cuerpo está preparado para metabolizar **glucosa** (fruta, miel, almidones asimilables) acoplada a alta exposición de [[Luz solar|luz UV]]; forzar cetosis en esa estación "rompe la coherencia" de los pulsos de [[Anión superóxido|superóxido mitocondrial]] y de la señalización redox circadiana.
+- Posición más matizada (vía @NewHealthOrder, 3 oct 2025): en latitudes templadas (~40° N) hay margen real para cetosis en ciertas ventanas del año, pero **no como estado permanente** ni forzado en verano.
+
+> _—La cetosis es un **estado fisiológico antiguo** (cazadores en invierno, hambre sostenida), no una moda. Su utilidad real probablemente depende de la **estación, contexto metabólico y duración**: cetosis cíclica corta tiene mejor evidencia que cetosis sostenida todo el año. Ver [[Dieta cetogénica]] y el debate [[NAD+]] en [[Cetonas#Consumo de NAD+ durante la cetogénesis]]._
+
+## Ver también
 
 - [[Dieta cetogénica]]
 - [[Glucosa]]
@@ -42,3 +51,5 @@ La afirmación de que la cetosis depleciona NAD+ es, por tanto, **discutible** y
 - [[Autofagia]]
 - [[AMPK]]
 - [[Carbohidratos como potenciadores del metabolismo]]
+- [[Luz solar]]
+- [[Anión superóxido]]

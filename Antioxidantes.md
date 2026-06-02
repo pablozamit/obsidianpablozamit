@@ -51,3 +51,28 @@ Es importante tener una [[Dieta]] variada para obtener diferentes tipos de [[Ant
 - [[Estrés oxidativo]]
 
 (?faltan fuentes)
+
+## "El estrés oxidativo es un fraude": contrapunto biohacker + respuesta bioquímica
+
+Una corriente biohacker (@yungkingmito, 1 oct 2025) lleva al extremo la **función de señalización** de las [[Especies reactivas del oxígeno|ROS]] y califica el marco "estrés oxidativo = daño" como **"fraude"** propagado por libros de texto y mentes reduccionistas. La posición extrema:
+
+- Las ROS no son un subproducto tóxico sino la **señal primaria de la vida**, generada en pulsos en los Complejos I y III de la [[Mitocondria|mitocondria]].
+- Cargar al cuerpo de antioxidantes suplementarios (especialmente en personas sanas) **aplanaría esa señal** y deterioraría la coherencia redox.
+- La suplementación indiscriminada es contraproducente en muchos contextos (pérdida del beneficio del ejercicio, peor respuesta inmune, etc.).
+
+### El peso bioquímico en contra (@RogerSeheult, MD, 2 oct 2025)
+
+> "Superoxide is not all bad but it's not the purveyor of life you're making it out to be either. The most powerful antioxidant known to man (melatonin) is not made in the mitochondria for nothing. Superoxide Dismutase is not a major enzyme in the mitochondria for nothing."
+
+—@RogerSeheult (2 oct 2025)
+
+La biología redox consolida una **posición intermedia**:
+
+- Las ROS son **señal Y daño**, ambas cosas verdaderas a la vez. La distinción clave es **concentración, contexto y tiempo** (concepto de **mitohormesis**, ver [[Especies reactivas del oxígeno#Concepto de mitohormesis]]).
+- La [[Mitocondria|mitocondria]] aloja [[Superóxido dismutasa|SOD]] y produce [[Melatonina|melatonina]] localmente precisamente porque el coste de no neutralizar las ROS es real.
+- La indicación de suplementar antioxidantes debe individualizarse: **deficiencia documentada** (vitamina C en escorbuto, glutatión bajo, etc.) sí responde; **suplementación indiscriminada** en personas sanas puede ser neutra o perjudicial.
+- Lo que sí se sostiene: ejercicio, [[Ayuno|ayuno]] moderado, [[Termogénesis inducida por el frío|exposición al frío]] y [[Luz solar]] modulada son inductores **endógenos** de la respuesta antioxidante vía Nrf2 — sin necesidad de suplementos.
+
+> _—El término "estrés oxidativo" no es un fraude, pero su **interpretación simplista** ("ROS = mal, antioxidantes = bien") sí es reduccionista y debe matizarse con el marco de mitohormesis._
+
+Ver [[Anión superóxido]] para el debate completo y [[Especies reactivas del oxígeno]] para la bioquímica base.

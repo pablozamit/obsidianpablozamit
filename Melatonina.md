@@ -2,6 +2,8 @@ La melatonina es una hormona derivada del triptófano, producida principalmente 
 
 Es uno de los mayores [[Antioxidantes|antioxidantes]].
 
+> _—@RogerSeheult (2 oct 2025) destaca que la melatonina se sintetiza en la mitocondria "no por nada": es la principal barredora local de las [[Especies reactivas del oxígeno|ROS]] producidas por la [[Cadenas transportadoras de electrones (CTE)|cadena respiratoria]]. El mismo argumento se aplica a la [[Superóxido dismutasa|SOD]] mitocondrial. Ver [[Anión superóxido#Rebatir desde la bioquímica consolidada: @RogerSeheult, MD (2 oct 2025)|rebuttal completo]]._
+
 
     
 
