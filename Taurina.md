@@ -43,6 +43,29 @@ Es vital para la función hepática, especialmente en el metabolismo de las gras
 
 Neuroprotección: https://pubmed.ncbi.nlm.nih.gov/37874493/
 
+### Reversión del daño cerebral inducido por alcohol (neurogénesis)
+
+Un estudio en ratas con daño cerebral crónico por etanol (MDPI, vía @KingOfVitamins, 1 oct 2025) encontró que la suplementación con taurina:
+
+- **Promovió neurogénesis** en el [[Hipocampo]] (giro dentado), restaurando el crecimiento de nuevas neuronas.
+- **Redujo la inflamación cerebral** asociada al daño por alcohol.
+- **Restauró la función cognitiva** deteriorada por el etanol crónico.
+- Mecanismo: la taurina protege del estrés oxidativo y la inflamación, y **estimula los factores de crecimiento** necesarios para **regenerar físicamente** el tejido cerebral dañado.
+
+> _—Estudio en modelo animal, no validado en humanos a esta escala. La extrapolación es plausible por la consistencia de la taurina con sus efectos neuroprotectores conocidos (regulación de calcio intracelular, osmolaridad, defensa antioxidante), pero los resultados cuantitativos (cuánta neurogénesis, qué funciones cognitivas) no se han reproducido en ensayos clínicos grandes en humanos con daño por alcohol._
+
+### Dosis típica basada en literatura revisada por @KingOfVitamins
+
+- La mayor parte de la literatura reporta beneficios desde **500 mg** hasta **6 g o más** al día.
+- **Rango óptimo reportado: 1–3 g/día** para beneficios generales.
+- En personas **sensibles** (p. ej. sensibilidad a efectos rebote tipo [[GABA]]), se recomienda **empezar bajo y titular** gradualmente hacia arriba (consejo de @KingOfVitamins en respuesta a @CactusKoyote, 2 oct 2025).
+
+### Caso clínico testimonial (no controlado)
+
+@Gillfoster22 (1 oct 2025) reporta **menos niebla mental** ("brain fog") tras tomar taurina a diario, en el contexto de **tiroiditis de Hashimoto** y **encefalomielitis miálgica (ME)**. Es un dato anecdótico puntual y no debe generalizarse; la taurina puede ser una pieza complementaria en protocolos de Hashimoto/ME pero no sustituye el tratamiento de la causa autoinmune ni de la disregulación mitocondrial asociada a ME.
+
+## Regulación del Cortisol y Eje HPA
+
 
 ## Regulación del Cortisol y Eje HPA
 Investigaciones recientes (estudios de 2025) han demostrado que la taurina es un regulador crítico del ritmo del cortisol:
@@ -118,3 +141,10 @@ Según Ernesto Prieto, la dosis mínima debe ser 2 gramos.
 - La taurina puede tomarse en cualquier momento del día. Si se usa para el rendimiento en el ejercicio, es mejor tomarla antes de los entrenamientos.
 
 - Es soluble en agua y se consume fácilmente en forma de cápsula o polvo.
+
+# Ver también
+
+- [[Hipocampo]]
+- [[Neurogénesis]]
+- [[GABA]]
+- [[Memoria]]
