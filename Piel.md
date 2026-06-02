@@ -53,3 +53,7 @@ El resto de la mezcla se puede aplicar en la cara durante el día.
 - **[[Vitamina B3]] (Niacinamida)**: Aplicada al 5%, reduce manchas, arrugas y mejora la elasticidad al elevar los niveles de [[NAD+]].
 
 https://amourskincare.com/
+
+# Tiendas de relativa confianza
+
+- **https://skin.food/** — tienda de cosmética coreana basada en ingredientes alimentarios naturales. De relativa confianza; comprar con criterio y verificar ingredientes antes de aplicar.
