@@ -45,6 +45,16 @@ La melanina compite con el 7-dehidrocolesterol por los fotones UVB. Las personas
 - Previene y trata el [[cáncer]]
 - Erradica la esclerosis múltiple en algunos casos (relación epidemiológica)
 
+## Vitamina D y melanoma (paradoja)
+
+Contrario a la intuición, los niveles **bajos** de vitamina D3 se correlacionan con **mayor** incidencia de melanoma en mujeres europeas con piel clara mayores de 29 años (p<0.05) y en italianos mayores de 29 (p<0.001) — Godar et al., Dermato-Endocrinology 2017.
+
+**Mecanismo propuesto**: la vitamina D3 es esencial para la **activación de células T** (von Essen et al., Nat Immunol 2010), que destruyen células cancerosas e infectadas por virus. Su deficiencia reduce la vigilancia inmune.
+
+**Implicación práctica**: suplementar vitamina D3 (o exponerse al sol con prudencia) podría ser **protector frente al melanoma**, no un factor de riesgo. El consejo clásico de "evitar el sol para prevenir melanoma" no está respaldado por la epidemiología global.
+
+Ver análisis completo en [[Melanoma#Godar et al. (2018) — análisis mundial de CMM vs UVB]].
+
 ## Ver también
 
 - [[Luz solar]]
@@ -52,3 +62,4 @@ La melanina compite con el 7-dehidrocolesterol por los fotones UVB. Las personas
 - [[Óxido nítrico]]
 - [[Termogénesis inducida por el frío]]
 - [[Testosterona]]
+- [[Melanoma]]

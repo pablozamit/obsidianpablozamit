@@ -47,3 +47,21 @@ Ver también: [[Ejercicios]], [[Efecto Warburg]], [[Metabolismo oxidativo]], [[F
 ## Estudios sin Ordenar
 
 Un estudio revela que **el metabolismo de la serina es clave en el cáncer**, no solo por su papel en la producción de glicina y unidades de un carbono, sino principalmente por su participación en la **síntesis de lípidos esenciales para el crecimiento celular**. Estos hallazgos podrían ayudar a desarrollar **nuevas estrategias terapéuticas dirigidas a interrumpir el metabolismo de la serina** en células cancerosas.
+
+## Melanoma y la paradoja solar
+
+El **melanoma cutáneo** no encaja en el patrón de los cánceres inducidos por UV. Christophers (Mutation Research, 1998) y Godar et al. (Dermato-Endocrinology, 2017) muestran:
+
+- El melanoma **no se acumula con la edad** como el SCC (5x vs 450x de 25 a 75 años).
+- Aparece en zonas **no crónicamente expuestas** al sol (75% de los casos en tronco y muslos).
+- El ratio hombre:mujer es ~1:1, a pesar de que los hombres reciben ~1.6x más UV.
+- En Europa, la incidencia **aumenta con la latitud** (paradójicamente más melanoma al norte) en pieles claras, y se correlaciona con **bajos niveles de UVB** y por tanto de [[Vitamina D|vitamina D3]].
+
+Los factores candidatos son [[Melanoma#UVA como iniciador|UVA]] (no UVB), variantes genéticas [[Feomelanina|MC1R]], infección por HPV en folículos pilosos, deficiencia de vitamina D3 y temperatura cutánea. Ver análisis completo en [[Melanoma]].
+
+## Ver también
+
+- [[Melanoma]]
+- [[Vitamina D]]
+- [[Luz ultravioleta]]
+- [[Feomelanina]]

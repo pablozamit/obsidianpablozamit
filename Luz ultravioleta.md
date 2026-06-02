@@ -4,6 +4,15 @@ La luz ultravioleta (UV) al interactuar con la [[Piel]] inicia una cascada bioqu
 
 Uno de estos péptidos es la **β-endorfina**, que se une a los receptores opioides del cerebro produciendo efectos analgésicos y de recompensa, mecanísticamente similares a otros estímulos adictivos. Esto crea un bucle de refuerzo: exposición UV → liberación de β-endorfina → sensación positiva → búsqueda repetida de sol.
 
+## UVA vs UVB: dos comportamientos muy distintos
+
+La distinción crítica que suele ignorarse:
+
+- **UVB (290-315 nm)**: induce [[Vitamina D]], quema la piel (eritema), se filtra por ventanas, varía mucho con latitud y estación. Responsable del SCC y BCC, **no del melanoma**.
+- **UVA (315-400 nm)**: penetra profundamente (hasta raíz del folículo piloso terminal a 1000-5000 μm), atraviesa ventanas, está presente todo el año y en interiores. **Sospechoso principal del melanoma** vía fotosensibilización de la [[Feomelanina]] y producción de ROS.
+
+Ver [[Melanoma]] para la evidencia detallada de que el melanoma **no encaja en el patrón de cáncer inducido por UVB** y que la UVA + variantes genéticas MC1R + HPV + deficiencia de vitamina D3 son los candidatos más probables.
+
 ## Perspectiva Evolutiva
 
 Esta "adicción" al sol no es accidental, sino diseñada evolutivamente. La exposición solar impulsa:
