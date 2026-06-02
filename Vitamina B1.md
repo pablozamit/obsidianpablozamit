@@ -67,6 +67,73 @@ Dosages I used was 100-400mg daily"
 
 El [[Café|café]] es uno de los tres principales deplectores de nutrientes esenciales para la [[Mitocondria|función mitocondrial]], junto con [[Magnesio|magnesio]] y [[Zinc]] (Grimhood, @Zenfrog4). El café contiene antagonistas de la tiamina que bloquean su metabolismo de carbohidratos. Cualquier consumidor crónico de café debe suplementar tiamina (50-100 mg/día) como parte de su stack base. Ver [[Café#Stack de reposición completo (para bebedores crónicos de café)]].
 
+# Ejercicio y rendimiento deportivo
+
+> "Thiamine CRUSHES exercise fatigue from endurance training. Korean researchers gave athletes thiamine for 4 weeks and tested them against both placebo AND an endurance training group in a crossover study. Results: Thiamine supplementation decreased blood lactate for 15-60 minutes during exercise AND reduced ammonia concentration (the fatigue toxin) for the ENTIRE workout plus 30-minute recovery - matching trained athletes' performance."
+> _—Vitamin King @KingOfVitamins (17 dic 2025)_
+
+## Diseño del estudio coreano (referenciado PMC4241913)
+
+Estudio **crossover**: cada sujeto fue su propio control, alternando entre suplementación con tiamina, placebo, y grupo entrenado. **4 semanas** de suplementación con tiamina en atletas bajo entrenamiento continuo. Outcomes medidos:
+- [[Lactato]] sanguíneo durante ejercicio (15-60 min)
+- [[Amoníaco]] (NH3) sanguíneo durante todo el workout + 30 min de recuperación
+- RPE (rating of perceived exertion)
+
+**Resultados clave**:
+- ↓ [[Lactato]] en sangre durante los 15-60 minutos de ejercicio
+- ↓ [[Amoníaco]] durante todo el workout + 30 min de recuperación
+- Rendimiento equiparable al de atletas con entrenamiento continuo
+
+## Mecanismo: el "vacío metabólico" del lactato
+
+> "Mechanism: Thiamine supercharges your pyruvate dehydrogenase enzyme that converts lactate back to usable fuel, acting like a metabolic vacuum cleaner that sucks up lactic acid faster than your muscles can produce it."
+> _—Vitamin King @KingOfVitamins (17 dic 2025)_
+
+La tiamina pirofosfato (TPP) es cofactor esencial de la **[[Piruvato deshidrogenasa|piruvato deshidrogenasa]] (PDH)**, la enzima limitante que convierte piruvato en acetil-CoA para entrar al ciclo de Krebs.
+
+- Con B1 suficiente: piruvato → acetil-CoA → Krebs → ATP (oxidación completa)
+- Con B1 insuficiente: piruvato se acumula → lactato deshidrogenasa (LDH) lo convierte en **lactato** + H+ (acidificación)
+
+La suplementación con tiamina "sobrealimenta" la PDH, lo que **arrastra el piruvato hacia acetil-CoA en lugar de lactato** → efecto "aspiradora" del lactato. El piruvato nunca se acumula lo suficiente como para desviarse hacia lactato.
+
+## El segundo mecanismo: ↓ amoníaco
+
+El NH3 muscular se genera por:
+- Desaminación de AMP → IMP + NH3 (purine nucleotide cycle) en ejercicio intenso
+- Catabolismo de [[BCAA]] (vía BCKDH, que también requiere TPP)
+
+La tiamina mejora la oxidación de BCAA (BCKDH TPP-dependiente), reduciendo uno de los focos de producción de NH3. Cruza la barrera hematoencefálica y causa **fatiga central**; reducirlo explica parte del efecto antifatiga independiente de la fatiga muscular periférica.
+
+## Depleción funcional de tiamina en atletas
+
+> "Athletes under continuous training showed thiamine insufficiency despite adequate intake - because high-intensity exercise depletes it so rapidly that your body literally burns through thiamine faster than you can replace it from food."
+> _—Vitamin King @KingOfVitamins (17 dic 2025)_
+
+La "ingesta adecuada" (RDA ~1.1-1.4 mg/día) asume un metabolismo basal. El atleta bajo entrenamiento continuo tiene:
+- Mayor turnover de TPP (cofactor consumido en cada ciclo PDH)
+- Mayor estrés oxidativo (TPP es sensible a oxidación)
+- Posible disfunción de transportadores intestinales TTP1/TTP2 por inflamación
+
+**Dosis sugerida para atletas** (no oficial, basada en testimonios): 100-400 mg/día de benfotiamina o TTFD, muy por encima de la RDA. La forma liposoluble (benfotiamina) o allithiamine-like (TTFD) bypassa los transportadores TTP1/2 limitantes.
+
+## Formas preferidas para rendimiento
+
+- **[[Benfotiamina]]** (100 mg): liposoluble, alta biodisponibilidad, ideal para suplementación diaria oral.
+- **[[TTFD]]** (100 mg, Thiamax): cruza barrera hematoencefálica, bypass transportadores. Más efectiva para alcanzar tejidos neurálgicos.
+- **Tiamina HCl oral**: absorción limitada por TTP1/2; menos efectiva salvo si se inyecta.
+- **Tiamina IV o subcutánea**: bypass total de absorción; algunos reportes testimoniales "no has tomado tiamina hasta que te la inyectas".
+
+## Ver también
+
+- [[Lactato]]
+- [[Piruvato deshidrogenasa]]
+- [[Amoníaco (ejercicio)]]
+- [[Benfotiamina]]
+- [[TTFD]]
+- [[BCAA]]
+- [[Cafeína y depleción de B1]]
+- [[Café]]
+
 10. **Testimonio con TTFD 100 mg (Meat Head, 2026)**: 
     - Día 1: aumento de energía claro ~3-4 h después de tomar
     - Día 2: mismo efecto, pero a la 1 h
