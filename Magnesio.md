@@ -36,6 +36,10 @@ El consumo de cualquier [[Estimulantes|estimulante]] ([[Café|cafeína]], nicoti
 
 Para café descafeinado, se recomienda suplementar [[Vitamina B1|tiamina]] adicional.
 
+### Cafeína y depleción de magnesio
+
+El [[Café|café]] crónico (y cualquier estimulante que active repetidamente las suprarrenales) agota el magnesio. Este es uno de los tres nutrientes esenciales que el café drena, junto con [[Zinc]] y [[Vitamina B1|tiamina]] (Grimhood, @Zenfrog4). Para reposición: 300-400 mg/día de glicinato de magnesio. Ver [[Café#Stack de reposición completo (para bebedores crónicos de café)]].
+
 ## Carbonato de [[Magnesio|Magnesio]]
 
 El **carbonato de [[Magnesio|magnesio]]** se convierte en cloruro de [[Magnesio|magnesio]] cuando se mezcla con [[Ácido clorhídrico|ácido clorhídrico]] en el [[Estómago|estómago]]. Su biodisponibilidad puede ser moderada comparada con otras formas. A menudo se utiliza por sus propiedades antiácidas y laxantes suaves. Aunque no es la forma más biodisponible de [[Magnesio|magnesio]], sigue siendo una opción eficaz para ciertas necesidades dietéticas y de suplementación, especialmente para aquellos que buscan una solución para la [[Indigestión|indigestión]] o el [[Estreñimiento|estreñimiento]] ocasional.

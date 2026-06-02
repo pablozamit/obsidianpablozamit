@@ -77,6 +77,10 @@ La deficiencia de zinc es una causa subyacente de múltiples patologías sistém
 - **[[Insulina]]**: Inhibe la enzima PTP1B (regulador negativo), prolongando la señalización del receptor de insulina y facilitando la traslocación de GLUT4.
 - **[[Tiroides]]**: Cofactor necesario para las desyodasas (I y II) que convierten T4 en T3 activa. Necesario para la síntesis de TRH y TSH.
 
+### Cafeína y depleción de zinc
+
+El [[Café|café]] crónico agota el zinc, junto con [[Magnesio|magnesio]] y [[Vitamina B1|tiamina]], los tres nutrientes esenciales para la [[Mitocondria|función mitocondrial]] (Grimhood, @Zenfrog4). El consumo crónico de café también genera disregulación de [[Cobre|cobre]] y [[Hierro|hierro]] vía esta depleción (Grimhood, @Grimhood). Para reposición: 15-25 mg/día de zinc elemental, equilibrado siempre con cobre. Ver [[Café#Stack de reposición completo (para bebedores crónicos de café)]].
+
 ### 4. Integridad Intestinal y Digestión
 - **Producción de HCl**: Cofactor de la anhidrasa carbónica para la secreción de ácido clorhídrico.
 - **Barrera Intestinal**: Estabiliza las proteínas de las uniones estrechas (ZO-1, ocludina, claudina-1) para prevenir el "intestino permeable".

@@ -34,4 +34,14 @@ Las mitocondrias de las células cancerosas presentan vulnerabilidades metabóli
 
 [[Hipótesis de desacoplamiento metabólico]]
 
+### Nutrientes esenciales para la función mitocondrial
+
+El [[Café|café]] crónico y otros estimulantes que activan repetidamente las suprarrenales agotan tres nutrientes esenciales para la función mitocondrial (Grimhood, @Zenfrog4):
+
+- [[Magnesio]] (cofactor en la cadena de transporte de electrones)
+- [[Zinc]] (cofactor de desyodasas, integridad de membranas)
+- [[Vitamina B1]] (cofactor del ciclo de Krebs, producción de [[ATP]])
+
+Ver [[Café#Stack de reposición completo (para bebedores crónicos de café)]].
+
 Ver también: [[Tensión muscular]]

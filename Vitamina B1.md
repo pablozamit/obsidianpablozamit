@@ -63,6 +63,10 @@ Dosages I used was 100-400mg daily"
 8. You haven't taken _thiamine_ unless you inject it. IV or subcutaneous. You will see the light :)
 9. [[Café|Coffee]] has _thiamine_ antagonists blocking carbohydrate metabolism. I had to stop drinking coffee made me to tired. Pur caffeine and coke make no problem at all.
 
+## Cafeína y depleción de B1
+
+El [[Café|café]] es uno de los tres principales deplectores de nutrientes esenciales para la [[Mitocondria|función mitocondrial]], junto con [[Magnesio|magnesio]] y [[Zinc]] (Grimhood, @Zenfrog4). El café contiene antagonistas de la tiamina que bloquean su metabolismo de carbohidratos. Cualquier consumidor crónico de café debe suplementar tiamina (50-100 mg/día) como parte de su stack base. Ver [[Café#Stack de reposición completo (para bebedores crónicos de café)]].
+
 10. **Testimonio con TTFD 100 mg (Meat Head, 2026)**: 
     - Día 1: aumento de energía claro ~3-4 h después de tomar
     - Día 2: mismo efecto, pero a la 1 h
