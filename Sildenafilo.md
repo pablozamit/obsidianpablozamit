@@ -5,6 +5,7 @@ El **Sildenafilo** es un fármaco perteneciente a la clase de los inhibidores de
 ## Mecanismo de Acción
 - Bloquea la enzima PDE5 en el músculo liso de los cuerpos cavernosos del pene.
 - Esto mantiene niveles elevados de **GMP cíclico (cGMP)** tras la liberación de óxido nítrico por estimulación sexual, facilitando la vasodilatación y la erección.
+- **No actúa sobre el deseo** ("wanting"): restaura la capacidad vascular, pero no enciende la motivación central. Ver [[Libido]].
 
 ## Consideraciones Generales
 - **Inicio de acción**: Aproximadamente 30-60 minutos después de la administración.

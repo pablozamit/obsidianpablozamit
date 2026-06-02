@@ -2,6 +2,19 @@
 
 Los **inhibidores de la PDE5** son sustancias que bloquean la acción de esta enzima, permitiendo que los niveles de cGMP permanezcan elevados por más tiempo. Esto potencia significativamente el flujo sanguíneo al facilitar una vasodilatación prolongada, motivo por el cual se utilizan principalmente para tratar la disfunción eréctil y, en algunos casos, la hipertensión pulmonar. Los fármacos más conocidos en esta categoría incluyen el sildenafil (Viagra), tadalafil (Cialis) y vardenafil (Levitra).
 
+## No restauran el deseo (solo la erección)
+
+Es importante distinguir dos dimensiones clínicas que el lenguaje cotidiano confunde bajo el término "libido":
+
+- **Erección** = proceso **vascular** periférico. La PDE5 actúa en el músculo liso de los cuerpos cavernosos; al inhibirla, el [[Óxido nítrico]] (NO) liberado por la estimulación sexual puede mantener el cGMP elevado y producir la erección.
+- **Deseo** ("wanting") = proceso **central**, mediado por [[Dopamina]] y por la vía **melanocortínica** (MC3R/MC4R hipotalámicos). Un inhibidor de PDE5 **no toca** estos circuitos.
+
+Consecuencia clínica: un paciente con deseo bajo pero erecciones funcionales no responde a [[Sildenafilo]] ni a [[Tadalafilo]]. Para el deseo se requiere otra clase de intervención (agonistas [[D2 (receptores de dopamina)|D2]] como [[Cabergolina]], agonistas melanocortínicos como [[PT-141 (Bremelanotida)|PT-141]], u optimización de estilo de vida: [[Luz solar]] → [[Vitamina D]] + α-MSH, [[Testosterona]] adecuada, sueño, ejercicio).
+
+> _—@BerbarianWizard (1 oct 2025) hace explícita esta separación clínica erección ≠ deseo._
+
+Ver [[Libido]] para el marco completo.
+
 ## Inhibidores naturales (plantas/hierbas) de PDE5
 
 Existen algunas plantas y hierbas que contienen compuestos con **capacidad de inhibir** la fosfodiesterasa tipo 5 de forma **más suave** que los fármacos sintéticos.

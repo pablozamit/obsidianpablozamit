@@ -8,7 +8,7 @@ A diferencia de otros inhibidores de la PDE5 como el **[[Sildenafilo]]**, el tad
 - **Interacción alimentaria**: No se ve afectado significativamente por el consumo de grasas, a diferencia de otros fármacos de su clase.
 
 ## Mecanismo
-Potencia el efecto del óxido nítrico al inhibir la degradación del cGMP. Se ha documentado que, además de su efecto agudo, el uso crónico a dosis bajas puede mejorar la función endotelial sistémica.
+Potencia el efecto del óxido nítrico al inhibir la degradación del cGMP. Se ha documentado que, además de su efecto agudo, el uso crónico a dosis bajas puede mejorar la función endotelial sistémica. **No actúa sobre el deseo** central; restaura la erección pero no la motivación. Ver [[Libido]].
 
 ## Contexto Moderno
 En el estudio de **Baoli Li et al. (2026)**, se menciona la necesidad de buscar alternativas naturales como el **[[Fitol]]** para pacientes que presentan resistencia terapéutica o efectos adversos intolerables con los inhibidores sintéticos clásicos.

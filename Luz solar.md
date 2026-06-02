@@ -67,6 +67,18 @@ Las mismas células de melanopsina se conectan con los **núcleos del rafe**, do
 
 La serotonina es el precursor de la **[[Melatonina]]**. La glándula pineal convierte serotonina en melatonina después del anochecer. Mayor producción diurna de serotonina → más materia prima disponible para la síntesis nocturna de melatonina. El eje luz-estado de ánimo-sueño es un único pipeline bioquímico continuo.
 
+## α-MSH, melanocortina y energía sexual
+
+La exposición a **UVB/luz solar** estimula el lóbulo anterior de la hipófisis a producir **α-MSH** (hormona estimulante de melanocitos alfa). El α-MSH es el ligando endógeno de los receptores **melanocortínicos MC3R y MC4R** en el [[Hipotálamo]].
+
+- La activación de **MC4R** hipotalámico está implicada en la **motivación sexual** y la energía psicomotora, independientemente de la [[Vitamina D]] o de la [[Testosterona]].
+- Es la misma vía sobre la que actúa el fármaco **[[PT-141 (Bremelanotida)|PT-141 (bremelanotida)]]**, un agonista MC3R/MC4R usado para el deseo sexual hipoactivo.
+- Se ha propuesto que parte del efecto del sol sobre el **ánimo y la energía sexual** (más allá del conocido ↑serotonina y ↑vitamina D) se debe a este eje α-MSH → melanocortina hipotalámica.
+
+> _—Síntesis basada en @BerbarianWizard (1 oct 2025), que señala el sol como activador natural de la vía melanocortínica del deseo._
+
+Ver [[Libido]] para el marco dual completo y [[PT-141 (Bremelanotida)]] para la versión farmacológica.
+
 ## Huesos y calcio
 
 Sin calcitriol adecuado, el intestino absorbe solo el **10–15% del calcio dietético**. Con calcitriol, la absorción sube al **30–40%**. La osteoporosis es, en parte, una enfermedad de insolación insuficiente.
@@ -101,3 +113,7 @@ Todo ello dentro de la capacidad diaria de reparación de la piel. Más allá de
 - [[Melatonina]]
 - [[Helioterapia]]
 - [[Terapia de luz roja]]
+- [[PT-141 (Bremelanotida)]]
+- [[Libido]]
+- [[Testosterona]]
+- [[Hipotálamo]]

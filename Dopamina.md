@@ -22,3 +22,24 @@ Varias estrategias sirven a este efecto; aumentar la acción de la tirosina hidr
 5.  **Longdan Xiegan Tang:** Raíz de peonia + raíz de regaliz (básicamente lo mismo que el punto 1).
 6.  **Cápsulas de Zhuang yang:** Mecanismo sobre la [[Testosterona]]. La crema de Zhuang Yang se emplea para mejorar las erecciones. Funciona más bien por disminución de la [[Prolactina]] (no he visto nada directo sobre dopamina).
 7.  **Tabletas de Jitai:** Es un conjunto de 15 hierbas con 101 principios activos en total. Mejora la función de los transportadores de dopamina, el receptor [[D2 (receptores de dopamina)|D2]], y la tirosina hidroxilasa.
+
+## Dopamina como encendido del libido
+
+En el circuito de la motivación sexual, la dopamina funciona como el **"acelerador"** central: las neuronas del [[Área tegmental ventral]] (VTA) y del [[Núcleo accumbens]] codifican el "wanting" (deseo), distinto del "liking" (placer) y de la respuesta vascular periférica (erección). Una vía paralela a la dopamina para iniciar el deseo es la **melanocortínica** (MC3R/MC4R hipotalámicos), que es la diana de **[[PT-141 (Bremelanotida)|PT-141]]**.
+
+- **[[Cabergolina]]** y **[[Bromocriptina]]**: agonistas [[D2 (receptores de dopamina)|D2]] que además de bajar la [[Prolactina]], restauran el deseo en pacientes hiperprolactinémicos (y en menor medida en varones con deseo bajo y prolactina "normal-alta").
+- **[[Serotonina]]** y **[[Prolactina]]** son los "frenos" del deseo: por eso muchos **[[Inhibidores de la recaptación de la serotonina|ISRS]]** producen anhedonia sexual.
+- **[[Testosterona]]** no actúa directamente sobre el deseo erótico; lo potencia indirectamente al aromatizarse a [[Estradiol]] en el [[Hipotálamo]], donde amplifica la señalización dopaminérgica.
+
+Ver el marco completo en [[Libido]].
+
+## Ver también
+
+- [[Libido]]
+- [[Cabergolina]]
+- [[Bromocriptina]]
+- [[PT-141 (Bremelanotida)]]
+- [[Prolactina]]
+- [[Serotonina]]
+- [[Testosterona]]
+- [[D2 (receptores de dopamina)]]
