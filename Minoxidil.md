@@ -17,3 +17,4 @@ El minoxidil aumenta la [[Prolactina|prolactina]], que es un antagonista de la [
 ## Alternativas
 
 - **[[Alopecia|2-Desoxi-D-Ribosa (2DDR) tópica]]**: gel de azúcar tópico comparable al minoxidil al 2% en eficacia (Anjum, 2024). Sin beneficio al combinarlos. Mecanismo vía VEGF/angiogénesis.
+- **Aceite de oliva tópico** (Moosa @questmoosa, 2 jun 2026): rico en [[Vitamina E]] + ácido oleico + polifenoles. Alternativa suave al minoxidil tópico; menos evidencia clínica para alopecia androgenética en sí, pero mejora la salud del tallo y reduce la rotura. Mecanismo:Vit E antioxidante + oleato como potenciador de penetración. Ver [[Vitamina E#Caída del cabello y alopecia]].

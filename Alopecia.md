@@ -77,7 +77,31 @@ Una teoría propuesta por @GoodTexture sugiere que la caída temporal del cabell
 
 Esto es coherente con el hecho de que el zinc es esencial para la integridad del folículo piloso y que su depleción es una de las causas de [[Alopecia Difusa|alopecia difusa]]. Ver [[Zinc#Caída del cabello en dietas "low-toxin"]].
 
+## Vitamina E vs Finasteride
+
+> "Normalize supplementing vitamin E instead of finasteride to combat hairloss. Normalize topical olive oil (rich in vitamin E) application instead of topical minoxidil application combat hairloss."
+> _—Moosa @questmoosa (2 jun 2026)_
+
+Comparativa detallada en [[Vitamina E#Caída del cabello y alopecia]]. Resumen:
+
+- **Vitamina E** = modesta, complemento razonable, sin efectos adversos significativos
+- **Finasteride** = alta eficacia pero con riesgo de ↓ [[Alopregnanolona|ALLO]] (neuroesteroide GABA-A), disfunción sexual, posible síndrome post-finasteride
+- **Minoxidil tópico** = alta eficacia pero con ↑ [[Prolactina|prolactina]] y posible ↓ libido
+- **Aceite de oliva tópico** = alternativa suave al minoxidil, rico en Vit E + ácido oleico + polifenoles
+
+**Argumento Moosa**: la Vit E no toca la vía androgénica, evita los efectos neuroendocrinos del finasteride, y en su uso tópico es comparable (aunque menos potente) al minoxidil.
+
+**Argumento contrario** (Engin Ozbalik, @randomcanddy): el finasteride es incomparablemente más potente para alopecia androgenética; "no hay cuento" que iguale su efecto. La Vit E no es sustituto realista en casos moderados-severos.
+
+**Conclusión**: Vit E como **primera línea conservadora** + aceite de oliva tópico, escalando a finasteride/minoxidil si no hay respuesta en 6 meses. El stack con finasteride también es válido (efectos aditivos). Ver [[Vitamina E]], [[Finasteride]] y [[Minoxidil]].
+
 ## Ver también
 
 - [[Zinc]]
 - [[Canas]]
+- [[Vitamina E]]
+- [[Finasteride]]
+- [[Minoxidil]]
+- [[5-alfa reductasas]]
+- [[Alopregnanolona]]
+- [[Saw palmetto]]
