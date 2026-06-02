@@ -31,3 +31,13 @@ Ver también: [[Cáncer]], [[Hipotiroidismo]], [[T3]], [[Luz solar]]
 - Paneles LED de fotobiomodulación
 - Lámparas incandescentes
 - Luz ámbar (590 nm): ver [[Luz ámbar]]
+
+## Picos NIR del Complejo IV
+
+La razón bioquímica del rango terapéutico del NIR-A está en la **cromoforicidad directa del [[Complejo IV]]** (citocromo c oxidasa), cuyos picos de absorción documentados (vía @MaxGulhaneMD, 28 sept 2025; @helios_brah, 2 oct 2025) caen en:
+
+- 760, 808, 825, 980 nm — todos dentro de IR-A.
+
+Esta es la base mecanística de la [[Terapia de luz roja|fotobiomodulación]]: la luz NIR modula la cinética del [[Complejo IV]] y por tanto el flujo de electrones, el bombeo de protones y la tasa de reducción del O₂. El corredor de **transmisión tisular** 800–875 nm coincide casi exactamente con los picos de absorción del Complejo IV, lo que explica por qué los paneles PBM comerciales se han estandarizado en 810 nm y 850 nm.
+
+Ver [[Complejo IV]] y [[Terapia de luz roja]] para los detalles.

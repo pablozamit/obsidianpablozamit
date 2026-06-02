@@ -25,3 +25,20 @@ Las [[Dieta cetogénica|grasas animales]] son el macronutriente más bajo en deu
 Thomas Seyfried, biólogo del Boston College, concluyó que el cáncer es una enfermedad metabólica [[Mitocondria|mitocondrial]], no genética. Seneff va un paso más allá: la sobrecarga de deuterio es la causa de que las mitocondrias funcionen mal desde el principio.
 
 Ver también: [[Cáncer]], [[Hipótesis de desacoplamiento metabólico]]
+
+## Deuterio, Complejo IV y corriente regenerativa de Becker
+
+@helios_brah (2 oct 2025) integra la [[Deuterio|hipótesis del deuterio]] en una cadena causal más amplia que conecta la luz solar, la [[Complejo IV|citocromo c oxidasa]] mitocondrial y la bioelectricidad:
+
+- La [[Luz infrarroja|luz NIR]] (760, 808, 825, 980 nm) y roja (620, 633, 680 nm) — exactamente el espectro del amanecer/atardecer — es absorbida por los grupos hemo-Cu del [[Complejo IV]].
+- Un Complejo IV más activo **reduce mejor el O₂** y opera con menos fuga de electrones → menos [[Anión superóxido|ROS]].
+- Mejor función mitocondrial → más energía ([[ATP]]) disponible para energizar las **bombas iónicas** (Na⁺/K⁺-ATPasa, Ca²⁺-ATPasa) → el medio intracelular se enriquece en agua **deplecionada en deuterio** (las bombas discriminan isótopos de hidrógeno y prefieren H sobre D).
+- Agua deuterio-deplecionada intracelular → microambiente que facilitaría la reparación tisular → **más corriente regenerativa de [[Robert Becker|Becker]]** (la *current of injury* documentada en *The Body Electric*, 1985).
+
+> _—Cada eslabón es plausible y tiene literatura. La concatenación causal es **especulativa** y propia del marco biohacker; no está validada como bloque. Ver [[Complejo IV]] y [[Robert Becker]] para los detalles._
+
+## Implicación práctica: amanecer/atardecer
+
+@helios_brah afirma que el perfil espectral rojo/NIR **es el mismo en invierno y con cielo nublado** porque la dispersión atmosférica en esas horas produce precisamente ese perfil. La irradiancia absoluta cae, pero la **proporción** rojo/NIR sobre el total aumenta al filtrarse el azul.
+
+Ver la nota completa en [[Complejo IV]].

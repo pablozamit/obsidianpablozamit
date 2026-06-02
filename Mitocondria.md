@@ -1,6 +1,7 @@
 Partes de la mitocondria:
 
--   [[Cadenas transportadoras de electrones (CTE)]]
+-   [[Cadenas transportadoras de electrones (CTE)]], incluidos los [[Complejo IV|Complejos I, II, III y IV]]
+    - La mitocondria no solo transporta electrones: también **absorbe luz** a través de los grupos hemo-Cu de los complejos, en particular del [[Complejo IV]] (picos en rojo 620/633/680 nm y NIR 760/808/825/980 nm). Esto modula su cinética y conecta con la [[Terapia de luz roja]] y con el efecto del [[Luz solar|amanecer/atardecer]]. Ver [[Complejo IV]] y la sección "Cromoforicidad de los complejos" en [[Cadenas transportadoras de electrones (CTE)]].
 
 
 ## Desacople de mitocondrias

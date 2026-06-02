@@ -22,6 +22,30 @@ _—Mechanisms of low level light therapy, SPIE BiOS (2006)_ [10.1117/12.646294]
 _—Light Therapy in the Treatment of Acne Vulgaris, Dermatol. Surg. (2004)_ [10.1111/j.1524-4725.2004.30053.x]
 
 
+## Cromóforo principal: Complejo IV de la cadena de transporte de electrones
+
+El blanco molecular más estudiado de la [[Terapia de luz roja]] es el **[[Complejo IV]]** (citocromo c oxidasa, COX) de la [[Cadenas transportadoras de electrones (CTE)|cadena de transporte de electrones]] mitocondrial. Sus picos de absorción documentados (vía @MaxGulhaneMD, 28 sept 2025; @helios_brah, 2 oct 2025) son:
+
+| Banda | Longitudes de onda (nm) |
+|---|---|
+| **Rojo** | 620, 633, 680 |
+| **NIR** | 760, 808, 825, 980 |
+
+- El rango terapéutico clásico de paneles PBM (630-670 nm y 810-880 nm) está **anidado** dentro de estos picos: la elección de 670 nm y 850 nm en paneles comerciales no es arbitraria, sino que apunta a los máximos de absorción del Complejo IV.
+- **Contraste con Complejo I**: el Complejo I tiene un pico de absorción en **UV/azul** (hemo P450) y, al absorberlo, **aumenta hasta 14× la generación de [[Anión superóxido|ROS]] mitocondriales**. La conclusión clínica: **luz roja/NIR modera la COX**; **luz azul/UV sobreexcita el Complejo I y produce más radicales libres**.
+
+## Amanecer y atardecer: el "PBM natural"
+
+@helios_brah (2 oct 2025) señala que esas longitudes de onda rojas y NIR son **exactamente las que dominan el espectro solar al amanecer y al atardecer**, cuando la dispersión de Rayleigh y la absorción atmosférica filtran los azules y UV. Afirma además que la **proporción** rojo/NIR sobre el total se mantiene **incluso en invierno y con cielo nublado** (la irradiancia absoluta cae, pero la fracción útil permanece).
+
+- Implicación: **la mejor "sesión de PBM gratis"** es exponerse al sol del orto y del ocaso, idealmente durante el crepúsculo civil/náutico (~20-40 min antes y después de la salida/puesta del sol).
+- Para quien no pueda acceder a sol directo, los [[Terapia de luz roja|paneles PBM]] a 670 nm y 850 nm aproximan la mitad del efecto (sin los componentes UV, IR medio, ni la variabilidad espectral natural).
+- Caveat: la afirmación "mismo efecto en invierno/nublado" es plausible espectralmente, pero la dosis (mW/cm²) que llega al Complejo IV **cae** con el ángulo solar bajo y la nubosidad. El efecto neto depende del balance entre proporción espectral favorable y dosis total reducida.
+
+> _—Síntesis basada en @helios_brah (2 oct 2025) citando a @MaxGulhaneMD (28 sept 2025)._
+
+Ver la nota central en [[Complejo IV]] y la conexión con bioelectricidad en [[Robert Becker]].
+
 ## Beneficios para la piel
 
 La terapia con luz roja revierte todos los signos de envejecimiento y enfermedades de la piel, incluso en pequeñas cantidades.
@@ -75,4 +99,15 @@ Las mismas longitudes de onda que dominan el ambiente lumínico del bosque sombr
 _—Estudio polaco sobre PBM y cáncer de piel (fuente pendiente de verificación)_
 
 Ver también: [[Cáncer]], [[Luz infrarroja]]
+
+## Ver también
+
+- [[Complejo IV]]
+- [[Luz infrarroja]]
+- [[Luz solar]]
+- [[Mitocondria]]
+- [[Anión superóxido]]
+- [[Deuterio]]
+- [[Robert Becker]]
+- [[Cadenas transportadoras de electrones (CTE)]]
 
