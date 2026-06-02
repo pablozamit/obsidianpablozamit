@@ -69,6 +69,37 @@ El magnesio extracelular cerebral está estrictamente regulado, los suplementos 
 - Arquitectura del sueño más profunda con menos fragmentación
 - Aumenta marcadores de plasticidad: BDNF, pCaMKII, pCREB
 
+### Evidencia publicada
+
+- **Estudio MIT 2010 (ratones/ratas, PMID: 20152124)**: científicos del MIT (grupo de Guosong Liu, luego en Tsinghua) desarrollaron y caracterizaron el L-treonato de magnesio como compuesto capaz de cruzar la BBB, elevar el Mg²⁺ en el LCR interneuronal y mejorar el aprendizaje, la memoria de trabajo y la plasticidad sináptica hipocampal. Es el **paper fundacional** del compuesto, citado por @siimland (1 oct 2025) y por la mayor parte de la cobertura comercial.
+- **RCT 2022 en humanos (PMID: 36558392)**: 2 g de L-treonato de magnesio/día durante 30 días mejoraron el rendimiento cognitivo y la memoria. Los efectos fueron **más pronunciados en participantes mayores** que en jóvenes, coherente con la idea de que la caída de Mg²⁺ cerebral asociada a la edad es donde hay más margen de mejora. Citado por @siimland (1 oct 2025).
+
+> _—Ambos estudios son del mismo grupo de investigación y de los titulares de la patente del compuesto (comercializado como **Magtein®**). Esto no invalida los datos pero es un **conflicto de interés estructural** que @8_o_Demerzel (2 oct 2025) recordó explícitamente: "The scientists that ran the experiments also patented it and stood to gain profit from their published work"._
+
+### Pushback técnico (no todo el mundo está convencido)
+
+Varios miembros de la comunidad biohacker cuestionan el atractivo diferencial del L-treonato:
+
+- **@SSavson (2 oct 2025)**: "Surprised to see you get this one wrong man, Magnesium being able to enter the brain is not unique to threonate, any magnesium in its ionic form after absorption can reach the brain."
+- **@gamingrsmanager (7 oct 2025)**: "magnesium l-threonate is not even a single compound... dissociates into a free magnesium ion and that Mg²⁺ circulates as a free ion in the bloodstream, it is not attached to l-threonate anymore."
+- **@NextLevelNtrtn (2 oct 2025)**: "threonate claims are very exaggerated."
+
+El punto bioquímico central del pushback: una vez que el L-treonato de magnesio se disuelve en el tracto gastrointestinal, el Mg²⁺ y el L-treonato **van por separado**. El L-treonato es un anión orgánico que se absorbe y puede cruzar la BBB (vía transportadores de ascorbato/anión orgánico), y **eso** es lo que teóricamente permite al Mg²⁺ entrar al LCR **complejado** con el anión. Pero si la disociación es completa antes del cruce, el Mg²⁺ libre apenas atraviesa la BHE. La realidad **probable**:
+
+- A **dosis altas** (1–2 g de Mg²⁺/día) y durante **uso crónico** (semanas), los mecanismos homeostáticos de Mg²⁺ cerebral (incluida la regulación de los canales TRPM7 y la microglia) producen **aumentos modestos pero medibles** de Mg²⁺ en LCR, **independientemente de la forma** administrada.
+- El L-treonato sí tiene datos **diferenciales** en cuanto a **plasticidad sináptica** (subunidades NR2B, densidad presináptica) que no se han replicado con otras formas. El mecanismo propuesto: el anión L-treonato, una vez en el LCR, podría **actuar per se** sobre vías de señalización neuronal, además de su papel de carrier.
+- En resumen: la afirmación "es el **único** magnesio que llega al cerebro" **no es exacta**; la afirmación "produce efectos diferenciales en plasticidad sináptica y memoria" tiene **evidencia mecanística y clínica modesta pero defendible**.
+
+### Magtein (forma comercial patentada)
+
+**Magtein®** es la marca comercial del L-treonato de magnesio desarrollado por el grupo del MIT (Guosong Liu y cols.) y comercializado bajo licencia. Los suplementos que llevan el sello "Magtein®" en la etiqueta están obligados por contrato a usar la sal y la dosis patentadas; los productos genéricos de "magnesium L-threonate" pueden variar en pureza y estequiometría.
+
+> _—Implicación práctica: el coste del Magtein® es mayor que el de otras formas de magnesio, y la evidencia **modesta pero específica** a favor del L-treonato en cognición y sueño debe sopesarse contra el hecho de que **cualquier forma bien absorbida** (glicinato, taurato, malato) cubre el grueso de la reposición corporal. La elección racional depende del objetivo: reposición general → glicinato/taurato; énfasis en cognición/sueño → L-treonato._
+
+### Protocolo @n3ro_182 (recibido en hilo previo, ver contexto)
+
+Para un perfil "cerebro + suelo pélvico + sueño", @n3ro_182 reportó usar L-treonato por el día y glicinato + 2 L-treonato por la noche. Caveat: la ración total puede acercarse o superar los 2 g de Mg²⁺ elemental/día, en el rango del RCT PMID 36558392. Ver [[Eyaculación precoz#Magnesio en dosis altas (1 g elemental/día)]] para el contexto.
+
 ---
 
 # Rol en el Eje HPA y la respuesta al estrés
