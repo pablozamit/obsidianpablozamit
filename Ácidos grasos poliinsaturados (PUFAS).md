@@ -41,6 +41,7 @@ En un máximo de 30 días, se puede lograr una depleción de PUFAS con una [[Die
 
 - Un estudio observacional de 2026 (ADNI) encontró asociación entre suplementos de [[Omega 3]] y deterioro cognitivo acelerado en ancianos, con reducción del metabolismo de glucosa cerebral (ver [[Omega 3#Estudio ADNI 2026: deterioro cognitivo en ancianos]]).
 - Los omega-3 oxidados generan [[Acroleína]], un aldehído 10-100 veces más reactivo que los radicales libres, con efectos inmunosupresores y citotóxicos (ver [[Peroxidación lipídica]]).
+- **Argumento metodológico** (Nick Jikomes, dic 2025): los RCT "evidence-based" que "demuestran" que los PUFA no son inflamatorios típicamente miden marcadores séricos (CRP, IL-6), no los mediadores lipídicos tisulares (leucotrienos, oxilipinas, prostaglandinas). La inflamación PUFA sí está documentada in vivo en tejido humano (hígado, colon, piel, adiposo) — solo que no donde se busca. Ver [[Inflamación#Inflamación tisular vs sistémica (la falsa ausencia)]] y [[Ácido linoleico#Inflamación PUFA: in vivo vs in vitro (la falsa ausencia de evidencia)]].
 
-Ver también: [[Omega 3]], [[Peroxidación lipídica]], [[Acroleína]], [[EPA]], [[DHA]]
+Ver también: [[Omega 3]], [[Peroxidación lipídica]], [[Acroleína]], [[EPA]], [[DHA]], [[Inflamación]], [[Ácido linoleico]]
 
