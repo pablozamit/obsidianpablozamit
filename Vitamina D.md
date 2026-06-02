@@ -42,6 +42,7 @@ La melanina compite con el 7-dehidrocolesterol por los fotones UVB. Las personas
 
 - Aumenta la **[[testosterona]]** en hombres (metaanálisis, ~4.000 UI/día)
 - La deficiencia se asocia con **[[Depresión]]**, especialmente en mujeres (estudio SUN)
+- **Objetivo sugerido de 25-OH-D en sangre**: **50-60 ng/mL** (Ragnar @pikeypilled, 28 ene 2025) como punto de partida para [[Depresión]] / problemas de [[Ánimo|ánimo]] en el marco [[Ray Peat]]. La [[Vitamina D]] inhibe la triptófano-hidroxilasa, bajando la síntesis de [[Serotonina|serotonina]]. Ver [[Serotonina#Primera intervención para Depresión (Ragnar)]].
 - Previene y trata el [[cáncer]]
 - Erradica la esclerosis múltiple en algunos casos (relación epidemiológica)
 
