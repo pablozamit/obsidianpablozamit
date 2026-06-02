@@ -26,6 +26,8 @@ La **aromatasa** es una [[Enzima]] crucial en el [[Cuerpo humano]], conocida por
 
 El [[Ejercicio físico]] regular y una [[Dieta saludable]] pueden ayudar a controlar la actividad de la [[Aromatasa]] y normalizar los niveles de [[Estrógenos]]. Algunos [[Alimentos]] y [[Compuestos naturales]], como el [[Té verde]], la [[Granada]], los [[Champiñones]] y el [[Resveratrol]], han demostrado tener propiedades [[Inhibidores de la aromatasa|inhibidoras de la aromatasa]]. Por otro lado, se recomienda reducir el consumo de [[Café]], [[Lácteos]] de [[Vaca]], [[Soja]], [[Alcohol]], [[Cerveza]] y [[Alimentos]] que elevan bruscamente la [[Glucosa]], ya que podrían influir en su actividad.
 
+**[[Calcio]]**: el calcio dietético (vía receptor sensor de calcio CaSR) tiene propiedades inhibidoras de la aromatasa en tejido adiposo. Dietas altas en calcio → ↓actividad aromatasa → ↓[[Estradiol]]. Evidencia in vitro y epidemiológica; RCT limitados en humanos. Doble valor: también apoya la mineralización ósea y modula la sensibilidad del receptor de T3. Ver [[Calcio#Aromatasa y estrógenos: el calcio como inhibidor]].
+
 **[[Quinua]]**: caso especial. Un artículo de *whenyouareserious.com* muestra aumentos masivos de E2 en dos pacientes al introducirla, normalizándose al retirarla. Posible efecto por fitoestrógenos o [[Ecdisterona|ecdisterona]]. Recomendable monitorizar E2 en sangre si se consume regularmente, especialmente en hombres con tendencia a la [[Dominancia estrogénica|dominancia estrogénica]].
 
 ## Alternativas a los Inhibidores de Aromatasa
