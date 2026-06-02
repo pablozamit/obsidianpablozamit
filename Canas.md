@@ -9,3 +9,16 @@ Si te preocupas por tu [[Cabello|cabello]] y tu piel, es importante que tu cuerp
 [[Selenio]]
 [[Ácido ortosilícico]]
 [[NAC]]
+
+## Canas por suplementación prolongada de zinc
+
+Algunos usuarios en la comunidad reportan que la suplementación con zinc les produjo más canas y cabellos blancos, presumiblemente por **depleción de [[Cobre]]** (observación de @badintentz en respuesta a @GoodTexture, 1 mar 2026). El zinc y el cobre compiten por los mismos transportadores intestinales; suplementar zinc de forma crónica sin equilibrar con cobre puede inducir una deficiencia funcional de cobre que afecte a la tirosinasa (enzima [[Cobre|cobre-dependiente]] que sintetiza [[Melanina|melanina]]).
+
+**Mitigación**: mantener ratio zinc/cobre adecuado al suplementar (ver [[Zinc#Precaución: zinc y canas por depleción de cobre]]).
+
+## Ver también
+
+- [[Zinc]]
+- [[Cobre]]
+- [[Melanina]]
+- [[NAC]]

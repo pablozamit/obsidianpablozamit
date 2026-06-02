@@ -70,3 +70,14 @@ En un estudio, un hombre pudo recuperarse de la alopecia simplemente untándose 
 - [[Zinc]]
 
 (?faltan fuentes)
+
+## Teoría: caída de cabello en dietas "low-toxin"
+
+Una teoría propuesta por @GoodTexture sugiere que la caída temporal del cabello (efluvio telógeno) que muchas personas experimentan al adoptar una dieta baja en tóxicos podría deberse al **aumento de la utilización de zinc** por parte del cuerpo. Al reducir la carga tóxica, los sistemas de desintoxicación y reparación comienzan a consumir las reservas de zinc más rápidamente, manifestando temporalmente el déficit en forma de pérdida de cabello.
+
+Esto es coherente con el hecho de que el zinc es esencial para la integridad del folículo piloso y que su depleción es una de las causas de [[Alopecia Difusa|alopecia difusa]]. Ver [[Zinc#Caída del cabello en dietas "low-toxin"]].
+
+## Ver también
+
+- [[Zinc]]
+- [[Canas]]

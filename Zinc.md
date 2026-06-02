@@ -99,4 +99,30 @@ El [[Café|café]] crónico agota el zinc, junto con [[Magnesio|magnesio]] y [[V
 - **Fuentes**: Carnes rojas (3-4 veces/semana), mariscos e hígado de ternera.
 - **Suplementación**: Preferir **carnosina de zinc**. Utilizar ionóforos (quercetina o EGCg) 15-30 min antes para facilitar la entrada celular. **Nota**: Equilibrar siempre con cobre.
 
-    
+## Zinc como antídoto moderno a venenos químicos
+
+Perspectiva de Matthew @GoodTexture (1 mar 2026): las formulaciones de zinc suplementado, aunque comunes, son "maravillas modernas de la química" que representan una **reacción igual y opuesta a venenos químicos modernos** como el [[Pesticidas|glifosato]] y el [[Vitamina A|palmitato de vitamina A]].
+
+> "I maintain the view that these modern chemical poisonings require modern chemical solutions and that simple diet changes alone are not enough to restore balance within any reasonable timeframe, if at all."
+> _—Matthew @GoodTexture (1 mar 2026)_
+
+## Caída del cabello en dietas "low-toxin"
+
+Una teoría postulada en la comunidad (@GoodTexture) sugiere que el aumento de caída de cabello (efluvio telógeno) observado frecuentemente tras adoptar una dieta baja en toxinas podría deberse en parte al **aumento de la utilización de zinc**. Es decir, al reducir la exposición a disruptores, el cuerpo comienza a movilizar zinc almacenado para tareas de reparación y desintoxicación, agotando las reservas y manifestando el déficit temporalmente en forma de pérdida de cabello.
+
+> "The theory that increased hair shedding so often seen after adopting a low toxin diet could be due in part to increased zinc utilization may have legs."
+> _—Matthew @GoodTexture (1 mar 2026)_
+
+## Precaución: zinc y canas por depleción de cobre
+
+Algunos usuarios en la comunidad reportan que la suplementación con zinc les produjo más canas y cabellos blancos, presumiblemente por depleción de [[Cobre]] (@badintentz en respuesta a @GoodTexture). Matthew indica que no experimentó este efecto, pero la observación coincide con el riesgo conocido: el zinc desplaza al cobre cuando se suplementa a largo plazo sin balancear.
+
+**Mitigación**: mantener ratio zinc/cobre adecuado (típicamente 15-25 mg zinc + 1-2 mg cobre) al suplementar zinc de forma crónica.
+
+## Ver también
+
+- [[Cobre]]
+- [[Pesticidas]]
+- [[Alopecia]]
+- [[Canas]]
+- [[Vitamina A]]
