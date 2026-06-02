@@ -28,3 +28,9 @@ El eugenol también está presente en el [[Tulsi (Albahaca Sagrada, Albahaca Ind
 
 ---
 **Fuente científica**: [Impact of clove oil on behavioral and biochemical parameters in restrained rats](https://pubmed.ncbi.nlm.nih.gov/41546573/)
+
+## Ver también
+
+- [[Higiene dental]]
+- [[Tulsi (Albahaca Sagrada, Albahaca India)|Tulsi]]
+- [[Cortisol]]
