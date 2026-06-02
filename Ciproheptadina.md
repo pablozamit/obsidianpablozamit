@@ -51,6 +51,29 @@ Cuando el estrés acumulado de vida y responsabilidades se desborda, el sueño y
 > "It's like lowering serotonin and stress hormones allows my nervous system to reset, clarity replaces chaos."
 > _—Jamal Dinkoui @BerbarianWizard (28 ene 2026)_
 
+### Doomscrolling (uso conductual)
+
+> "The most effective tool against doomscrolling that I know of"
+> _—Palmer Prescott @_palmerprescott (13 ene 2026)_
+
+Mecanismo: la ciproheptadina **rompe el bucle de rumiación compulsiva** que subyace al doomscrolling — el antagonismo 5-HT2A/C reduce la captación atencional hacia estímulos negativos en cascada (noticias, contenido "horripilante", feeds infinitos), el efecto H1 induce somnolencia al acostarse que sustituye el tiempo de pantalla, y el reset del sistema nervioso reduce la ansiedad basal que dispara el comportamiento de búsqueda compulsiva. No es que "cure" el problema conductual, sino que **interrumpe la ventana nocturna** donde el bucle se retroalimenta. Ver [[Doomscrolling]] para análisis completo.
+
+### Disponibilidad por país (mapa regulatorio)
+
+| País | Estatus | Notas |
+|---|---|---|
+| Francia | OTC (sin receta) | Venta libre en farmacias |
+| España | OTC (sin receta) | Disponible online en portales como farmaciasdirect.eu |
+| Alemania | **Receta obligatoria** | "rezeptfrei" es incorrecto (DezentKeck) |
+| Países Bajos | **Receta obligatoria** | Desde hace ~1.5 años (Thijs05) |
+| Kuwait | OTC | ~$5 por envase (abdullaaltarak) |
+| Países árabes | OTC generalizado | "everything's available OTC" (Jamal) |
+
+> "For European countries, it's sold under the brand Periactine. It's cheap and available over the counter. Just make sure to cut the tablet into four pieces, 1mg is enough."
+> _—Jamal Dinkoui @BerbarianWizard (14 ene 2026)_
+
+La diferencia regulatoria intra-europea (Francia/España OTC vs. Alemania/Países Bajos con receta) refleja la reclasificación de los antagonistas serotoninérgicos en la UE: en algunos estados se mantiene como antihistamínico de primera generación, en otros se reclasificó por el perfil neuroactivo. La dosis del comprimido comercial (4 mg) está pensada para indicaciones alérgicas; partir el comprimido permite las dosis sub-clínicas (0.5-1 mg) que la comunidad biohacker usa para fines cognitivos/conductuales.
+
 ### Rumiación e hipervigilancia crónicas
 
 Caso de 15 años de [[Depresión]] y estrés crónico desde los 16 años, refractario a múltiples intervenciones. El usuario rechazó [[ISRS]] tras observar que empeoraban a conocidos a largo plazo.
@@ -126,3 +149,4 @@ Los antihistamínicos de segunda generación son muy selectivos para H1 y apenas
 - [[Metergolina]]
 - [[Ray Peat]]
 - [[Receptores de serotonina]]
+- [[Doomscrolling]]
