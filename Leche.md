@@ -12,6 +12,9 @@ Posibles sesgos: por ejemplo, los niños que consumen más leche podrían tener 
 
 ## Leche Cruda
 
+### Lactoferrina en leche cruda
+
+La leche cruda contiene cantidades pequeñas pero significativas de [[Lactoferrina|lactoferrina]] de forma natural, una glicoproteína antimicrobiana y antiinflamatoria. Es una de las diferencias nutricionales relevantes frente a la leche pasteurizada (que desnaturaliza parcialmente estas proteínas).
 
 ### Proveedores de Lácteos Crudos
 

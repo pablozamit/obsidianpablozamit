@@ -53,3 +53,22 @@ Para evitar molestias digestivas, escalar la dosis gradualmente:
 - Semana 3: 60 mg/día con comida
 - Semana 4: 120 mg/día con comida
 - Semana 5+: 240-300 mg/día con comida
+
+### Estudio japonés (Helen @anomalie_blue, marzo 2026)
+
+Confirmación de los datos con un estudio específico en **hombres y mujeres japoneses** con 300 mg de lactoferrina:
+
+- Reducción del **área grasa total** más del doble que el grupo control
+- **12% de pérdida de grasa visceral** vs 2% en control
+- La lactoferrina fue el **único cambio de estilo de vida** introducido en el estudio
+- **Mecanismo clave**: la lactoferrina se une directamente a [[Endotoxinas|endotoxinas]], reduciendo la [[Inflamación|inflamación sistémica]]
+
+### Timing y administración
+
+- **Estómago vacío** para máxima absorción (recomendación de la mayoría de fabricantes).
+- Algunas personas experimentan **dolor de cabeza**; en ese caso, combinar con comida.
+
+### Marcas y fuentes naturales
+
+- Polvo de **LactoferrinCo** (recomendación de @anomalie_blue).
+- La **leche cruda** también contiene pequeñas cantidades de lactoferrina de forma natural.
