@@ -48,6 +48,12 @@ Ver también: [[Ejercicios]], [[Efecto Warburg]], [[Metabolismo oxidativo]], [[F
 
 Un estudio revela que **el metabolismo de la serina es clave en el cáncer**, no solo por su papel en la producción de glicina y unidades de un carbono, sino principalmente por su participación en la **síntesis de lípidos esenciales para el crecimiento celular**. Estos hallazgos podrían ayudar a desarrollar **nuevas estrategias terapéuticas dirigidas a interrumpir el metabolismo de la serina** en células cancerosas.
 
+## Metástasis y aspirina (prevención)
+
+La **metástasis** es responsable de **~90% de las muertes por cáncer**, no el tumor primario. La [[Aspirina (ácido acetilsalicílico)|aspirina]] en dosis bajas (75-100 mg/día) tiene evidencia de reducción de metástasis en múltiples tipos de cáncer (especialmente colorrectal, mama, próstata) mediante tres vías simultáneas: (1) reducción de [[Tromboxano|TXA2]] que desactiva el "escudo plaquetario" tumoral, (2) inhibición de la transición epitelio-mesénquima (EMT), (3) restauración de la inmunidad T anticancerígena al bajar PGE2. Estudios clínicos muestran reducción de células tumorales circulantes (CTC), marcador clave de diseminación. Ver [[Aspirina (ácido acetilsalicílico)#Las 3 vías antimetastásicas de la aspirina]].
+
+**Posición USPSTF (2016+)**: la aspirina NO se recomienda rutinariamente para prevención primaria de cáncer en adultos asintomáticos, por riesgo de sangrado gastrointestinal/hemorragia intracraneal. Casos individuales de alto riesgo requieren evaluación médica.
+
 ## Melanoma y la paradoja solar
 
 El **melanoma cutáneo** no encaja en el patrón de los cánceres inducidos por UV. Christophers (Mutation Research, 1998) y Godar et al. (Dermato-Endocrinology, 2017) muestran:

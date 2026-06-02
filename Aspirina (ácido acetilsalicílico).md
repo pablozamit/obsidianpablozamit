@@ -105,6 +105,28 @@ Un estudio de *Nature* (2025) reveló que la aspirina podría ayudar a combatir 
 
 David Sinclair reporta tomar una aspirina infantil recubierta de 81 mg al día basándose en esta evidencia, aunque reconoce que ya no se recomienda de forma general para prevención primaria. El riesgo de sangrado debe sopesarse frente al beneficio potencial.
 
+### Las 3 vías antimetastásicas de la aspirina (Dalton @Outdoctrination)
+
+> "Aspirin prevents the deadly spread of cancer (metastasis) - concluded from recent review. This spread is responsible for ~90% of cancer deaths. Clinical trials have shown reductions in circulating tumor cells, a key measure of cancer spread."
+> _—Dalton @Outdoctrination (21 mar 2026)_
+
+La evidencia reciente (revisión de literatura) atribuye el efecto antimetastásico a **tres mecanismos simultáneos**:
+
+1. **Reducción de [[Tromboxano|tromboxano]] (TXA2)**: la aspirina inhibe irreversiblemente la COX-1 plaquetaria, reduciendo la producción de TXA2. Las células tumorales usan plaquetas activadas por TXA2 como "escudo" físico contra el sistema inmune. Sin ese escudo, los [[Linfocitos T|linfocitos T]] pueden reconocer y destruir las células circulantes. → Menos células tumorales circulantes (CTC), menos metástasis.
+
+2. **Prevención de la transición epitelio-mesénquima (EMT)**: la EMT es el proceso por el cual las células tumorales epiteliales pierden adhesión celular y adquieren capacidad migratoria/invasiva. La aspirina, al inhibir la vía COX-2 → PGE2, suprime los señales que promueven EMT (SNAIL, TWIST, ZEB1). → Menos invasión local y diseminación.
+
+3. **Restauración de la inmunidad anticancerígena de linfocitos T**: la PGE2 (producto de COX-2) suprime directamente la función de los linfocitos T citotóxicos (CD8+) y de las células NK. Al reducir PGE2, la aspirina quita este "freno" inmune y permite el ataque antitumoral. → Reconocimiento y eliminación de células metastásicas.
+
+Las tres vías convergen en un mismo punto: **reducir la producción de eicosanoides pro-tumorales (TXA2, PGE2) derivados de COX**, lo que simultáneamente desactiva el escudo plaquetario, frena la transición invasiva y libera el freno inmune.
+
+### Crítica médica formal
+
+> "Hazardous oversimplification. Aspirin affects platelet-tumor crosstalk but does not cure cancer. I do not recommend routine primary prevention; bleeding risks exceed benefits."
+> _—Dr. Robert @robt_heartdoc (21 mar 2026)_
+
+Posición médica establecida (USPSTF, 2016 en adelante): **no se recomienda aspirina rutinaria para prevención primaria de cáncer** en adultos asintomáticos. La evidencia de reducción de mortalidad es real, pero el riesgo de sangrado gastrointestinal y hemorragia intracraneal es clínicamente significativo. Casos individuales de alto riesgo (historia personal/familiar de cáncer colorrectal, por ejemplo) requieren evaluación médica personalizada.
+
 ### Reducción de [[Lipofuscina]] (en combinación con [[Aceite de clavo]])
 
 "El estudio a continuación demuestra que la humilde [[Aspirina]], y el ingrediente principal del [[Aceite de clavo]] - [[Eugenol]] - pueden reducir de manera fiable la [[Lipofuscina]] ya acumulada. De hecho, en dosis "grandes" (como las llama el estudio), la combinación de [[Aspirina]] y [[Eugenol]] (administrada durante solo 8 semanas) redujo los niveles de [[Lipofuscina]] por debajo de los niveles incluso del grupo de control (sano, joven)."

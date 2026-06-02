@@ -72,3 +72,7 @@ Confirmación de los datos con un estudio específico en **hombres y mujeres jap
 
 - Polvo de **LactoferrinCo** (recomendación de @anomalie_blue).
 - La **leche cruda** también contiene pequeñas cantidades de lactoferrina de forma natural.
+
+### Comparativa con [[Aspirina (ácido acetilsalicílico)|aspirina]] para cáncer
+
+En un hilo sobre el efecto antimetastásico de la aspirina (Dalton @Outdoctrination, 21 mar 2026), un usuario propuso lactoferrina como "alternativa mejor". Respuesta de Dalton: los mecanismos son muy diferentes y la lactoferrina tiene mucha menos investigación específica sobre cáncer que la aspirina. La aspirina ataca metástasis vía inhibición de COX/TXA2/PGE2 y restauración de linfocitos T; la lactoferrina actúa más como inmunomodulador general y quelante de hierro. No son intercambiables.
