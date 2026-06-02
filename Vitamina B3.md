@@ -80,3 +80,68 @@ https://www.drlamcoaching.com/adrenal-fatigue/recovery/niacin-chronic-afs/#:~:te
 ·Excess nicotinamide increases plasma serotonin and histamine levels
 https://pubmed.ncbi.nlm.nih.gov/23426511/
 
+## Niacinamida: cortisol, receptores de estrógeno y tiroides (vía SIRT1)
+
+> "Niacinamide, a form of vitamin B3, powerfully lowers cortisol, decreases estrogen receptors and increases thyroid receptor expression through SIRT1 inhibition. Start with 100mg a day."
+> _—Moosa @questmoosa (22 ene 2026)_
+
+Cuatro claims en un solo tweet. Análisis uno por uno:
+
+### 1. ↓[[Cortisol]]
+
+- Evidencia limitada pero existente: hay datos en animales y reportes clínicos que asocian [[Vitamina B3|vitamina B3]] (en todas sus formas) con función adrenal apoyada y modulación de cortisol.
+- Sin embargo, "powerfully" es hiperbólico. Otros agentes (ashwagandha, fosfatidilserina, glicina) tienen evidencia más robusta. Ver [[Cortisol#Cómo Disminuirlo]].
+- Riesgo opuesto documentado: el exceso de niacinamida puede **aumentar serotonina e histamina** [PMID: 23426511], efecto pro-estrés, no anti-estrés.
+
+### 2. ↓[[Receptores de estrógeno]] (vía inhibición de SIRT1)
+
+- **Mecanismo real**: la niacinamida inhibe la sirtuina SIRT1, que normalmente **deacetila** el receptor de estrógenos alfa (ERα). Al bloquear SIRT1, ERα permanece acetilado, lo que **reduce su actividad transcripcional** y favorece su degradación proteasomal.
+- Estudios en cáncer de mama (línea celular MCF-7) muestran que la niacinamida reduce la proliferación celular dependiente de estrógenos por este mecanismo.
+- Implicación clínica: menor señalización estrogénica → efecto opuesto al de los SERMs como tamoxifeno, pero por una vía distinta (degradación de receptor en lugar de antagonismo competitivo).
+
+### 3. ↑[[Receptores tiroideos]] (vía SIRT1)
+
+- Niacinamida y otras formas de B3 pueden aumentar la expresión de receptores tiroideos (TRα/TRβ) en tejidos periféricos. La inhibición de SIRT1 desacetila factores de transcripción que regulan TR.
+- Ray Peat escribió extensamente sobre la B3 como soporte tiroideo. Estudios en cerebro fetal muestran aumento de TR con niacinamida.
+- Sinergia con [[Tiroides (suplemento)]]: el receptor más expresado = más sensibilidad a la T3 circulante.
+
+### 4. Mecanismo unificador: inhibición de [[Sirtuinas|SIRT1]]
+
+- La niacinamida es un **inhibidor no competitivo** de SIRT1 (y SIRT2, SIRT3) con IC50 ~50-180 μM.
+- Mecanismo molecular: la niacinamida reacciona con un intermedio de ADP-ribosa durante la desacetilación, regenerando NAD+ y bloqueando el ciclo catalítico de la sirtuina ("base exchange").
+- No es el mismo mecanismo que el del resveratrol (activador alostérico de SIRT1) — son **opuestos**.
+
+## Posición alternativa: niacinamida como "trash" de B3
+
+> "Niacinamide is a trash version of niacin, B3, nicotinic acid. Don't take Niacinamide. Take the real form of B3, nicotinic acid."
+> _—@mrchrissea (23 ene 2026)_
+
+Argumento de la comunidad [[Ray Peat]]:
+
+- La **niacina** (ácido nicotínico, "con flush") es la "verdadera B3"; la niacinamida es vista como un derivado incompleto.
+- Razones: la niacinamida **consume grupos metilo** para su excreción (el "methyl trap" ya documentado arriba), es potencialmente hepatotóxica en dosis altas (>3g/día), y bloquea la vía de las sirtuinas que algunos consideran pro-metabólicas (Peat) en lugar de pro-supervivencia (Sinclair).
+- **Distinguir del contexto**: Moosa *valora* la inhibición de SIRT1 (efecto antiestrogénico, protiroideo). Peat prefiere niacin porque su efecto es por otra vía (movilización lipídica, soporte adrenal) y no toca sirtuinas.
+
+**Ambas posturas tienen soporte parcial**; la diferencia es si la inhibición de SIRT1 se considera positiva o negativa. La dosis y la presencia del flush cambian completamente la lectura.
+
+## Dosis y forma
+
+- 100 mg/día (Moosa) es un **punto de entrada razonable**. Dosis terapéuticas usadas en estudios suelen estar en 250-500 mg/día.
+- Dosis >500 mg/día de forma crónica activan el methyl trap → considerar TMG/colina.
+- Para niacina "con flush": 50-100 mg/día, escalando. Bloquear el flush con aspirina elimina parte del efecto.
+- Niacinamida oral NO causa flush → más cómoda para uso crónico, pero pierde el efecto GPR109A de la niacina.
+
+## Ver también
+
+- [[Cortisol]]
+- [[Sirtuinas]]
+- [[Ray Peat]]
+- [[Receptor de estrógeno alfa (ERα)]]
+- [[Tiroides (glándula)]]
+- [[Tiroides (suplemento)]]
+- [[Metilación]]
+- [[NAD+]]
+- [[Caspa]]
+- [[Piel]]
+- [[Cándida]]
+

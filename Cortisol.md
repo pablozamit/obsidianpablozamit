@@ -88,6 +88,10 @@ Caminar descalzo sobre hierba, tierra o arena sincroniza el potencial eléctrico
 
 La exposición al frío activa el sistema nervioso parasimpático tras la respuesta inicial, reduciendo el cortisol a largo plazo y aumentando la resiliencia al estrés.
 
+## [[Vitamina B3]] (niacinamida)
+
+La niacinamida (forma no-flush de la vitamina B3) puede bajar cortisol a través de la inhibición de la sirtuina [[Sirtuinas|SIRT1]]. Dosis inicial típica: 100 mg/día. La evidencia es menos robusta que la de ashwagandha, fosfatidilserina o glicina. Advertencia: dosis altas (>500 mg/día) activan el "methyl trap" y pueden **aumentar serotonina e histamina** [PMID: 23426511], efecto pro-estrés. Ver [[Vitamina B3#Niacinamida: cortisol, receptores de estrógeno y tiroides (vía SIRT1)]].
+
 ## [[Viparita Karani]] (descanso pélvico apoyado)
 
 Postura restaurativa de [[Yoga]] con un bolster firme bajo la pelvis y piernas apoyadas en pared o silla. La eliminación de la demanda gravitatoria y la presión predecible del bolster indican al sistema nervioso "apoyo total, esfuerzo cero", descargando la guardia crónica del suelo pélvico y la zona lumbar. Reduce cortisol, ansiedad y permite una respiración profunda sin esfuerzo. Protocolo: 3-10 min, sin forzar la relajación, idealmente a diario. Ver [[Viparita Karani]].
