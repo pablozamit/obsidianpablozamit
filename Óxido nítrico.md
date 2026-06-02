@@ -19,3 +19,5 @@ El NO liberado por la luz solar relaja las paredes arteriales → **vasodilataci
 - [[Luz solar]]
 - [[Luz ultravioleta]]
 - [[Vitamina D]]
+- [[Frecuencia de comidas]] — la lipemia postprandial de comidas grandes reduce NO biodisponible.
+- [[Endotelio]]

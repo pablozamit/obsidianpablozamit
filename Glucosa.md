@@ -34,3 +34,11 @@ Los niveles de [[Glucosa|glucosa]] en sangre pueden estabilizarse un 75% simplem
 2.  Los alimentos compuestos de [[Grasa|grasas]] y [[Proteínas|proteínas]], como la carne o el pescado.
 3.  Los alimentos ricos en carbohidratos complejos, como el [[Arroz]].
 4.  Los alimentos altos en [[Azúcar|azúcar]], como cualquier postre azucarado.
+
+# [[Frecuencia de comidas]] y glucosa
+
+El debate OMAD vs comidas frecuentes tiene un componente glucémico directo:
+
+- **OMAD / pocas comidas**: menos picos de [[Insulina|insulina]] al día, pero cada uno más alto. Más tiempo en rango bajo de glucosa entre comidas.
+- **Comidas frecuentes (cada hora)**: picos más pequeños y numerosos, pero la [[Glucosa|glucosa]] y la [[Insulina|insulina]] permanecen crónicamente elevadas. Crítica principal del hilo @ThorTorrens: hiperinsulinemia sostenida → potencial resistencia a la insulina a largo plazo.
+- **Punto medio (2-3 comidas diurnas)**: combina control glucémico y carga digestiva manejable. Ver [[Frecuencia de comidas]] para el debate completo y mecanismos.
