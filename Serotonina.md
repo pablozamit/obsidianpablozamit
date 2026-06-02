@@ -12,6 +12,20 @@ La exposición a luz brillante ([[Luz solar]]) aumenta la síntesis de serotonin
 
 La serotonina estimula la producción de [[Cortisol]] en las glándulas suprarrenales de forma **dosis-dependiente**. Los antagonistas de serotonina (como la [[Ciproheptadina]]) abolieron la respuesta de cortisol a la serotonina, y se observó aumento de [[cAMP]] confirmando la producción de cortisol [PMID: 1374544].
 
+## Marco de "bajar serotonina" (comunidad [[Ray Peat]])
+
+Enfoque que postula que parte de la [[Depresión]] moderna, la rumiación, la hipervigilancia y el insomnio son manifestaciones de un **exceso crónico de serotonina** (no un déficit, como propone el modelo SSRI). El protocolo habitual incluye:
+
+- [[Ciproheptadina]] (antagonista 5-HT2A/C) en dosis bajas (0.5-1 mg) antes de dormir como "reset" puntual tras estrés acumulado.
+- [[Vitamina A]], [[Vitamina D]] y [[Zinc]] para inhibir la triptófano-hidroxilasa (enzima limitante en la síntesis de serotonina).
+- [[L-Lisina]] como antagonista suave de la absorción de serotonina.
+- [[Metergolina]] como alternativa a la ciproheptadina sin síndrome de abstinencia.
+
+> "I've been living with excess serotonin for about a decade and now it's effectively cured for $10."
+> _—Connor @connorfowlerx (14 feb 2026)_
+
+Casos reportados: rumiación eliminada, hipervigilancia eliminada, sueño restaurado, claridad mental al día siguiente. Es la antítesis directa del modelo [[ISRS]]. Ver [[Ciproheptadina]] y [[Ray Peat]].
+
 ## Por estudiar
 
 https://twitter.com/Outdoctrination/status/1679189746117902359

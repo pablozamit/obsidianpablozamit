@@ -36,6 +36,12 @@ Respirar en una bolsa de papel 5-10 minutos antes de acostarse eleva el [[CO2]],
 
 Postura restaurativa de [[Yoga]] con bolster firme bajo la pelvis y piernas apoyadas en pared o silla. Apaga la señalización de amenaza y baja el [[Cortisol|cortisol]] en 3-10 minutos, ideal para quienes tienen dificultad para "apagar" el sistema nervioso antes de dormir o sufren despertares por fatiga suprarrenal. Ver [[Viparita Karani]].
 
+## [[Ciproheptadina]] 0.5-1 mg antes de dormir
+
+Antihistamínico de primera generación con fuerte antagonismo 5-HT2A/C. Es el **"reset"** de elección para muchos usuarios cuando el estrés acumulado deteriora el sueño y el foco. La baja de serotonina y cortisol que produce permite al sistema nervioso reiniciar: al día siguiente la mente está clara, calmada y enfocada. Especialmente útil en insomnio por estrés, rumiación nocturna e insomnio por [[Estimulantes|estimulantes]].
+
+**Protocolo anti-tolerancia**: 1 mg EOD durante 2 semanas, después uso puntual (1x/semana PRN). La somnolencia matutina requiere ~2 semanas para desaparecer. Dosis altas (≥4 mg) generan efecto antidopaminérgico, subida de [[Prolactina|prolactina]] y supresión de [[Hormona de crecimiento|GH]]. Ver [[Ciproheptadina]].
+
 # Suplementación
 
 ## Té de sueño (Dan Go)

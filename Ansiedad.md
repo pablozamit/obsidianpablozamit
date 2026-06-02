@@ -59,5 +59,6 @@ Es fundamental buscar [[Orientación profesional]] si la [[Ansiedad]] interfiere
 - [[Magnesio]]
 - [[Ashwagandha]]
 - [[Depresión]]
+- [[Ciproheptadina]] — antagonista 5-HT2A/C usado fuera de etiqueta para rumiación e hipervigilancia crónicas; ver marco "bajar serotonina" en [[Serotonina]].
 
 (?faltan fuentes)

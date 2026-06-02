@@ -40,8 +40,60 @@ La ciproheptadina destaca por inducir sueño reparador y natural, superior a los
 - **Inicio**: 0.5-1 mg antes de dormir.
 - **Efectos**: mente clara, enfocado, calmado y seguro al día siguiente.
 - **Dosis altas**: efectos adversos como efecto antidopaminérgico, aumento de [[Prolactina|prolactina]] y somnolencia excesiva. Puede reducir la [[Hormona de crecimiento|GH]] durante el sueño.
+- **Tabletas comerciales**: típicamente 4 mg; partir el comprimido permite dosis sub-clínicas (0.5, 1, 2 mg).
 - **Disponible en Europa**: Periactine sin receta.
-- **Sin síndrome de abstinencia**.
+- **Sin síndrome de abstinencia** (reportado por Jamal Dinkoui). Ver también [[Metergolina]] como alternativa de perfil similar pero sin withdrawal reportado.
+
+### Reset del sistema nervioso tras estrés acumulado
+
+Cuando el estrés acumulado de vida y responsabilidades se desborda, el sueño y el foco se deterioran hasta un punto crítico. Una sola toma de 1 mg de ciproheptadina antes de dormir "lo pone todo de nuevo en su lugar": al día siguiente la mente está clara, enfocada, calmada y se pueden organizar las tareas pendientes.
+
+> "It's like lowering serotonin and stress hormones allows my nervous system to reset, clarity replaces chaos."
+> _—Jamal Dinkoui @BerbarianWizard (28 ene 2026)_
+
+### Rumiación e hipervigilancia crónicas
+
+Caso de 15 años de [[Depresión]] y estrés crónico desde los 16 años, refractario a múltiples intervenciones. El usuario rechazó [[ISRS]] tras observar que empeoraban a conocidos a largo plazo.
+
+Con ciproheptadina: "rumiación eliminada, hipervigilancia eliminada. Mi mente está finalmente clara". Describe su estado previo como "una década viviendo con exceso de serotonina", resuelto por menos de $10.
+
+> "I've been living with excess serotonin for about a decade and now it's effectively cured for $10."
+> _—Connor @connorfowlerx (14 feb 2026)_
+
+### Protocolo anti-tolerancia (Connor)
+
+Para evitar desarrollo de tolerancia:
+
+1. 1 mg en días alternos (EOD) durante 2 semanas.
+2. Anotar beneficios y efectos secundarios día a día.
+3. Pasado ese periodo, **uso puntual**: ~1 vez/semana PRN (cuando el estrés se desborda).
+
+La somnolencia matutina (grogginess) suele requerir unas **2 semanas** de uso consistente para ajustarse; el uso puntual tras un descanso "golpea como un camión" al día siguiente — efecto buscado como reset puntual.
+
+### Combinación con [[Alopregnanolona|ALLO]] / [[DHT]] / andrógenos: switch Calm/Aggressive
+
+> "Cyproheptadine + AlloP/DHT/Andro : total control on Calm / Aggressive switch"
+> _—Jamal Dinkoui @BerbarianWizard (28 ene 2026)_
+
+Pila orientada a modular a voluntad el tono del sistema nervioso:
+
+- **Ciproheptadina** → reduce el tono serotoninérgico (calma, sedación, fin de rumiación)
+- **ALLO (alopregnanolona)** → GABA-A positivo, ansiolisis potente vía neuroesteroide
+- **DHT** → andrógeno neuroactivo con metabolitos pro-cognitivos y GABAérgicos
+- **Andro (androsterona)** → esteroide GABAérgico, modulación del tono
+
+Esta combinación es característica de la comunidad [[Ray Peat]] y busca tener acceso "manual" al interruptor calma/agresión, sin depender de su estado basal serotoninérgico.
+
+### Sustancia Ray Peat
+
+> "cypro is THE s tier peat substance for me - always works, measured effects, dose can be increased with ease - GOAT"
+> _—@metalsthatfloat (15 feb 2026)_
+
+En el marco [[Ray Peat]] (anti-serotonina, pro-tiroideo, pro-progesterona) la ciproheptadina es una de las pocas [[Fármacos|fármacos]] aprobados por el framework: baja serotonina activamente, tiene perfil [[Antihistamínico|antihistamínico]] de primera generación, y encaja con la idea de "reducir la inflamación sistémica y el tono simpático" sin los efectos pro-serotoninérgicos de los [[ISRS]].
+
+### Nota sobre withdrawal
+
+Un usuario señala que la ciproheptadina **sí puede generar efecto rebote** al suspender (síntomas serotoninérgicos de rebote). [[Metergolina]] se postula como alternativa con efectos serotonin-antagonistas similares pero sin síndrome de abstinencia reportado.
 
 ### Perfil único vs. antihistamínicos modernos
 
@@ -66,3 +118,11 @@ Los antihistamínicos de segunda generación son muy selectivos para H1 y apenas
 - [[Estimulantes]]
 - [[Barrera hematoencefálica]]
 - [[Ansiedad]]
+- [[Cortisol]]
+- [[Alopregnanolona]]
+- [[DHT]]
+- [[Depresión]]
+- [[ISRS]]
+- [[Metergolina]]
+- [[Ray Peat]]
+- [[Receptores de serotonina]]

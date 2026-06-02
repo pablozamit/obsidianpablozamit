@@ -92,6 +92,10 @@ La exposición al frío activa el sistema nervioso parasimpático tras la respue
 
 Postura restaurativa de [[Yoga]] con un bolster firme bajo la pelvis y piernas apoyadas en pared o silla. La eliminación de la demanda gravitatoria y la presión predecible del bolster indican al sistema nervioso "apoyo total, esfuerzo cero", descargando la guardia crónica del suelo pélvico y la zona lumbar. Reduce cortisol, ansiedad y permite una respiración profunda sin esfuerzo. Protocolo: 3-10 min, sin forzar la relajación, idealmente a diario. Ver [[Viparita Karani]].
 
+## [[Ciproheptadina]] 0.5-1 mg antes de dormir (reset)
+
+Cuando el estrés acumulado desborda, una sola toma de 1 mg de ciproheptadina antes de dormir baja serotonina y cortisol permitiendo un "reset" del sistema nervioso; al día siguiente se observa mente clara, calmada y enfocada. Su antagonismo 5-HT2A/C es la vía principal: la serotonina estimula la producción de cortisol de forma dosis-dependiente (ver sección previa). Uso puntual, no crónico, para evitar tolerancia. Ver [[Ciproheptadina]].
+
 # Prácticas complementarias (Sosa)
 
 Además de los suplementos, Sosa recomienda un enfoque integral: higiene de sueño, theta waves (20 min/día), visualización, autohipnosis, reencuadre cognitivo, paseos en naturaleza, honestidad radical, disciplina sexual, diario de pensamientos, y meditación con vela.
