@@ -2,6 +2,10 @@
 
 Ver también: [[Colágeno]]
 
+# Como prebiótico animal
+
+La [[Gelatina|gelatina]] es [[Colágeno|colágeno]] parcialmente hidrolizado. Una fracción llega al [[Intestino|intestino]] distal donde es fermentada por la [[Microbiota|microbiota]], produciendo [[Butirato|butirato]] y otros [[Ácidos grasos de cadena corta|ácidos grasos de cadena corta]]. En los estudios de Depauw con guepardos, el [[Colágeno|colágeno]] fue comparable al FOS vegetal en producción de [[Butirato|butirato]]. Ver [[Fibra animal]].
+
 # Aminoácidos en la Gelatina
 
 Los [[Aminoácidos|aminoácidos]] presentes en la gelatina incluyen:

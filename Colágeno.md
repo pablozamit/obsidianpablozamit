@@ -30,4 +30,11 @@ Un suplemento activador de colágeno mostró una reducción de **1,4 años en la
 
 La mezcla también aumentó la longevidad en varios animales. Estudios separados muestran que el colágeno puede revertir el envejecimiento cerebral incluso en pequeñas cantidades.
 
-Ver también: [[Gelatina]], [[Glicina]], [[Vitamina C]], [[Cicatrización]], [[Piel]], [[Metales pesados]], [[AKG]], [[Astaxantina]]
+# Rol prebiótico (fibra animal)
+
+> "Collagen, glucosamine, and chondroitin were actually on par with FOS in terms of butyrate production."
+> _—Karl Lagakos @CaloriesProper (26 mar 2014)_
+
+El [[Colágeno|colágeno]] que no se digiere y absorbe en el [[Intestino delgado|intestino delgado]] llega al [[Colon|colon]] y es fermentado por la [[Microbiota|microbiota]]. En los estudios de Depauw con guepardos, fue comparable al FOS vegetal en producción de [[Butirato|butirato]]. Fuentes dietéticas principales: piel de pescado ([[Sardinas|sardinas]]), tendones, cartílago, huesos (caldo de huesos), [[Gelatina|gelatina]] y suplementos de [[Colágeno|colágeno]] hidrolizado. Ver [[Fibra animal]].
+
+Ver también: [[Gelatina]], [[Glicina]], [[Vitamina C]], [[Cicatrización]], [[Piel]], [[Metales pesados]], [[AKG]], [[Astaxantina]], [[Fibra animal]], [[Butirato]]

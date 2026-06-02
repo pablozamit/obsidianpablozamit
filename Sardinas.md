@@ -17,4 +17,4 @@ La lata es de acero apto para uso alimentario, sellada, sin oxígeno. No necesit
 
 A pesar de su densidad nutricional, las sardinas arrastran una asociación cultural con pobreza y privación desde el siglo XIX, lo que ha frenado su adopción como alimento de primera línea. Nutricionalmente compiten con cualquier proteína animal sin necesidad de ingredientes procesados.
 
-Ver también: [[Omega 3]], [[EPA]], [[DHA]], [[Calcio]], [[Selenio]], [[Yodo]], [[Vitamina D]]
+Ver también: [[Omega 3]], [[EPA]], [[DHA]], [[Calcio]], [[Selenio]], [[Yodo]], [[Vitamina D]], [[Fibra animal]] (espinas y piel como prebióticos)
