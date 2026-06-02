@@ -91,6 +91,7 @@ El [[Café|café]] crónico agota el zinc, junto con [[Magnesio|magnesio]] y [[V
 - **Neurogénesis**: Necesario para la expresión de BDNF y la señalización TrkB.
 - **Estrés**: Su carencia hiperactiva el eje HPA, elevando crónicamente el [[Cortisol]].
 - **Reducción aguda de cortisol**: La suplementación con zinc reduce el cortisol de forma rápida y dosis-dependiente. En un ensayo clínico (1990), zinc oral (25-50 mg elemental) redujo el cortisol a la mitad en 2 horas, con descensos más acusados a dosis mayores (de ~14 a <4 ug/dL con 37.5 mg).
+- **Control eyaculatorio**: el zinc ↑ [[Testosterona|testosterona]], ↓ [[Glutamato|glutamato]] y ↑ [[GABA]] — un perfil favorable al control del reflejo eyaculatorio. Estudios en roedores muestran retraso significativo de la eyaculación con suplementación. Ver [[Eyaculación precoz#Zinc y B12]].
 
 ### 6. Salud Dermatológica
 - Controla la liberación de citoquinas proinflamatorias (TNF-α, IL-6) en los queratinocitos. Su ausencia provoca acné, eccema y **efluvio telógeno**.

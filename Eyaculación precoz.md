@@ -38,6 +38,22 @@ El seguimiento a 4 meses mostró **ausencia de recurrencia** de eyaculación p
 
 ## [[Kanna]]
 
+## Zinc y B12
+
+El zinc eleva la [[Testosterona]], **reduce el [[Glutamato|glutamato]]** y **aumenta el [[GABA]]** — un perfil neuroquímico favorable al control eyaculatorio (mayor tono inhibitorio, menor excitotoxicidad). En ratas, la suplementación con zinc retrasa significativamente la eyaculación. La deficiencia de zinc puede, por el mismo mecanismo, contribuir al control deficiente del reflejo.
+
+La deficiencia de [[Vitamina B12|vitamina B12]] se ha asociado con mayor prevalencia de eyaculación precoz, posiblemente por su rol en la [[Mielina|mielinización]] nerviosa, la [[Metilación|metilación]] y la producción de [[Serotonina|serotonina]] y [[Dopamina|dopamina]].
+
+### Alimentos que cubren ambos
+
+- **Hígado** (ternera, pollo): folato, B12, zinc, [[Vitamina A|A]], [[Cobre|cu]] en altas concentraciones
+- **Carne roja**: B12, zinc, [[Hierro|Fe]] hemo (biodisponible), [[Creatina|creatina]]
+- **[[Leche]]**: zinc, [[Magnesio|Mg]], B12, [[Calcio|Ca]] (este último puede bajar la [[Prolactina|prolactina]] vía reducción de serotonina)
+
+Estos tres alimentos se solapan con el protocolo "anti-prolactina" (ver [[Prolactina]]) — alta densidad de zinc y B12 + calcio, con efecto favorable sobre el control eyaculatorio.
+
+Caveat: los datos provienen en gran parte de estudios en roedores y reportes de la comunidad biohacker. No hay RCTs grandes en humanos con zinc/B12 como monoterapia para [[Eyaculación precoz|PE]].
+
 ## Testimonios y Notas Sueltas
 
 "Había llegado a un punto en el que podía eyacular en los primeros 30 segundos masturbándome, ni siquiera rápido; con una chica, sobre todo sin preservativo, incluso antes de 15 segundos. Un día me masturbé y tuve una rara sensación, como si pudiera aguantar más. No tenía control total, pero algunas de las sensaciones que tenían que llegar no llegaban. Incluso forzando un poco la masturbación con más velocidad, presión, etc., el nivel de excitación no aumentaba tanto. La única posible explicación tiene que ver con los suplementos, porque en aquel entonces tenía totalmente descuidado cualquier ejercicio, ni de suelo pélvico ni de nada, estaba bajo de forma. Lo que estaba consumiendo por aquellos días y que era novedad era:
