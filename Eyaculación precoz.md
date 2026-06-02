@@ -54,6 +54,57 @@ Estos tres alimentos se solapan con el protocolo "anti-prolactina" (ver [[Prolac
 
 Caveat: los datos provienen en gran parte de estudios en roedores y reportes de la comunidad biohacker. No hay RCTs grandes en humanos con zinc/B12 como monoterapia para [[Eyaculación precoz|PE]].
 
+## Magnesio en dosis altas (1 g elemental/día)
+
+@_aestheticprimal_ (30 sept 2025) lleva la hipótesis del magnesio al extremo clínico: **"la eyaculación precoz no existe"** una vez que se cubren 1 g de magnesio elemental diario, y propone un marco neurovegetativo y muscular:
+
+- **Tensión pélvica** (y tensión general) impide la relajación completa y la actividad parasimpática. Sin tono vagal suficiente, la energía sexual se acumula y se descarga con el primer estímulo.
+- **La eyaculación es un reflejo del [[Sistema nervioso simpático|sistema nervioso simpático]]**: depende de catecolaminas (adrenalina, noradrenalina) y de la cadena simpática toracolumbar. Lo que lo "frena" es el predominio parasimpático (vagal).
+- [[Wilhelm Reich]] tocó esta idea en su modelo de **"armaduraCharacter"** (Charakterpanzer): la coraza muscular crónica en pelvis y diafragma bloquea la descarga sexual completa, perpetúa la tensión simpática y "ahorra" energía que solo se libera con el orgasmo (o con la resolución de la coraza).
+- **Mecanismo propuesto del magnesio**:
+    - Equilibra el cociente [[GABA]] : [[Glutamato]] (más inhibición GABAérgica, menos excitación glutamatérgica).
+    - Es **antagonista del receptor NMDA**: reduce la excitotoxicidad y la facilitación refleja.
+    - Relaja el músculo liso y estriado pélvico (revierte la "coraza" reichiana).
+- Comparación con fármacos usados en PE: la mayoría ([[Phenibut]], [[Inhibidores de la recaptación de la serotonina|ISRS]]) son **inhibidores del sistema nervioso**; el magnesio en dosis altas (1 g elemental/día) consigue un efecto similar "mogging them all" sin los perfiles de efecto adverso o dependencia.
+
+### Protocolo reportado por @n3ro_182
+
+> "Tomo L-treonato de magnesio por el día, y glicinato de magnesio + 2 L-treonato de magnesio antes de dormir."
+
+—@n3ro_182 (30 sept 2025)
+
+- **Día**: L-treonato para foco y tono simpático-atenuado (cerebral, cruza BHE).
+- **Noche**: glicinato (relajación muscular + base de glicina) + 2 L-treonato (sinergia para plasticidad sináptica y sueño profundo).
+- Caveat: la pauta individualiza formas y momentos. El objetivo de **1 g elemental/día** como mínimo puede cubrirse combinando glicinato + treonato o glicinato + taurato + citrato (las formas mejor absorbidas; evitar óxido salvo como laxante).
+
+### Counterpoint: no todo el mundo responde
+
+@Zedor42 (30 sept 2025) reporta **"no notar nada"** con magnesio pese a probarlo en distintas formas y dosis, identificándose como persona "tensa crónica". La respuesta al magnesio en PE probablemente depende de:
+
+- Magnitud del **déficit de partida** (poblaciones con dieta occidental estándar suelen tener déficit subclínico).
+- Forma de magnesio (el óxido es pobre; glicinato/treonato tienen mejor perfil).
+- **Causa real de la PE**: si es por tensión muscular/simpática pura, el magnesio ayuda; si es por prostatitis crónica, hipersensibilidad 5-HT1A, o causa predominantemente psicológica, la respuesta puede ser limitada.
+- Estrés crónico de fondo que **depleciona** el magnesio más rápido de lo que se repone.
+
+### Kegels vs. relajación pélvica (matiz de @xKhalifan)
+
+> "Kegels are like the gym, but for your pelvic muscle control."
+
+—@xKhalifan (30 sept 2025)
+
+Hay dos enfoques opuestos sobre el suelo pélvico en la PE:
+
+- **Kegels** (contracción repetida del músculo pubococcígeo): fortalecen el control voluntario del esfínter y se usan para "aguantar" la eyaculación aprendiendo a contraer justo antes del reflejo. Es un enfoque de **fortalecimiento**.
+- **Relajación pélvica + magnesio** (enfoque de @_aestheticprimal_): el problema no es la debilidad sino la **hipertonía**; liberar tensión crónica es el camino. Es un enfoque de **liberación**.
+
+Ambos pueden ser útiles, pero apuntan a poblaciones distintas: Kegels para quien no controla el esfínter; relajación + magnesio para quien tiene el suelo pélvico crónicamente contraído.
+
+### Caveats
+
+- "La eyaculación precoz no existe con 1 g de Mg/día" es una **afirmación fuerte** de un solo autor en biohacker Twitter. No está validada por RCTs.
+- Dosis de **1 g elemental** de magnesio están por encima de las recomendaciones diarias estándar (300-400 mg) y pueden producir **diarrea osmótica** y calambres gástricos (@realestbeana preguntó justamente esto). El glicinato y el taurato minimizan este efecto.
+- Vía tópica (cloruro de magnesio en perineo, testículos) es una alternativa propuesta en la propia nota para evitar la diarrea.
+
 ## Testimonios y Notas Sueltas
 
 "Había llegado a un punto en el que podía eyacular en los primeros 30 segundos masturbándome, ni siquiera rápido; con una chica, sobre todo sin preservativo, incluso antes de 15 segundos. Un día me masturbé y tuve una rara sensación, como si pudiera aguantar más. No tenía control total, pero algunas de las sensaciones que tenían que llegar no llegaban. Incluso forzando un poco la masturbación con más velocidad, presión, etc., el nivel de excitación no aumentaba tanto. La única posible explicación tiene que ver con los suplementos, porque en aquel entonces tenía totalmente descuidado cualquier ejercicio, ni de suelo pélvico ni de nada, estaba bajo de forma. Lo que estaba consumiendo por aquellos días y que era novedad era:
@@ -73,3 +124,14 @@ Las dos novedades como tal y mis máximos sospechosos son:
 El consumo de [[GABA]] suplementado le dio más control:
 
 "45 minutos después del desayuno, 500 mg".
+
+## Ver también
+
+- [[Magnesio]]
+- [[GABA]]
+- [[Phenibut]]
+- [[Inhibidores de la recaptación de la serotonina]]
+- [[Wilhelm Reich]]
+- [[Prostatitis]]
+- [[Zinc]]
+- [[Vitamina B12]]

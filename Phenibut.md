@@ -20,4 +20,14 @@ Fenibut es neuroprotector y aumenta la hormona del crecimiento, y es bien sabido
 
 Se suele comprar en polvo, como fórmula única, o incluso en fórmulas con más aminoácidos para el descanso, utilizado para deportistas."
 
+## Uso en eyaculación precoz
+
+El [[Phenibut|fenibut]] se cita en el contexto biohacker como una de las moléculas que **reducen la [[Eyaculación precoz|eyaculación precoz]]** por su acción inhibitoria sobre el sistema nervioso:
+
+- **Mecanismo**: agonismo del receptor GABA<sub>B</sub> (similar a [[Magnesio|magnesio]] vía modulación GABA) + bloqueo de la subunidad α2δ de los canales de calcio.
+- Comparativa propuesta por @_aestheticprimal_ (30 sept 2025): phenibut, [[Inhibidores de la recaptación de la serotonina|ISRS]] y la mayoría de fármacos anti-PE comparten un perfil **inhibitorio del sistema nervioso**, pero el magnesio en dosis altas (~1 g elemental/día) consigue un efecto comparable con un perfil de seguridad más favorable.
+- **Caveat**: el fenibut tiene potencial de **tolerancia y dependencia** con uso continuado, así como un síndrome de abstinencia con rebote ansioso. No es intercambiable con magnesio.
+
+Ver la sección completa y la comparativa en [[Eyaculación precoz#Magnesio en dosis altas (1 g elemental/día)]].
+
 

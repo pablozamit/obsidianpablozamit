@@ -87,4 +87,16 @@ El [[Magnesio|magnesio]] es cofactor en más de 300 reacciones enzimáticas, inc
 
 Ver análisis completo del marco mineral-cortisol en [[Cortisol#Deficiencia Mineral como Causa Upstream]].
 
+## Magnesio y control eyaculatorio
+
+@_aestheticprimal_ (30 sept 2025) lleva la suplementación de magnesio al rango **1 g elemental/día** específicamente para abordar la [[Eyaculación precoz|eyaculación precoz]] desde un ángulo neurovegetativo:
+
+- **Mecanismo propuesto**: la eyaculación es un reflejo simpático; el magnesio relaja el músculo liso y estriado pélvico, antagoniza receptores NMDA, y potencia el tono [[GABA]] sobre el [[Glutamato|glutamato]] — todo lo cual reduce la hipertonía simpática.
+- **Dosis terapéutica en este contexto**: 1 g elemental/día (≈ 2,5–3 veces la dosis estándar de Gary Brecka), repartido en glicinato + treonato o glicinato + taurato, preferentemente con el estómago lleno para minimizar diarrea osmótica.
+- **Matiz Reichiano**: la "armaduraCharacter" pélvica ([[Wilhelm Reich]]) que cronifica la tensión simpática responde mejor a la **relajación** (magnesio, diafragma) que al **fortalecimiento** (Kegels). Ambos enfoques coexisten; la elección depende de si el problema es hipertonía (magnesio) o debilidad del esfínter (Kegels).
+
+> _—La afirmación "la eyaculación precoz no existe con 1 g de Mg/día" es **fuerte y no validada por RCTs**, pero la consistencia del magnesio sobre GABA/NMDA/simpático es plausible y compatible con la literatura. Caveat: la respuesta individual varía; algunos usuarios (@Zedor42) reportan no notar efecto pese a probar varias formas y dosis._
+
+Ver la sección completa en [[Eyaculación precoz#Magnesio en dosis altas (1 g elemental/día)]].
+
 ---
