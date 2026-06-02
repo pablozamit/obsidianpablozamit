@@ -88,6 +88,10 @@ Caminar descalzo sobre hierba, tierra o arena sincroniza el potencial eléctrico
 
 La exposición al frío activa el sistema nervioso parasimpático tras la respuesta inicial, reduciendo el cortisol a largo plazo y aumentando la resiliencia al estrés.
 
+## [[Viparita Karani]] (descanso pélvico apoyado)
+
+Postura restaurativa de [[Yoga]] con un bolster firme bajo la pelvis y piernas apoyadas en pared o silla. La eliminación de la demanda gravitatoria y la presión predecible del bolster indican al sistema nervioso "apoyo total, esfuerzo cero", descargando la guardia crónica del suelo pélvico y la zona lumbar. Reduce cortisol, ansiedad y permite una respiración profunda sin esfuerzo. Protocolo: 3-10 min, sin forzar la relajación, idealmente a diario. Ver [[Viparita Karani]].
+
 # Prácticas complementarias (Sosa)
 
 Además de los suplementos, Sosa recomienda un enfoque integral: higiene de sueño, theta waves (20 min/día), visualización, autohipnosis, reencuadre cognitivo, paseos en naturaleza, honestidad radical, disciplina sexual, diario de pensamientos, y meditación con vela.

@@ -32,6 +32,10 @@ La necesidad de sueño es un requerimiento biológico estricto (generalmente ent
 
 Respirar en una bolsa de papel 5-10 minutos antes de acostarse eleva el [[CO2]], produciendo una caída casi inmediata de [[Cortisol|cortisol]]. Resuelve despertares nocturnos y nocturia al mejorar la oxigenación tisular y reducir la respuesta de estrés. Ver protocolo completo en [[CO2#Cómo hacerlo]].
 
+## [[Viparita Karani]] antes de dormir
+
+Postura restaurativa de [[Yoga]] con bolster firme bajo la pelvis y piernas apoyadas en pared o silla. Apaga la señalización de amenaza y baja el [[Cortisol|cortisol]] en 3-10 minutos, ideal para quienes tienen dificultad para "apagar" el sistema nervioso antes de dormir o sufren despertares por fatiga suprarrenal. Ver [[Viparita Karani]].
+
 # Suplementación
 
 ## Té de sueño (Dan Go)

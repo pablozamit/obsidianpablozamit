@@ -30,6 +30,10 @@ En un bol donde puedas meter la cara, añade agua y 15-30 cubitos de hielo. Apen
 
 ## Relajación Muscular Progresiva
 
+## Viparita Karani (descanso pélvico apoyado)
+
+Postura de yoga restaurativo (Variana Volk @TheracelLab, 1 feb 2026): tumbarse boca arriba con un **bolster firme** bajo la pelvis y las piernas apoyadas. Elimina la demanda gravitatoria sobre la musculatura pélvica y lumbar, lo que el cerebro registra como "apoyo total, esfuerzo cero" y dispara la rama parasimpática. 3-10 minutos al día reducen ansiedad, liberan la guardia crónica del suelo pélvico, profundizan la respiración sin esfuerzo y bajan el cortisol. Un bolster firme (no blando) genera presión predecible que el sistema nervioso interpreta como seguridad. Ver [[Viparita Karani]].
+
 ## Cuclillas
 
 Un gran [[Ejercicio|ejercicio]] para mejorar la función del nervio vago es ponerse en cuclillas con las plantas de los pies apoyadas en el suelo (si es necesario apoya la espalda en la pared). Cuando nos ponemos en cuclillas, hay una vasorestricción de los miembros inferiores, no pasa bien la sangre hacia arriba, se concentra a nivel abdominal y provoca un reflejo barorreceptor que tenemos en el tórax y esto dispara el nervio vago.
