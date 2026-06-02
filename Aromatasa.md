@@ -26,6 +26,8 @@ La **aromatasa** es una [[Enzima]] crucial en el [[Cuerpo humano]], conocida por
 
 El [[Ejercicio físico]] regular y una [[Dieta saludable]] pueden ayudar a controlar la actividad de la [[Aromatasa]] y normalizar los niveles de [[Estrógenos]]. Algunos [[Alimentos]] y [[Compuestos naturales]], como el [[Té verde]], la [[Granada]], los [[Champiñones]] y el [[Resveratrol]], han demostrado tener propiedades [[Inhibidores de la aromatasa|inhibidoras de la aromatasa]]. Por otro lado, se recomienda reducir el consumo de [[Café]], [[Lácteos]] de [[Vaca]], [[Soja]], [[Alcohol]], [[Cerveza]] y [[Alimentos]] que elevan bruscamente la [[Glucosa]], ya que podrían influir en su actividad.
 
+**[[Quinua]]**: caso especial. Un artículo de *whenyouareserious.com* muestra aumentos masivos de E2 en dos pacientes al introducirla, normalizándose al retirarla. Posible efecto por fitoestrógenos o [[Ecdisterona|ecdisterona]]. Recomendable monitorizar E2 en sangre si se consume regularmente, especialmente en hombres con tendencia a la [[Dominancia estrogénica|dominancia estrogénica]].
+
 ## Alternativas a los Inhibidores de Aromatasa
 
 Para modular el estrógeno en tejidos específicos (como la placa de crecimiento) sin afectar la producción general de estradiol, el [[Tamoxifeno]] (un SERM) puede ser una alternativa más elegante que los inhibidores de aromatasa.

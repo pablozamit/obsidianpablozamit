@@ -7,3 +7,13 @@ En el contexto de la nutrición y la suplementación deportiva, la ecdisterona h
 La ecdisterona es un tipo de fitoecdisteroide, una subclase de los ecdisteroides que se encuentra en las plantas. Aunque es estructuralmente similar a los esteroides anabólicos utilizados por algunos atletas para mejorar el rendimiento, no es idéntica a ninguna [[Hormona|hormona]] esteroide endógena humana y su modo de acción en humanos es menos comprendido.
 
 El interés en la ecdisterona y otros fitoecdisteroides ha aumentado significativamente debido a estudios que sugieren que pueden tener varios efectos biológicos positivos, incluyendo propiedades adaptogénicas, anabólicas, [[Antioxidantes|antioxidantes]] y estimulantes del [[Sistema inmune|sistema inmunológico]]. Sin embargo, se requiere más investigación para comprender completamente su seguridad y eficacia, y su uso como suplemento deportivo está sujeto a debate y regulaciones en diferentes jurisdicciones.
+
+## Fuentes alimentarias
+
+La **[[Quinua]]** es una de las fuentes alimentarias más ricas en ecdisterona, junto con espinacas y otras Chenopodiaceae. Algunos reportes (whenyouareserious.com, vía @cynomel, 22 feb 2026) sugieren que la ecdisterona de la quinua podría contribuir a su efecto estrogénico observado en ciertos individuos, aunque el mecanismo exacto no está claro.
+
+## Ver también
+
+- [[Quinua]]
+- [[Hormona]]
+- [[Proteínas]]
