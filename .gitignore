@@ -1,3 +1,15 @@
 .env
 *.gdoc
 nul
+
+# Obsidian & Tools
+.obsidian/
+.smart-env/
+.smart-connections/
+.opencode/
+
+# Node
+node_modules/
+
+# Build Output
+dist/
