@@ -33,5 +33,25 @@ Se entiende el **ayuno profundo** como aquel que supera las 72 horas.
 -   Reducción del 50% en el [[Riesgo]] de padecer [[Infartos]] o [[Accidentes cardiovasculares]].
 -   Aumento del 10-15% de la [[Longevidad]] máxima.
 
+## Autofagia sin ayuno prolongado (vía AMPK)
+
+> "Existen estímulos que activan la autofagia sin necesidad de pasar demasiadas horas de ayuno, por ejemplo, el entrenamiento aeróbico en zona 2, el HIIT o el entrenamiento de fuerza de alta intensidad activan la vía AMPK induciendo la autofagia."
+> _—sixtobermejo @sixtobermejo_ (3 mar 2026)_
+
+La [[Autofagia|autofagia]] (reciclaje de componentes celulares dañados) puede activarse por múltiples vías, no sólo por [[Ayuno|ayuno]] prolongado:
+
+- **[[AMPK]]** (proteína quinasa activada por AMP): se activa cuando la célula tiene bajo ATP intracelular. Estímulos:
+  - **Ejercicio aeróbico en zona 2** (intensidad submáxima sostenida, 60-70% FCmax)
+  - **HIIT** (intervalos de alta intensidad)
+  - **Entrenamiento de fuerza** de alta intensidad
+  - Depleción de glucógeno muscular
+- **[[Sirtuinas|SIRT1]]**: activada por restricción calórica, [[NAD+|NAD+]] elevado, [[Resveratrol|resveratrol]]
+- **Inhibición de mTOR**: ayuno, [[Rapamicina|rapamicina]], pero también la inhibición transitoria post-ejercicio
+- **[[Ayuno seco]]**: forma más extrema, controversial
+
+**Implicación práctica**: según el autor, entrenar 3-4×/semana puede sustituir parcialmente los beneficios de autofagia del [[Ayuno|ayuno]] largo sin los efectos adversos del [[Cortisol|cortisol]] elevado, caída de tiroides y pérdida de cabello asociados al ayuno prolongado. Ver [[Autofagia]] y [[Ayuno y pérdida de cabello]].
+
+Caveat: la magnitud de autofagia inducida por ejercicio es menor y más localizada (músculo) que la inducida por ayuno (sistémica). No son equivalentes exactos.
+
 ## Notas Sueltas
 
