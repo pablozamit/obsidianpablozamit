@@ -21,10 +21,24 @@ La **[[Prolactina]]** elevada inhibe la **[[5-alfa reductasas|5α-reductasa]]**,
 
 En hombres con **[[Hipotiroidismo]]**, el tratamiento con T4 duplica la testosterona total y libre, y reduce la prolactina a la mitad. El hipotiroidismo duplica los niveles de prolactina, lo que a su vez interfiere con la producción de DHT.
 
+## Creatina + HMB (stack de recuperación)
+
+@Outdoctrination (3 oct 2025) reporta que el stack de [[Creatina]] + [[HMB]] (3 g de cada, en atletas entrenados) elevaría la [[Testosterona]] ~25%, interpretado como efecto secundario de mejor recuperación:
+
+- Creatina → resíntesis rápida de fosfocreatina → [[ATP]] para contracción explosiva.
+- HMB → más glucógeno muscular (inhibición de GSK) + activación de [[mTOR]] → síntesis de proteína post-entrenamiento.
+- Hipótesis: menos daño muscular y mejor recuperación → menos supresión del eje HPG → más testosterona endógena.
+
+> _—Caveat: la cifra del 25% y la cadena causal son la interpretación del autor. La evidencia revisada por pares muestra efectos modestos de creatina y HMB sobre fuerza/masa magra, no elevaciones agudas de testosterona del 25%. La [[Testosterona]] responde más a [[Sueño|sueño]], [[Tiroides (glándula)|tiroides]], [[Zinc]], [[Vitamina D]] y composición corporal que a stacks de suplementos específicos._
+
 **Otros enlaces**
 - [[TRT (Terapia de Reemplazo de Testosterona)]]
 - [[Prolactina]]
 - [[DHT]]
+- [[Creatina]]
+- [[HMB]]
+- [[mTOR]]
+- [[CJC-1295]]
 
 
 ![[Pasted image 20240215102332.png]]

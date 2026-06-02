@@ -31,3 +31,21 @@ HMB es un [[Metabolismo|metabolito]] del [[Aminoácidos|aminoácido]] [[Leucina|
 ### Controversias y Comparaciones con Esteroides
 
 -   Algunos estudios sugieren que el HMB podría ser más efectivo que los esteroides para el crecimiento muscular, lo que ha generado escepticismo y críticas sobre la validez de estos resultados.
+
+## HMB + Creatina → +25% Testosterona (3 g de cada)
+
+@Outdoctrination (3 oct 2025), ingeniero biomolecular con servicio de coaching (Prism.miami), propone el stack de [[Creatina]] + [[HMB]] (3 g de cada) en atletas entrenados como booster de recuperación que elevaría la [[Testosterona]] ~25%:
+
+- La [[Creatina]] nutre las demandas explosivas (0–1 min) — recarga de [[ATP]] vía fosfocreatina.
+- El [[HMB]] mejora el almacenamiento de glucógeno muscular (vía **inhibición de GSK** — glucógeno sintasa quinasa) y estimula [[mTOR]].
+- La hipótesis es: mejor recuperación → menor estrés catabólico → el eje HPG (hipotálamo-hipófisis-gónadas) no se suprime → la testosterona endógena sube.
+
+> _—Caveat: la cifra del 25% y la cadena causal "mTOR/recuperación → ↑testosterona" son la interpretación del autor, no un resultado con paper adjunto. En la literatura revisada por pares, ni la creatina ni el HMB producen elevaciones agudas de testosterona de ese orden; los efectos documentados son sobre fuerza, masa magra, reducción de daño muscular y recuperación. La [[Testosterona]] responde más a sueño, [[Tiroides (glándula)|tiroides]], [[Zinc]] y [[Vitamina D]] que a un stack de suplementos específicos._
+
+## Ver también
+
+- [[Creatina]]
+- [[Leucina]]
+- [[Testosterona]]
+- [[mTOR]]
+- [[ATP]]

@@ -79,6 +79,27 @@ El CO2 absorbido por vía tópica acelera la cicatrización ósea. En 4 semanas,
 
 Posteriormente, ½ cucharadita cada mañana hasta que los síntomas desaparezcan.
 
+## Creatina + Bicarbonato (potencia explosiva)
+
+@Outdoctrination (3 oct 2025) describe el stack de [[Bicarbonato de sodio|bicarbonato]] + [[Creatina|creatina]] como el "potenciador de rendimiento definitivo":
+
+- La creatina recarga la fosfocreatina → [[ATP]] rápido para esfuerzo explosivo (0–1 min).
+- A mayor intensidad de esfuerzo → mayor producción de H⁺ → caída del pH intramuscular → caída de la capacidad contráctil.
+- El bicarbonato es un tampón extracelular que retrasa la acidosis y extiende la capacidad de mantener alta potencia.
+- Complementariamente, el bicarbonato activa [[cAMP]] → PKA → mayor sensibilidad de los receptores de [[Andrógenos|andrógenos]] (ver [[Bicarbonato de sodio#Efecto Ergogénico]]).
+
+Protocolo práctico aproximado: 3–5 g de creatina monohidrato disueltos en agua caliente (ver [[Creatina#Protocolo de Preparación y Absorción]]) + 0,2–0,3 g/kg de bicarbonato de sodio (60–90 min antes del entrenamiento). El bicarbonato puede producir molestias gástricas; se recomienda iniciar con la dosis baja y titular.
+
+> _—Caveat: el "potenciador definitivo" es un claim del autor. Tanto creatina como bicarbonato tienen efectos bien documentados por separado; la sinergia exacta depende del individuo, el tipo de ejercicio y el protocolo de carga._
+
+## Ver también
+
+- [[Creatina]]
+- [[ATP]]
+- [[cAMP]]
+- [[Testosterona]]
+- [[Andrógenos]]
+
 ## Notas sobre la Dosificación y Efectos Secundarios
 
 - **Dosis Máxima (Arm & Hammer):** No exceder siete dosis de ½ cucharadita al día (o tres si eres mayor de 60 años) y no mantener la dosis máxima por más de dos semanas.

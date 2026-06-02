@@ -73,6 +73,29 @@ La creatina no se difunde libremente; requiere un transportador dependiente de *
 - **Pureza**: Se recomienda el sello **Creapure®**.
 
 
+# Creatina y testosterona (combo con HMB)
+
+@Outdoctrination (3 oct 2025) propone el stack de [[Creatina]] + [[HMB]] (3 g de cada) en atletas entrenados como booster de recuperación que elevaría la [[Testosterona]] ~25%:
+
+- La creatina nutre la energía explosiva (0–1 min) — resíntesis rápida de fosfocreatina → más [[ATP]] disponible para contracciones máximas.
+- El [[HMB]] potencia el almacenamiento de glucógeno (inhibición de GSK — glucógeno sintasa quinasa) y estimula [[mTOR]] → más síntesis de proteína post-entrenamiento.
+- La hipótesis es que la combinación reduce el daño muscular y mejora el tiempo de recuperación, lo que se traduce a medio plazo en menor supresión del eje HPG y más testosterona endógena.
+
+> _—Caveat: la magnitud del 25% es un claim del autor sin paper adjunto. En la literatura, ni la creatina ni el HMB producen elevaciones agudas de testosterona de ese orden. Los efectos son sobre fuerza, masa magra, glucógeno muscular y recuperación. La testosterona puede subir secundariamente si el resto de variables ([[Sueño|sueño]], [[Tiroides (glándula)|tiroides]], [[Zinc]], [[Vitamina D]]) están bien._
+
+# Creatina y Bicarbonato (potencia explosiva)
+
+@Outdoctrination (3 oct 2025) describe el stack [[Bicarbonato de sodio|bicarbonato de sodio]] + creatina como el "potenciador de rendimiento definitivo":
+
+- La creatina cubre el ciclo de fosfocreatina → [[ATP]] rápido para esfuerzo explosivo (0–1 min).
+- A mayor intensidad → mayor producción de iones H⁺ → caída del pH intramuscular → caída de la producción de fuerza.
+- El [[Bicarbonato de sodio|bicarbonato]] actúa como tampón extracelular del pH, retrasa la fatiga por acidosis y extiende la capacidad de mantener potencia alta.
+- Mecanismo complementario: el bicarbonato también activa [[cAMP]] → PKA, lo que aumenta la sensibilidad de los receptores de [[Andrógenos|andrógenos]] y facilita la señalización de la [[Testosterona|testosterona]] circulante (ver [[Bicarbonato de sodio#Efecto Ergogénico]]).
+
+Protocolo práctico aproximado: 3–5 g de creatina monohidrato disueltos en agua caliente (ver [[Creatina#Protocolo de Preparación y Absorción]]) + 0,2–0,3 g/kg de bicarbonato de sodio (60–90 min antes del entrenamiento). El bicarbonato puede producir molestias gástricas; se recomienda iniciar con la dosis baja y titular.
+
+> _—Caveat: el "potenciador definitivo" es un claim del autor. Tanto creatina como bicarbonato tienen efectos bien documentados por separado; la sinergia exacta (cuánto mejora la potencia, durante cuánto tiempo) depende del individuo, el tipo de ejercicio y el protocolo de carga._
+
 # Seguridad y controversias
 
 ## Creatina y AGAT (regulación por feedback)
@@ -93,3 +116,11 @@ La creatina monohidrato es uno de los suplementos más estudiados de la historia
 # Notas a Repasar
 
 "Tomo 5gr durante una semana porque leí que apoya el ciclo de [[Metilación|metilación]]."
+
+# Ver también
+
+- [[HMB]]
+- [[Bicarbonato de sodio]]
+- [[Testosterona]]
+- [[ATP]]
+- [[mTOR]]
