@@ -51,6 +51,26 @@ Mecanismos documentados:
 - **Activación parasimpática** masiva por distensión gástrica y carga osmótica duodenal.
 - **Lipemia postprandial** + caída de NO → vasoconstricción → fatiga.
 
+## La dimensión circadiana: cuándo comes importa tanto como cuánto
+
+> "By eating at night, you are forcing an offline organ (pancreas) to work under hormonal lockdown."
+> _—Zaid K. Dahhaj @zaidkdahhaj (14 dic 2025)_
+
+Tercer eje del debate (junto con cantidad y frecuencia): **el momento del día**. El páncreas tiene su propio reloj circadiano sincronizado por la [[Melatonina|melatonina]] vía receptores MT1 en las células β.
+
+- **Día (sin melatonina)**: páncreas receptivo a la glucosa, secreción de insulina eficiente, músculo e hígado "primed" para captar glucosa.
+- **Noche (melatonina alta)**: MT1 activo → supresión directa de la secreción de insulina, cambio sistémico a modo reparación/autofagia.
+- **Comer de noche** = forzar al páncreas bajo bloqueo hormonal. La comida se procesa peor → mayor pico glucémico → mayor demanda compensatoria → potential de resistencia a la insulina a largo plazo.
+
+**Implicación práctica**:
+
+- Cenar temprano (3+ h antes de dormir) es probablemente más importante que el tamaño de la cena.
+- "Todo dentro de la luz diurna" (within daylight window) — el protocolo de @KennyCarmody en el hilo: "everything within daylight, nighttime nothing".
+- Saltarse el desayuno crónicamente desincroniza el reloj pancreático.
+- La melatonina exógena (suplemento para dormir) tomada con comida potencia este bloqueo.
+
+Ver análisis completo en [[Melatonina#Melatonina y páncreas: control circadiano de la glucosa]].
+
 ## Ver también
 
 - [[Óxido nítrico]]

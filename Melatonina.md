@@ -87,6 +87,40 @@ Prioriza siempre hábitos antes que suplementos: Exposición a la luz natural de
 
 -   [[Quelación|Quelación]] de [[Metales pesados|metales pesados]]: "Toma megadosis de melatonina por la noche para equilibrar y también para [[Quelación|quelar]] [[Metales pesados|metales pesados]]."
 
+## Melatonina y páncreas: control circadiano de la glucosa
+
+> "By eating at night, you are forcing an offline organ (pancreas) to work under hormonal lockdown. Your pancreas has its own circadian clock, separate from the brain's master clock, but synchronized to light/dark cycles. During daylight: Beta cells are insulin-responsive, glucose sensing is high, insulin secretion is efficient, muscle + liver are primed for glucose. At night: Endogenous melatonin rises, MT1 receptors activate on pancreatic beta cells, insulin secretion is deliberately suppressed."
+> _—Zaid K. Dahhaj @zaidkdahhaj (14 dic 2025)_
+
+Mecanismo molecular:
+
+- Las células β pancreáticas expresan **receptores de melatonina tipo 1 (MT1) y MT2**, con predominio de MT1.
+- La melatonina nocturna activa MT1 → señalización Gi → ↓[[cAMP]] y ↓cGMP → ↓calcio intracelular → **supresión directa de la secreción de insulina**.
+- Adicionalmente, MT1 reduce la expresión de genes de la vía de secreción de insulina (PDX1, GLUT2).
+- Las propias células β tienen un reloj autónomo (Bmal1, Clock, Per, Cry) sincronizado al ciclo luz/oscuridad vía melatonina pineal.
+
+**Implicación clínica**: comer por la noche es pedirle al páncreas que secrete insulina **bajo bloqueo hormonal**. La comida se procesa peor → mayor pico glucémico → mayor demanda compensatoria de insulina → potential de resistencia a la insulina a largo plazo.
+
+### Patrón de alimentación alineado al reloj (todo dentro de la luz diurna)
+
+- **Día**: luz solar → suprime melatonina → MT1 inactivo → páncreas receptivo a la glucosa → secreción de insulina eficiente → músculo e hígado "primed" para captar glucosa.
+- **Noche**: oscuridad → ↑melatonina → MT1 activo → páncreas "offline" para insulina → cambio a modo reparación, autofagia, consolidación.
+- **Comer de noche** = forzar al páncreas fuera de su ventana operativa natural.
+
+### Recomendación práctica (Zaid)
+
+> "Most important thing for most people is to have a consistent and early breakfast to establish leptin sensitivity along with watching sunrise and getting AM light. Too many chronic breakfast skippers."
+> _—Zaid K. Dahhaj (16 dic 2025)_
+
+- **Desayuno temprano y consistente** → establece la señal leptina (satiedad) y ancla el reloj periférico.
+- **Luz solar matutina** → sincroniza el SCN (núcleo supraquiasmático) → coordina los relojes periféricos (páncreas, hígado, músculo, adipocitos).
+- **Evitar el "chronic breakfast skipping"** → desayunar tarde o saltarlo desincroniza el reloj pancreático, independientemente de la ingesta calórica total.
+- **Cenar temprano** (idealmente 3+ horas antes de dormir) → permite que la digestión ocurra bajo melatonina baja.
+
+### Complemento al debate [[Frecuencia de comidas]]
+
+Este mecanismo añade una **tercera dimensión** al debate OMAD vs comidas frecuentes: no es solo **cuánto** comes ni **cuántas veces**, sino **cuándo**. Ver [[Frecuencia de comidas#La dimensión circadiana: cuándo comes importa tanto como cuánto]].
+
 
 # Uso
 
