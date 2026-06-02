@@ -28,6 +28,7 @@ La afirmación de que la cetosis depleciona NAD+ es, por tanto, **discutible** y
 - **[[Autofagia]]**: la cetosis induce autofagia vía [[AMPK]] e inhibición de mTOR.
 - **Reducción de [[Inflamación|inflamación]]**: el β-hidroxibutirato inhibe el inflamasoma NLRP3.
 - **[[Antioxidante]]**: el β-hidroxibutirato actúa como donador de electrones para regenerar NAD+ y CoQ10.
+- **[[Depresión|MDD]]**: estudio abierto (n=16) de [[Shebani Sethi]] (Stanford, 2024) con [[Dieta cetogénica]] <50 g CHO/día reportó ↓69% en auto-reporte y ↓71% en evaluación clínica a 10-12 semanas. Plausibilidad mecanística: β-hidroxibutirato como donador de electrones, modulación de BDNF, antiinflamatorio. Caveat metodológico (@ChrisMasterjohn): sin placebo, n pequeño. Ver [[Depresión#Dieta cetogénica en MDD]] y [[Dieta cetogénica#Keto y depresión]].
 - **Epilepsia**: la [[Dieta cetogénica|dieta cetogénica]] clásica se usa desde los años 1920 para epilepsia refractaria.
 - **[[Cáncer]]**: ciertas líneas celulares cancerosas ([[Efecto Warburg]]) tienen dificultades para usar cetonas como combustible.
 
@@ -53,3 +54,5 @@ Una posición biohacker (@yungkingmito, 1 oct 2025) cuestiona la **cetosis induc
 - [[Carbohidratos como potenciadores del metabolismo]]
 - [[Luz solar]]
 - [[Anión superóxido]]
+- [[Depresión]]
+- [[Dieta cetogénica]]
