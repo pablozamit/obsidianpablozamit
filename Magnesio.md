@@ -70,3 +70,21 @@ El magnesio extracelular cerebral está estrictamente regulado, los suplementos 
 - Aumenta marcadores de plasticidad: BDNF, pCaMKII, pCREB
 
 ---
+
+# Rol en el Eje HPA y la respuesta al estrés
+
+> "Low magnesium, potassium, sodium, and B vitamins impair the adrenal response, forcing cortisol to do all the work."
+> _—Gary Brecka @thegarybrecka (20 dic 2025)_
+
+El [[Magnesio|magnesio]] es cofactor en más de 300 reacciones enzimáticas, incluyendo varias críticas para la función del [[Eje HPA|eje HPA]]:
+
+- Cofactor de la **P450scc** (enzima limitante que convierte [[Colesterol|colesterol]] en pregnenolona, primer paso de la síntesis de [[Cortisol|cortisol]] y otras [[Hormona|hormonas]] suprarrenales).
+- Cofactor en la **síntesis de catecolaminas** ([[Adrenalina|adrenalina]], noradrenalina, [[Dopamina|dopamina]]): la tirosina hidroxilasa y la dopamina β-hidroxilasa requieren Mg.
+- Bloquea los **receptores NMDA** y potencia [[GABA]], reduciendo la excitotoxicidad y la respuesta simpática.
+- El [[Ansiedad|estrés]] crónico **agota** el [[Magnesio|magnesio]] corporal (aumenta la excreción urinaria y la movilización intracelular), generando un círculo vicioso: el [[Ansiedad|estrés]] drena el [[Magnesio|magnesio]] que el [[Eje HPA|eje HPA]] necesita para modularse.
+
+**Dosis sugerida** para reposición (Gary Brecka + comunidad biohacker): 300-400 mg/día de glicinato de [[Magnesio|magnesio]]. Ver [[Café#Stack de reposición completo (para bebedores crónicos de café)]].
+
+Ver análisis completo del marco mineral-cortisol en [[Cortisol#Deficiencia Mineral como Causa Upstream]].
+
+---

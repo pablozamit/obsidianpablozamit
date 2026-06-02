@@ -20,6 +20,7 @@ Un usuario reportó un caso extraño de posible [[Síndrome de serotonina]]:
 - [[Adaptógenos]]
 - [[Serotonina]]
 - [[Cortisol]]
+- [[Eje HPA]]
 - [[Testosterona]]
 - [[Libido]]
 

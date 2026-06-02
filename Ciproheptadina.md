@@ -142,6 +142,7 @@ Los antihistamínicos de segunda generación son muy selectivos para H1 y apenas
 - [[Barrera hematoencefálica]]
 - [[Ansiedad]]
 - [[Cortisol]]
+- [[Eje HPA]]
 - [[Alopregnanolona]]
 - [[DHT]]
 - [[Depresión]]
