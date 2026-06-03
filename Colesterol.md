@@ -12,3 +12,14 @@ Aunque la [[Testosterona|testosterona]] y demás hormonas esteroideas se sinteti
 - La hipercolesterolemia se asocia con **menor** testosterona, probablemente por estrés oxidativo, inflamación y disfunción metabólica que afectan a las células de Leydig.
 
 Ver también: [[Testosterona]], [[Pregnenolona]], [[LH]]
+
+## Niacina como hipolipemiante (caveat: ya no es primera línea)
+
+La [[Vitamina B3|niacina]] (ácido nicotínico) en dosis de 1.000–3.000 mg/día fue la **primera terapia farmacológica** para el colesterol (1950s–60s, antes de las estatinas). Produce:
+
+- ↓ LDL ~20%
+- ↓ Triglicéridos ~40%
+- ↑ HDL ~30%
+- ↓ [[Lipoproteína A|Lp(a)]] ~30%
+
+> _—Caveat: la mejora de marcadores no se tradujo en reducción de eventos cardiovasculares en ensayos modernos (AIM-HIGH 2011, HPS2-THRIVE 2014). La niacina se usa raramente como hipolipemiante primario; las estatinas, iPCSK9 y ácido bempedoico son el estándar actual. Ver [[Vitamina B3#Historia como primer hipolipemiante (con caveats modernos)]]. _—@KingOfVitamins (3 jun 2026) promueve este framing sin mencionar los ensayos negativos; COI: vende vitaminas._

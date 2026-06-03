@@ -131,6 +131,55 @@ Argumento de la comunidad [[Ray Peat]]:
 - Para niacina "con flush": 50-100 mg/día, escalando. Bloquear el flush con aspirina elimina parte del efecto.
 - Niacinamida oral NO causa flush → más cómoda para uso crónico, pero pierde el efecto GPR109A de la niacina.
 
+## Niacin flush: mecanismo prostaglandínico (King of Vitamins, 2026)
+
+@KingOfVitamins (3 jun 2026) — fundador de Stacks Vitamin Co (**COI: vende vitaminas**) — describe el "niacin flush" como una reacción enrojecedora de la piel que dura ~30 min, mediada por **[[Prostaglandinas|prostaglandinas]]** (PGE2), no por histamina.
+
+### Mecanismo bioquímico
+
+- La niacina (ácido nicotínico) es agonista del receptor **GPR109A** (también llamado HM74A), un receptor acoplado a proteína G expresado en adipocitos, macrófagos, células de Langerhans epidérmicas y otros tejidos.
+- La activación de GPR109A en células de Langerhans epidérmicas libera **PGE2** → vasodilatación de capilares cutáneos → enrojecimiento, calor, prurito, a veces taquicardia leve.
+- Dura ~30 min, dosis-dependiente.
+- Se puede atenuar con 300 mg de [[Aspirina (ácido acetilsalicílico)|aspirina]] 30–60 min antes (bloquea COX, ↓ PGE2), o subiendo la dosis gradualmente (tolerancia por downregulation de GPR109A).
+- La **niacinamida** no activa GPR109A → no causa flush.
+
+> _—Caveat: el marketing del "flush como mecanismo" es un giro retórico del propio autor del tweet. El flush sigue siendo un efecto adverso en la práctica clínica; usarlo como "test de salud" no tiene base. La tolerancia se desarrolla con uso crónico y el efecto se atenúa, no al revés. La niacinamida (sin flush) es la forma preferida para uso crónico cuando se busca elevación de [[NAD+|NAD+]] sin efecto cardiovascular._
+
+## Historia como primer hipolipemiante (con caveats modernos)
+
+La niacina fue efectivamente la **primera terapia farmacológica para el colesterol** (1950s–60s), antes del desarrollo de las estatinas en los 80s. Dosis de 1.000–3.000 mg/día de niacina cristalina producen cambios cuantificables en el perfil lipídico:
+
+- ↓ LDL ~20%
+- ↓ Triglicéridos ~40%
+- ↑ HDL ~30%
+- ↓ [[Lipoproteína A|Lipoproteína(a)]] ~30%
+
+@KingOfVitamins (3 jun 2026) presenta estos números como "lo que ninguna otra droga puede igualar".
+
+### Caveats: la evidencia cardiovascular moderna es negativa
+
+La mejora de marcadores lipídicos con niacina **no se tradujo en reducción de eventos cardiovasculares** en ensayos modernos:
+
+- **AIM-HIGH (2011)**: niacina añadida a simvastatina en pacientes con HDL bajo → sin beneficio cardiovascular, ensayo detenido por futilidad.
+- **HPS2-THRIVE (2014)**: ~25.000 pacientes, niacina + laropiprant (anti-flush) añadida a simvastatina → sin reducción de eventos, aumento de efectos adversos (sangrado, infección, miopatía).
+- Conclusión moderna: la niacina se usa raramente como hipolipemiante primario. Las estatinas (y más recientemente los iPCSK9, el ácido bempedoico) son el estándar por su evidencia de reducción de eventos.
+- Para [[Lipoproteína A|Lp(a)]]: los ASO (pelacarsen) y siRNA (olpasiran) en desarrollo son más efectivos que la niacina para este marcador.
+
+> _—@KingOfVitams tiene COI directo (vende vitaminas). El framing "primer hipolipemiante, mejor que las estatinas" es un sesgo de venta, no una lectura actualizada de la evidencia._
+
+## Esquizofrenia y ortomolecular (Hoffer, 1950s)
+
+@KingOfVitamins (3 jun 2026) menciona que el Dr. **Abram Hoffer** usó niacina de alta dosis (3.000+ mg/día) para tratar la esquizofrenia desde los años 50, con resultados reportados de reducción de alucinaciones y paranoia.
+
+### Contexto histórico
+
+- Hoffer fue pionero de la **psiquiatría ortomolecular** (uso de vitaminas y nutrientes como tratamiento primario). Propuso que la esquizofrenia es una forma de "pelagra" (deficiencia de B3) mal diagnosticada.
+- Sus reportes clínicos y estudios abiertos mostraron mejoría en algunos pacientes.
+- Estudios doble ciego controlados posteriores (Wittenborn et al., 1970s; otros) **no replicaron** los resultados de Hoffer.
+- La psiquiatría moderna **no** reconoce la niacina como tratamiento de la esquizofrenia. La hipótesis ortomolecular se considera refutada para esta indicación.
+
+> _—El "nadie habla de esto" del autor del tweet probablemente refleja que la evidencia no apoya la indicación. El marco Peat-friendly sí acepta la niacina por su efecto adrenérgico y lipolítico, pero no para psicosis._
+
 ## Ver también
 
 - [[Cortisol]]
@@ -141,6 +190,9 @@ Argumento de la comunidad [[Ray Peat]]:
 - [[Tiroides (suplemento)]]
 - [[Metilación]]
 - [[NAD+]]
+- [[Prostaglandinas]]
+- [[Colesterol]]
+- [[Lipoproteína A]]
 - [[Caspa]]
 - [[Piel]]
 - [[Cándida]]

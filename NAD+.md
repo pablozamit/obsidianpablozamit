@@ -51,6 +51,12 @@ Argumento: la cetogénesis (fabricación de [[Cetonas|cuerpos cetónicos]] en la
 
 **Caveat**: este punto es controvertido. La cetosis también activa vías de **reciclaje de NAD+** (vía [[Nicotinamida|nicotinamida]] y la enzima NAMPT) y, según otros autores, la restricción calórica y cetosis pueden **elevar** NAD+ en ciertos tejidos (especialmente hígado y cerebro) por inducción de PGC-1α y otras sirtuinas. Ver [[Cetonas]] y [[Dieta cetogénica]].
 
+### Caída de NAD+ con la edad
+
+@KingOfVitamins (3 jun 2026) cita que "los niveles de NAD+ caen un 50% entre los 20 y los 50 años". La cita base es Massudi et al. 2012, *PLoS ONE* (PMID: 22281406), que midió NAD+ en biopsias de piel humana en distintos grupos de edad y reportó una caída aproximada del 50% en ese rango etario.
+
+> _—Caveats del dato: estudio transversal (no longitudinal), muestra pequeña, medida en piel (no en todos los tejidos), y otros estudios posteriores han mostrado magnitudes variables o caídas menos lineales en otros tejidos (músculo, hígado, cerebro). El patrón general (caída con la edad) es consistente, pero el "50%" es una cifra específica de Massudi 2012, no una constante universal._
+
 ## Ver también
 
 - [[Glucosa]]
