@@ -25,6 +25,32 @@ El colágeno representa el 30% de la proteína total del cuerpo. La vitamina C e
 
 ·Según [[Ernesto Prieto]], "requerimos aporte diario -idealmente cada 12 horas- de entre dos y ocho gramos" (ver [[Anascorbemia congénita]]).
 
+## Anti-glicación
+
+> "Consuming lots of vitamin C and thiamine throughout the day can counteract glycation if you consume loads of carbs."
+> _—@doctormorphh (16 may 2026)_
+
+La vitamina C es uno de los anti-glicantes con mejor respaldo, especialmente en estados de hiperglucemia:
+
+- **Competencia con la glucosa** por la glicosilación no enzimática de proteínas: la ascorbato en altas concentraciones reduce la formación de productos de Amadori en albúmina, hemoglobina y colágeno. Los eritrocitos acumulan Vit C ~50x más que el plasma, donde amortigua la glicación intracelular.
+- **Antioxidante directo**: scavenging de ROS, incluyendo las que catalizan la formación de carbonilos reactivos ([[Metilglioxal|MGO]], glioxal) que forman [[AGEs]].
+- **Regeneración de la [[Vitamina E]]**: la ascorbato reduce el radical tocoferilo a tocoferol activo, manteniendo la protección lipofílica de membranas contra peroxidación que también genera aldehídos AGE.
+- **Limitación estructural**: la [[Glucosa|glucosa]] y la Vit C comparten transportadores GLUT (especialmente GLUT1 y GLUT3), por lo que la hiperglucemia puede **competir** con la captación celular de ascorbato. Esto es un argumento de @MasalaFry69 (17 may 2026): "carbs also block Vit-C absorption" (ver [[Glicación]]).
+
+Dosis típicas anti-glicación: 500 mg - 2 g/día divididos en 2-3 tomas. Los [[Polioles|polioles]] (sorbitol, xilitol) son transportados por GLUT5 y no compiten.
+
+> _—Caveat: la evidencia de anti-glicación con Vit C oral es razonable pero no contundente. Los estudios más sólidos son en diabetes tipo 2; en sanos con dieta normal, el efecto es marginal._
+
 ## Fuentes por estudiar
 
 https://www.sciencedirect.com/science/article/pii/S2214442024002602
+
+## Ver también
+
+- [[Glicación]]
+- [[AGEs]]
+- [[Metilglioxal]]
+- [[RAGE]]
+- [[Vitamina E]]
+- [[Vitamina B1]]
+- [[Benfotiamina]]

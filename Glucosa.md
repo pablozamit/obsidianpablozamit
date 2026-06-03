@@ -42,3 +42,22 @@ El debate OMAD vs comidas frecuentes tiene un componente glucémico directo:
 - **OMAD / pocas comidas**: menos picos de [[Insulina|insulina]] al día, pero cada uno más alto. Más tiempo en rango bajo de glucosa entre comidas.
 - **Comidas frecuentes (cada hora)**: picos más pequeños y numerosos, pero la [[Glucosa|glucosa]] y la [[Insulina|insulina]] permanecen crónicamente elevadas. Crítica principal del hilo @ThorTorrens: hiperinsulinemia sostenida → potencial resistencia a la insulina a largo plazo.
 - **Punto medio (2-3 comidas diurnas)**: combina control glucémico y carga digestiva manejable. Ver [[Frecuencia de comidas]] para el debate completo y mecanismos.
+
+# Competencia con Vitamina C (transporte)
+
+> "Carbs also block Vit-C absorption"
+> _—@MasalaFry69, reply a @doctormorphh (17 may 2026)_
+
+La glucosa y la vitamina C comparten los transportadores **GLUT1** y **GLUT3** (y en menor medida GLUT4). En estado de hiperglucemia, la glucosa elevada **compite** con el ascorbato por la captación celular, especialmente en:
+
+- **Eritrocitos**: la relación ascorbato/glucosa intraeritrocitaria cae marcadamente en diabetes, según estudios de Chen et al. (Cunningham 1994, podría ser un mito popular, ver debate).
+- **Neutrófilos**: transportan Vit C vía GLUT1 a concentraciones muy superiores al plasma; esta captación se reduce por hiperglucemia.
+- **Corteza adrenal y pituitaria**: alta demanda de Vit C, captación GLUT-dependiente.
+
+Implicación práctica: las personas con hiperglucemia o dietas muy altas en carbohidratos pueden tener **menor biodisponibilidad intracelular de Vit C** incluso con suplementación oral adecuada. Esto es un argumento adicional a favor del stack propuesto por @doctormorphh (Vit C + Tiamina, donde Tiamina mejora metabolismo de la glucosa).
+
+> _—Caveat: la afirmación "carbs bloquean absorción de Vit C" es una simplificación. Lo que ocurre es **competencia por el mismo transportador**, no bloqueo absoluto. Y la absorción intestinal de Vit C depende del transportador específico SVCT1/SVCT2 (sodium-vitamin C cotransporters), no de GLUT. La competencia intracelular sí está bien documentada en contextos de hiperglucemia._
+
+# Glicación y AGEs
+
+La glucosa elevada en plasma es el principal sustrato para la formación de [[Glicación|glicación]] y [[AGEs]] (productos finales de glicación avanzada). La [[HbA1c]] es el marcador clínico de uso común de la exposición integrada a glucosa en 3 meses (ver [[A1C]]).

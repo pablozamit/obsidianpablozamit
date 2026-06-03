@@ -89,3 +89,24 @@ Beneficios para el ejercicio: ?
 
 Pyridoxine (B6) Suppresses the Rise in Prolactin and Increases the Rise in Growth Hormone Induced by Exercise
 https://www.nejm.org/doi/full/10.1056/NEJM198208123070719
+
+# P5P vs piridoxamina (importante)
+
+> "Pyridoxamine (P5P)"
+> _—@doctormorphh (16 may 2026)_
+
+El autor confunde dos formas distintas de B6. **No son intercambiables**:
+
+- **P5P** (piridoxal-5'-fosfato): forma activa cofactor. >140 reacciones enzimáticas (transaminasas, descarboxilasas, sintasa de GABA, descarboxilasa de L-DOPA, etc.). Esta es la que suplementa la mayoría de la gente.
+- **[[Piridoxamina]]** (PM): forma amina no fosforilada. **No es cofactor enzimático**. Su función principal es anti-glicación: secuestra carbonilos reactivos, quelata iones metálicos, inhibe formación de productos de Amadori → bloquea formación de [[AGEs]].
+
+Piridoxamina está aprobada en investigación clínica, no como suplemento alimentario convencional. Es cara y poco disponible comercialmente.
+
+> _—Confusión frecuente: "P5P = piridoxamina" es incorrecto. Piridoxamina es una forma distinta, con función distinta._
+
+## Ver también
+
+- [[Piridoxamina]]
+- [[Glicación]]
+- [[AGEs]]
+- [[Metilglioxal]]

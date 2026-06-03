@@ -141,8 +141,25 @@ La "ingesta adecuada" (RDA ~1.1-1.4 mg/día) asume un metabolismo basal. El atle
 
 # Contraindicaciones
 
-According to [Dr. Costantini](https://highdosethiamine.org/hdt-therapy/) taking thiamine hcl with juice will cancel out the effect of the thiamine. This was also my experience. I did not experience improvement from thiamine until I started taking it with water only. Tastes terrible but you get used to it.  
-  
+According to [Dr. Costantini](https://highdosethiamine.org/hdt-therapy/) taking thiamine hcl with juice will cancel out the effect of the thiamine. This was also my experience. I did not experience improvement from thiamine until I started taking it with water only. Tastes terrible but you get used to it.  
+
 "**Oral thiamine should not be taken with juices or any sour beverage, water only."**  
-  
+
 Coffee and tea block thiamine.
+
+# Anti-glicación: benfotiamina y las tres vías de Brownlee
+
+> "Consuming lots of vitamin C and thiamine throughout the day can counteract glycation if you consume loads of carbs."
+> _—@doctormorphh (16 may 2026)_
+
+La forma activa de la tiamina, **TPP** (tiamina pirofosfato), es cofactor de la piruvato deshidrogenasa y la α-cetoglutarato deshidrogenasa, dos puntos críticos del metabolismo de la glucosa. Pero la evidencia anti-glicación más sólida viene del derivado liposoluble [[Benfotiamina]].
+
+La **teoría unificadora de Brownlee** (*Nature* 2005) describe tres vías de daño por hiperglucemia que la benfotiamina inhibe simultáneamente:
+
+1. **Vía de la hexosamina**: exceso de fructosa-6-fosfato → O-GlcNAc transferasa → modificaciones O-GlcNAc anormales (Sp1, etc.) → inflamación, fibrosis.
+2. **Vía de la [[PKC]]**: exceso de DAG → activación de PKC-β → disfunción endotelial, flujo alterado.
+3. **Formación de [[AGEs]] endógenos**: ↑ MGO y otros carbonilos → glicación intracelular → estrés retículo → apoptosis.
+
+La benfotiamina reduce la acumulación intracelular de glucosa y sus metabolitos, lo que engrana las tres vías de forma sinérgica. Ver [[Benfotiamina]] para detalle clínico.
+
+> _—Caveat: la evidencia de la tiamina HCl oral como anti-glicante es **modesta**; el grueso de la evidencia viene de la **benfotiamina** liposoluble a 150-300 mg/día, especialmente en neuropatía diabética._

@@ -27,6 +27,19 @@ El mismo paper propone que la [[Inulina|inulina]] puede "vacunar" contra estos e
 - Pequeñas cantidades de fructosa están presentes en el [[Semen]] como nutriente para los espermatozoides (producida por las vesículas seminales).
 - 2-desoxi-D-ribosa es una aldosa diferente, no confundir con fructosa (ver [[Alopecia]]).
 
+## Fructosa y glicación (@AOliveira93365, 17 may 2026)
+
+> "Consuming fructose reduces glycation. Avoiding PUFAs and heated meats prevent AGE ingestion and formation. Glucose reacts with something, but that something is never to blame."
+> _—@AOliveira93365, reply a @doctormorphh (17 may 2026)_
+
+Lectura bioquímica de estas afirmaciones:
+
+- **"Fructosa reduce la glicación"** — contraintuitivo. La fructosa es ~7-10x más reactiva que la glucosa en la reacción de Maillard in vitro (porque su forma lineal expone un carbonilo cetónico más reactivo que el aldehído de la glucosa). La afirmación tiene un grano de verdad parcial: si se reemplaza glucosa por fructosa, hay menos formación de HbA1c y otros AGE glucémicos, **pero** se forman AGE específicos de fructosa (fructosilación directa de proteínas, AGE-F). In vitro la fructación es peor, in vivo depende del contexto metabólico.
+- **"Evitar PUFAs y carnes calentadas"** — correcto. AGEs dietarios de fritura y PUFAs calentados son absorbidos y contribuyen a la carga AGE circulante (ver [[Glicación#Fuentes de carbonilos reactivos]] y [[AGEs#Consideraciones Dietéticas y Otros Factores]]).
+- **"Glucose reacts with something, but that something is never to blame"** — marco [[Ray Peat]]: la glucosa no es el problema, el problema es la matriz de proteínas/lípidos mal mantenida por deficiencia de nutrientes. Es un marco ideológico, no una afirmación bioquímica defendible: la glicación de proteínas como la hemoglobina, el colágeno dérmico o las cristalininas del cristalino **sí** depende de la concentración de glucosa, independientemente del estado de la proteína.
+
+> _—Caveat: la fructosa no "reduce la glicación" en sentido absoluto. La reemplazaría por AGE específicos de fructosa._
+
 ## Fuentes
 
 - [[Sacarosa]] (azúcar de mesa): 50% fructosa, 50% glucosa.

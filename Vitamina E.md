@@ -57,3 +57,23 @@ Muchos suplementos de vitamina E son ineficaces para optimizar las hormonas masc
 - [[Tocotrienol]]
 - [[Alopregnanolona]]
 - [[DHT]]
+- [[Glicación]]
+- [[AGEs]]
+- [[Vitamina C]]
+- [[Antioxidantes]]
+
+# Anti-glicación (periférica)
+
+La vitamina E protege membranas celulares de la peroxidación lipídica, que es **otra ruta de formación de aldehídos reactivos** que acaban formando [[AGEs]]:
+
+- La peroxidación de [[PUFA|PUFAs]] de membrana genera **malondialdehído (MDA)**, **4-hidroxinonenal (4-HNE)** y **acroleína** — todos ellos carbonilos α,β-insaturados altamente reactivos.
+- Estos aldehídos reaccionan con lisina, histidina y cisteína de proteínas vecinas, formando aductos carbonilo-proteína.
+- La Vit E (mezcla completa: α-, γ-, δ-tocoferoles + tocotrienoles) interrumpe la peroxidación en cascada donando un hidrógeno al radical lipídico.
+- La Vit E oxidada (radical tocoferilo) es **reciclada por la Vit C** → por eso la red antioxidante es interconectada (ver [[Vitamina C#Red Antioxidante Interconectada]]).
+
+> "Some other good ways to keep glycation in check on high-carb diets: Vitamin E..."
+> _—@doctormorphh (16 may 2026)_
+
+Dosis efectivas para reducir marcadores de peroxidación: 200-400 mg/día de mezcla completa de tocoferoles. Evitar el **solo α-tocoferol** a dosis altas, que depleciona el γ-tocoferol y puede empeorar la función pulmonar en algunos estudios.
+
+> _—Caveat: la Vit E es anti-glicante **indirecto** (reduce sustratos carbonílicos por suprimir peroxidación). No inhibe directamente la reacción de Maillard ni la formación de productos de Amadori._
