@@ -49,3 +49,23 @@ Se producen en el [[Cerebro|cerebro]] O 'por conversión de esteroides suprarren
 
 https://en.wikipedia.org/wiki/Neurosteroid
 https://raypeatforum.com/community/attachments/1280px-biosinthesis_of_steroid_hormones_-extended_version-jpg.26010/
+
+## Contexto TRT: neuroesteroides y HCG (@DocAbirHealth, 27 may 2026)
+
+En el contexto de la [[TRT (Terapia de Reemplazo de Testosterona)|TRT]] con [[HCG]] exógena, el autor defiende que la supresión de [[LH]] que produce la terapia suprime no solo la [[Testosterona|testosterona]] intratesticular, sino la síntesis local de una cascada de [[Pregnenolona|pregnenolona]] → [[Progesterona|progesterona]] → alopregnanolona en células de [[Leydig]] y otros tejidos. Por tanto, la [[HCG]] "restaura" toda esa cascada y mejora el ánimo/sueño/libido a través de [[Neuroesteroides|neuroesteroides]] ([[Alopregnanolona|alopregnanolona]] y [[DHEA]]) que la [[Testosterona|testosterona]] sola no cubre.
+
+> "When you're on TRT, the brain stops getting these neurosteroids. HCG brings them back. That's why men on monotherapy feel better."
+> _—@DocAbirHealth (27 may 2026)_
+
+### Posición crítica: @ttexashedge (28 may 2026)
+
+> "this is a slop opinion... there is no evidence that HCG in normal TRT doses restores these neurosteroids to any meaningful degree... you keep posting tweets like these and I have to wonder if you believe your own nonsense"
+> _—@ttexashedge, respuesta a @DocAbirHealth (28 may 2026)_
+
+- La curva [[Estradiol (E2)|E2]]-libido es en U, no monotónica: ni muy poco ni demasiado E2 produce libido, lo que sugiere que añadir [[HCG]] puede ayudar o empeorar según el rango basal del usuario.
+- No existen ensayos clínicos grandes que respalden la hipótesis de que [[HCG]] → neuroesteroides específicos (pregs/prog/alopregnanolona/DHEA) produzca beneficios sobre monoterapia con [[Testosterona|testosterona]] sola en hombres hipogonádicos.
+- La decisión de añadir [[HCG]] debe basarse en marcadores objetivos (LH/FSH suprimidos, E2 total, deseo de fertilidad), no en claims teóricos de neuroesteroides.
+
+> _—Caveat: la cita es del autor del tweet; @ttexashedge aporta contexto crítico basado en evidencia clínica estándar. Ninguno presenta datos nuevos._
+
+Ver también: [[TRT (Terapia de Reemplazo de Testosterona)#HCG y neuroesteroides (Doc Abir, 2026)]], [[Alopregnanolona]], [[DHEA]], [[Pregnenolona]], [[Progesterona]], [[HCG]].
