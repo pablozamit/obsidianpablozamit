@@ -13,6 +13,7 @@ Debido a que son compuestos naturales, no pueden ser patentados; por tanto, exis
 - [[CJC-1295]] — análogo de GHRH que prolonga la secreción pulsátil de [[HGH]]; propuesto en stacks de [[Testosterona]] como complemento "de mantenimiento" (e.g. @peptidewebmd en respuesta a @Outdoctrination, 5 oct 2025).
 - [[IGF-1 LR3]] — análogo sintético de IGF-1 con vida media extendida.
 - [[GHK-cu]] — péptido de cobre con aplicaciones en regeneración tisular.
+- [[Péptidos bioreguladores]] — clase de péptidos cortos (Khavinson, Rusia) que incluye Testoluten, Epitalon, Thymalin. Claims de "binds DNA" exageradas; evidencia clínica limitada en humanos; comercializados como suplementos, no como fármacos aprobados por FDA/EMA.
 
 ## Ver también
 
@@ -21,4 +22,5 @@ Debido a que son compuestos naturales, no pueden ser patentados; por tanto, exis
 - [[Testosterona]]
 - [[Insulina]]
 - [[GHK-cu]]
+- [[Péptidos bioreguladores]]
 
