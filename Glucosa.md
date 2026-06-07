@@ -1,5 +1,15 @@
 Contribuye a la formación de [[GABA]] y [[CO2]].
 
+## Tabla de contenidos
+
+- [Destino Metabólico y Almacenamiento](#destino-metabólico-y-almacenamiento)
+- [Transporte de la Glucosa](#transporte-de-la-glucosa)
+- [Niveles de Glucosa en Sangre](#niveles-de-glucosa-en-sangre)
+- [Frecuencia de comidas y glucosa](#frecuencia-de-comidas-y-glucosa)
+- [Competencia con Vitamina C (transporte)](#competencia-con-vitamina-c-transporte)
+- [Glicación y AGEs](#glicación-y-ages)
+- [Ver también](#ver-también)
+
 ## Destino Metabólico y Almacenamiento
 A diferencia de la creencia común, la glucosa rara vez se convierte directamente en grasa acumulada. El cuerpo prioriza tres vías antes de la **[[De Novo Lipogénesis]]**:
 1. **Oxidación inmediata**: Uso como combustible principal para el cerebro y el sistema nervioso.

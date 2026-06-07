@@ -2,6 +2,14 @@
 
 Los **antioxidantes** son [[Moléculas]] que tienen la capacidad de retrasar o prevenir la [[Oxidación]] de otras [[Moléculas]]. La [[Oxidación]] es una [[Reacción química]] que produce [[Radicales libres]], los cuales son [[Moléculas]] inestables que pueden dañar las [[Célula|células]] del cuerpo.
 
+## Tabla de contenidos
+
+- [Propiedades de los Antioxidantes](#propiedades-de-los-antioxidantes)
+- [Funciones de los Antioxidantes](#funciones-de-los-antioxidantes)
+- [Fuentes de Antioxidantes](#fuentes-de-antioxidantes)
+- ["El estrés oxidativo es un fraude"](#el-estrés-oxidativo-es-un-fraude-contrapunto-biohacker-respuesta-bioquímica)
+- [Notas Relacionadas](#notas-relacionadas)
+
 ## Propiedades de los Antioxidantes
 
 -   **Neutralizan los [[Radicales libres]]:** Los [[Antioxidantes]] actúan donando un [[Electrón]] a los [[Radicales libres]], lo que los neutraliza y evita que causen [[Daño celular]].

@@ -1,3 +1,18 @@
+# Magnesio
+
+## Tabla de contenidos
+
+- [Beneficios](#beneficios)
+- [Desintoxicación](#desintoxicación)
+- [Depresión](#depresión)
+- [Tipos de Magnesio](#tipos)
+- [Neuroprotección: Stack Magnesio Glicinato + L-Teanina](#neuroprotección-stack-magnesio-glicinato-l-teanina)
+- [Treonato de Magnesio (L-Treonato)](#treonato-de-magnesio-l-treonato)
+- [Efectos Avanzados del L-Treonato](#efectos-avanzados-del-l-treonato)
+- [Rol en el Eje HPA y la respuesta al estrés](#rol-en-el-eje-hpa-y-la-respuesta-al-estrés)
+- [Magnesio y control eyaculatorio](#magnesio-y-control-eyaculatorio)
+- [Ver también](#ver-también)
+
 # Beneficios
 
 ## Desintoxicación

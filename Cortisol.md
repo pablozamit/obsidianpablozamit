@@ -1,5 +1,14 @@
 El **cortisol** es una [[Hormona|hormona]] que produce tu cuerpo en las glándulas suprarrenales, que se encuentran sobre los [[Riñón|riñones]]. Se le conoce comúnmente como la **"hormona del [[Ansiedad|estrés]]"**, aunque cumple muchas funciones importantes más allá del [[Ansiedad|estrés]].
 
+## Tabla de contenidos
+
+- [Funciones Principales del Cortisol](#funciones-principales-del-cortisol)
+- [Producción del Cortisol](#producción-del-cortisol)
+- [Deficiencia Mineral como Causa Upstream](#deficiencia-mineral-como-causa-upstream)
+- [Cortisol y Sensibilidad](#cortisol-y-sensibilidad)
+- [Cómo Disminuirlo](#cómo-disminuirlo)
+- [Ver también](#ver-también)
+
 ## Funciones Principales del Cortisol:
 
 -   **Responde al [[Ansiedad|estrés]]:** El cortisol se libera en situaciones de [[Ansiedad|estrés]] físico o emocional para ayudar al cuerpo a enfrentar la situación (respuesta de "lucha o huida").

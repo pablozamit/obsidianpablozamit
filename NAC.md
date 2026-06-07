@@ -2,6 +2,17 @@ N-acetil-cisteína
 
 La [[Acetilcisteína|acetilcisteína]], también conocida como N-[[Acetilcisteína|acetilcisteína]] (NAC), es un suplemento que ha sido estudiado por sus diversos beneficios para la salud, particularmente por su papel como [[Antioxidantes|antioxidante]] y precursor del [[Glutatión|glutatión]], un importante [[Antioxidantes|antioxidante]] en el cuerpo. Evaluemos sus presuntos beneficios [[Metabolismo|metabólicos]] y efectos sobre las características del envejecimiento basados en la literatura científica disponible:
 
+## Tabla de contenidos
+
+- [Beneficios Metabólicos](#beneficios-metabólicos)
+- [Efectos en las Características del Envejecimiento](#efectos-en-las-características-del-envejecimiento)
+- [Dosificación para Beneficios Metabólicos](#recomendaciones-de-dosificación-para-beneficios-metabólicos)
+- [Contraindicaciones e Incompatibilidades](#contraindicaciones)
+- [Perspectiva de Ray Peat sobre la Cisteína](#perspectiva-de-ray-peat-sobre-la-cisteína)
+- [NACET (N-acetilcisteína etil éster)](#nacet-n-acetilcisteína-etil-éster)
+- [Donde Comprar](#donde-comprar)
+- [Ver también](#ver-también)
+
 # Beneficios Metabólicos:
 
 -   **Salud [[Hígado|Hepática]]:** Puntuación: 7/10. Se conoce que el NAC tiene propiedades hepatoprotectoras, particularmente en casos de sobredosis de acetaminofén. Ayuda en la [[Desintoxicación|desintoxicación]] del [[Hígado|hígado]].

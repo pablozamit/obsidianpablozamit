@@ -5,6 +5,17 @@ Vitamina B3 (C6H5NO2), acido nicotínico, niacina o -en su forma aminada- niacin
 [[Vitaminas|Vitamina]]
 
 
+# Tabla de contenidos
+
+- [Usos y beneficios](#usos-y-beneficios)
+- [Niacinamida: cortisol, receptores de estrógeno y tiroides (vía SIRT1)](#niacinamida-cortisol-receptores-de-estrógeno-y-tiroides-vía-sirt1)
+- [Posición alternativa: niacinamida como "trash" de B3](#posición-alternativa-niacinamida-como-trash-de-b3)
+- [Dosis y forma](#dosis-y-forma)
+- [Niacin flush: mecanismo prostaglandínico](#niacin-flush-mecanismo-prostaglandínico)
+- [Historia como primer hipolipemiante](#historia-como-primer-hipolipemiante-con-caveats-modernos)
+- [Esquizofrenia y ortomolecular (Hoffer, 1950s)](#esquizofrenia-y-ortomolecular-hoffer-1950s)
+- [Ver también](#ver-también)
+
 # Usos y beneficios
 
 ## Eliminación de metales pesados

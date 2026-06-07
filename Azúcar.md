@@ -1,6 +1,15 @@
 # Azúcar
 
-El **azúcar**, comúnmente conocido como [[Sacarosa]], es un [[Carbohidratos|carbohidrato]] que se encuentra naturalmente en muchos [[Alimentos]] y se utiliza ampliamente como [[Edulcorante]].
+## Tabla de contenidos
+
+- [Propiedades del Azúcar](#propiedades-del-azúcar)
+- [Funciones del Azúcar](#funciones-del-azúcar)
+- [Tipos de Azúcar](#tipos-de-azúcar)
+- ["El mito del azúcar" (Luke Cadell)](#el-mito-del-azúcar-luke-cadell-holistic-healing-16-sep-2025)
+- [Caveats y posición crítica](#caveats-y-posición-crítica)
+- [Marco Ray Peat-influenciado](#marco-ray-peat-influenciado-alineado-con-el-vault)
+- [Recomendaciones de salud pública](#recomendaciones-de-salud-pública)
+- [Notas Relacionadas](#notas-relacionadas)
 
 ## Propiedades del Azúcar
 

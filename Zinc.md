@@ -1,5 +1,20 @@
 [[Minerales]]
 
+# Zinc
+
+## Tabla de contenidos
+
+- [Definición y funciones principales](#1-definición)
+- [Formas de zinc y peculiaridades](#4-formas-de-zinc-más-importantes-y-sus-peculiaridades)
+- [Alimentos con zinc](#5-alimentos-con-más-concentración-y-absorbanilidad-de-zinc)
+- [Zinc y piel (melanogénesis)](#zinc-y-piel)
+- [Deficiencia de Zinc: Señales y Mecanismos](#deficiencia-de-zinc-señales-y-mecanismos-de-acción)
+- [Recomendaciones de Consumo](#recomendaciones-de-consumo)
+- [Zinc como antídoto a venenos químicos](#zinc-como-antídoto-moderno-a-venenos-químicos)
+- [Caída del cabello en dietas "low-toxin"](#caída-del-cabello-en-dietas-low-toxin)
+- [Precaución: zinc y canas por depleción de cobre](#precaución-zinc-y-canas-por-depleción-de-cobre)
+- [Ver también](#ver-también)
+
 ### 1. Definición:
 
 El zinc es un oligoelemento esencial para la vida humana, desempeñando roles fundamentales en numerosos procesos biológicos. Está presente en todas las células del cuerpo y es necesario para la actividad de más de 300 enzimas, además de ser crucial para la función de muchas proteínas y hormonas [(Tapiero & Tew, 2003)](https://consensus.app/papers/trace-elements-physiology-pathology-zinc-tapiero/7a4ff7ae59905dfa9bca41d31751ee07/?utm_source=chatgpt).
