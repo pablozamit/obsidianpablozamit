@@ -27,6 +27,23 @@ Recomendaciones propuestas: aumentar SAMe, metilfolato, metil-B12, colina/betaí
 - **Estrés Crónico**: Aumenta la demanda para metabolizar catecolaminas.
 - **Dosis altas de [[Vitamina B3]] (Niacinamida)**: El exceso de NAM requiere ser metilado para su excreción, actuando como un "Methylene Trap" (trampa de metilos) que puede vaciar las reservas celulares.
 
+## COMT y demanda de metilación (@Helios_Movement, 6 jun 2026)
+
+> "Catecholamine + SAMe + Mg²⁺ → Methylated Catecholamine + SAH."
+> _—@Helios_Movement (6 jun 2026)_
+
+La [[COMT]] (catecol-O-metiltransferasa) consume un grupo metilo de [[SAMe (S-Adenosil Metionina)|SAMe]] por cada catecolamina metabolizada ([[Dopamina|dopamina]], [[Adrenalina|adrenalina]], [[Norepinefrina|noradrenalina]], catecol-estrógenos). La demanda de metilación de catecolaminas es, en muchas personas, una de las principales cargas sobre el pool de SAMe/SAH.
+
+- **Bajo estrés, bajo tono catecolaminérgico**: la demanda es baja, los metil-B son bien tolerados.
+- **Estrés crónico o variantes Met/Met de COMT**: la demanda de metilación es mayor, y la suplementación con metil-B en exceso puede contribuir a:
+  - Acumulación de SAH (inhibidor de metiltransferasas)
+  - Empujamiento del sistema redox de la célula (cambios en NADH/NAD+)
+  - En algunas personas con polimorfismos, ansiedad paradójica
+
+> _—Caveat: la mayoría de evidencia sobre toxicidad de las vitaminas B metiladas (metilcobalamina, 5-MTHF) es que tienen umbrales de seguridad muy altos. La toxicidad de B6 (piridoxina) >200 mg/día es la principal preocupación real. La ansiedad por exceso de metilación es plausible pero no demostrada en RCTs._
+
+> _—Más información en [[COMT]] y [[Catecolaminas]]._
+
 
 
 ### Test de Metilación:

@@ -117,12 +117,31 @@ La quercetina actúa como un ionóforo de [[zinc]], transportando el [[zinc]] de
 
 1 a 2 gramos diarios parece ser la dosis terapéutica para algunos de los mayores beneficios, aunque para otros es 200mg.
 
+## Quercetina como inhibidor de COMT
+
+> "Slow COMT tips: ... Avoid COMT inhibitors such as quercetin or luteolin"
+> _—@Helios_Movement (6 jun 2026)_
+
+La quercetina tiene estructura **catecol** (dos -OH adyacentes en el anillo B), lo que le permite competir con catecolaminas endógenas por el sitio activo de [[COMT]]. Es un inhibidor competitivo reversible (Ki en rango micromolar bajo). A dosis de suplemento típicas (500-1000 mg/día) puede reducir significativamente la velocidad de metilación de catecolaminas.
+
+**Implicación clínica**:
+- En personas con **COMT rápida (Val/Val)**: leve inhibición de COMT puede ser **beneficiosa**, eleva tono dopaminérgico.
+- En personas con **COMT lenta (Met/Met)**: la inhibición adicional puede **empeorar** la acumulación de catecolaminas y catecol-estrógenos, con efectos de ansiedad, insomnio y (teóricamente) mayor riesgo de cáncer de mama.
+
+> _—Caveat: la inhibición de COMT por quercetina está bien documentada in vitro y en modelos animales. La relevancia clínica en humanos a dosis de suplemento no está establecida con precisión, pero es prudente precaución en personas con Met/Met._
 
 
 # Fuentes alimenticias
-
 1. Alcaparras
 2. [[Cebolla]].  
 3. [[Cacao]] puro.
 
 Las alcaparras contienen 233 mg por cada 100 gr, así que habría que comerse casi 100gr para llegar a la dosis terapéutica (inasequible); sin embargo, en combinación con [[cebolla]], [[cacao]] en polvo y otras fuentes, podrías llegar a la dosis terapéutica a diario.
+
+# Ver también
+
+- [[COMT]] (inhibidor de)
+- [[Luteolina]] (pariente estructural, también inhibidor de COMT)
+- [[Catecolaminas]]
+- [[Flavonoides]]
+- [[Vitamina C]] (regenera quercetina oxidada)
