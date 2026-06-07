@@ -14,8 +14,22 @@ La visión mainstream actual (influida por la epidemiología de la diabetes tipo
 
 Esta visión es Ray Peat-influenciada. Ver [[Carbohidratos como potenciadores del metabolismo]] y [[Frecuencia de comidas]] para el debate sobre la frecuencia de las comidas (picos glucémicos aislados vs hiperinsulinemia sostenida).
 
-# Ver también
+# "El mito del azúcar" (Luke Cadell, 16 sep 2025)
 
+> "Sugar is not bad for you, but... it depends on the package."
+> _—Luke Cadell, Holistic Healing, Substack (16 sep 2025)_
+
+El autor Luke Cadell en su Substack "Holistic Healing" defiende que el azúcar per se no es el enemigo; el problema es la **matriz** (alimento procesado, sin fibra, sin nutrientes). Argumenta que la "epidemia de diabetes y obesidad" se explica mejor por el conjunto de alimentos ultra-procesados y no por el azúcar aislada.
+
+Esta visión coincide en parte con el marco Peat-friend del vault, pero omite distinciones críticas:
+
+- **[[Azúcar]] añadido en bebidas y snacks** se metaboliza distinto al azúcar en fruta entera (ver [[Fruitarianismo]]) o al almidón del [[Arroz]] (ver [[Kempner (Dieta del arroz)]]).
+- La **[[FGF21]]** que el autor menciona como "hook" (en sección paywall) es real bioquímicamente, pero su elevación aguda por fructosa **no** demuestra que el azúcar crónico sea saludable; en [[MASH]] está crónicamente elevada por resistencia a FGF21.
+- **La frase "el azúcar no es el enemigo"** se sostiene para el azúcar en matriz natural (fruta, miel, leche); no se sostiene para el azúcar aislado añadido a bebidas y procesados.
+
+> _—Caveat: la posición "sugar is not the enemy" es correcta **en contexto** (matriz, dosis, frecuencia), pero la presentación del autor en formato myth-busting agrega confusión al consumidor medio que ya no distingue entre sacarosa aislada, fructosa libre y almidón complejo._
+
+# Ver también
 - [[Glucosa]]
 - [[Cortisol]]
 - [[NAD+]]
@@ -23,3 +37,9 @@ Esta visión es Ray Peat-influenciada. Ver [[Carbohidratos como potenciadores de
 - [[Eje HPA]]
 - [[BCAA]]
 - [[Carbohidratos como potenciadores del metabolismo]]
+- [[Azúcar]]
+- [[FGF21]]
+- [[Fruitarianismo]]
+- [[Kempner (Dieta del arroz)]]
+- [[Fructosa]]
+- [[Resistencia a la insulina]]

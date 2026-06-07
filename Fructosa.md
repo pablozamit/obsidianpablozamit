@@ -55,3 +55,7 @@ Lectura bioquímica de estas afirmaciones:
 - [[Semen]]
 - [[Alopecia]]
 - [[Hígado]]
+- [[Azúcar]] (mito del azúcar, Luke Cadell 2025)
+- [[FGF21]] (hepatocina inducida por fructosa aguda)
+- [[Kempner (Dieta del arroz)]] (uso histórico de fructosa en restricción calórica severa)
+- [[Fruitarianismo]] (dieta casi exclusivamente de fruta)
