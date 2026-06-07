@@ -8,7 +8,7 @@ Cada persona tiene una sensibilidad muy diferente al minoxidil, y por eso cuando
 
 El minoxidil aumenta la [[Prolactina|prolactina]], que es un antagonista de la [[Dopamina|dopamina]], y por eso algunos de esos efectos secundarios son bajadas de [[Libido|libido]], motivación, etc; todo lo que asociamos con [[Dopamina|dopamina]].
 
-[[Tadalafil]] consigue algo parecido.
+[[Tadalafilo]] consigue algo parecido.
 
 # Formatos Típicos:
 

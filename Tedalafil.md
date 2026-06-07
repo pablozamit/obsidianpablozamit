@@ -1,1 +1,0 @@
-Tedalafil (Cialis) es una droga que, en dosis bajas, se usa para aumenar la circulación; recientemente se ha recetado para aumenta la circulación en la [[Próstata]].

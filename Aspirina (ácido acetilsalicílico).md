@@ -10,7 +10,7 @@ La [[Aspirina]] es un [[Fármaco]] ampliamente utilizado con diversas propiedade
 -   **Estudios:**
     -   [https://pubmed.ncbi.nlm.nih.gov/29344879/](https://pubmed.ncbi.nlm.nih.gov/29344879/)
     -   [https://pubmed.ncbi.nlm.nih.gov/31230261/](https://pubmed.ncbi.nlm.nih.gov/31230261/)
--   **Conclusión:** "La [[Aspirina]] puede usarse por sí sola en el tratamiento de pacientes con [[Disfunción eréctil]] vasculogénica o combinada con [[Tadalafil]] para reducir sus [[Efectos secundarios]]."
+-   **Conclusión:** "La [[Aspirina]] puede usarse por sí sola en el tratamiento de pacientes con [[Disfunción eréctil]] vasculogénica o combinada con [[Tadalafilo]] para reducir sus [[Efectos secundarios]]."
 
 ### Experiencia Personal
 
@@ -143,6 +143,6 @@ Posición médica establecida (USPSTF, 2016 en adelante): **no se recomienda asp
 - [[Serotonina]]
 - [[Progesterona]]
 - [[Metabolismo]]
-- [[Tadalafil]]
+- [[Tadalafilo]]
 
 (?faltan fuentes)
