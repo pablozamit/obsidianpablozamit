@@ -5,6 +5,18 @@
 
 Marco del autor: la [[Glucosa|glucosa]] (y por extensión los [[Carbohidratos|carbohidratos]]) es la **molécula dietética que más eleva el pool intracelular de [[NAD+|NAD+]]**, lo que se traduce en metabolismo basal más alto, mejor función [[Tiroides (glándula)|tiroidea]], [[Cortisol|cortisol]] bajo y [[Glutatión|sistema antioxidante]] robusto.
 
+## Tabla de contenidos
+
+- [Resumen de los claims](#resumen-de-los-claims)
+- [Mecanismo central: glucosa → PDH → NAD+ → ATP](#mecanismo-central-glucosa--pdh--nad+-atp)
+- [Por qué la cetosis, según el autor, ralentiza el metabolismo](#por-qué-la-cetosis-según-el-autor-ralentiza-el-metabolismo)
+- [Proteína/BCAAs y metabolismo](#proteínabcaas-y-metabolismo)
+- [Omega-3 mínimo, grasa saturada con moderación](#omega-3-mínimo-grasa-saturada-con-moderación)
+- [Autofagia sin ayuno largo](#autofagia-sin-ayuno-largo)
+- [Implicación global](#implicación-global)
+- [Caveats y posición crítica](#caveats-y-posición-crítica)
+- [Ver también](#ver-también)
+
 ## Resumen de los claims
 
 | Claim | Mecanismo propuesto | Caveat |

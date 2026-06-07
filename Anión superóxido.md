@@ -4,6 +4,15 @@ El **anión superóxido** (O₂•⁻) es la **especie reactiva de oxígeno (ROS
 
 > _—Química de base: el oxígeno molecular (O₂) es un birradical con dos electrones desapareados. Cuando capta un solo electrón extra se convierte en superóxido (O₂•⁻), una forma parcialmente reducida y mucho más reactiva._
 
+## Tabla de contenidos
+
+- [Función bioquímica: señal Y daño (la "doble cara")](#función-bioquímica-señal-y-daño-la-doble-cara)
+- [Tesis @yungkingmito: "superoxide is life's first signal"](#tesis-yungkingmito-superoxide-is-lifes-first-signal)
+- [Rebatir desde la bioquímica consolidada: @RogerSeheult, MD (2 oct 2025)](#rebatir-desde-la-bioquímica-consolidada-rogerseheult-md-2-oct-2025)
+- [Caveats: la parte poética](#caveats-la-parte-poética)
+- [Implicación práctica (lo que sí se sostiene)](#implicación-práctica-lo-que-sí-se-sostiene)
+- [Ver también](#ver-también)
+
 ## Función bioquímica: señal Y daño (la "doble cara")
 
 La visión **consensuada** en biología redox es que el superóxido es **simultáneamente**:

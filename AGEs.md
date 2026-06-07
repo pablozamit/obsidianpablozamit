@@ -2,6 +2,16 @@
 
 Los **productos finales de glicación avanzada (AGEs)** son [[Proteínas]] o [[Lípidos]] que se [[Glicación|glican]] y oxidan de forma no enzimática tras el contacto con [[Azúcares]] (especialmente azúcares aldosas).
 
+## Tabla de contenidos
+
+- [Mecanismo de Acción y Complicaciones](#mecanismo-de-acción-y-complicaciones)
+- [Bioquímica de la Formación de AGEs](#bioquímica-de-la-formación-de-ages)
+- [Consideraciones Dietéticas y Otros Factores](#consideraciones-dietéticas-y-otros-factores)
+- [Anti-glicantes y estrategias de mitigación (@doctormorphh, 16 may 2026)](#anti-glicantes-y-estrategias-de-mitigación-doctormorphh-16-may-2026)
+- [Caveats al stack propuesto](#caveats-al-stack-propuesto)
+- [Investigación Adicional](#investigación-adicional)
+- [Notas Relacionadas](#notas-relacionadas)
+
 ## Mecanismo de Acción y Complicaciones
 
 Los AGEs contribuyen a una variedad de [[Complicaciones microvasculares]] y [[Complicaciones macrovasculares]] a través de la formación de enlaces cruzados entre moléculas en la [[Membrana basal]] de la [[Matriz extracelular]]. También interactúan con el **receptor de productos finales de glicación avanzada (RAGE)**.

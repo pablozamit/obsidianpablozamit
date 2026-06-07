@@ -2,6 +2,18 @@
 
 Enzima citoplasmática y de membrana codificada por el gen *COMT* (cromosoma 22q11.21). Transfiere un grupo metilo desde la [[SAMe (S-Adenosil Metionina)|SAMe]] a un sustrato catecol (sustrato con un anillo de benceno con dos -OH adyacentes), desactivándolo y permitiendo su excreción o reciclaje. Una de las dos principales vías de desactivación de [[Catecolaminas|catecolaminas]] (la otra es la [[Monoamino oxidasas (MAO)|MAO]]).
 
+## Tabla de contenidos
+
+- [Sustratos](#sustratos)
+- [Reacción](#reacción)
+- [Dos isoformas](#dos-isoformas)
+- [El polimorfismo Val158Met (rs4680)](#el-polimorfismo-val158met-rs4680)
+- [Otros SNPs relevantes](#otros-snps-relevantes)
+- [El autor @Helios_Movement (6 jun 2026)](#el-autor-helios_movement-6-jun-2026)
+- [Tips prácticos según el autor (con caveats)](#tips-prácticos-según-el-autor-con-caveats)
+- [Caveats transversales](#caveats-transversales)
+- [Ver también](#ver-también)
+
 ## Sustratos
 
 - **[[Dopamina]]** → 3-metoxitiramina (3-MT)
