@@ -1,5 +1,18 @@
 Tiamina.
 
+## Tabla de contenidos
+
+- [Formas de suplementación](#formas-de-suplementación)
+- [Usos y beneficios](#usos-y-beneficios)
+- [B1 + Taurina](#b1-taurina)
+- [Testimonios](#testimonios)
+- [Cafeína y depleción de B1](#cafeína-y-depleción-de-b1)
+- [Ejercicio y rendimiento deportivo](#ejercicio-y-rendimiento-deportivo)
+- [Contraindicaciones](#contraindicaciones)
+- [Anti-glicación: benfotiamina y las tres vías de Brownlee](#anti-glicación-benfotiamina-y-las-tres-vías-de-brownlee)
+- [Hype cycle 2026: el "Thiamine Bible" y el pushback clínico](#hype-cycle-2026-el-thiamine-bible-y-el-pushback-clínico)
+- [Ver también](#ver-también)
+
 ## Formas de suplementación
 
 ### Benfotiamina
@@ -133,6 +146,13 @@ La "ingesta adecuada" (RDA ~1.1-1.4 mg/día) asume un metabolismo basal. El atle
 - [[BCAA]]
 - [[Cafeína y depleción de B1]]
 - [[Café]]
+- [[Mitocondria]]
+- [[Disfunción mitocondrial]]
+- [[Resistencia a la insulina]]
+- [[Disbiosis intestinal]]
+- [[Vitamina B]]
+- [[Magnesio]]
+- [[Hierro]]
 
 10. **Testimonio con TTFD 100 mg (Meat Head, 2026)**: 
     - Día 1: aumento de energía claro ~3-4 h después de tomar
@@ -163,3 +183,59 @@ La **teoría unificadora de Brownlee** (*Nature* 2005) describe tres vías de da
 La benfotiamina reduce la acumulación intracelular de glucosa y sus metabolitos, lo que engrana las tres vías de forma sinérgica. Ver [[Benfotiamina]] para detalle clínico.
 
 > _—Caveat: la evidencia de la tiamina HCl oral como anti-glicante es **modesta**; el grueso de la evidencia viene de la **benfotiamina** liposoluble a 150-300 mg/día, especialmente en neuropatía diabética._
+
+# Hype cycle 2026: el "Thiamine Bible" y el pushback clínico
+
+El 3 de marzo de 2026, @JustinMihaly (fundador de Elite Coaching Academy) tuiteó que la B1 estaba a punto de "romper como trend", con argumentos que condensan el sentir biohacker pro-tiamina:
+
+> "I'm too bullish on vitamin b1 being a trend to hit the industry very soon. Just makes too much sense: helps solve issues that majority of people are having, hard to get sufficient amounts from food supply, fixes metabolism + gut health issues, makes mental energy and focus go nuts (especially alongside armodafinil), fixes the 'I feel worse after eating carbs' issue."
+> _—@JustinMihaly (3 mar 2026)_
+
+## La versión "Tiamina Bíblica" (@metabolic_print, 7 jun 2026)
+
+@metabolic_print (Metabolic Blueprint ⚡) amplificó la tesis con un hilo y un substack largo ("THE THIAMINE BIBLE") que sintetiza el mecanismo popularizado:
+
+> "Thiamine (B1) decides whether the food you eat becomes energy, or backs up as lactic acid and leaves you wired, tired, and foggy. → The more carbs you eat, the more B1 you burn. So when you're low, every carb-heavy meal makes you feel worse ('I crash after eating'). → The modern food supply is draining your B1. Generally quite low in the nutrient, and yet our demands are rising. Modern life is practically built to keep you deficient. → Many 'unrelated' symptoms are amplified by low B1, like fatigue, brain fog, anxiety, racing heart, sluggish digestion. → Your labs and blood work won't catch it. The recommended intake was only set to prevent beriberi (total deficiency), not to help you function. You can run on empty for years and still look 'normal'."
+> _—@metabolic_print (7 jun 2026)_
+
+Substack: "The Thiamine Bible" (metabolic_print, 23 mar 2026), enlazado en reply al post original.
+
+## El mecanismo ya descrito vs. la nueva narrativa
+
+La sección [[#Mecanismo: el "vacío metabólico" del lactato]] ya documenta cómo la TPP cofactor de la [[Piruvato deshidrogenasa|PDH]] determina el balance **piruvato → acetil-CoA (oxidación)** vs. **piruvato → lactato (acidificación)**. Lo que añade el hilo 2026 es el **enmarcado sistémico**: la idea de que la dieta moderna y la alta demanda de carbohidratos crean un *déficit funcional* en prácticamente todo el mundo, no solo en alcohólicos o en atletas extremos.
+
+Este marco es coherente con la [[Cafeína y depleción de B1|sección previa]]: el café, el alcohol y muchos medicamentos depletan B1 [[#Cafeína y depleción de B1|directamente]].
+
+## Formas preferidas: TTP, benfotiamina y TPP
+
+@flod86221232 cerró el debate sobre formas así:
+
+> "Thiamine Pyrophosphate is the elite level thiamine."
+> _—@flod86221232 (jun 2026)_
+
+Y en el propio hilo, @JustinMihaly confirmó que él usa **benfotiamina** como forma personal (máscara liposoluble que bypasea los transportadores TTP1/TTP2, ver [[#Formas preferidas para rendimiento]]).
+
+La jerarquía de biodisponibilidad, ordenada por evidencia anecdótica + estudios farmacocinéticos:
+1. **Tiamina Pirofosfato (TPP)**: la forma *activa* como cofactor. Suplementación oral directa de TPP es cara y menos estable; pocos productos comerciales.
+2. **[[Benfotiamina]]**: profármaco liposoluble, alta biodisponibilidad, mejor cociente entrega/tejido. La más usada en literatura clínica ([[#Anti-glicación: benfotiamina y las tres vías de Brownlee|sección previa]]).
+3. **[[TTFD]]** (Thiamax 100 mg): allithiamine-like, cruza barrera hematoencefálica, bypass transportadores.
+4. **Tiamina HCl oral**: absorción TTP1/2-dependiente, ~5% biodisponibilidad; algunos usuarios la disuelven en agua y la inyectan subcutáneamente (ver [[#Testimonios]]).
+5. **Tiamina IV**: bypass total; @AbudBakri (MD) confirma que la prescribe rutinariamente en hospital para concerns neurológicos.
+
+## Pushback clínico y testimonios negativos
+
+El hilo acumuló pushback sustantivo, no solo amplificación:
+
+- **@jamiekenney89 (pushback regulatorio)**: "I get the excitement, but be careful. B1 is important, especially for deficiency. But it is not a cure all. Most people get enough from diet unless there is an absorption issue. Trends move fast. Biology is slower and more complex." — punto válido: la RDA (~1.1-1.4 mg/día) es **margen de seguridad** y asume dieta promedio. El autor respondió: "They absolutely do not get enough from diet", cerrando el debate en polarización. Caveat: la RDA sí cubre a sujetos **sin** consumo de café, alcohol, ni medicación depletora — la mayoría de la población biohackeada no encaja.
+- **@sven5801 (testimonio negativo)**: "I've tried B1 and CoQ10 supplements for low energy but didn't work for me." — N=1, sin especificar forma ni dosis. Caveat: si usó HCl oral a dosis baja, es esperable que no note nada por la limitación de TTP1/2.
+- **@dewey_klepper (factor de depleción)**: "One of those vitamins too that is EASILY DEPLETED by a whole host of things including many common medications, alcohol and even caffeine." — coherente con la sección [[#Cafeína y depleción de B1]].
+- **@AbudBakri (MD)**: "B1 is the real deal. I prescribe so much of it by IV for anyone that has a neurological concern in the hospital." — soporte clínico, aunque desde neurología hospitalaria (deficiencia severa), no desde optimización de sujetos sanos.
+- **@boretrol (contexto)**: lleva 6 años evangelizando B1 en su pinned thread — implica que no es un trend nuevo, lleva tiempo bajo el radar.
+- **@berbarianWizard (Jamal Dinkoui)**: "I'm very bullish too" — coherente con el marco crítico con serotonina del vault.
+
+## Caveat bioquímico: el "no todo es B1"
+
+> "A guy reads news like that and still concludes, 'mRNA bad'. How do people with reasoning skills this poor even function? At some point, it's not skepticism anymore, it's stupidity."
+> _—@Dr_Singularity (jun 2026, contexto de trinos adyacentes, no del hilo de B1)_
+
+La cita anterior es ilustrativa del *clima* del debate 2026 (polarización entre truther-B1 y escépticos-RDA), no una posición sobre tiamina per se. Caveat central: la B1 **no compensa** una [[Mitocondria]] con [[Disfunción mitocondrial]] upstream, ni repara [[Disbiosis intestinal]] o [[Resistencia a la insulina]] establecidas. Es un cofactor, no un switch metabólico — sin las otras vitaminas B ([[Vitamina B2|B2]], [[Vitamina B3|B3]]), sin [[Magnesio]] y sin [[Hierro]], la suplementación aislada de B1 no llega a donde se necesita. Ver [[Vitamina B]].
