@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a404bfe92ea61c62",
+        "id": "10dc3b1fbf56df4c",
         "type": "tabs",
         "children": [
           {
-            "id": "781d2ac793a5a348",
+            "id": "6ae09e7094a27dd4",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -159,11 +159,10 @@
       "digitalgarden:Digital Garden Publication Center": false,
       "diff-sender:Enviar cambios a n8n": false,
       "yet-another-obsidian-synchronizer:YAOS": false,
-      "gemini-scribe:Gemini Scribe: Agent Mode": false,
-      "periodic-notes:Open this week": false
+      "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "781d2ac793a5a348",
+  "active": "6ae09e7094a27dd4",
   "lastOpenFiles": [
     "Tromboxano.md",
     "Estimulantes.md",
