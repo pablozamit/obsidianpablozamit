@@ -23,6 +23,7 @@ Colección de análisis campaña por campaña. Cada entrada incluye: (1) JSON de
 | 13 | [[Specsavers - Time to book a visit]] | **El Medio como Síntoma** — Hacer que el soporte publicitario manifieste físicamente el problema que el producto resuelve, convirtiendo al espectador en paciente momentáneo. |
 | 14 | [[Emirates - Earth is 71 percent water]] | **La Estadística Adversaria Apropiada** — Tomar un dato factual de limitación universal y reencuadrarlo como el problema que la marca resuelve, con la estadística como setup y la marca como punchline. |
 | 15 | [[Freddo - The Protected Ice Cream]] | **El Objeto de Deseo Protegido** — Colocar al personaje en una situación físicamente comprometida pero haciendo que su prioridad sea proteger el producto, demostrando su valor emocional sin palabras. |
+| 16 | [[IKEA - Assembly Service]] | **Subversión del Código Visual de Dolor** — Identificar el elemento visual de la marca asociado a frustración y reutilizarlo como vehículo del mensaje opuesto: la solución fácil. |
 
 ---
 

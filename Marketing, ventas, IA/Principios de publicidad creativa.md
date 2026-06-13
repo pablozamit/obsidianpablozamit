@@ -660,6 +660,47 @@ Coloca al personaje en una situación físicamente comprometida pero su priorida
 
 ---
 
+## IKEA — "Assembly Service"
+
+### 1. JSON Descriptivo (Prompt para texto-a-imagen)
+
+```json
+{
+  "canvas": {
+    "format": "Billboard real en pared urbana con grafitis",
+    "aspect_ratio": "Horizontal 4:3",
+    "lighting": "Luz natural difusa de día"
+  },
+  "poster": {
+    "style": "Hoja de instrucciones de montaje IKEA",
+    "background": "#D8C4E8 (lila suave)",
+    "layout": "4 cuadrantes",
+    "top_left": "Cama blanca foto realista",
+    "bottom_left": "Cama con cajones abiertos",
+    "right_texts": ["IS HAPPY TO HELP.", "OUR ASSEMBLY SERVICE", "199.–"],
+    "logo": "IKEA clásico amarillo-azul"
+  },
+  "environment": "Pared desgastada con grafitis, marco metálico oxidado",
+  "mounting": "Cinta adhesiva en esquinas, arrugas y burbujas (look fly-posted)"
+}
+```
+
+### 2. Análisis Creativo
+
+#### ¿Por qué es un gran anuncio?
+
+IKEA replica el estilo visual de sus propios manuales de montaje para anunciar el servicio que elimina el montaje. El cartel demuestra visualmente lo que vende. Todo el mundo reconoce ese formato como el "dolor de usuario" de armar muebles. Al usarlo para anunciar la solución, el anuncio genera ironía y empatía instantánea: "Sabemos que nuestras instrucciones son un infierno; contrata nuestro servicio".
+
+#### Principio creativo: **"Subversión del Código Visual de Dolor"** *(Pain-Point Visual Code Subversion)*
+
+Identifica el elemento visual de la marca asociado a frustración y lo reutiliza como vehículo del mensaje opuesto: la solución fácil. Publicidad que bromea sobre su propia debilidad para vender su fortaleza.
+
+#### Pregunta axiomática:
+
+> **"¿Cuál es el objeto, documento, interfaz o experiencia visual más reconocible (y potencialmente frustrante) de mi marca que mis clientes identifican como 'difícil', y cómo puedo usarlo literalmente como la plantilla del anuncio que vende la solución a esa dificultad?"**
+
+---
+
 ## Metáfora
 
 ### Mezcla de 'enemigo' + víctima:
