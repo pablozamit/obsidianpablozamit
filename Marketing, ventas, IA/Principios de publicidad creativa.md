@@ -993,6 +993,28 @@ Frase provocativa que describe literalmente la función física del producto. El
 
 ---
 
+## BandSports — "Family Birthday"
+
+### 1. JSON Descriptivo (Prompt para texto-a-imagen)
+
+```json
+{
+  "scene": "Foto familiar de cumpleaños. Todos sonríen a cámara excepto el padre, que mira hacia la derecha siguiendo un partido. Logo BandSports en esquina inferior derecha."
+}
+```
+
+### 2. Análisis Creativo
+
+#### Principio creativo: **"Mostrar el Efecto, No el Producto"** *(Show the Effect, Not the Product)*
+
+No muestres el producto — muestra el comportamiento que provoca. La ausencia obliga al cerebro a reconstruir la causa. Cuanto menos explicas, más memorable.
+
+#### Pregunta axiomática:
+
+> **"¿Qué comportamiento revelador provoca mi producto, y cómo puedo fotografiarlo sin mostrar el producto?"**
+
+---
+
 ## Metáfora
 
 ### Mezcla de 'enemigo' + víctima:
