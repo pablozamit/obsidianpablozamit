@@ -18,6 +18,7 @@ Colección de análisis campaña por campaña. Cada entrada incluye: (1) JSON de
 | 8 | [[Sony - Microvault]] | **Metáfora Visual de Contención** — Hacer visible y tangible lo abstracto integrándolo en la forma física del producto. |
 | 9 | [[Renault - 1700 KM with one tank]] | **Materialización Metafórica Progresiva** — Transformar un concepto abstracto cuantificable en un objeto lineal extensible que cambia de naturaleza visual durante el recorrido. |
 | 10 | [[LEGO - We are hiring]] | **La Universalización por Extremo del Parámetro** — Expansión absurda de un criterio de segmentación hasta incluir la población total, colapsando fronteras entre consumidor y productor. |
+| 11 | [[Ryanair - Pizza vs Pisa]] | **El Ancla de Precio por Categoría Sustitutiva** — Equiparar aritméticamente el precio del producto con algo que la audiencia compra sin pensar, forzando recategorización mental del gasto. |
 
 ---
 
