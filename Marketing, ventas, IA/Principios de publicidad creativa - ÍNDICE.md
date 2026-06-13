@@ -35,6 +35,7 @@ Colección de análisis campaña por campaña. Cada entrada incluye: (1) JSON de
 | 25 | [[Starbucks - Reconnect]] | **La Huella como Metáfora** — Convertir el residuo o efecto secundario del producto en el protagonista visual de la comunicación, transformando un accidente doméstico en metáfora del valor emocional de la marca. |
 | 26 | [[Detour Sunglasses - Sit Respectfully]] | **El Doble Sentido Literal** — Usar una frase provocativa que describe literalmente la función física del producto, generando atención por choque semántico que se resuelve en humor cuando se revela la inocencia funcional. |
 | 27 | [[BandSports - Family Birthday]] | **Mostrar el Efecto, No el Producto** — Fotografiar el comportamiento revelador que provoca el producto en sus usuarios sin mostrar el producto mismo, dejando que el espectador reconstruya la causa. |
+| 28 | [[City of Los Angeles - The Bad Graphic]] | **El Anti-Ejemplo** — Hacer que el propio anuncio sea una demostración viva y humorística del problema que se resuelve, exhibiendo intencionadamente una carencia para probar la necesidad. |
 
 ---
 

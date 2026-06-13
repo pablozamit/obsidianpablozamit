@@ -1015,6 +1015,28 @@ No muestres el producto — muestra el comportamiento que provoca. La ausencia o
 
 ---
 
+## City of Los Angeles — "The Bad Graphic"
+
+### 1. JSON Descriptivo (Prompt para texto-a-imagen)
+
+```json
+{
+  "scene": "Screenshot Facebook: City of LA busca diseñador. Dibujo MS Paint pésimo con rectángulos de colores, 'Graphics Designer' en letras multicolor, sello oficial superpuesto. 12.1K shares."
+}
+```
+
+### 2. Análisis Creativo
+
+#### Principio creativo: **"El Anti-Ejemplo"** *(The Anti-Example)*
+
+El anuncio es el problema que resuelve. Exponer la propia incompetencia de forma cómica como prueba de necesidad. Autodesprecio estratégico que humaniza y genera viralidad.
+
+#### Pregunta axiomática:
+
+> **"¿Cómo puedo hacer que mi anuncio sea la demostración viva del problema que resuelvo?"**
+
+---
+
 ## Metáfora
 
 ### Mezcla de 'enemigo' + víctima:
