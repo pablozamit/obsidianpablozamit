@@ -971,6 +971,28 @@ El residuo físico del producto (mancha de café) se convierte en metáfora del 
 
 ---
 
+## Detour Sunglasses — "Sit Respectfully"
+
+### 1. JSON Descriptivo (Prompt para texto-a-imagen)
+
+```json
+{
+  "scene": "Valla publicitaria contra cielo azul. Fondo gris carbón, headline: 'We want to sit on your face.', sub: '(respectfully)', gafas Wayfarer negras, detoursunglasses.com."
+}
+```
+
+### 2. Análisis Creativo
+
+#### Principio creativo: **"El Doble Sentido Literal"** *(The Literal Double Entendre)*
+
+Frase provocativa que describe literalmente la función física del producto. El paréntesis "(respectfully)" reconoce la provocación y reclama inocencia. El choque entre lo inapropiado y lo literal genera humor, no ofensa.
+
+#### Pregunta axiomática:
+
+> **"¿Qué frase tabú describe literalmente lo que mi producto hace, y cómo puedo usarla para que el choque semántico genere humor en lugar de ofensa?"**
+
+---
+
 ## Metáfora
 
 ### Mezcla de 'enemigo' + víctima:
