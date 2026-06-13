@@ -739,6 +739,49 @@ Introduce un elemento perturbador mínimo dentro de una escena normal. No tiene 
 
 ---
 
+## Paloma Wool — "Whatever the Weather"
+
+### 1. JSON Descriptivo (Prompt para texto-a-imagen)
+
+```json
+{
+  "canvas": {
+    "format": "Vertical 9:16 (pantalla de smartphone)",
+    "background": "#E8E8E8 (gris interface de sistema)"
+  },
+  "header": "Whatever the Weather / Paloma Wool + <3°",
+  "city_rows": [
+    {"city": "London", "weather": "Noche nublada", "garment": "Sweater naranja terracota"},
+    {"city": "Rio de Janeiro", "weather": "Nublado gris", "garment": "Chaleco verde oliva"},
+    {"city": "New York", "weather": "Lluvia", "garment": "Sweater degradado naranja→azul"},
+    {"city": "São Paulo", "weather": "Gris claro", "garment": "Sudadera blanco→verde menta"},
+    {"city": "San Sai", "weather": "Noche despejada", "garment": "Chaqueta mostaza"},
+    {"city": "Los Angeles", "weather": "Azul brillante", "garment": "Set dos piezas animal print"},
+    {"city": "San Francisco", "weather": "Azul con nubes", "garment": "Top verde lima"}
+  ],
+  "style": "UI/UX mockup de weather app iOS. Prendas como cut-outs flotantes donde iría la temperatura.",
+  "typography": "SF Pro Display system font, blanco sobre fondos meteorológicos."
+}
+```
+
+### 2. Análisis Creativo
+
+#### ¿Por qué es un gran anuncio?
+
+**Hackea la interfaz más revisada del mundo: la app del tiempo.** Reemplaza la temperatura por una prenda Paloma Wool. El espectador la procesa como screenshot real antes de registrar que es publicidad. El mensaje se infiltra como utilidad.
+
+Siete ciudades de cuatro continentes simultáneamente → globalidad implícita. "Whatever the Weather" funciona como filosofía vestimentaria y declaración existencial.
+
+#### Principio creativo: **"El Formato Utilitario Colonizado"** *(Utilitarian Interface Hijacking)*
+
+Toma una interfaz digital funcional de uso diario y reemplaza un campo de datos por información de marca. El cerebro la procesa como herramienta antes de detectar publicidad.
+
+#### Pregunta axiomática:
+
+> **"¿Cuál es la interfaz digital que mi cliente revisa mecánicamente sin pensar... y qué campo podría reemplazar exactamente por información de mi marca, manteniendo todo lo demás idéntico, para que el mensaje se infiltre antes de que el cerebro crítico se active?"**
+
+---
+
 ## Metáfora
 
 ### Mezcla de 'enemigo' + víctima:

@@ -25,6 +25,7 @@ Colección de análisis campaña por campaña. Cada entrada incluye: (1) JSON de
 | 15 | [[Freddo - The Protected Ice Cream]] | **El Objeto de Deseo Protegido** — Colocar al personaje en una situación físicamente comprometida pero haciendo que su prioridad sea proteger el producto, demostrando su valor emocional sin palabras. |
 | 16 | [[IKEA - Assembly Service]] | **Subversión del Código Visual de Dolor** — Identificar el elemento visual de la marca asociado a frustración y reutilizarlo como vehículo del mensaje opuesto: la solución fácil. |
 | 17 | [[Van Gogh Museum Cafe - The Severed Sugar Cube]] | **El Detalle Anómalo con Firma Cultural** — Introducir un elemento perturbador mínimo en una escena normal que solo cobra sentido al conectarlo con un referente cultural, generando placer cognitivo. |
+| 18 | [[Paloma Wool - Whatever the Weather]] | **El Formato Utilitario Colonizado** — Replicar una interfaz digital de uso diario reemplazando un campo de datos por información de marca, infiltrando el mensaje como herramienta antes que como publicidad. |
 
 ---
 
