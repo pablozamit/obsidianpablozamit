@@ -1059,6 +1059,28 @@ Un objeto obsoleto como filtro generacional: si entiendes la referencia, eres el
 
 ---
 
+## Wathan Funeral Home — "Text and Drive"
+
+### 1. JSON Descriptivo (Prompt para texto-a-imagen)
+
+```json
+{
+  "scene": "Valla blanca crema, cielo azul. Serif elegante: 'TEXT AND DRIVE'. Abajo: 'WATHAN FUNERAL HOME'. Nada más."
+}
+```
+
+### 2. Análisis Creativo
+
+#### Principio creativo: **"La Paradoja del Incentivo Perverso"** *(The Perverse Incentive Paradox)*
+
+La funeraria "recomienda" conducir distraído. La confesión de interés funciona como la advertencia más potente. Ironía oscura: el beneficiario del error advierte mejor que cualquier sermón.
+
+#### Pregunta axiomática:
+
+> **"¿Quién ganaría si mi cliente se equivocara, y cómo usar su 'recomendación' como advertencia?"**
+
+---
+
 ## Metáfora
 
 ### Mezcla de 'enemigo' + víctima:

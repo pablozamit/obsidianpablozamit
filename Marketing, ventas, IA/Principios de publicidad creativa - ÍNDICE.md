@@ -37,6 +37,7 @@ Colección de análisis campaña por campaña. Cada entrada incluye: (1) JSON de
 | 27 | [[BandSports - Family Birthday]] | **Mostrar el Efecto, No el Producto** — Fotografiar el comportamiento revelador que provoca el producto en sus usuarios sin mostrar el producto mismo, dejando que el espectador reconstruya la causa. |
 | 28 | [[City of Los Angeles - The Bad Graphic]] | **El Anti-Ejemplo** — Hacer que el propio anuncio sea una demostración viva y humorística del problema que se resuelve, exhibiendo intencionadamente una carencia para probar la necesidad. |
 | 29 | [[Penn Medicine - Floppy Disk]] | **El Shibboleth Cultural** — Usar un objeto o referencia obsoleta como filtro de edad implícito, segmentando por alfabetización cultural en lugar de demografía directa para evitar resistencia psicológica. |
+| 30 | [[Wathan Funeral Home - Text and Drive]] | **La Paradoja del Incentivo Perverso** — Poner al actor que se beneficia del mal comportamiento a "recomendarlo", usando esa confesión de interés como la advertencia más potente mediante ironía oscura. |
 
 ---
 
