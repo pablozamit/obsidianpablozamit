@@ -701,6 +701,44 @@ Identifica el elemento visual de la marca asociado a frustración y lo reutiliza
 
 ---
 
+## Van Gogh Museum Café — "The Severed Sugar Cube"
+
+### 1. JSON Descriptivo (Prompt para texto-a-imagen)
+
+```json
+{
+  "canvas": {
+    "format": "Horizontal 16:9",
+    "background": "Madera oscura #3A2E28 mate con veta definida"
+  },
+  "composition": "Fotografía editorial fine-art, ángulo 3/4 desde arriba-derecha",
+  "elements": {
+    "saucer": "Plato blanco porcelana mate",
+    "cup": "Taza blanca con café negro #1A0A05, vapor sutil",
+    "sugar_cube": "Terrón azúcar moreno #C8A96E con esquina cortada (oreja de Van Gogh)",
+    "spoon": "Cucharilla plateada horizontal"
+  },
+  "branding": "VAN GOGH MUSEUM CAFE / Amsterdam, esquina inferior derecha, solo tipografía blanca",
+  "mood": "Sofisticado, contemplativo, intelectual"
+}
+```
+
+### 2. Análisis Creativo
+
+#### ¿Por qué es un gran anuncio?
+
+**Un solo detalle microscópico hace todo el trabajo conceptual.** Podría ser el anuncio de cualquier café, pero el terrón de azúcar tiene una esquina cortada que activa la conexión inmediata con Van Gogh y su oreja cercenada. El "aha moment" genera placer cognitivo y memorización profunda.
+
+#### Principio creativo: **"El Detalle Anómalo con Firma Cultural"** *(The Cultured Anomaly)*
+
+Introduce un elemento perturbador mínimo dentro de una escena normal. No tiene sentido hasta que el cerebro lo conecta con un referente cultural. El espectador siente que ha "descubierto" el mensaje por sí solo.
+
+#### Pregunta axiomática:
+
+> **"¿Qué objeto cotidiano, completamente ordinario, podría aparecer ligeramente alterado, dañado o modificado de forma que, al verlo, un conocedor de mi marca, mi historia o mi campo cultural inmediatamente lo conecte con nuestra esencia... sin que sea necesaria ninguna explicación adicional?"**
+
+---
+
 ## Metáfora
 
 ### Mezcla de 'enemigo' + víctima:
