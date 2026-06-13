@@ -75,6 +75,115 @@ Se toma la promesa central del producto ("permanente") y se lleva a una **consec
 
 ---
 
+## Carlsberg — "Probably the best ad in the world" (Destapador de papel)
+
+### 1. JSON Descriptivo (Prompt para texto-a-imagen)
+
+```json
+{
+  "format": "Publicación impresa full-page, diseño editorial minimalista",
+  "canvas": {
+    "background": "Papel blanco mate con textura visible de dobleces y arrugas verticales y horizontales, simulando una hoja de periódico o revista previamente doblada en cuadrícula",
+    "border": "Marco sólido de color verde Carlsberg (#00A651 o similar) de aproximadamente 15-20px de grosor en los cuatro lados",
+    "texture_details": "Sombras sutiles en los pliegues verticales centrales y horizontales, creando efecto 3D de papel físicamente manipulado"
+  },
+  "typography_hierarchy": [
+    {
+      "text": "Probably the best ad in the world.",
+      "position": "Tercio superior centrado",
+      "style": "Sans-serif bold, color verde Carlsberg, tamaño grande (aprox 48pt), alineación centrada",
+      "note": "Reemplaza temporalmente al claim clásico de la marca"
+    },
+    {
+      "text": "Probably the best beer in the world.",
+      "position": "Parte inferior izquierda-centro",
+      "style": "Sans-serif regular, color verde Carlsberg, tamaño mediano (aprox 24pt)"
+    },
+    {
+      "text": "Or watch the film on www.probablythebestadintheworld.be",
+      "position": "Centro de la página, debajo de las instrucciones",
+      "style": "Sans-serif light, color gris oscuro o verde atenuado, tamaño pequeño (aprox 12pt)"
+    },
+    {
+      "text": "Beer brewed carefully, to be consumed with care",
+      "position": "Esquina inferior izquierda, muy pequeño",
+      "style": "Sans-serif light, color gris, tamaño micro (aprox 8pt)"
+    }
+  ],
+  "visual_instructions": {
+    "style": "Ilustraciones lineales monocromáticas en verde Carlsberg o gris oscuro, estilo técnico/diagramático, trazos finos y limpios",
+    "sequence": "Cinco pasos distribuidos horizontalmente en el centro de la página",
+    "steps": [
+      {
+        "icon": "Silueta de botella de cerveza al lado de un rectángulo vertical representando la página",
+        "caption": "tear this page out",
+        "position": "Izquierda"
+      },
+      {
+        "icon": "Dos manos estilizadas doblando un rectángulo horizontalmente",
+        "caption": "fold horizontally along line",
+        "position": "Centro-izquierda"
+      },
+      {
+        "icon": "Dos manos doblando el rectángulo ya doblado por la mitad nuevamente",
+        "caption": "fold double",
+        "position": "Centro"
+      },
+      {
+        "icon": "Mano usando el papel doblado como palanca bajo la chapa de una botella",
+        "caption": "use as lever",
+        "position": "Centro-derecha"
+      },
+      {
+        "icon": "Botella de pie junto al papel doblado en forma de V (destapador resultante)",
+        "caption": "enjoy your Carlsberg",
+        "position": "Derecha"
+      }
+    ]
+  },
+  "logo": {
+    "brand": "Carlsberg",
+    "position": "Esquina inferior derecha",
+    "style": "Logo clásico de Carlsberg en verde con la hoja de lúpulo integrada en la tipografía estilo serif tradicional",
+    "size": "Mediano, prominente pero no dominante"
+  },
+  "color_palette": {
+    "primary": "Verde Carlsberg (#00A651)",
+    "secondary": "Blanco roto/papel (#F5F5F0)",
+    "accents": "Gris oscuro para sombras de dobleces (#333333)"
+  },
+  "interactive_elements": {
+    "physical_utility": "El diseño incluye líneas punteadas o guías implícitas de perforación/doblado que permiten físicamente al lector recortar la página y seguir las instrucciones para crear un destapador funcional de papel",
+    "call_to_action_dual": "Uso físico del papel vs. visita digital al sitio web"
+  }
+}
+```
+
+### 2. Análisis Creativo
+
+#### ¿Por qué es un gran anuncio?
+
+Este anuncio **transcende la publicidad tradicional para convertirse en un objeto útil**. No pide atención pasiva; exige **acción física** (destruir el anuncio para usarlo). Al hacer que el lector rasgue, doble y transforme el papel en una herramienta funcional (un destapador), Carlsberg logra:
+
+1. **Permanencia física**: La gente conserva el anuncio porque ahora es un utensilio de cocina/bar, no basura publicitaria.
+2. **Engagement táctil**: La interacción crea un recuerdo motor y emocional más fuerte que cualquier impresión visual.
+3. **Coherencia brand-centric**: El destapador es el ritual previo indispensable para consumir la cerveza, posicionando a Carlsberg como facilitador de la experiencia completa.
+
+#### Principio creativo: **"La Funcionalización del Medio"** *(The Medium as a Tool)*
+
+Basado en la máxima de McLuhan pero llevado a la utilidad pragmática: **el soporte publicitario no es un mensaje, es una herramienta**. El papel deja de ser un lienzo pasivo para convertirse en el producto mismo. El anuncio juega ironía con su propia grandiosidad ("Probably the best ad") mientras humildemente se ofrece como objeto desechable-transformable.
+
+**Elementos que lo potencian:**
+- **Simplicidad ingenieril**: No requiere tecnología, solo origami básico.
+- **Shareability analógica**: La gente muestra el destapador físico a amigos mientras abren cervezas juntos.
+- **Transgresión controlada**: Destruir una publicidad de lujo va contra el instinto, creando una "transgresión permitida" placentera.
+
+#### Pregtaaaaaaaaxiomática para cualquier marca:
+
+> **"¿Cómo puedo convertir el soporte físico o digital donde aparece mi publicidad en una herramienta, experiencia o objeto que mi cliente necesite realmente usar en el momento preciso de consumir mi producto, de tal manera que sin mi anuncio, no pueda acceder fácilmente a lo que vendo?"**
+
+---
+
 ## Metáfora
 
 ### Mezcla de 'enemigo' + víctima:
