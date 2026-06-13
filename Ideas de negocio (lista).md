@@ -5,3 +5,9 @@ Elige libros, por ejemplo de desarrollo personal, y pide a [[IA|ChatGPT]] u otra
 ## 2 LMArena
 
 Portal que permite probar un mismo prompt con dos modelos de [[IA]] distintos, elegir qué resultado es mejor, y genera un ranking público por tareas. No tienen producto propio — comparan otros y la gente les hace el trabajo. Eso genera dos fuentes de valor: **autoridad** (datos objetivos que el público consulta) y **revenue** (empresas de IA pagan por acceder a esos datos de comparación para mejorar sus modelos).
+
+## 3 Agua Publicitaria
+
+Marca de agua embotellada de alta calidad que se regala gratis (o a precio simbólico). El modelo de negocio: ceden el espacio de la etiqueta para publicidad de terceros. Además donan un 10% a ONGs. El producto es real, útil y gratuito — el verdadero cliente es el anunciante que paga por tener su mensaje en cada botella.
+
+Portal que permite probar un mismo prompt con dos modelos de [[IA]] distintos, elegir qué resultado es mejor, y genera un ranking público por tareas. No tienen producto propio — comparan otros y la gente les hace el trabajo. Eso genera dos fuentes de valor: **autoridad** (datos objetivos que el público consulta) y **revenue** (empresas de IA pagan por acceder a esos datos de comparación para mejorar sus modelos).
