@@ -17,6 +17,7 @@ Colección de análisis campaña por campaña. Cada entrada incluye: (1) JSON de
 | 7 | [[EPhone 900 - Snakebite Search]] | **La Utilidad en el Extremo** — Colocar el producto en el escenario más hostil e improbable posible para validar su promesa. |
 | 8 | [[Sony - Microvault]] | **Metáfora Visual de Contención** — Hacer visible y tangible lo abstracto integrándolo en la forma física del producto. |
 | 9 | [[Renault - 1700 KM with one tank]] | **Materialización Metafórica Progresiva** — Transformar un concepto abstracto cuantificable en un objeto lineal extensible que cambia de naturaleza visual durante el recorrido. |
+| 10 | [[LEGO - We are hiring]] | **La Universalización por Extremo del Parámetro** — Expansión absurda de un criterio de segmentación hasta incluir la población total, colapsando fronteras entre consumidor y productor. |
 
 ---
 
