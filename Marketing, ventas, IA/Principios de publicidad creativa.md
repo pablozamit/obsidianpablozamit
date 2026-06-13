@@ -840,6 +840,35 @@ Si la marca ha construido códigos visuales únicos (color, forma, composición)
 
 ---
 
+## Euromillions — "The Mundane Wealth"
+
+### 1. JSON Descriptivo (Prompt para texto-a-imagen)
+
+```json
+{
+  "scene": "Macro a ras de suelo: pata de mesa de madera apoyada sobre un fajo de billetes de 500€ usado como calzo. Suelo beige, fondo desenfocado.",
+  "headline": "'Become outrageously rich.' en blanco, sans-serif bold, tercio superior",
+  "branding": "Logo Euromillions esquina inferior derecha",
+  "style": "Fotografía hiperrealista, 4:3, luz cálida ambiental"
+}
+```
+
+### 2. Análisis Creativo
+
+#### ¿Por qué es un gran anuncio?
+
+Evita todos los clichés de lotería. En lugar de yates y mansiones, muestra 500€ aplastados bajo una pata de mesa. La riqueza extrema en su forma más mundana y funcional: un calzo. Si ganas, tendrás tanto dinero que dejará de ser precioso para volverse corriente.
+
+#### Principio creativo: **"La Metáfora de lo Cotidiano"** *(The Mundane Metaphor)*
+
+Comunica un beneficio extremo a través de un gesto cotidiano y ridículo. No eleva el producto —lo desciende a la rutina, demostrando abundancia tal que el dinero pierde su valor sagrado.
+
+#### Pregunta axiomática:
+
+> **"¿Cuál es el uso más mundano, ridículo o cotidiano que mi cliente podría darle a mi beneficio si lo tuviera en abundancia extrema, y cómo puedo mostrar eso en lugar del cliché glamoroso?"**
+
+---
+
 ## Metáfora
 
 ### Mezcla de 'enemigo' + víctima:
