@@ -507,6 +507,64 @@ Toma el **formato visual del propio producto** y lo aplica a los **agentes probl
 
 ---
 
+## Specsavers — "Time to book a visit"
+
+### 1. JSON Descriptivo (Prompt para texto-a-imagen)
+
+```json
+{
+  "canvas": {
+    "format": "Publicidad digital vertical (3:4 ratio, ~530x700px aprox)",
+    "background": {"color": "#FFFFFF", "texture": "Liso mate"}
+  },
+  "hero_typography": {
+    "content": "Time to\nbook a\nvisit",
+    "position": {"x": 0.10, "y": 0.25, "alignment": "left-aligned"},
+    "base_font": "Sans-serif bold redondeada (Nunito ExtraBold), 800-900, ~88-96pt",
+    "color_treatment": {
+      "technique": "Chromatic aberration / RGB split",
+      "base_color": "#00A86B",
+      "cyan_layer": "#00FFFF offset -4px,-3px",
+      "magenta_layer": "#FF00FF offset +4px,+3px"
+    },
+    "blur_effect": {"type": "Gaussian blur 4-6px", "purpose": "Simular visión sin gafas"}
+  },
+  "lower_half": "Completamente vacío (blanco puro, ~55% del canvas)",
+  "brand_identity": {
+    "logo": {
+      "shape": "Pastilla verde #00A86B",
+      "position": "bottom-right",
+      "text": "Specsavers en blanco",
+      "critical_contrast": "ÚNICO elemento 100% nítido"
+    }
+  },
+  "color_system": {"background": "#FFFFFF", "brand_green": "#00A86B", "cyan": "#00FFFF", "magenta": "#FF00FF"},
+  "watermark": {"text": "adprofessor.com", "position": {"x": 0.15, "y": 0.97}, "color": "#888888", "size": "8pt"}
+}
+```
+
+### 2. Análisis Creativo
+
+#### ¿Por qué es un gran anuncio?
+
+**El anuncio padece el mismo problema que pretende resolver.** El medio se convierte en el mensaje. El lector experimenta durante 2-3 segundos exactamente lo que experimenta alguien que necesita gafas: frustración visual, esfuerzo ocular. El único elemento perfectamente nítido es el **logo de Specsavers**. El efecto RGB split replica el fenómeno óptico real del astigmatismo.
+
+#### Principio creativo: **"El Medio como Síntoma"** *(The Medium as Symptom)*
+
+El soporte publicitario **manifiesta físicamente el problema** que el producto resuelve, convirtiendo al espectador en paciente momentáneo.
+
+**Características clave:**
+- **Autodiagnóstico Pasivo**: El espectador experimenta el problema en lugar de leer sobre él.
+- **Economía total**: Zero copy explicativo. El efecto visual hace el 100% del trabajo.
+- **Contraste Funcional**: El logo nítido dentro del entorno borroso es proof of concept visual inmediato.
+- **Memorabilidad por Incomodidad**: El malestar de leer texto borroso genera huella emocional duradera.
+
+#### Pregunta axiomática:
+
+> **"¿Cuál es la sensación física, cognitiva o emocional exacta que experimenta mi cliente potencial cuando tiene el problema que mi producto resuelve... y cómo puedo diseñar el soporte publicitario para que reproduzca esa sensación, haciendo que mi producto sea el único elemento que aparece 'resuelto' o 'normal' dentro de ese entorno distorsionado?"**
+
+---
+
 ## Metáfora
 
 ### Mezcla de 'enemigo' + víctima:

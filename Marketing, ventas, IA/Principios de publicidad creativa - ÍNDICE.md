@@ -20,6 +20,7 @@ Colección de análisis campaña por campaña. Cada entrada incluye: (1) JSON de
 | 10 | [[LEGO - We are hiring]] | **La Universalización por Extremo del Parámetro** — Expansión absurda de un criterio de segmentación hasta incluir la población total, colapsando fronteras entre consumidor y productor. |
 | 11 | [[Ryanair - Pizza vs Pisa]] | **El Ancla de Precio por Categoría Sustitutiva** — Equiparar aritméticamente el precio del producto con algo que la audiencia compra sin pensar, forzando recategorización mental del gasto. |
 | 12 | [[Colgate - The Smile Sequence]] | **La Apropiación Estructural del Enemigo** — Aplicar la arquitectura visual del propio producto a los agentes problemáticos, cambiando solo el color para narrar problema → solución. |
+| 13 | [[Specsavers - Time to book a visit]] | **El Medio como Síntoma** — Hacer que el soporte publicitario manifieste físicamente el problema que el producto resuelve, convirtiendo al espectador en paciente momentáneo. |
 
 ---
 
