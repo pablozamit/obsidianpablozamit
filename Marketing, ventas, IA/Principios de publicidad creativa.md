@@ -1037,6 +1037,28 @@ El anuncio es el problema que resuelve. Exponer la propia incompetencia de forma
 
 ---
 
+## Penn Medicine — "Floppy Disk"
+
+### 1. JSON Descriptivo (Prompt para texto-a-imagen)
+
+```json
+{
+  "scene": "Valla publicitaria: fondo azul marino, silueta de disquete, texto 'IF YOU KNOW WHAT A FLOPPY DISK IS IT MAY BE TIME FOR YOUR CANCER SCREENING.' Logo Penn Medicine."
+}
+```
+
+### 2. Análisis Creativo
+
+#### Principio creativo: **"El Shibboleth Cultural"** *(The Cultural Shibboleth)*
+
+Un objeto obsoleto como filtro generacional: si entiendes la referencia, eres el target. Segmentación por alfabetización cultural que evita el estigma de la edad y crea complicidad.
+
+#### Pregunta axiomática:
+
+> **"¿Qué referencia obsoleta identifica a mi público sin que tenga que mencionar su edad?"**
+
+---
+
 ## Metáfora
 
 ### Mezcla de 'enemigo' + víctima:
