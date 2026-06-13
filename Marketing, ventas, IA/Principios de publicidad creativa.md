@@ -1081,6 +1081,28 @@ La funeraria "recomienda" conducir distraído. La confesión de interés funcion
 
 ---
 
+## Luxor Highlighter — "Needle in a Haystack"
+
+### 1. JSON Descriptivo (Prompt para texto-a-imagen)
+
+```json
+{
+  "scene": "Fondo blanco. Cientos de 'hay' en serif negro formando un bloque denso. Una palabra 'needle' resaltada en amarillo. Rotulador Luxor negro abajo."
+}
+```
+
+### 2. Análisis Creativo
+
+#### Principio creativo: **"Literalización de la Metáfora"** *(Literalization of the Metaphor)*
+
+"Buscar una aguja en un pajar" vuelto literal: el pajar son cientos de "hay", la aguja es "needle", el producto la revela. El beneficio se demuestra sin explicarse.
+
+#### Pregunta axiomática:
+
+> **"¿Qué metáfora describe el problema que resuelvo, y cómo la vuelvo literal?"**
+
+---
+
 ## Metáfora
 
 ### Mezcla de 'enemigo' + víctima:

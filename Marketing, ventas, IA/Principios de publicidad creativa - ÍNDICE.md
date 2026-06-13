@@ -38,6 +38,7 @@ Colección de análisis campaña por campaña. Cada entrada incluye: (1) JSON de
 | 28 | [[City of Los Angeles - The Bad Graphic]] | **El Anti-Ejemplo** — Hacer que el propio anuncio sea una demostración viva y humorística del problema que se resuelve, exhibiendo intencionadamente una carencia para probar la necesidad. |
 | 29 | [[Penn Medicine - Floppy Disk]] | **El Shibboleth Cultural** — Usar un objeto o referencia obsoleta como filtro de edad implícito, segmentando por alfabetización cultural en lugar de demografía directa para evitar resistencia psicológica. |
 | 30 | [[Wathan Funeral Home - Text and Drive]] | **La Paradoja del Incentivo Perverso** — Poner al actor que se beneficia del mal comportamiento a "recomendarlo", usando esa confesión de interés como la advertencia más potente mediante ironía oscura. |
+| 31 | [[Luxor Highlighter - Needle in a Haystack]] | **Literalización de la Metáfora** — Tomar una expresión popular o metáfora universal del problema que resuelve el producto y escenificarla literalmente, haciendo que el beneficio se entienda sin copy argumentativo. |
 
 ---
 
