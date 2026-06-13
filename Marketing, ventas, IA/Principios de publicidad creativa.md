@@ -782,6 +782,35 @@ Toma una interfaz digital funcional de uso diario y reemplaza un campo de datos 
 
 ---
 
+## IKEA — "Made to Move"
+
+### 1. JSON Descriptivo (Prompt para texto-a-imagen)
+
+```json
+{
+  "scene": "Pasillo estrecho, ángulo bajo, mesa de comedor oscura atascada diagonalmente contra ambas paredes dejando marcas rojas",
+  "foreground": "Caja plana IKEA con etiqueta 'Made to move.'",
+  "branding": "Logo IKEA esquina inferior derecha",
+  "style": "Fotografía comercial, 16:9, luz natural suave, humor doméstico"
+}
+```
+
+### 2. Análisis Creativo
+
+#### ¿Por qué es un gran anuncio?
+
+**El problema ES el héroe.** La mesa de la competencia atascada en el pasillo es una historia universal que cualquiera que haya mudado muebles reconoce. La caja plana IKEA en primer plano actúa como contraste silencioso: "mientras ese mueble destroza tus paredes, el nuestro llegó así de fácil". Humor empático —no ridiculiza al cliente, ridiculiza la situación.
+
+#### Principio creativo: **"El Problema como Héroe"**
+
+Dramatiza el momento de máxima frustración con la alternativa al producto. El espectador se identifica al instante. La solución aparece como alivio silencioso y obvio, sin necesidad de argumentar.
+
+#### Pregunta axiomática:
+
+> **"¿Cuál es el momento de mayor frustración de mi cliente con la alternativa a mi producto, y cómo puedo visualizarlo de forma que mi solución se entienda sin explicaciones?"**
+
+---
+
 ## Metáfora
 
 ### Mezcla de 'enemigo' + víctima:

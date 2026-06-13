@@ -26,6 +26,7 @@ Colección de análisis campaña por campaña. Cada entrada incluye: (1) JSON de
 | 16 | [[IKEA - Assembly Service]] | **Subversión del Código Visual de Dolor** — Identificar el elemento visual de la marca asociado a frustración y reutilizarlo como vehículo del mensaje opuesto: la solución fácil. |
 | 17 | [[Van Gogh Museum Cafe - The Severed Sugar Cube]] | **El Detalle Anómalo con Firma Cultural** — Introducir un elemento perturbador mínimo en una escena normal que solo cobra sentido al conectarlo con un referente cultural, generando placer cognitivo. |
 | 18 | [[Paloma Wool - Whatever the Weather]] | **El Formato Utilitario Colonizado** — Replicar una interfaz digital de uso diario reemplazando un campo de datos por información de marca, infiltrando el mensaje como herramienta antes que como publicidad. |
+| 19 | [[IKEA - Made to Move]] | **El Problema como Héroe** — Dramatizar el momento de máxima frustración con la alternativa al producto para que el espectador se identifique y la solución aparezca como alivio silencioso. |
 
 ---
 
