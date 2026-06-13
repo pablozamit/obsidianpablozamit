@@ -21,6 +21,7 @@ Colección de análisis campaña por campaña. Cada entrada incluye: (1) JSON de
 | 11 | [[Ryanair - Pizza vs Pisa]] | **El Ancla de Precio por Categoría Sustitutiva** — Equiparar aritméticamente el precio del producto con algo que la audiencia compra sin pensar, forzando recategorización mental del gasto. |
 | 12 | [[Colgate - The Smile Sequence]] | **La Apropiación Estructural del Enemigo** — Aplicar la arquitectura visual del propio producto a los agentes problemáticos, cambiando solo el color para narrar problema → solución. |
 | 13 | [[Specsavers - Time to book a visit]] | **El Medio como Síntoma** — Hacer que el soporte publicitario manifieste físicamente el problema que el producto resuelve, convirtiendo al espectador en paciente momentáneo. |
+| 14 | [[Emirates - Earth is 71 percent water]] | **La Estadística Adversaria Apropiada** — Tomar un dato factual de limitación universal y reencuadrarlo como el problema que la marca resuelve, con la estadística como setup y la marca como punchline. |
 
 ---
 

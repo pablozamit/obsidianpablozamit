@@ -565,6 +565,58 @@ El soporte publicitario **manifiesta físicamente el problema** que el producto 
 
 ---
 
+## Emirates — "Earth is 71% water"
+
+### 1. JSON Descriptivo (Prompt para texto-a-imagen)
+
+```json
+{
+  "canvas": {
+    "format": "Publicidad digital vertical (3:4, ~810x1080px)",
+    "background": {"type": "CGI espacial", "colors": {"top": "#0A0E1A", "mid": "#1B3A6B", "bottom": "#4A7FB5"}}
+  },
+  "hero_globe": {
+    "object": "Globo terráqueo centrado en África, Europa y Oriente Medio",
+    "size": "~65% del ancho",
+    "route_network": {
+      "hub": "Dubai (punto rojo #FF2200)",
+      "nodes": "~50-70 puntos rojos",
+      "lines": "Geodésicas blancas #FFFFFF, glow #E0F4FF, patrón radial"
+    }
+  },
+  "aircraft": {
+    "type": "A380 o 777 Emirates",
+    "position": {"x": 0.58, "y": 0.32},
+    "scale": "~55% del ancho",
+    "livery": "Blanco #F8F8F8, cola roja #CC0000, wordmark rojo"
+  },
+  "typography": {
+    "headline": {"text": "Earth is 71% water", "position": {"x": 0.50, "y": 0.10}, "font": "Serif light #FFFFFF 36pt"},
+    "subline": {"text": "we cover the rest", "position": {"x": 0.50, "y": 0.82}, "font": "Serif light #FFFFFF 34pt"}
+  },
+  "logo": "Badge rojo #CC0000 con arabesco dorado + wordmark blanco, bottom-center",
+  "watermark": {"text": "adprofessor.com", "position": {"x": 0.12, "y": 0.97}, "color": "#AAAAAA", "size": "8pt"}
+}
+```
+
+### 2. Análisis Creativo
+
+#### ¿Por qué es un gran anuncio?
+
+Convierte una **limitación geográfica planetaria** en una propuesta de valor de marca. Toma un dato irrefutable ("71% del planeta es agua") y lo convierte en el problema que justifica la existencia de Emirates. El copy no dice "volamos a muchos sitios" sino "el 29% del planeta al que puedes ir, lo cubrimos nosotros".
+
+Tres mecanismos: (1) la estadística como gancho de autoridad que baja las defensas críticas, (2) la red de rutas como infografía de cobertura visual auto-verificable, (3) el avión a escala del globo comunicando omnipotencia geográfica.
+
+#### Principio creativo: **"La Estadística Adversaria Apropiada"** *(Adversarial Fact Hijacking)*
+
+Toma un **dato factual que describe una limitación universal** y lo reencuadra como el problema que tu marca resuelve. Setup → Punchline: la estadística plantea el problema, el tagline es la solución.
+
+#### Pregunta axiomática:
+
+> **"¿Existe algún dato estadístico, científico o demográfico que describa una limitación universal —algo que el mundo no tiene o con lo que todos luchan— y que mi producto resuelva exactamente ese gap, de modo que pueda abrir mi comunicación con esa verdad incómoda y posicionarme como la solución obvia?"**
+
+---
+
 ## Metáfora
 
 ### Mezcla de 'enemigo' + víctima:
