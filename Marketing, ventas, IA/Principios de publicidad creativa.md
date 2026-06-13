@@ -899,6 +899,34 @@ El producto cambia leyes físicas para demostrar su beneficio. Ligereza → levi
 
 ---
 
+## Deliveroo — "eFoil Stunt"
+
+### 1. JSON Descriptivo (Prompt para texto-a-imagen)
+
+```json
+{
+  "scene": "Screenshot Instagram: cuenta 'thearchbishopofbanterbury' reposteando tuit de 'Steph ✨': 'How am I on Brighton beach seeing Deliveroo delivering sun cream on an eFoil surfboard 🤯🤯'",
+  "photo": "Rider Deliveroo en chaqueta turquesa y mochila teal, de pie sobre eFoil negro flotando sobre mar gris-verde. Cielo nublado británico.",
+  "style": "Captura de pantalla móvil 9:16, estética UGC, calidad deliberadamente imperfecta"
+}
+```
+
+### 2. Análisis Creativo
+
+#### ¿Por qué es un gran anuncio?
+
+Publicidad que finge no serlo. Tres capas de separación marca-contenido simulan viralidad orgánica. El espectador no ve un anuncio — ve la prueba de que otros ya hablan de esto.
+
+#### Principio creativo: **"Autenticidad Manufacturada"** *(Manufactured Authenticity)*
+
+Stunt físico absurdo + formato UGC = eliminación del rechazo publicitario. La publicidad como acontecimiento cultural.
+
+#### Pregunta axiomática:
+
+> **"¿Qué acción tan absurda o inesperada podría ejecutar mi marca que hiciera que la gente genuinamente quisiera fotografiarla y compartirla — sin que mi marca tenga que pedírselo?"**
+
+---
+
 ## Metáfora
 
 ### Mezcla de 'enemigo' + víctima:
