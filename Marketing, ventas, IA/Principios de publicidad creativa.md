@@ -436,6 +436,77 @@ Toma una característica abstracta del producto (el sabor picante/caluroso) y la
 
 ---
 
+## Colgate — "The Smile Sequence"
+
+### 1. JSON Descriptivo (Prompt para texto-a-imagen)
+
+```json
+{
+  "canvas": {
+    "format": "Publicidad digital vertical (3:4 ratio, ~540x720px aprox)",
+    "background": {
+      "color": "#E8001E (rojo Colgate corporativo)",
+      "texture": "Plano sólido uniforme, mate absoluto"
+    }
+  },
+  "composition_layout": {
+    "structure": "Tres bloques tipográficos en tercios verticales iguales",
+    "alignment": "Centrado horizontal absoluto",
+    "vertical_thirds": [
+      {"zone": "Top third", "content": "Cola"},
+      {"zone": "Middle third", "content": "Coffee"},
+      {"zone": "Bottom third", "content": "Colgate"}
+    ]
+  },
+  "block_1_cola": {
+    "position": {"x": 0.50, "y": 0.20},
+    "text": {"content": "Cola", "font": "Serif italic bold", "color": "#1A0A00", "size": "~52pt"},
+    "smile_curve": {"color": "#1A0A00", "stroke_width": "3-4px", "shape": "Arco abierto hacia arriba"}
+  },
+  "block_2_coffee": {
+    "position": {"x": 0.50, "y": 0.50},
+    "text": {"content": "Coffee", "font": "Sans-serif bold", "color": "#6B3A2A", "size": "~52pt"},
+    "smile_curve": {"color": "#8B4513", "stroke_width": "3-4px", "shape": "Arco idéntico al de Cola"}
+  },
+  "block_3_colgate": {
+    "position": {"x": 0.50, "y": 0.80},
+    "text": {"content": "Colgate®", "font": "Colgate corporate font", "color": "#FFFFFF", "size": "~56pt"},
+    "smile_curve": {"color": "#FFFFFF", "stroke_width": "3-4px", "shape": "Arco idéntico"}
+  },
+  "color_system": {
+    "background": "#E8001E",
+    "cola": "#1A0A00",
+    "coffee": "#6B3A2A / #8B4513",
+    "colgate": "#FFFFFF"
+  },
+  "watermark": {"text": "adprofessor.com", "position": {"x": 0.88, "y": 0.97}, "color": "#999999", "size": "7pt"}
+}
+```
+
+### 2. Análisis Creativo
+
+#### ¿Por qué es un gran anuncio?
+
+Resuelve un problema complejo (mostrar antes/después sin mostrar dientes) usando únicamente **color y tipografía**. Toma la arquitectura gráfica del propio logo de Colgate (texto + curva smile) y la aplica a sus "enemigos naturales" (Cola, Coffee), convirtiendo ese formato compartido en una acusación silenciosa y una promesa simultánea. Negro → Marrón → Blanco: el espectador proyecta esos colores sobre su propio esmalte sin necesidad de fotografía explícita.
+
+#### Principio creativo: **"La Apropiación Estructural del Enemigo"** *(Enemy Structure Hijacking)*
+
+Toma el **formato visual del propio producto** y lo aplica a los **agentes problemáticos** que justifican su existencia, revelando mediante el cambio de un único parámetro (color) la progresión de problema a solución.
+
+**Características operativas:**
+- **Isomorfismo estructural**: Misma forma, distinto color. El cerebro aísla el color como variable significativa.
+- **Compresión narrativa máxima**: Tres actos completos en tres líneas. Cero desperdicio.
+- **Autorreferencia del logo**: La arquitectura gráfica del logo es el vehículo del mensaje desde el principio.
+- **Color como dato científico**: El color no es decorativo; es información (tono de mancha → tono de diente).
+
+#### Pregunta axiomática:
+
+> **"¿Cuál es el elemento visual más reconocible y propio de mi marca (una curva, un icono, una tipografía, una forma)... y cómo puedo aplicar esa misma forma a los 'villanos', 'problemas' o 'estados negativos' que mi producto resuelve, cambiando únicamente el color o textura para mostrar la progresión de problema a solución sin necesitar una sola palabra explicativa?"**
+
+**Variación práctica:** *"Si mi logo tuviera un 'modo sucio', 'modo roto' o 'modo problemático', ¿qué aspecto tendría, y podría poner esa versión degradada junto a la versión original para que el contraste solo contara toda la historia de por qué existo como marca?"*
+
+---
+
 ## Metáfora
 
 ### Mezcla de 'enemigo' + víctima:
