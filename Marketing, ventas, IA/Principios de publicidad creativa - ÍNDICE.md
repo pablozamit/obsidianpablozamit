@@ -29,6 +29,7 @@ Colección de análisis campaña por campaña. Cada entrada incluye: (1) JSON de
 | 19 | [[IKEA - Made to Move]] | **El Problema como Héroe** — Dramatizar el momento de máxima frustración con la alternativa al producto para que el espectador se identifique y la solución aparezca como alivio silencioso. |
 | 20 | [[Heinz - Blurred but Recognized]] | **Activos Distintivos de Marca** — Probar la fortaleza del branding difuminando el logo hasta hacerlo ilegible; si los colores y forma siguen siendo reconocibles, la marca ha construido activos distintivos sólidos. |
 | 21 | [[Euromillions - The Mundane Wealth]] | **La Metáfora de lo Cotidiano** — Comunicar un beneficio extremo a través de un gesto mundano, descendiendo el producto a la rutina para demostrar que la abundancia es tal que lo extraordinario se vuelve doméstico. |
+| 22 | [[IKEA - Float like a butterfly]] | **Metáfora Visual Extrema** — Representar un beneficio abstracto del producto como si cambiara literalmente las leyes físicas, convirtiendo una sensación (ligereza) en una imagen imposible pero creíble. |
 
 ---
 

@@ -869,6 +869,36 @@ Comunica un beneficio extremo a través de un gesto cotidiano y ridículo. No el
 
 ---
 
+## IKEA — "Float like a butterfly"
+
+### 1. JSON Descriptivo (Prompt para texto-a-imagen)
+
+```json
+{
+  "scene": "Dormitorio escandinavo, luz natural, ventanales con visillos. Mujer flotando sobre la cama.",
+  "headline": "Float like a butterfly. (IKEA en amarillo dentro de 'like a')",
+  "subline": "Between you and a better everyday.",
+  "branding": "Logo IKEA esquina inferior derecha",
+  "style": "Fotografía lifestyle, 3:2, luz cálida de mañana"
+}
+```
+
+### 2. Análisis Creativo
+
+#### ¿Por qué es un gran anuncio?
+
+La comodidad de la cama se dramatiza literalmente haciendo que la persona flote como una mariposa. El juego tipográfico integra "IKEA" visualmente dentro del headline sin romper la frase.
+
+#### Principio creativo: **"Metáfora Visual Extrema"**
+
+El producto cambia leyes físicas para demostrar su beneficio. Ligereza → levitación. Sin explicaciones técnicas.
+
+#### Pregunta axiomática:
+
+> **"¿Qué sensación o beneficio clave de mi producto puedo convertir en una metáfora visual tan concreta que parezca que el producto cambia literalmente cómo se comportan las personas?"**
+
+---
+
 ## Metáfora
 
 ### Mezcla de 'enemigo' + víctima:
