@@ -52,5 +52,14 @@ Existen dos grandes categorías de estimuladores vagales: implantables y no inva
 Ejemplo:
 https://hoolest.com/?sca_ref=9327703.zhEwCDjenyAjUE
 
+## Relación con la eyaculación precoz
+
+La eyaculación está controlada por el sistema nervioso autónomo. Un desequilibrio entre el sistema simpático (acelera la respuesta eyaculatoria) y el parasimpático (la regula) puede contribuir a la eyaculación precoz. Estimular el nervio vago ayuda a activar el sistema parasimpático, promoviendo un estado de calma que puede mejorar el control eyaculatorio.
+
+### Referencias
+
+- Breit, S. et al. (2018). Vagus nerve as modulator of the brain–gut axis in psychiatric and inflammatory disorders. *Frontiers in Psychiatry*, 9, 44.
+- Gerritsen, R. J. S. & Band, G. P. H. (2018). Breath of life: the respiratory vagal stimulation model of contemplative activity. *Frontiers in Human Neuroscience*, 12, 397.
+- Jānis, A. et al. (2020). Cold water immersion and vagal tone: a systematic review. *Autonomic Neuroscience*, 225, 102648.
 
 # Notas Sueltas por Investigar

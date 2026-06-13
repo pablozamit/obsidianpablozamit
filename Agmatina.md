@@ -36,6 +36,12 @@ Se ha propuesto el uso de agmatina como un potenciador de la circulación menos 
 - **Dosificación**: 500 - 1000 mg de Sulfato de Agmatina.
 - **Estado**: Uso experimental **sin corroborar** específicamente para este fin agudo.
 
+## Relación con la eyaculación precoz
+
+La depresión y la ansiedad son causas conocidas de la eyaculación precoz. La agmatina, al tener efectos antidepresivos y ansiolíticos rápidos, puede ayudar a reducir el componente psicológico de la EP.
+
+Combinada con emoxipina, melisa y oroxylum (fórmula B4), replica los efectos sociales del alcohol (deshinibición, euforia suave, calma) sin sus riesgos. No combinar con alcohol (daña el revestimiento gastrointestinal).
+
 ## Notas Relacionadas
 - [[Arginina]]
 - [[Óxido nítrico]]

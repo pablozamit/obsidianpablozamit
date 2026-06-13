@@ -44,3 +44,22 @@ Dosis típicas: 3-5 g/día para efectos suaves; 5-10 g/día para mejorar sueño.
 
 > _—Caveat: la glicina en exceso puede tener efectos sedantes y gastrointestinales. Personas con riñón comprometido deben monitorizar._
 
+## Relación con la eyaculación precoz
+
+Como neurotransmisor inhibidor, la glicina contrarresta la excitación excesiva del sistema nervioso. Su efecto anticortisol reduce la respuesta al estrés, y su mejora del flujo sanguíneo puede beneficiar la función sexual. Tomada antes de dormir, mejora el sueño profundo, clave para la recuperación del sistema nervioso.
+
+### Cascada DHT → 3b-diol → GABA
+
+La glicina potencia la **5-alfa-reductasa**, la enzima que convierte testosterona en DHT. La DHT se metaboliza a **3b-diol** (3b-androstanediol), un metabolito que actúa como modulador positivo del receptor GABA-A. La cascada completa:
+
+Glicina → más 5-AR → más DHT → más 3b-diol → activación GABA-A → retraso eyaculatorio
+
+La N-acetiltaurina (presente en [[Magnesio Acetil Taurato]]) tiene mayor afinidad por el receptor de glicina que la glicina misma.
+
+### Relacionado
+
+- [[Eyaculación Precoz]] — nota principal sobre EP
+- [[Ansiedad y EP]] — la glicina aparece como ansiolítico
+- [[GABA]] — principal neurotransmisor inhibidor
+- [[Magnesio Acetil Taurato]] — contiene acetil taurina con mayor afinidad por el receptor de glicina
+

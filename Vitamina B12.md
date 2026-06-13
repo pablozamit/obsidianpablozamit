@@ -41,9 +41,10 @@ La metionina producto se convierte en [[SAMe (S-Adenosil Metionina)|SAMe]], dona
 
 La deficiencia de [[Vitamina B12|vitamina B12]] se ha asociado con mayor prevalencia de [[Eyaculación precoz|eyaculación precoz]]. Mecanismos propuestos:
 
-- **[[Mielina|mielinización]] nerviosa**: la B12 es esencial para la vaina de mielina; su deficiencia puede alterar la conducción nerviosa en el reflejo eyaculatorio.
-- **[[Metilación]]**: la B12 (junto con el folato) es cofactor del ciclo de metilación. La hipometilación altera la síntesis de [[Serotonina|serotonina]], [[Dopamina|dopamina]] y otros neurotransmisores involucrados en el control eyaculatorio.
-- **Producción de energía mitocondrial**: la B12 es cofactor de la [[L-metilmalonil-CoA mutasa]]; su deficiencia produce fatiga celular sistémica que puede manifestarse en función sexual.
+- **Mielinización nerviosa**: la B12 es esencial para la vaina de mielina; su deficiencia puede alterar la conducción nerviosa en el reflejo eyaculatorio.
+- **Metilación deficiente**: la B12 (junto con el folato) es cofactor del ciclo de metilación. La hipometilación altera la síntesis de serotonina, dopamina y otros neurotransmisores involucrados en el control eyaculatorio.
+- **Homocisteína elevada**: la deficiencia de B12 eleva la homocisteína, que es neurotóxica y se asocia con disfunción endotelial y problemas vasculares que pueden afectar la función del tejido eréctil y la sensibilidad nerviosa.
+- **Producción de energía mitocondrial**: la B12 es cofactor de la L-metilmalonil-CoA mutasa; su deficiencia produce fatiga celular sistémica que puede manifestarse en función sexual.
 
 Ver [[Eyaculación precoz#Zinc y B12]] para el abordaje dietético conjunto (hígado, carne roja, leche).
 

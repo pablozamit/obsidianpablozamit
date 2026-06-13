@@ -35,6 +35,16 @@ Alternativa más fisiológica: **alimentar a las bacterias productoras** con [[F
 - **Ghee** (mantequilla clarificada): mayor concentración
 - **Quesos maduros**: el butirato se produce durante la fermentación
 
+# Relación con la eyaculación precoz
+
+El butirato aumenta la síntesis de dopamina y estimula el GDNF, ambos implicados en la regulación de la respuesta eyaculatoria. Además, reduce la inflamación sistémica que puede afectar al sistema nervioso autónomo.
+
+## Fuentes y dosificación para EP
+
+- **Suplemento**: BodyBio (1-2 cápsulas, equivalente a 1.2-2.4g de ácido butírico)
+- **Tributirina**: forma más biodisponible (ej. Gut Armor)
+- **Niacina** (ácido nicotínico): activa el mismo receptor (GPR109a) que el butirato, por lo que puede ser una alternativa más económica
+
 # Ver también
 
 - [[Ácidos grasos de cadena corta]]

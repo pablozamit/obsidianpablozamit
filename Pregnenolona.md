@@ -84,3 +84,28 @@ Pregnenolone undergoes further steroid [metabolism](https://en.wikipedia.org/wi
 -   Pregnenolone can be converted to [17α-hydroxypregnenolone](https://en.wikipedia.org/wiki/17%CE%B1-hydroxypregnenolone "17α-hydroxypregnenolone") by the enzyme 17α-hydroxylase ([CYP17A1](https://en.wikipedia.org/wiki/CYP17A1 "CYP17A1")). Using this pathway, termed Δ5 pathway, the next step is conversion to [dehydroepiandrosterone](https://en.wikipedia.org/wiki/Dehydroepiandrosterone "Dehydroepiandrosterone") ([[DHEA]]) via 17,20-lyase (CYP17A1). [[DHEA]] is the precursor of androstenedione.
 -   Pregnenolone can be converted to [androstadienol](https://en.wikipedia.org/wiki/Androstadienol "Androstadienol") by 16-ene synthase (CYP17A1).
 -   Pregnenolone can be converted to [pregnenolone sulfate](https://en.wikipedia.org/wiki/Pregnenolone_sulfate "Pregnenolone sulfate") by [steroid sulfotransferase](https://en.wikipedia.org/wiki/Steroid_sulfotransferase "Steroid sulfotransferase"), and this conversion can be reversed by [steroid sulfatase](https://en.wikipedia.org/wiki/Steroid_sulfatase "Steroid sulfatase").
+
+## Relación con la eyaculación precoz
+
+El estrés y la ansiedad son causas directas de la eyaculación precoz. La pregnenolona ayuda a regular la respuesta al estrés, lo que puede disminuir la activación simpática y mejorar el control eyaculatorio.
+
+### Protocolo de dosis alta on-demand
+
+Dosis de 200–300 mg de pregnenolona (junto con aspirina y niacinamida) han sido reportadas como efectivas para la EP cuando se toman **on-demand** (30-60 min antes de la relación sexual). El mecanismo principal es la conversión de pregnenolona a **alopregnenolona**, un neuroesteroide que es modulador positivo del receptor GABA-A, optimizando el tono GABAérgico y retrasando el reflejo eyaculatorio.
+
+### Aplicación
+
+- Forma tópica en etanol (ej. StressNon) para absorción transdérmica
+- La calidad del suplemento es crítica — los productos de baja calidad pueden contener contaminantes
+- Se requiere un producto puro de grado USP
+
+### Relacionado
+
+- [[Progesterona y Vitamina E]] — la pregnenolona es precursora de la progesterona
+- [[Eyaculación Precoz]] — nota principal sobre EP
+- [[Ansiedad y EP]] — la ansiedad como causa de EP
+
+### Referencias
+
+- Meieran, S. E. et al. (2004). Pregnenolone and dehydroepiandrosterone as neurosteroids: a review. *Journal of Clinical Psychopharmacology*, 24(4), 373–381.
+- Marx, C. E. et al. (2011). Pregnenolone as a novel therapeutic candidate for anxiety disorders. *Neuropsychopharmacology*, 36(6), 1117–1126.

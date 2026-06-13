@@ -86,3 +86,44 @@ Fuentes alternativas de GABA incluyen putrescina, espermina, espermidina y ornit
 ## Stack potente: Mg Glicinato + L-Teanina
 
 La combinación de [[Magnesio|glicinato de magnesio]] con [[Teanina|L-teanina]] actúa como "combustible de cohete" para la producción de GABA. La teanina reduce la hiperactivación de receptores de glutamato, mientras el magnesio actúa como antagonista NMDA y la [[Glicina|glicina]] cubre la subunidad del receptor de glicina. Especialmente indicado para quienes consumen [[Estimulantes|estimulantes]].
+
+## Relación con la eyaculación precoz
+
+La EP implica una hiperactividad del sistema simpático (excitación). El GABA reduce la excitabilidad general del sistema nervioso, promoviendo la calma y el equilibrio autonómico. Un sistema GABAérgico hipofuncionante puede contribuir a la ansiedad y al reflejo eyaculatorio acelerado.
+
+### Alcohol y EP
+
+El alcohol alivia temporalmente los síntomas de la EP porque es GABAérgico. Sin embargo, sus efectos secundarios (toxicidad hepática, tolerancia, dependencia, resaca) lo hacen insostenible. Existen alternativas sin alcohol que logran el mismo efecto calmante y deshinibidor:
+
+- [[Emoxipina]] (Mexidol) — protege el hígado mientras calma
+- [[Agmatina]] — antidepresivo rápido, combinado en B4
+- [[Melisa]] (Lemon balm) — ansiolítico natural
+- [[Oroxylum]] (Sabroxy) — calma sin sedación
+- [[Magnesio Acetil Taurato]] — triple mecanismo inhibidor
+
+La fórmula **B4** combina agmatina, emoxipina, melisa y oroxylum para replicar los efectos sociales del alcohol sin sus inconvenientes.
+
+### Intestino y GABA
+
+La producción de GABA depende en gran medida de la salud intestinal. Cuando el intestino está inflamado (por dieta, estrés crónico, disbiosis), los precursores de GABA no se producen adecuadamente, dejando al sistema nervioso sin su principal freno inhibidor. La [[Agmatina]] es especialmente útil aquí.
+
+### Vía DHT → 3b-diol
+
+La DHT se convierte en **3b-diol** (3b-androstanediol), un metabolito que actúa como modulador positivo del receptor GABA-A. La cascada completa:
+
+[[Glicina]] → potencia 5-alfa-reductasa → más testosterona → DHT → más **3b-diol** → activación GABA-A → retraso eyaculatorio
+
+### GABA-A vs GABA-B
+
+La mayoría de compuestos GABAérgicos actúan sobre el receptor **GABA-A** (canal iónico de acción rápida). El [[Baclofeno]] actúa sobre **GABA-B** (acoplado a proteína G, acción más lenta y prolongada). GABA-A produce sedación/calma inmediata; GABA-B produce relajación muscular y deshinibición más sostenida.
+
+### Relacionado
+
+- [[Eyaculación Precoz]] — nota principal sobre EP
+- [[Taurina]] — agonista GABAérgico
+- [[Glicina]] — neurotransmisor inhibidor
+- [[Emoxipina]] — modulador GABAérgico sintético
+- [[Oroxylum]] — antagonista GABA-A paradójico
+- [[Magnesio Acetil Taurato]] — triple agonista GABA/glicina/NMDA
+- [[Baclofeno]] — agonista GABA-B
+- [[Ansiedad y EP]] — la ansiedad como causa de EP

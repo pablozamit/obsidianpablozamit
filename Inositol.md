@@ -29,7 +29,20 @@ Un estudio mostró que 18g diarios fueron efectivos. Según comentarios, algunos
 
 Una alta dosis (10-15 gramos diarios) parece ser un buen remedio contra la [[Depresión|depresión]].
 
-## [[Eyaculación precoz]]
+## Eyaculación precoz
+
+El inositol modula la señalización del receptor 5-HT₂ (serotonina), el mismo receptor que antagoniza la [[Ciproheptadina]], pero de forma más fisiológica. Al reducir la ansiedad y normalizar la vía serotoninérgica —clave en el control eyaculatorio— el inositol aborda la EP tanto por el componente ansioso como por el mecanismo serotoninérgico.
+
+### Dosificación
+
+- **Ansiedad/OCD**: 12–18 g/día (dosis altas, repartidas en varias tomas)
+- Bien tolerado, efectos secundarios mínimos
+
+### Relacionado
+
+- [[Ansiedad y EP]] — el inositol aparece listado como ansiolítico sostenible
+- [[Ciproheptadina]] — antagonista 5-HT2, otro modulador de la vía serotoninérgica
+- [[Eyaculación Precoz]] — nota principal sobre EP
 
 ## [[Sueño]]
 Se utiliza en combinación con [[Bicarbonato de sodio]] y [[Teanina]] como un stack potente para la inducción y calidad del sueño.

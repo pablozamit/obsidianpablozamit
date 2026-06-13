@@ -34,6 +34,21 @@ La ALCAR es utilizada tanto por sus propiedades deportivas como terapéuticas.
 
 Es importante destacar que la ALCAR puede tener efectos secundarios como [[Molestias estomacales]], [[Náuseas]], [[Vómitos]], [[Calambres abdominales]], [[Diarrea]] y [[Mal olor corporal]], especialmente con una ingesta excesiva. Se recomienda consultar a un profesional de la salud antes de su uso.
 
+## Relación con la eyaculación precoz
+
+ALCAR aumenta la dopamina y el GDNF, ambos implicados en la regulación del control eyaculatorio. También upregula los receptores de dopamina y los receptores androgénicos, mejora la función mitocondrial y reduce la fatiga, lo que beneficia la resistencia sexual.
+
+### Dosificación
+
+- **Dosis**: 1500 mg/día
+- Tomar por la mañana (puede interferir con el sueño si se toma tarde)
+
+### Relacionado
+
+- [[GDNF]] — ALCAR estimula el GDNF
+- [[Eyaculación Precoz]] — nota principal sobre EP
+- [[Butirato]] — al igual que ALCAR, estimula GDNF
+
 ## Notas Relacionadas
 - [[L-Carnitina]]
 - [[Energía celular]]
