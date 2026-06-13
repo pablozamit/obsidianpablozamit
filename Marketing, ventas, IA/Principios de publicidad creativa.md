@@ -927,6 +927,28 @@ Stunt físico absurdo + formato UGC = eliminación del rechazo publicitario. La 
 
 ---
 
+## Bible App — "Zero Stars"
+
+### 1. JSON Descriptivo (Prompt para texto-a-imagen)
+
+```json
+{
+  "scene": "Metro B/N. Póster vertical en marco metálico: fondo negro, 'Zero stars.' grande, ☆☆☆☆☆ vacías, 'Would not recommend. - Satan', logo Bible App. Sobre el cartel, panel con 'Satan'. Pasajeros parciales en bordes."
+}
+```
+
+### 2. Análisis Creativo
+
+#### Principio creativo: **"El Testimonio del Adversario"** *(Testimony of the Enemy)*
+
+El enemigo natural de la marca da la peor reseña posible, activando la lógica inversa: si Satanás odia la Biblia, debe ser buena. La crítica del adversario como mejor recomendación.
+
+#### Pregunta axiomática:
+
+> **"¿Quién es el enemigo natural de mi producto, y qué crítica negativa emitiría que, para mi audiencia, equivaldría a la mejor recomendación posible?"**
+
+---
+
 ## Metáfora
 
 ### Mezcla de 'enemigo' + víctima:

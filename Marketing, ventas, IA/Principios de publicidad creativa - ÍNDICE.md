@@ -31,6 +31,7 @@ Colección de análisis campaña por campaña. Cada entrada incluye: (1) JSON de
 | 21 | [[Euromillions - The Mundane Wealth]] | **La Metáfora de lo Cotidiano** — Comunicar un beneficio extremo a través de un gesto mundano, descendiendo el producto a la rutina para demostrar que la abundancia es tal que lo extraordinario se vuelve doméstico. |
 | 22 | [[IKEA - Float like a butterfly]] | **Metáfora Visual Extrema** — Representar un beneficio abstracto del producto como si cambiara literalmente las leyes físicas, convirtiendo una sensación (ligereza) en una imagen imposible pero creíble. |
 | 23 | [[Deliveroo - eFoil Stunt]] | **Autenticidad Manufacturada** — Ejecutar un stunt físico tan absurdo que parezca contenido orgánico capturado por un ciudadano, eliminando el rechazo publicitario mediante el formato UGC. |
+| 24 | [[Bible App - Zero Stars]] | **El Testimonio del Adversario** — Convertir la crítica del enemigo natural de la marca en la prueba de valor más convincente, usando lógica inversa: si el adversario lo odia, debe ser bueno. |
 
 ---
 
