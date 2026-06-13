@@ -5,7 +5,14 @@ La eyaculación precoz es un problema sexual masculino que consiste en que se ey
 -   Un criterio psicológico de satisfacción: ¿es suficiente para mí o mi pareja el tiempo de latencia que tengo?
 -   Un criterio objetivo: a veces se establece una horquilla de x segundos o minutos.
 
-Lo verdaderamente interesante de la eyaculación precoz es que no se sabe exactamente cuál es la causa: no sabemos si la causa es mecánica, psicológica, neuroquímica, genética, muscular...
+## Causas y mecanismos
+
+- **Desequilibrio autonómico**: un sistema simpático hiperactivo frente a un parasimpático hipoactivo acelera el reflejo eyaculatorio
+- **Ansiedad**: la ansiedad activa el sistema simpático (lucha-o-huida), lo que reduce el umbral eyaculatorio
+- **Sistema dopaminérgico**: la dopamina regula el control eyaculatorio; un sistema desregulado puede contribuir a la EP
+- **Inflamación prostática (prostatitis)**: la próstata inflamada puede sensibilizar el reflejo eyaculatorio (ver sección abajo)
+- **Deficiencia de B12**: niveles bajos de B12 en semen se asocian con EP, posiblemente por desregulación neurológica y de metilación (ver [[Vitamina B12]])
+- **Ratio DHT:Estradiol bajo**: la DHT se metaboliza a 3b-diol, un activador GABA-A. Un ratio bajo reduce la señal GABAérgica y acelera la eyaculación (ver [[GABA]])
 
 Mi teoría personal es que es un síntoma de enfermedad metabólica:
 
@@ -25,7 +32,9 @@ El control central de la eyaculación depende principalmente de **dopamina** (
 
 Tras 1 mes de tratamiento antibiótico según sensibilidad, **83.9% de los pacientes** experimentaron aumentos en el IELT y mejor control eyaculatorio.​
     
-El seguimiento a 4 meses mostró **ausencia de recurrencia** de eyaculación precoz en pacientes con cultivos prostáticos negativos.
+El seguimiento a 4 meses mostró **ausencia de recurrencia** de eyaculación precoz en pacientes con cultivos prostáticos negativos.
+
+Además del antibiótico, otros abordajes para la EP de origen prostático incluyen **Prostatilen** (extracto prostático), **Doxazosin** (bloqueante alfa-1 que relaja el músculo liso prostático) y **Tadalafil** (PDE5, mejora el flujo y reduce la inflamación pélvica).
 
 ## Posibles Soluciones:
 
@@ -125,13 +134,34 @@ El consumo de [[GABA]] suplementado le dio más control:
 
 "45 minutos después del desayuno, 500 mg".
 
-## Ver también
+## Notas relacionadas
 
-- [[Magnesio]]
-- [[GABA]]
-- [[Phenibut]]
-- [[Inhibidores de la recaptación de la serotonina]]
-- [[Wilhelm Reich]]
-- [[Prostatitis]]
-- [[Zinc]]
-- [[Vitamina B12]]
+- [[Nervio Vago]] — estimulación del sistema parasimpático para equilibrar la respuesta autonómica
+- [[Progesterona y Vitamina E]] — regulación hormonal de la excitación nerviosa
+- [[GDNF]] — reparación del sistema dopaminérgico
+- [[Butirato]] — estimula GDNF y aumenta síntesis de dopamina
+- [[Ansiedad y EP]] — suplementos ansiolíticos y su relación con la EP
+- [[Pregnenolona]] — neuroesteroide que regula la respuesta al estrés
+- [[Vitamina B6 y receptores alfa-2]] — deficiencia de B6 como causa de EP
+- [[Leptina y calcio]] — sensibilidad a leptina y su posible relación con EP
+- [[Antidepresivos y EP]] — ISRS retrasan la eyaculación y relación depresión-EP
+- [[Agmatina]] — antidepresivo de acción rápida sin receta
+- [[Variabilidad de la Frecuencia Cardíaca]] — la HRV como indicador del equilibrio autonómico en la EP
+- [[Glicina]] — neurotransmisor inhibidor, mejora el sueño y reduce cortisol
+- [[ALCAR]] — acetil-L-carnitina, aumenta dopamina y GDNF
+- [[Ciproheptadina]] — antagonista 5-HT2, abre vías de investigación sobre serotonina y EP
+- [[Taurina]] — neurotransmisor calmante GABAérgico
+- [[GABA]] — principal neurotransmisor inhibidor, regula la excitabilidad
+- [[Emoxipina]] — ansiolítico sintético que modula GABA y protege el hígado
+- [[Oroxylum]] — planta ansiolítica paradójica que aumenta BDNF y dopamina
+- [[Magnesio Acetil Taurato]] — magnesio quelado que cruza la BHE con triple mecanismo inhibidor
+- [[Selank]] — péptido ansiolítico potente para casos severos
+- [[Inositol]] — modulador serotoninérgico que reduce ansiedad y pensamientos intrusivos
+- [[Vitamina B12]] — deficiencia de B12 asociada a EP en estudios
+- [[Baclofeno]] — agonista GABA-B para ansiedad social severa
+- [[Zinc]] — eleva testosterona, reduce glutamato, aumenta GABA
+- [[Magnesio]] — mineral relajante, antagonista NMDA
+- [[Phenibut]] — análogo de GABA
+- [[Prostatitis]] — inflamación prostática y su relación con EP
+- [[Wilhelm Reich]] — modelo de armadura muscular pélvica
+- [[Inhibidores de la recaptación de la serotonina]] — fármacos que retrasan la eyaculación
