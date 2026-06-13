@@ -949,6 +949,28 @@ El enemigo natural de la marca da la peor reseña posible, activando la lógica 
 
 ---
 
+## Starbucks — "Reconnect"
+
+### 1. JSON Descriptivo (Prompt para texto-a-imagen)
+
+```json
+{
+  "scene": "Página NYT sobre fondo blanco. Dos anillos de café solapados tipo Venn en centro. En intersección: 'Hi' a bolígrafo. Taza Starbucks blanca abajo izq. RECONNECT en serif como headline."
+}
+```
+
+### 2. Análisis Creativo
+
+#### Principio creativo: **"La Huella como Metáfora"** *(The Stain as Metaphor)*
+
+El residuo físico del producto (mancha de café) se convierte en metáfora del beneficio emocional (conexión humana). Dos anillos = dos personas; intersección = encuentro. Lo que debería borrarse se vuelve el mensaje.
+
+#### Pregunta axiomática:
+
+> **"¿Qué huella o consecuencia física deja mi producto, y cómo puedo convertirla en metáfora visual del beneficio emocional que realmente vendo?"**
+
+---
+
 ## Metáfora
 
 ### Mezcla de 'enemigo' + víctima:

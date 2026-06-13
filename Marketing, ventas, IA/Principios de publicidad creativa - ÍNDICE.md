@@ -32,6 +32,7 @@ Colección de análisis campaña por campaña. Cada entrada incluye: (1) JSON de
 | 22 | [[IKEA - Float like a butterfly]] | **Metáfora Visual Extrema** — Representar un beneficio abstracto del producto como si cambiara literalmente las leyes físicas, convirtiendo una sensación (ligereza) en una imagen imposible pero creíble. |
 | 23 | [[Deliveroo - eFoil Stunt]] | **Autenticidad Manufacturada** — Ejecutar un stunt físico tan absurdo que parezca contenido orgánico capturado por un ciudadano, eliminando el rechazo publicitario mediante el formato UGC. |
 | 24 | [[Bible App - Zero Stars]] | **El Testimonio del Adversario** — Convertir la crítica del enemigo natural de la marca en la prueba de valor más convincente, usando lógica inversa: si el adversario lo odia, debe ser bueno. |
+| 25 | [[Starbucks - Reconnect]] | **La Huella como Metáfora** — Convertir el residuo o efecto secundario del producto en el protagonista visual de la comunicación, transformando un accidente doméstico en metáfora del valor emocional de la marca. |
 
 ---
 
