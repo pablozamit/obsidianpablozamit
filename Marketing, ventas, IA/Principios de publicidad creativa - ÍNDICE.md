@@ -15,6 +15,7 @@ Colección de análisis campaña por campaña. Cada entrada incluye: (1) JSON de
 | 5 | [[Pringles - Hot and Spicy Balloon]] | **Literalización Hiperbólica del Beneficio** — Llevar una característica abstracta del producto a su consecuencia lógica extrema en el mundo físico. |
 | 6 | [[Orion Telescopes - Made in China]] | **El Zoom Revelador Subversivo** — Aplicar amplificación extrema a una imagen icónica para revelar un detalle contradictorio. |
 | 7 | [[EPhone 900 - Snakebite Search]] | **La Utilidad en el Extremo** — Colocar el producto en el escenario más hostil e improbable posible para validar su promesa. |
+| 8 | [[Sony - Microvault]] | **Metáfora Visual de Contención** — Hacer visible y tangible lo abstracto integrándolo en la forma física del producto. |
 
 ---
 
