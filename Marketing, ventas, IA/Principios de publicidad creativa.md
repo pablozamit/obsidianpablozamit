@@ -811,6 +811,35 @@ Dramatiza el momento de máxima frustración con la alternativa al producto. El 
 
 ---
 
+## Heinz — "Blurred but Recognized"
+
+### 1. JSON Descriptivo (Prompt para texto-a-imagen)
+
+```json
+{
+  "scene": "Marquesina de autobús urbana, día nublado, pavimento mojado",
+  "ad_panel": "Fondo rojo Heinz #CC0000 con etiqueta keystone difuminada (gaussian blur extremo, 0% legible)",
+  "text": "NINGUNO — sin tagline, sin URL, sin logo visible excepto la mancha borrosa",
+  "style": "Fotografía callejera fotorrealista, 4:3"
+}
+```
+
+### 2. Análisis Creativo
+
+#### ¿Por qué es un gran anuncio?
+
+Heinz publica un cartel donde su propio logo es ilegible — y aun así todos saben que es Heinz. Solo una mancha roja-verde-dorada con forma de keystone. El blur es una prueba de estrés del branding: cuanto más fuerte es la marca, más desenfoque soporta.
+
+#### Principio creativo: **"Activos Distintivos de Marca"** *(Distinctive Brand Assets)*
+
+Si la marca ha construido códigos visuales únicos (color, forma, composición), puede eliminar todo el texto y seguir siendo reconocible.
+
+#### Pregunta axiomática:
+
+> **"Si difuminara por completo mi logo, mi nombre y mis textos, ¿seguiría la gente reconociendo mi marca solo por la forma, los colores y la composición?"**
+
+---
+
 ## Metáfora
 
 ### Mezcla de 'enemigo' + víctima:
