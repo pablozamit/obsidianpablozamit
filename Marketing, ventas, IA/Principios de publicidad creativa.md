@@ -617,6 +617,49 @@ Toma un **dato factual que describe una limitación universal** y lo reencuadra 
 
 ---
 
+## Freddo — "The Protected Ice Cream"
+
+### 1. JSON Descriptivo (Prompt para texto-a-imagen)
+
+```json
+{
+  "canvas": {
+    "format": "Horizontal 16:9 o 3:2",
+    "scene": "Niño caído en carretera asfaltada, luz natural de tarde soleada",
+    "background": "Fondo desenfocado con vegetación y edificios, carretera vacía"
+  },
+  "subject": {
+    "pose": "Niño ~7-8 años tirado en el suelo en plena caída, piernas al aire",
+    "right_arm": "Sosteniendo helado por encima de su cabeza (prioridad máxima)",
+    "left_arm": "Amortiguando la caída contra el asfalto",
+    "expression": "Preocupación y concentración hacia el helado, no hacia su cuerpo"
+  },
+  "product": {
+    "item": "Helado Freddo de chocolate en cucurucho",
+    "state": "Intacto, sin derramar, salsa de chocolate brillante"
+  },
+  "framing": "Plano medio completo, ángulo 3/4 elevado",
+  "lighting": "Luz natural soleada, sombras duras",
+  "logo": "Ovalado negro 'freddo' en esquina inferior derecha"
+}
+```
+
+### 2. Análisis Creativo
+
+#### ¿Por qué es un gran anuncio?
+
+Funciona a través de **humor físico y exageración emocional**. El niño prioriza salvar su helado por encima de protegerse a sí mismo. Todos reconocemos esa prioridad absurda como verdad universal infantil. El comportamiento del niño *es* la prueba: si algo merece tal sacrificio, debe ser extraordinario.
+
+#### Principio creativo: **"El Objeto de Deseo Protegido"** *(Inverted Value Hierarchy)*
+
+Coloca al personaje en una situación físicamente comprometida pero su prioridad sigue siendo el producto. Demuestra sin palabras lo irresistible que es. Cuanto mayor es el sacrificio para salvar el producto, mayor es su valor percibido.
+
+#### Pregunta axiomática:
+
+> **"¿Qué situación de caos, dolor o incomodidad aceptaría mi cliente sufrir con tal de no perder ni una gota, ni un segundo ni una migaja de mi producto?"**
+
+---
+
 ## Metáfora
 
 ### Mezcla de 'enemigo' + víctima:
