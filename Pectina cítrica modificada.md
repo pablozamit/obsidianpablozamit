@@ -6,7 +6,15 @@ La pectina cítrica modificada (MCP) es un polisacárido derivado de la fibra de
 
 - Alta afinidad por [[Metales pesados]] en el tracto digestivo.
 - Debido a su modificación molecular, puede penetrar más allá del intestino y unirse a metales en circulación.
-- Más de 100 estudios y 30 años de uso clínico.
+- **Anti-fibrótico**: inhibe la galectina-3, proteína clave en la fibrosis cardíaca, hepática y renal
+- **Anti-inflamatorio**
+- **Pro-timo**: mejora la respuesta inmune
+- **Anti-tumor**: potencial contra el cáncer (más de 100 estudios y 30 años de uso clínico)
+- Aumenta la excreción urinaria de metales pesados
+
+> _—@gaezpeat (10 jun 2026)._
+
+Ver también: [[Metales pesados]], [[Clorela]], [[Enterosgel]], [[Zeolita]], [[Carbón activado]], [[Algas]]
 
 ## Uso combinado con alginato sódico
 

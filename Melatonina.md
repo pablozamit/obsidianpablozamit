@@ -14,7 +14,10 @@ Es uno de los mayores [[Antioxidantes|antioxidantes]].
 - Más del **95%** se genera en las **mitocondrias** de nuestras células.
     
 - La melatonina mitocondrial NO depende del reloj circadiano ni se libera al torrente sanguíneo, sino que se utiliza localmente según las necesidades de cada célula, especialmente en respuesta a la radiación infrarroja cercana (NIR).
-- 
+
+### Mecanismo NIR → melatonina mitocondrial
+
+La luz NIR del sol atraviesa la piel hasta músculos, cerebro y huesos. Los fotones NIR interactúan con el [[Complejo IV]] (CCO) mitocondrial, liberando pequeñas dosis de [[Óxido nítrico]] (NO). Ese NO impulsa la producción de melatonina mitocondrial —una melatonina local, no pineal, que se genera y usa dentro de la célula para protegerla. Se estima que el **90% del tiempo** se pasa hoy bajo luces artificiales sin exposición a este espectro (@JotaManifesto, 10 jun 2026).
 # Efectos
 
 1.  Posible [[Estrógeno|antiestrogénico]].

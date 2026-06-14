@@ -71,7 +71,10 @@ Confirmación de los datos con un estudio específico en **hombres y mujeres jap
 ### Marcas y fuentes naturales
 
 - Polvo de **LactoferrinCo** (recomendación de @anomalie_blue).
-- La **leche cruda** también contiene pequeñas cantidades de lactoferrina de forma natural.
+- La **leche cruda** contiene lactoferrina de forma natural.
+- El **calostro** tiene la concentración natural más alta de lactoferrina.
+- **Importante**: la pasteurización destruye la lactoferrina — la leche pasteurizada comercial tiene casi cero (Gunnar @FarvingCo, 8 jun 2026).
+- Los suplementos deben ser **entéricos** (enteric-coated) para sobrevivir el ácido estomacal y llegar al intestino. La mayoría de los suplementos de lactoferrina son un desperdicio de dinero porque el ácido estomacal los destruye antes de que alcancen el intestino (@FarvingCo).
 
 ### Comparativa con [[Aspirina (ácido acetilsalicílico)|aspirina]] para cáncer
 

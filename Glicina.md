@@ -44,6 +44,22 @@ Dosis típicas: 3-5 g/día para efectos suaves; 5-10 g/día para mejorar sueño.
 
 > _—Caveat: la glicina en exceso puede tener efectos sedantes y gastrointestinales. Personas con riñón comprometido deben monitorizar._
 
+## Efecto anti-catabólico y metabólico
+
+La glicina es el contrapeso al patrón de aminoácidos de las carnes musculares (triptófano/metionina/cisteína), que es el mismo perfil del estrés catabólico por [[Cortisol]].
+
+### Efectos documentados (Metabolic Blueprint @metabolic_print, 6 jun 2026):
+
+- **Anti-catabólico**: suprime las enzimas catabólicas atrogin-1 y MuRF1 en el músculo, empujando la célula hacia vías de bajo estrés que promueven crecimiento y fuerza
+- **Aumenta [[Glutatión]]**: el glutatión se sintetiza de glutamato, cisteína y **glicina**. La glicina suele ser el cuello de botella
+- **Control de glucosa**: tomada con una comida con carbohidratos, una dosis única reduce el pico de glucosa >50% sin elevar [[Insulina]] (Gannon 2002). 5 g/día en tres dosis redujo HbA1c en 3 meses en diabéticos tipo 2 (Cruz 2008)
+- **Buffer de metionina**: la carne muscular es alta en metionina; la glicina equilibra para que el hígado pueda eliminar el exceso, funcionando como un mimético de restricción de metionina (que extiende la vida en animales)
+- **Sueño profundo**: antes de dormir, mejora el tiempo de entrada en sueño profundo → menos hormonas de estrés
+
+### Dosis
+
+Una cucharada de ~5 g aumenta los niveles de glicina en sangre ~4x a los 40 minutos, y se elimina en un par de horas. Varias dosis bien espaciadas a lo largo del día proporcionan un goteo continuo.
+
 ## Relación con la eyaculación precoz
 
 Como neurotransmisor inhibidor, la glicina contrarresta la excitación excesiva del sistema nervioso. Su efecto anticortisol reduce la respuesta al estrés, y su mejora del flujo sanguíneo puede beneficiar la función sexual. Tomada antes de dormir, mejora el sueño profundo, clave para la recuperación del sistema nervioso.
