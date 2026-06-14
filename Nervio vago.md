@@ -28,6 +28,21 @@ El masaje en la cara, por ejemplo, activa el nervio vago. Si además usamos un a
 
 En un bol donde puedas meter la cara, añade agua y 15-30 cubitos de hielo. Apenas te levantes, mete la cara en el agua 15-30 segundos. Adicional: puedes pronunciar la consonante 'm' durante todo el proceso. Esto activa el reflejo de inmersión.
 
+Un estudio reciente (PMID: 36357459) confirmó que exponer la cara a una superficie fría:
+
+- **Reduce la frecuencia cardíaca**
+- **Detiene por completo la elevación de [[Cortisol]]**
+
+en respuesta a tareas estresantes. El mecanismo principal es la activación del [[Nervio vago]] (Dalton @Outdoctrination, 10 jun 2026).
+
+> _—Dalton (@Outdoctrination, 10 jun 2026), citando PMID 36357459._
+
+## Masticar (goma de masilla)
+
+Masticar activa el [[Nervio vago]] — el nervio más largo del cuerpo, que va del cerebro al intestino. Controla ácido estomacal, enzimas digestivas y movimiento intestinal. Cuando el vago deja de dispararse, la digestión se ralentiza.
+
+Los médicos recetan **masticar chicle** para reiniciar el intestino después de cirugía. 81 estudios, 9.072 pacientes. La [[Goma de masilla (mastic)|goma de masilla]] de Quíos (Grecia) activa el vago más intensamente que el chicle normal debido a su dureza y resistencia.
+
 ## Relajación Muscular Progresiva
 
 ## Viparita Karani (descanso pélvico apoyado)

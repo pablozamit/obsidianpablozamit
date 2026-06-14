@@ -12,6 +12,18 @@ Sales de litio (orotato, aspartato, citrato) a dosis baja (<5 mg/día de litio e
 
 A dosis baja, el litio **no tiene efecto terapéutico sobre el trastorno bipolar** (concentración plasmática muy por debajo del rango terapéutico 0.6-1.2 mEq/L). Sin embargo, hay evidencia creciente de efectos **neuroprotectores y estabilizadores del ánimo** incluso a dosis nutricionales.
 
+## Similitud con el sodio y mecanismos adicionales
+
+El litio orotato es estructuralmente similar al [[Sodio]] y entra en las células más fácilmente, lo que le permite estabilizar el potencial de membrana e inhibir respuestas al estrés con mayor eficacia que el sodio. Mecanismos adicionales descritos (@gaezpeat, 11 jun 2026):
+
+- **Bloquea adrenalina**: antagoniza la señalización adrenérgica
+- **Reduce serotonina**: el sodio en dosis altas también lo hace
+- **Fija amonio**: quelación de amonio (relevant en encefalopatía hepática y detox)
+- **Estabiliza membranas**: efecto similar al sodio sobre el potencial de membrana
+- **Potencia mitocondrial**: mejora función mitocondrial
+
+> _—@gaezpeat (11 jun 2026), citando similitudes con sodio y efectos sobre adrenalina, serotonina, amonio y mitocondria._
+
 ## Mecanismo neuroprotector propuesto
 
 - **Inhibición de GSK-3β** (glycogen synthase kinase 3): litio es un inhibidor directo, lo que tiene efectos:

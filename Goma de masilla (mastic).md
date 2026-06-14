@@ -24,8 +24,20 @@ La masilla elimina *[[Helicobacter pylori]]*, bacteria vinculada hasta con el 90
 - Restaura el vaciado gástrico
 - Elimina bacterias del mal aliento
 
+## Activación vagal
+
+Masticar goma de masilla activa el [[Nervio vago]] más intensamente que el chicle normal por su dureza y resistencia. La mandíbula humana está diseñada para masticar horas al día; masticar minutos apenas dispara el vago.
+
+Los médicos recetan **masticar chicle** para reiniciar la motilidad intestinal post-cirugía: 81 estudios con 9.072 pacientes lo respaldan (Gunnar @FarvingCo, 9 jun 2026).
+
+Además de activar el vago, la masilla:
+- Mata *[[Helicobacter pylori]]* (causa principal de úlceras gástricas)
+- Reduce la [[Inflamación]] intestinal
+- Fortalece la mandíbula
+- Elimina bacterias del mal aliento
+
 ## Uso y Dosis
 
-Se recomienda 1 g en ayunas. La masilla auténtica procede exclusivamente de la isla de Quíos (Grecia).
+Se recomienda 1 g en ayunas. La masilla auténtica procede exclusivamente de la isla de Quíos (Grecia) — la mayoría de la masilla en Amazon es falsa o está adulterada (Gunnar @FarvingCo, 9 jun 2026).
 
 Ver también: [[Cáncer]], [[Antibiótico]], [[Digestión]]

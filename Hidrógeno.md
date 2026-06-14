@@ -36,5 +36,22 @@ Las unidades de inhalación de hidrógeno utilizadas en ensayos clínicos a menu
 
 El hidrógeno tiene un impacto significativo en el cerebro, y la práctica de la respiración controlada junto con la inhalación de hidrógeno puede mejorar la claridad mental y la capacidad de concentración. Además, se ha observado que la inhalación de hidrógeno mejora la calidad del sueño, ayudando a las personas a conciliar el sueño más rápido y a permanecer dormidas por más tiempo.
 
-Ver también: [[Agua hidrogenada]], [[Agua Kangen]], [[Antioxidantes]], [[Longevidad]]
+## Estudio de telómeros: agua hidrogenada en adultos mayores
+
+Un ensayo aleatorizado controlado de 6 meses en 40 adultos de 70+ años mostró:
+
+- **Agua hidrogenada**: los telómeros **crecieron** (se alargaron)
+- **Agua normal**: los telómeros **se acortaron**
+
+Además, el grupo de hidrógeno mostró mejora en metabolitos cerebrales en la materia gris frontal (memoria y función ejecutiva) y mejora en rendimiento físico.
+
+### Mecanismo: el radical hidroxilo (•OH)
+
+El cuerpo produce varios tipos de radicales libres. La mayoría tienen una función (defensa inmune, señalización celular, curación). Pero el **radical hidroxilo** no tiene ningún beneficio conocido: daña membranas celulares, corrompe ADN y acelera el envejecimiento. El cuerpo no tiene una enzima natural para neutralizarlo.
+
+El [[Hidrógeno]] molecular es la única molécula conocida que lo neutraliza específicamente, sin alterar otros radicales funcionales. Lo hace a través de la vía [[NRF2]]: señaliza al ADN directamente, lleva el estrés oxidativo al nivel óptimo y se detiene — no puede sobredisparar en ninguna dirección.
+
+> _—Jake Gilman (@jakeglmn, 10 jun 2026)._
+
+Ver también: [[Agua hidrogenada]], [[Agua Kangen]], [[Antioxidantes]], [[Longevidad]], [[Telómeros]]
 
