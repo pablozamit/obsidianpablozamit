@@ -1,3 +1,14 @@
+# Cabello
+
+## Metabolismo y ciclo capilar
+
+La velocidad de crecimiento del cabello refleja la tasa metabólica. La fase de crecimiento (anágena) depende de la producción suficiente de [[T3]] (hormona tiroidea activa) y del equilibrio de [[Cortisol]].
+
+- **Metabolismo rápido** → más tiempo en fase anágena → pelo más largo y grueso
+- **Metabolismo lento** (T3 baja, cortisol elevado) → menos tiempo en anágena → mayor caída
+
+Mejorar el metabolismo reduce la caída del cabello. La salud capilar es un reflejo de la salud metabólica (Moosa @questmoosa, 5 jun 2026).
+
 # Cuidados Naturales del Cabello
 
 ## Champú Natural 1

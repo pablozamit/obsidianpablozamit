@@ -100,6 +100,10 @@ _—Estudio polaco sobre PBM y cáncer de piel (fuente pendiente de verificació
 
 Ver también: [[Cáncer]], [[Luz infrarroja]]
 
+## Protocolo facial antienvejecimiento: 670 nm + té verde
+
+Un ensayo clínico mostró reducción del envejecimiento cutáneo en 1 mes: algodones empapados en [[Té verde]] sobre el rostro + luz roja 670 nm, 20 min/día. Ambos actúan sobre colágeno y elastina (Dalton @Outdoctrination, 13 jun 2026).
+
 ## Ver también
 
 - [[Complejo IV]]

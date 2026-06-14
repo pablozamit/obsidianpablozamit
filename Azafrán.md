@@ -5,6 +5,10 @@
 
 Se estima que en unos 24 estudios que comparan el [[Azafrán]] con [[Medicamentos antidepresivos]], el [[Azafrán]] muestra igual o mayor [[Eficacia]], sin [[Efectos secundarios]].
 
+## Anhedonia y motivación
+
+30 mg de azafrán redujeron la anhedonia sustancialmente en pacientes bajo antidepresivos, coincidiendo con aumentos en la neurotransmisión de [[Dopamina]] y la señalización de [[BDNF]] (Dalton @Outdoctrination, 5 jun 2026).
+
 ## Otros Efectos
 
 -   Posible bloqueador del [[Receptor de serotonina]] [[5HT2C]].

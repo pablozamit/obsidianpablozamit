@@ -14,7 +14,7 @@ El jengibre no "aumenta" la testosterona - restaura función. Mejora LH y FSH m�
 
 - **Androgenos**: Mejora funcion androgenica sin elevar testosterona forzosamente
 - **Erecciones**: Activa eNOS, mejora oxido nitrico, funcion endotelial
-- **Tiroides**: Baja TSH en pacientes hipotiroideos
+- **Tiroides**: Baja TSH en pacientes hipotiroideos y aumenta T3 y T4. Mecanismo: reduce TSH (señal de compensación por tiroides hipoactiva) mientras sube las hormonas activas (Moosa @questmoosa, 5 jun 2026)
 - **Nutrientes**: Mejora absorcion de nutrientes
 
 ## Uso Historico

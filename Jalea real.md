@@ -1,3 +1,17 @@
+La jalea real extendió la esperanza de vida de ratones en un **25%** — más que casi cualquier otro compuesto estudiado (Magnus Vigsø @MagnusVigso, 5 jun 2026).
+
+Además de longevidad, soporta:
+- Función inmune
+- [[Colesterol]] y glucosa en sangre
+- Salud cerebral y [[Memoria]]
+- Fertilidad y equilibrio hormonal
+- Reparación de la [[Piel]] y producción de [[Colágeno]]
+- Protección cardíaca y [[Mitocondria|mitocondrial]]
+
+El mismo compuesto que convierte una abeja normal en una abeja reina que vive **20x más**.
+
+> _—Magnus Vigsø (@MagnusVigso, 5 jun 2026)._
+
 Aumenta la testosterona en hombres sanos en un 22% en solo 2 semanas, posicionándola como uno de los mejores suplementos naturales para elevar esta hormona.
 
 Incremento de 57 ng/dL en hombres jóvenes en ese período, comparándolo con efectos similares a péptidos o esteroides.

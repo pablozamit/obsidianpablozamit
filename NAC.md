@@ -140,7 +140,15 @@ Forma esterificada de [[Acetilcisteína|NAC]] con biodisponibilidad muy superior
 - **Inhibición de COX-1**: 200 veces más potente que la [[Aspirina (ácido acetilsalicílico)|aspirina]] (Elijah Krings, 2026)
 - Atraviesa mejor membranas celulares por su forma esterificada
 
-Ver también: [[Acetilcisteína]], [[Aspirina (ácido acetilsalicílico)]], [[Glutatión]]
+## Reversión de daño cerebral por aluminio
+
+Un estudio crítico mostró que el NAC revierte el daño cerebral inducido por aluminio en animales. Ratas expuestas a cloruro de aluminio oral (solo ~0.5% se absorbe) mostraron deterioro severo de la memoria.
+
+En el test de Morris water maze, las ratas con aluminio tardaban significativamente más en encontrar la plataforma (memoria espacial impaired). El NAC **contrarrestó completamente** este deterioro. En el elevated plus maze, el mismo patrón: aluminio → deterioro, NAC → recuperación (Dalton @Outdoctrination, 5 jun 2026).
+
+> _—Dalton (@Outdoctrination, 5 jun 2026)._
+
+Ver también: [[Acetilcisteína]], [[Aspirina (ácido acetilsalicílico)]], [[Glutatión]], [[Aluminio]]
 
 ## Donde Comprar
 - **Tienda recomendada**: [NAC 900 mg - Solutions4Health](https://solutions4health.com/products/nac-900-mg?variant=43818784981209)
