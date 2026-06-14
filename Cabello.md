@@ -118,6 +118,17 @@ Aun así, la vitamina E oral (tocotrienoles mixtos, 100 mg/día) puede ser un co
 
 Tienda recomendada para USA: [skin.food](https://skin.food/)
 
+## Luz verde 530 nm + frío para melanocitos
+
+Para regenerar y repigmentar el cabello, hay que dirigirse a los [[Melanocitos]] cerca de la superficie de la piel:
+
+1. **Frío**: convierte [[T4]] → [[T3]] (hormona tiroidea activa), esencial para el ciclo capilar
+2. **Luz verde 530 nm**: penetra menos que la luz roja, pero apunta directamente a la melanina y los melanocitos
+
+La luz roja típica (660-850 nm) evita los melanocitos al penetrar más profundo. La luz verde es la longitud de onda específica para alcanzarlos (Thomas P Seager @seagertp, 30 may 2026).
+
+> _—Thomas P Seager, PhD (@seagertp), 30 may 2026. [morozkoforge.com/post/beyond-red-light-therapy](https://morozkoforge.com/post/beyond-red-light-therapy)_
+
 # Productos a Analizar
 
 (Sección para productos externos, sin enlaces directos)

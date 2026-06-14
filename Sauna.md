@@ -16,7 +16,8 @@ Práctica de exposición al calor seco (sauna finlandesa tradicional, típicamen
 - **↑BDNF]**: la exposición al calor ↑el factor neurotrófico derivado del cerebro en modelos animales.
 - **Hormona de crecimiento]**: la sauna ↑hGH 2-5x durante y 30-60 min post-sesión (efecto mediado por respuesta al estrés calórico y ↓somatostatina).
 - **Heat shock proteins] (HSPs)**: ↑HSP70 y HSP90 en cerebro → protección neuronal, plegamiento de proteínas, ↓agregación.
-- **Cognición**: estudios observacionales asocian sauna frecuente con ↓riesgo de Demencia y Alzheimer.
+- **Cognición**: el estudio KIHD (Age Ageing, 2016) mostró **65% menos riesgo de Alzheimer** con 4-7 sesiones/semana. La frecuencia, no el calor puntual, activa HSP y [[BDNF]].
+- **Sistema nervioso autónomo**: la sauna repetida no solo activa HSP y BDNF, también reduce la [[Noradrenalina]] nocturna y mejora la [[HRV]] (variabilidad de frecuencia cardíaca) basal. Ese descanso simpático sostenido explica probablemente la mitad del beneficio sobre el cerebro envejecido (Gonzalo Ruiz Utrilla @gonzaloruizutri, 24-27 may 2026).
 
 ## Sauna y [[Desintoxicación hepática|desintoxicación]]
 

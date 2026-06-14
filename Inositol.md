@@ -1,3 +1,7 @@
+## Prediabetes y como sustituto del azúcar
+
+Bryce Hanna (@photobiogenesis, 13 jun 2026) reporta el caso de su madre: diagnosticada con prediabetes y aumento de grasa visceral, comenzó a usar inositol como sustituto del azúcar. Sus marcadores sanguíneos volvieron al rango normal.
+
 También llamado [[Vitamina B|vitamina B8]], aunque estrictamente no es una [[Vitamina|vitamina]] (?).
 
 También influye en la acción de la [[Insulina|insulina]], una [[Hormona|hormona]] esencial para el control del [[Glucosa|azúcar]] en sangre. Además, afecta a los mensajeros químicos en tu [[Cerebro|cerebro]], como la [[Serotonina|serotonina]] y la [[Dopamina|dopamina]].
