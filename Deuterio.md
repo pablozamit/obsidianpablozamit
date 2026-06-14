@@ -42,3 +42,28 @@ Ver también: [[Cáncer]], [[Hipótesis de desacoplamiento metabólico]]
 @helios_brah afirma que el perfil espectral rojo/NIR **es el mismo en invierno y con cielo nublado** porque la dispersión atmosférica en esas horas produce precisamente ese perfil. La irradiancia absoluta cae, pero la **proporción** rojo/NIR sobre el total aumenta al filtrarse el azul.
 
 Ver la nota completa en [[Complejo IV]].
+
+## Deuterio en los alimentos: procesamiento y concentración
+
+El contenido de deuterio varía según el origen y grado de procesamiento del alimento. Datos de Liu Yuting (Luzhou Yu Quan Deuterium Depleted Water Company, China) analizando 86 alimentos en 12 categorías:
+
+- **Alimentos naturales**: 130–150 ppm
+- **Fritos**: ~165 ppm de media
+- **Condimentos (salsa de soja, vinagre)**: hasta 186 ppm
+
+Mecanismo: durante el calentamiento prolongado o la concentración, las moléculas de agua ligeras (H₂O) se evaporan más rápido y el agua con [[Deuterio|deuterio]] (HDO) queda retenida. A más procesamiento, mayor carga de deuterio.
+
+Dos comidas con idénticas calorías y macronutrientes pueden tener cargas de deuterio muy distintas. El modelo CICO no lo contempla; las [[Mitocondria|mitocondrias]] sí.
+
+### Grass-fed vs grain-fed
+
+Revisión de 2021 en *Metabolomics* ("What to feed or what not to feed—that is still the question", Boros et al.):
+
+- **Grass-fed** (estado cetogénico natural): produce agua metabólica deuterio-deplecionada → ~110 ppm en mantequilla/nata
+- **Grain-fed** (maíz, soja, cebada): metabolismo de carbohidratos deuterio-enriquecedor → ~136 ppm
+
+Dr. Laszlo Boros: *"Si comparas nata o mantequilla de vacas grass-fed vs grain-fed, pasas de 110 ppm a 136 ppm. 26 ppm de diferencia. No es broma."*
+
+> _—@the_no_mind (12 jun 2026), citando a Liu Yuting y Boros et al. (2021) en Metabolomics._
+
+Ver también: [[Cáncer]], [[Hipótesis de desacoplamiento metabólico]]
