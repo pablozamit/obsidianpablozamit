@@ -78,6 +78,14 @@ Los **receptores de dopamina D2** (DRD2) son receptores acoplados a proteínas [
 
 > "↑ Dopamina" es la promesa clásica de la suplementación (tirosina, mucuna, rhodiola). Caveat: el sistema dopaminérgico es **adaptativo**: ↑crónico de agonismo → ↓receptores (downregulation) → tolerancia. La mejora aguda vía [[Tirosina] o [[L-DOPA] se desvanece en 1-2 semanas. La búsqueda obsesiva de "más dopamina" puede terminar en apatía (síndrome de déficit motivacional).
 
+### Sobreestimulación digital y downregulation de D2
+
+Los estímulos dopaminérgicos artificiales constantes (redes sociales, notificaciones, pantallas) producen una sobrestimulación crónica que downregula los receptores D2. El resultado: el cerebro deja de derivar placer de estímulos naturales y pierde la motivación para crear o esforzarse (George Ferman, @Helios_Movement, 12 jun 2026).
+
+La [[Luz azul| luz azul artificial]] agrava el problema: se ha demostrado en modelos animales que reduce un **30% las neuronas tirosina hidroxilasa-positivas en la sustancia negra** — exactamente la población neuronal cuya pérdida define el [[Parkinson]].
+
+> _—@Helios_Movement (12 jun 2026). La combinación de downregulation D2 + pérdida de neuronas TH+ convierte la vida hiperestimulada e indoor en un factor de riesgo para déficit motivacional y neurodegeneración._
+
 ## Ver también
 
 - [Receptores de dopamina]
