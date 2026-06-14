@@ -18,9 +18,11 @@
 
 ## Evidencia
 
-- **Tocotrienoles** (fracción minoritaria de la vitamina E): RCT de Beoy et al. (2010) mostró que la suplementación oral con tocotrienol mixto (100 mg/día) durante 8 meses **aumentó显著 el recuento de cabellos** vs placebo en voluntarios con alopecia.
+- **Tocotrienoles**: RCT de Beoy et al. (2010) — 38 voluntarios, 100 mg/día de tocotrienol mixto vs placebo durante 8 meses. Resultado: **34.5% de aumento en recuento de cabellos** (vs 0.1% de disminución en placebo). La cifra supera ampliamente al [[Finasteride]] (~10% en 2 años).
+- **Caveats** (Moosa @questmoosa, 2 jun 2026): estudio en Malasia con alta incidencia de deficiencia de vitamina E; muchos casos de caída parcheada atribuible a deficiencia nutricional. Los resultados pueden no replicarse en poblaciones con niveles adecuados.
 - **Tópico**: el aceite de oliva es rico en alfa-tocoferol y oleato; aplicación tópica mejora la lubricación del tallo, reduce rotura, y aporta Vit E directamente al folículo. Menos evidencia clínica que minoxidil tópico para alopecia androgénica en sí.
 - **Realidad**: la vitamina E **no es un tratamiento primario** para alopecia androgenética. Su efecto es modesto comparado con [[Finasteride]] (↓DHT ~70%) o minoxidil (vasodilatador directo).
+- **Marcas**: Anabology (tocotrienoles mixtos), Deltagold. Almendras (10-15/día) como fuente dietética. Tienda USA: [skin.food](https://skin.food/).
 
 ## Comparativa: Vitamina E vs Finasteride vs Minoxidil
 

@@ -104,6 +104,20 @@ Para obtener los beneficios de todas las sustancias, lo mejor es usar un enfoque
     -   Una vez a la semana, masajea la mezcla oleosa en el cuero cabelludo y déjala actuar durante 1-2 horas antes de lavar el cabello.
     -   Este paso asegura que los compuestos liposolubles penetren en el cuero cabelludo.
 
+## Vitamina E y crecimiento capilar
+
+La [[Vitamina E]] (tocotrienoles mixtos, 100 mg/día) mostró un **34.5% de aumento en el recuento de cabellos** en 8 meses frente a 0.1% de disminución en placebo. A modo de comparación, el [[Finasteride]] (estándar de referencia) aumenta el recuento ~10% en 2 años (Beoy et al., 2010).
+
+**Caveats importantes** (Moosa @questmoosa, 2 jun 2026):
+- El estudio se realizó en Malasia, donde las deficiencias de vitamina E son más comunes
+- Muchos participantes tenían caída "parcheada", posiblemente por deficiencia nutricional
+- Los resultados probablemente no se replican igual en países con niveles adecuados de vitamina E
+- La vitamina E funciona mejor cuando el problema de base es una deficiencia de E
+
+Aun así, la vitamina E oral (tocotrienoles mixtos, 100 mg/día) puede ser un complemento razonable. Marcas: Anabology, Deltagold. El consumo de almendras (10-15/día) aporta vitamina E dietética.
+
+Tienda recomendada para USA: [skin.food](https://skin.food/)
+
 # Productos a Analizar
 
 (Sección para productos externos, sin enlaces directos)

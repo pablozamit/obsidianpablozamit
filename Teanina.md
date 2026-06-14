@@ -3,6 +3,16 @@
 
 >>If you search the forum [ray peat's] you will find more negative reviews than positive.
 
+## Cafeína + L-teanina en TDAH
+
+La cafeína sola empeora los síntomas de [[TDAH]] en niños. Sin embargo, la combinación con L-teanina (2.0 mg/kg cafeína + 2.5 mg/kg L-teanina) produce efectos opuestos:
+
+- Mejora de la cognición general
+- Reducción de la divagación mental (mind-wandering)
+- Aumento de la atención sostenida
+
+Efectos medibles 1-2 horas tras dosis única (@MyProtocols, 4 jun 2026).
+
 ## Stack neuroprotector con Magnesio Glicinato
 
 La combinación de L-teanina con [[Magnesio|glicinato de magnesio]] es esencial para quienes consumen [[Estimulantes|estimulantes]] ([[Café|cafeína]], nicotina, metilfenidato, anfetaminas, [[Modafinilo|modafinilo]], etc.):

@@ -134,6 +134,7 @@ Usar herramientas que funcionen y gusten. Una app es mejor que dos. Para ingenie
 - [[Aniracetam]]
 - [[NAC]]
 - [[Azafrán]]: tan efectivo como el Ritalin en estudios.
+- **[[Cafeína]] + [[Teanina|L-teanina]]**: la cafeína sola empeora síntomas en niños, pero combinada (2.0 mg/kg cafeína + 2.5 mg/kg L-teanina) mejora cognición, reduce mind-wandering y aumenta atención sostenida (@MyProtocols, 4 jun 2026).
 
 ## Ver también
 
