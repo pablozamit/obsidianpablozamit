@@ -131,6 +131,10 @@ Los antihistamínicos de segunda generación son muy selectivos para H1 y apenas
 - Sedación, sequedad bucal, tolerancia con uso continuado.
 - Dosis altas: efecto antidopaminérgico, hiperprolactinemia, supresión de GH.
 
+### Combinación con Progesterona tópica
+
+3 mg de Progest-E ([[Progesterona]] tópica) + 1.5 mg de ciproheptadina produjeron una fuerte señal de sueño en minutos, y al despertar, claridad mental y sensación de reinicio circadiano (Ceph @MoorishPechorin, 14 jun 2026).
+
 ## Ver también
 
 - [[Histaminas]]

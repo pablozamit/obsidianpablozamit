@@ -66,4 +66,49 @@ Dr. Laszlo Boros: *"Si comparas nata o mantequilla de vacas grass-fed vs grain-f
 
 > _—@the_no_mind (12 jun 2026), citando a Liu Yuting y Boros et al. (2021) en Metabolomics._
 
-Ver también: [[Cáncer]], [[Hipótesis de desacoplamiento metabólico]]
+## Agua deuterio-deplecionada (DDW) y salud cerebral
+
+### Correlación poblacional (University of Utah)
+
+Mayor concentración de deuterio en el agua potable se correlaciona con mayores tasas de [[Depresión]] y [[Diabetes tipo 2]] en EE.UU. (no.mind @the_no_mind, 14 jun 2026).
+
+### Estudios en ratones (Tatyana Strekalova)
+
+Tatyana Strekalova — investigadora clínica en Maastricht University, investigadora senior en University of Oxford, profesora en Sechenov First Moscow State Medical University — probó agua a **90 ppm** (el extremo bajo natural, equivalente a agua de deshielo antártico) frente a 140 ppm (agua de grifo costera).
+
+**Hallazgo 1 — Ratones viejos, 2 semanas: conductas depresivas reversibles**
+
+Ratones de 18 meses (equivalente a vejez extrema) mostraron después de 2 semanas en DDW 90 ppm:
+- Anhedonia revertida (mayor preferencia por agua dulce)
+- Conducta de indefensión reducida
+- Exploración de novedad mejorada
+- Memoria hipocampal mejorada
+
+**Hallazgo 2 — DDW igualó efecto antidepresivo en ratones jóvenes estresados**
+
+Modelo de estrés crónico: tres grupos — agua normal 140 ppm, DDW 90 ppm, y citalopram (ISRS). DDW produjo rescate de la preferencia por sacarosa (anhedonia) **comparable al citalopram**. La expresión del transportador de serotonina también se rescató.
+
+**Hallazgo 3 — DDW normalizó el sueño REM en ratones estresados**
+
+La depresión es el único trastorno psiquiátrico diagnosticable por un cambio específico en la arquitectura del sueño: **aumento del sueño REM**. DDW normalizó el REM. También mejoró el sueño de ondas lentas y la vigilia.
+
+**Hallazgo 4 — DDW protegió contra el deterioro cognitivo y la desregulación de glucosa por dieta occidental**
+
+Ratones de 12 meses con dieta occidental (alta grasa saturada, alta azúcar, alto colesterol):
+- DDW 90 ppm previno el deterioro de tolerancia a la glucosa
+- Mejoró la memoria de reconocimiento de objetos y la memoria hipocampal
+- No revirtió la esteatosis hepática
+
+**Hallazgo 5 — Agua enriquecida en deuterio (180 ppm) hizo lo opuesto**
+
+180 ppm (extremo alto natural, equivalente a pozos evaporativos del Sáhara) suprimió la exploración de novedad y la memoria dependiente del hipocampo en ratones viejos con dieta occidental.
+
+### Expresión génica — el deuterio regula el reloj circadiano
+
+DDW alteró la expresión génica en hipocampo y corteza prefrontal: reparación de [[ADN]], respuesta a estrés oxidativo, regulación inmune, función mitocondrial, plasticidad celular, genes de envejecimiento.
+
+Un hallazgo central: **Per2** — gen central del [[Ritmo circadiano|reloj circadiano]]. DDW afectó su expresión. El deuterio no solo afecta a las mitocondrias y las células cancerosas: **se sitúa aguas arriba del sistema circadiano**.
+
+> _—no.mind (@the_no_mind), 14 jun 2026. Resumen de los estudios de Strekalova._
+
+Ver también: [[Cáncer]], [[Hipótesis de desacoplamiento metabólico]], [[Depresión]], [[Sueño]], [[Ritmo circadiano]]

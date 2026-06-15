@@ -1,5 +1,9 @@
 # Magnesio
 
+## Complejos engañosos (óxido como base)
+
+Muchos suplementos de "complejo de magnesio" usan [[Óxido de magnesio]] como componente principal (el más barato y peor absorbido) mientras en la etiqueta promocionan los beneficios de las formas caras (glicinato, treonato). Sam Savson (@SSavson, 14 jun 2026) advierte: si el óxido aparece como primer ingrediente, el resto del complejo es cosmético.
+
 ## Tabla de contenidos
 
 - [Beneficios](#beneficios)
