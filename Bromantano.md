@@ -159,6 +159,14 @@ Ciclo Intermitente: Patrón 5 días on / 2 días off mantiene estimulación cont
 
 Dosificación de Mantenimiento Post-Ciclo: Después de un ciclo inicial de 28 días, algunos usuarios reportan que una dosis cada 3-7 días mantiene los beneficios persistentes sin reiniciar un ciclo completo.[psychonautwiki](https://psychonautwiki.org/wiki/Bromantane)​
 
+### Reporte de usuario: efecto rebote post-ciclo
+
+Mason (@masonsvitality, 15 jun 2026) reporta que tras una semana completamente off de 75 mg/día, se sintió **más dopaminérgico** que durante el ciclo. Los efectos del compuesto eran evidentes incluso una semana después de discontinuar.
+
+- **Administración**: liposomal sublingual con carrier de etanol. También válido: polvo bajo la lengua 2-5 min
+- **Stack**: 75 mg bromantano + 500 mg-1 g [[L-tirosina]]
+- **Observación**: el efecto rebote post-ciclo confirma que bromantano sigue upregulando síntesis de dopamina incluso después de dejar de tomarlo (Regenics @RegenicsHealth, 15 jun 2026)
+
 ### Stack Modafinilo + Bromantano
 
 El bromantano "llena el depósito" (aumenta la síntesis de dopamina), mientras el [[Modafinilo|modafinilo]] "pisa el acelerador" (aumenta la liberación). Cuando el reservorio dopaminérgico está bajo, vaciarlo más rápido con estimulantes tiene un límite; bromantano lo soluciona desde la raíz.
