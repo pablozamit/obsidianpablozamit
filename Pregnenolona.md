@@ -85,6 +85,15 @@ Pregnenolone undergoes further steroid [metabolism](https://en.wikipedia.org/wi
 -   Pregnenolone can be converted to [androstadienol](https://en.wikipedia.org/wiki/Androstadienol "Androstadienol") by 16-ene synthase (CYP17A1).
 -   Pregnenolone can be converted to [pregnenolone sulfate](https://en.wikipedia.org/wiki/Pregnenolone_sulfate "Pregnenolone sulfate") by [steroid sulfotransferase](https://en.wikipedia.org/wiki/Steroid_sulfotransferase "Steroid sulfotransferase"), and this conversion can be reversed by [steroid sulfatase](https://en.wikipedia.org/wiki/Steroid_sulfatase "Steroid sulfatase").
 
+## Efecto sobre testículos y esteroidogénesis testicular
+
+La pregnenolona upregula la proteína **StAR** (steroidogenic acute regulatory protein), que controla el transporte de colesterol al interior de las [[Mitocondria|mitocondrias]] — el paso limitante de la esteroidogénesis. Esto permite mantener la producción de esteroides en los testículos independientemente de las gonadotropinas ([[LH]]/[[FSH]]).
+
+- **Ballmaxxing**: dosis altas (1 g) de pregnenolona han sido reportadas como el compuesto más efectivo para tamaño y función testicular, superando a [[DHT]], enclomifeno y cabergolina (Jamal Dinkoui @BerbarianWizard, 16 jun 2026)
+- **Uso histórico**: usada para infertilidad masculina por sus efectos tróficos sobre las gónadas
+- **Estudios tempranos**: mostraron protección testicular contra la atrofia causada por [[Estrógeno]] o dosis moderadas de [[Testosterona]]
+- La [[Vitamina E]] tópica también reporta aumento del tamaño testicular en 1 semana (@SaturatedFat_, 16 jun 2026)
+
 ## Relación con la eyaculación precoz
 
 El estrés y la ansiedad son causas directas de la eyaculación precoz. La pregnenolona ayuda a regular la respuesta al estrés, lo que puede disminuir la activación simpática y mejorar el control eyaculatorio.
