@@ -54,6 +54,14 @@ Pentapéptido sintético (5 aa) que actúa como agonista selectivo del receptor 
 - **Ipamorelin + [[BPC-157]] + [[TB-500]]**: stack de reparación (BPC + TB-500 reparan, Ipamorelin ↑GH → ↑síntesis).
 - **Cycling**: 12 semanas on, 4 semanas off, para evitar downregulation.
 
+### Protocolo óptimo (peptidepirate)
+
+CJC-1295 + Ipamorelin debe pincharse **en ayunas** — la comida, especialmente carbohidratos, dispara insulina y embota el pulso de GH:
+
+- **Ventana**: 90 minutos en ayunas antes y después del pinchazo
+- **Momento ideal**: antes de dormir, alineado con la liberación natural de GH durante el sueño profundo
+- **Pro tip**: añadir [[BPC-157]] al stack, pinchado AM y PM — BPC-157 actúa sobre reparación tisular local e inflamación mientras CJC+Ipamorelin conducen el pulso sistémico de GH. Las dos rutas de recuperación trabajan en paralelo (@peptidepirate, 15 jun 2026)
+
 ## Comparativa con GHRPs y secretagogos
 
 | Péptido | ↑GH | ↑Hambre | ↑Cortisol | ↑Prolactina | Desensibilización |
