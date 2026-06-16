@@ -43,6 +43,16 @@ Ver también: [[Cáncer]], [[Hipótesis de desacoplamiento metabólico]]
 
 Ver la nota completa en [[Complejo IV]].
 
+## Deuterio en semillas y aceites de semillas
+
+Las plantas almacenan deuterio en sus semillas (Dr. Ammous @AmmousMD, 15 jun 2026). Los [[Ácidos grasos poliinsaturados (PUFAS)|aceites de semilla]] (seed oils) son un concentrado de deuterio — de ahí sus efectos desastrosos para la salud, ya que el deuterio hace que las [[Mitocondria|mitocondrias]] funcionen de forma menos eficiente.
+
+- Granos, [[Café]] y cacao ([[Chocolate]]) son semillas — todos contienen deuterio concentrado
+- No se pueden producir aceites de semilla que no sean altos en deuterio
+- Además del [[Omega 6]] y la peroxidación lipídica, la carga de deuterio es otro mecanismo por el cual los seed oils dañan la función mitocondrial
+
+> _—Dr. Ammous (@AmmousMD), 15 jun 2026_
+
 ## Deuterio en los alimentos: procesamiento y concentración
 
 El contenido de deuterio varía según el origen y grado de procesamiento del alimento. Datos de Liu Yuting (Luzhou Yu Quan Deuterium Depleted Water Company, China) analizando 86 alimentos en 12 categorías:
