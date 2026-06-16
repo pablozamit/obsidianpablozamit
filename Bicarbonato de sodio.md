@@ -1,8 +1,26 @@
 # Bicarbonato de Sodio (NaHCO3)
 
-El bicarbonato de sodio (NaHCO3) puede influir en los niveles de [[Testosterona]], el rendimiento deportivo y la sensibilidad de los [[Andrógenos|receptores de andrógenos]] a través de la vía [[cAMP]] > PKA.
+## Vía androgénica: HCO₃ → sAC → cAMP → PKA
 
-El [[cAMP]] estimula la producción de la enzima PKA (proteína cinasa A), que regula el metabolismo del glucógeno, el [[Azúcar|azúcar]] y las grasas. Existe evidencia que sugiere que niveles altos de PKA pueden aumentar la sensibilidad de los receptores de [[Andrógenos|andrógenos]] y, por tanto, el uso de hormonas androgénicas.
+El bicarbonato activa la **sAC** (soluble adenylyl cyclase), una enzima que convierte ATP en [[cAMP]]. El cAMP activa PKA (proteína cinasa A), que a su vez:
+
+1. **↑ CYP11A1** (P450scc): enzima que convierte colesterol en [[Pregnenolona]] — el paso limitante de toda la esteroidogénesis. Más pregnenolona → más testosterona, DHT, etc.
+2. **Activación del RA independiente de ligando**: PKA fosforila el [[Receptor de andrógenos]] (RA) directamente, permitiendo su translocación nuclear y unión a los Androgen Response Elements (ARE) **sin necesidad de que testosterona o DHT estén unidas al receptor** (Meditation Teacher @embodiedthinkr, 16 jun 2026). Esto significa actividad androgénica efectiva incluso sin andrógenos circulantes.
+
+### Evidencia
+
+El paper de Sadar & Gleave (Cancer Research, 2000) demostró que el butirato activa el RA independientemente de ligando vía PKA en células de cáncer de próstata. El mismo mecanismo aplica al bicarbonato vía sAC → cAMP → PKA.
+
+### Stack sinérgico potencial
+
+- [[Vitamina K2]] también aumenta PKA
+- [[Azúcar]] / carbohidratos (soporte metabólico)
+- Bicarbonato de sodio
+- Vitaminas del grupo B
+- [[Creatina]]
+- Posible efecto: amplificación significativa de [[DHT]] y actividad androgénica general (Meditation Teacher @embodiedthinkr, 16 jun 2026)
+
+> _—Meditation Teacher (@embodiedthinkr), 16 jun 2026. Referencia: Sadar & Gleave, "Ligand-independent Activation of the Androgen Receptor by the Differentiation Agent Butyrate in Human Prostate Cancer Cells", Cancer Res 60: 5825-5831, 2000._
 
 ## Efecto Ergogénico
 
