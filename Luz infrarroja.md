@@ -10,30 +10,6 @@ La radiación infrarroja (IR) es radiación electromagnética con longitudes de 
 
 La longitud de onda de **734 nm** (NIR) ha demostrado capacidad para inducir senescencia en células cancerosas (10%–203%) sin afectar células sanas, modulando la homeostasis [[Mitocondria|mitocondrial]] (aumento de ROS y potencial de membrana).
 
-## Calor/IR como (co)carcinógeno
-
-A diferencia de la [[Luz ultravioleta|UV]], el IR **no es un carcinógeno directo** (no ioniza el ADN ni causa mutaciones directas). Sin embargo, el calor crónico tiene potencial carcinogénico por varias vías:
-
-### Eritema ab igne
-
-La exposición crónica al calor/infrarrojo puede producir **eritema ab igne** (dermatosis reticulada hiperpigmentada). En casos severos y prolongados, puede transformarse en **carcinoma escamoso (SCC)** o carcinoma de células de Merkel (StatPearls, 2025). Ver [[Eritema ab igne]].
-
-### Sinergia con UV
-
-El IR y la luz visible exacerban el daño causado por la UV. Un estudio de la Universidad de Newcastle (2020, FASEB Journal) demostró que la luz solar completa (UV + visible + IR) causa **más daño** en fibroblastos dérmicos que la UV sola. Los autores describen el efecto como: *"la UV da el primer golpe, y el visible/IR rematan"* (Birch-Machin, 2020).
-
-### Mecanismos moleculares
-
-- **AP-1 y MMPs**: el IR activa el factor de transcripción AP-1, que induce MMP-1, MMP-3 y MMP-13 — enzimas que degradan colágeno y matriz extracelular (Horton, Photoderm Photoimmunol Photomed, 2023)
-- **Estrés térmico**: el calor induce **proteínas de shock térmico (HSP)** que pueden inhibir la apoptosis y promover la supervivencia de células dañadas
-- **ROS**: el IR genera especies reactivas de oxígeno mitocondriales que contribuyen al fotoenvejecimiento y la carcinogénesis
-
-### Temperatura cutánea y melanoma
-
-Christophers (Mutation Research, 1998) propuso que la correlación entre melanoma y latitud (más melanoma en países nórdicos cálidos y clases sociales altas) podría explicarse por la **temperatura cutánea** (calefacción, vacaciones en climas cálidos) más que por la exposición UV. Ver [[Melanoma]].
-
-> _—Para una revisión detallada del debate, ver [[Cáncer#Calor, IR y cáncer de piel]]._
-
 ## NIR y tiroiditis de Hashimoto
 
 La fotobiomodulación con luz NIR combinada con suplementos tiroideos muestra resultados notables en pacientes con [[Hipotiroidismo]] autoinmune (Hashimoto) [PMID: 32186976]:
@@ -47,7 +23,7 @@ La fotobiomodulación con luz NIR combinada con suplementos tiroideos muestra re
 
 Las propiedades antiinflamatorias de la luz NIR reducen la [[Inflamación]] tiroidea, mejoran la relación T3/T4 y alivian los síntomas. Master Metabolism lo describe como "el tratamiento más efectivo para el Hashimoto".
 
-Ver también: [[Cáncer]], [[Hipotiroidismo]], [[T3]], [[Luz solar]], [[Eritema ab igne]]
+Ver también: [[Cáncer]], [[Hipotiroidismo]], [[T3]], [[Luz solar]]
 
 ## Fuentes de luz infrarroja
 
