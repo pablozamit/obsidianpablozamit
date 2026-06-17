@@ -121,4 +121,27 @@ Un hallazgo central: **Per2** — gen central del [[Ritmo circadiano|reloj circa
 
 > _—no.mind (@the_no_mind), 14 jun 2026. Resumen de los estudios de Strekalova._
 
+## Marco de László Boros: el deuterio como eje de la enfermedad crónica
+
+Dr. László Boros — médico húngaro, profesor retirado de UCLA, autor de 100+ papers y uno de los principales investigadores mundiales del deuterio — propone que **toda enfermedad crónica comienza cuando el cuerpo pierde el control del deuterio** (no.mind @the_no_mind, 16 jun 2026).
+
+### Las mitocondrias existen para producir agua deuterio-deplecionada, no solo ATP
+
+Según Boros, el ATP se genera "de paso" hacia el objetivo real: el agua metabólica. Los protones caen a través del nanomotor [[ATP sintasa]], generan ATP incidentalmente, y luego se combinan con oxígeno para formar agua deuterio-deplecionada. Esa agua es el verdadero producto final de la [[Mitocondria|fosforilación oxidativa]].
+
+### El deuterio es el único isótopo donde la masa se duplica
+
+Un isótopo es una versión del mismo elemento con distinto número de neutrones, lo que cambia su masa. El deuterio (¹H²) tiene el doble de masa que el protio (¹H¹) — el único isótopo en toda la química donde la masa se duplica, y esa duplicación destruye la maquinaria biológica. Los nanomotores ([[ATP sintasa]], dineína, kinesina) y las enzimas dependientes de hidrógeno no pueden manejar esa diferencia de masa.
+
+### El deuterio pertenece al tejido conectivo, no a los nanomotores
+
+El deuterio no es inherentemente una toxina — es una herramienta estructural que tiene un rol deliberado en el tejido conectivo, no en los nanomotores mitocondriales. El cuerpo separa y distribuye continuamente hidrógeno (protio) y deuterio en compartimentos distintos:
+
+- **H (protio)** → procesos metabólicos rápidos, producción de energía, agua metabólica
+- **D (deuterio)** → tejido conectivo, matriz extracelular, estructuras que requieren rigidez y estabilidad
+
+La pérdida de control de esta segregación (por dieta alta en deuterio, estrés metabólico, disfunción mitocondrial) es lo que permite que el deuterio interfiera con la maquinaria celular que no puede tolerarlo.
+
+> _—no.mind (@the_no_mind), 16 jun 2026. Marco del Dr. László Boros._
+
 Ver también: [[Cáncer]], [[Hipótesis de desacoplamiento metabólico]], [[Depresión]], [[Sueño]], [[Ritmo circadiano]]
