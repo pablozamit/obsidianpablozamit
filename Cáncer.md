@@ -54,6 +54,39 @@ La **metástasis** es responsable de **~90% de las muertes por cáncer**, no el 
 
 **Posición USPSTF (2016+)**: la aspirina NO se recomienda rutinariamente para prevención primaria de cáncer en adultos asintomáticos, por riesgo de sangrado gastrointestinal/hemorragia intracraneal. Casos individuales de alto riesgo requieren evaluación médica.
 
+## Calor, IR y cáncer de piel
+
+La narrativa convencional atribuye todo el cáncer de piel a la [[Luz ultravioleta|radiación UV]]. Sin embargo, existe evidencia de que el **calor (infrarrojo)** también juega un papel — ya sea como carcinógeno directo en exposición crónica o como co-carcinógeno que exacerba el daño UV.
+
+### Eritema ab igne: el calor causa cáncer de piel por sí solo
+
+El [[Eritema ab igne]] es una dermatosis por calor crónico (almohadillas térmicas, estufas, portátiles) que puede progresar a carcinoma escamoso (SCC) — sin intervención de UV. Esto es una demostración directa de que el **calor es carcinogénico para la piel** (StatPearls, 2025).
+
+### Sinergia calor + UV
+
+Un estudio de la Universidad de Newcastle (Birch-Machin, FASEB Journal, 2020) demostró que la luz solar completa (UV + visible + IR) causa más daño en fibroblastos dérmicos que la UV sola. El IR y la luz visible "rematan" el daño iniciado por la UV. La Skin Cancer Foundation (2024) recoge que el calor amplifica el poder cancerígeno de los rayos UV.
+
+### Mecanismos
+
+- **AP-1 y MMPs**: el IR activa AP-1 → MMP-1, MMP-3, MMP-13 → degradación de colágeno y matriz extracelular (Horton, 2023)
+- **Estrés térmico**: las proteínas de shock térmico (HSP) pueden inhibir la apoptosis y favorecer la supervivencia de células dañadas
+- **ROS mitocondrial**: el IR genera especies reactivas de oxígeno en la mitocondria
+- **Temperatura cutánea**: Christophers (1998) propuso que el melanoma se correlaciona con la temperatura (calefacción, viajes), no con la UV
+
+### Vitamina D: el lado protector
+
+La [[Vitamina D]] producida por la UVB solar tiene efectos anticancerígenos documentados: reduce la proliferación celular, induce diferenciación terminal, es antiangiogénica y proapoptótica (Holick, JCTE, 2014). La deficiencia de vitamina D se asocia con mayor riesgo de hasta 15 cánceres. Esto crea una paradoja: la misma luz que puede dañar la piel también la protege del cáncer.
+
+### Implicación práctica
+
+No se trata de temer al sol sino de entender sus componentes por separado:
+- El sol da vitamina D protectora (UVB), óxido nítrico (UVA), anclaje circadiano y β-endorfinas
+- El **calor excesivo** (sobrecalentamiento crónico de la piel) puede ser un factor de riesgo independiente
+- La **sinergia** entre UV y calor sugiere que la protección debe ir más allá del simple SPF
+- El factor principal del melanoma podría no ser la UV solar sino otros: UVA, variantes MC1R, temperatura cutánea, HPV, deficiencia de vitamina D
+
+Ver sección completa en [[Luz infrarroja#Calor/IR como (co)carcinógeno]].
+
 ## Melanoma y la paradoja solar
 
 El **melanoma cutáneo** no encaja en el patrón de los cánceres inducidos por UV. Christophers (Mutation Research, 1998) y Godar et al. (Dermato-Endocrinology, 2017) muestran:
@@ -70,4 +103,6 @@ Los factores candidatos son [[Melanoma#UVA como iniciador|UVA]] (no UVB), varian
 - [[Melanoma]]
 - [[Vitamina D]]
 - [[Luz ultravioleta]]
+- [[Luz infrarroja]]
+- [[Eritema ab igne]]
 - [[Feomelanina]]

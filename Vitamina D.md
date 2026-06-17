@@ -76,3 +76,6 @@ Ver análisis completo en [[Melanoma#Godar et al. (2018) — análisis mundial d
 - [[Melanoma]]
 - [[Anión superóxido]]
 - [[Mitocondria]]
+- [[Cáncer]]
+- [[Eritema ab igne]]
+- [[Luz infrarroja]]

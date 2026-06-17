@@ -111,6 +111,10 @@ Los mismos fotones UVB que sintetizan vitamina D también crean **dímeros de ti
 
 Todo ello dentro de la capacidad diaria de reparación de la piel. Más allá de esa ventana, el protector solar tiene sentido.
 
+### Matiz importante: el calor como factor independiente
+
+El sol no solo emite UV — el **54% de la radiación solar** que llega a tierra es [[Luz infrarroja|infrarrojo (calor)]]. El calor crónico puede ser carcinogénico por sí solo (ver [[Eritema ab igne]]) y en sinergia con la UV exacerba el daño dérmico (Birch-Machin, 2020). Una sobreexposición que sobrecaliente la piel crónicamente añade un factor de riesgo independiente del daño UV directo. Ver [[Cáncer#Calor, IR y cáncer de piel]].
+
 ## Ver también
 
 - [[Vitamina D]]
@@ -130,3 +134,5 @@ Todo ello dentro de la capacidad diaria de reparación de la piel. Más allá de
 - [[Especies reactivas del oxígeno]]
 - [[Anión superóxido]]
 - [[Mitocondria]]
+- [[Cáncer]]
+- [[Eritema ab igne]]

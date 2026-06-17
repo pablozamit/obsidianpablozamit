@@ -39,4 +39,4 @@ El efecto curativo no ocurre con luz constante: solo el **ciclo luz violeta/oscu
 - El tratamiento del **queratocono** con riboflavina (B2) + UV-A es una aplicación clínica que ya usa luz violeta/UV para fortalecer la córnea.
 - La luz violeta a 410 nm también se ha relacionado con la eliminación de bacterias asociadas a [[Enfermedad de Alzheimer|Alzhéimer]] (P. gingivalis) presentes en la cavidad oral.
 
-Ver también: [[Luz solar]], [[Helioterapia]], [[Terapia de luz roja]], [[Ritmo circadiano]]
+Ver también: [[Luz solar]], [[Helioterapia]], [[Terapia de luz roja]], [[Ritmo circadiano]], [[Cáncer]], [[Eritema ab igne]]
