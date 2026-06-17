@@ -13,6 +13,16 @@ Artículos interesantes pendientes de leer:
 - Quinua entre los alimentos con efectos hormonales mensurables (ver [[Quinua]]).
 - La serotonina se considera **anti-metabólica y pro-envejecimiento**;提倡 actively lowering it vía antagonistas ([[Ciproheptadina]], [[Metergolina]]), vitaminas ([[Vitamina A]], [[Vitamina D]]), [[Zinc]] y [[L-Lisina]].
 
+### Protocolo de la zanahoria cruda
+
+Una de las intervenciones más características de Ray Peat es la **[[Zanahoria|zanahoria cruda rallada]]** (raw carrot salad). Su función es triple:
+
+1. **Romper la recirculación enterohepática de [[Estrógeno|estrógenos]]**: la fibra de celulosa/pectina acelera el tránsito intestinal, impidiendo que la beta-glucuronidasa bacteriana reactive los estrógenos conjugados
+2. **Reducir [[Endotoxinas]]**: al no fermentar rápidamente, no alimenta [[SIBO]] y evita la producción de LPS
+3. **Restaurar la conversión [[T4]]→[[T3]]**: al reducir la carga de endotoxinas sobre el hígado, permite que la deiodinasa hepática convierta T4 en T3 eficientemente
+
+Ver la nota completa en [[Zanahoria#Ensalada de zanahoria cruda (protocolo de Ray Peat)]].
+
 ## Sustancias "Peat" (fármacos aprobados por el marco)
 
 - [[Ciproheptadina]] — antagonista 5-HT2A/C + H1, dosis baja (0.5-1 mg) como "reset" del sistema nervioso tras estrés acumulado. Considerada "s tier" en la comunidad. Ver [[Ciproheptadina]].
