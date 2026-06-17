@@ -79,3 +79,28 @@ La vitamina E protege membranas celulares de la peroxidación lipídica, que es 
 Dosis efectivas para reducir marcadores de peroxidación: 200-400 mg/día de mezcla completa de tocoferoles. Evitar el **solo α-tocoferol** a dosis altas, que depleciona el γ-tocoferol y puede empeorar la función pulmonar en algunos estudios.
 
 > _—Caveat: la Vit E es anti-glicante **indirecto** (reduce sustratos carbonílicos por suprimir peroxidación). No inhibe directamente la reacción de Maillard ni la formación de productos de Amadori._
+
+# Efecto sobre prolactina, dopamina y estado de ánimo
+
+## Mecanismo
+
+La vitamina E, como la [[Progesterona]] y la [[Aspirina (ácido acetilsalicílico)|aspirina]], actúa en los sistemas de regulación celular para prevenir el exceso de [[Estrógeno|estrógeno]] y, en consecuencia, la elevación de [[Prolactina]] (MAYA @ArsAlendi, 16 jun 2026). La prolactina alta es antagonista de la [[Dopamina]] — reducirla mejora significativamente el estado de ánimo.
+
+## Reporte anecdótico: dosis alta (~175 mg, primera vez)
+
+Un cliente de MAYA @ArsAlendi describió tras tomar ~175 mg de vitamina E (tocoferoles mixtos) por primera vez (16 jun 2026):
+
+- **Sensación de "lavado"**: *"siento como si me hubieran enjuagado de algo. Como si toda la inflamación se estuviera lavando de mí"*
+- **Euforia**: *"me siento eufórico como no me había sentido en años… solo me sentía así cuando era niño, como después de comerme un helado"*
+- **Percepción musical potenciada**: *"la música se siente diferente… es eufórica. Obtengo más dopamina, pero también siento todos los recuerdos asociados. Como si estuviera en el recuerdo. Tengo 2, 6, 16, 20 años… soy todos esos recuerdos otra vez"*
+- **Energía sin ansiedad**: *"todo se siente más energético. Podría hacer más cosas pero no tengo que arreglar nada frenéticamente. Puedo simplemente estar"*
+- **Mayor sensibilidad a estímulos cotidianos**: *"las mismas cosas que hice y comí ayer se sienten mucho mejor hoy"*
+
+### Dosis y contexto
+
+- **Dosis**: ~175 mg (~60 mg es la media en suplementos)
+- **Tipo**: tocoferoles mixtos (importante, no solo alfa-tocoferol)
+- **Contexto**: el cliente tenía dominancia de [[Estrógeno|estrógeno]] y prolactina elevada, lo que suprimía su dopamina. La caída de prolactina vía vitamina E liberó la señalización dopaminérgica.
+- Algunas personas prefieren la aplicación **tópica** para evitar molestias digestivas
+
+> _—MAYA (@ArsAlendi), 16 jun 2026. Reporte anecdótico, no clínico._
