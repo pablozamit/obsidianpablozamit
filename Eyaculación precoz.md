@@ -11,6 +11,7 @@ La eyaculación precoz es un problema sexual masculino que consiste en que se ey
 - **Ansiedad**: la ansiedad activa el sistema simpático (lucha-o-huida), lo que reduce el umbral eyaculatorio
 - **Sistema dopaminérgico**: la dopamina regula el control eyaculatorio; un sistema desregulado puede contribuir a la EP
 - **Inflamación prostática (prostatitis)**: la próstata inflamada puede sensibilizar el reflejo eyaculatorio (ver sección abajo)
+- **Mala perfusión del tejido eréctil**: @_aestheticprimal_ señala que "la sensibilidad se reduce cuanto más erecto está" — el foco debería estar en mejorar el flujo sanguíneo, no en anestesiar la sensibilidad. Un pene bien perfundido tiene menor densidad de receptores de presión activos por unidad de volumen tisular.
 - **Deficiencia de B12**: niveles bajos de B12 en semen se asocian con EP, posiblemente por desregulación neurológica y de metilación (ver [[Vitamina B12]])
 - **Ratio DHT:Estradiol bajo**: la DHT se metaboliza a 3b-diol, un activador GABA-A. Un ratio bajo reduce la señal GABAérgica y acelera la eyaculación (ver [[GABA]])
 
@@ -34,7 +35,40 @@ Tras 1 mes de tratamiento antibiótico según sensibilidad, **83.9% de los paci
     
 El seguimiento a 4 meses mostró **ausencia de recurrencia** de eyaculación precoz en pacientes con cultivos prostáticos negativos.
 
-Además del antibiótico, otros abordajes para la EP de origen prostático incluyen **Prostatilen** (extracto prostático), **Doxazosin** (bloqueante alfa-1 que relaja el músculo liso prostático) y **Tadalafil** (PDE5, mejora el flujo y reduce la inflamación pélvica).
+Además del antibiótico, otros abordajes para la EP de origen prostático incluyen **Prostatilen** (extracto prostático), **Doxazosin** (bloqueante alfa-1) y **Tadalafil** (PDE5).
+
+### Doxazosin: mecanismo, protocolo y perfil
+
+La **Doxazosina** es un antagonista del receptor **alfa-1 adrenérgico** (bloquea la acción de la noradrenalina en vasos), originalmente aprobado para HBP y/o hipertensión. Se distingue de los inhibidores de PDE5 ([[Tadalafilo]]) en que **no actúa sobre la vía del óxido nítrico** — un perfil más compatible con un enfoque metabólico (Ray Peat, hipotensores NO-sparing).
+
+**Usos reportados en la comunidad (@gaezpeat, jun 2026):**
+- Prolonga la latencia eyaculatoria por relajación del músculo liso prostático y reducción de la estimulación simpática
+- **Vasodilatación significativa** (bloqueo de NE en vasculatura) → mejores erecciones
+- **Nootrópico leve**: flujo cerebral (puede superar al [[Tadalafilo]] en este aspecto según reporte subjetivo del mismo autor, que nota mejor rendimiento laboral que "en cama")
+- Semivida larga: dosis única diaria sostenida
+
+**Protocolo referido (@gaezpeat):**
+- Dosis inicial: **1 mg/día**, incrementar hasta **8 mg/día** si es necesario (para prostatitis/HBP)
+- Dosis óptima subjetiva: **2 mg/día** — a dosis más altas (4-8 mg) reporta menor tolerancia subjetiva
+- Efecto adverso principal: hipotensión (bajar la PA en exceso es el riesgo serio)
+
+**Contraste con Tadalafilo:** la Doxazosina no actúa sobre NO, lo que evita la vasodilatación esplácnica y congestión nasal características de los PDE5, pero comparte la capacidad de mejorar el flujo pélvico. No hay comparativas directas para PE, pero el perfil es favorable para quien busque un efecto no dependiente de NO.
+
+### Microbioma intestinal e inflamación prostática
+
+@_aestheticprimal_ (jun 2026) propone que la inflamación prostática —causa raíz de la EP en muchos casos— tiene su origen en el **microbioma intestinal deteriorado**:
+
+> "Most have inflamed prostates, which causes you to ejaculate faster under less stimulation. Impaired gut-microbiome is the main culprit of prostate inflammation."
+
+La conexión intestino-próstata se explicaría por:
+1. **Translocación bacteriana**: disbiosis intestinal permite el paso de patógenos o sus metabolitos a la circulación portal, alcanzando la próstata vía plexo venoso prostático
+2. **Inflamación sistémica de bajo grado**: la endotoxemia derivada de la disbiosis activa citoquinas proinflamatorias (IL-6, TNF-α) que sensibilizan el reflejo eyaculatorio
+3. **Eje intestino-ejeHPA**: el estrés intestinal crónico desregula el eje HPA, elevando cortisol y tono simpático, ambos asociados a EP
+
+El mismo autor recomienda, además de restaurar el microbioma:
+- **1 g+ de magnesio elemental/día** (ver sección abajo) para equilibrar GABA:Glutamato y relajar el suelo pélvico
+- **Recalibrar el sistema nervioso** (priorizar actividad parasimpática)
+- **Ejercicio, menos sedestación y cloruro de magnesio tópico** directamente en el suelo pélvico como relajante local
 
 ## Posibles Soluciones:
 
@@ -165,3 +199,5 @@ El consumo de [[GABA]] suplementado le dio más control:
 - [[Prostatitis]] — inflamación prostática y su relación con EP
 - [[Wilhelm Reich]] — modelo de armadura muscular pélvica
 - [[Inhibidores de la recaptación de la serotonina]] — fármacos que retrasan la eyaculación
+- [[Tadalafilo]] — PDE5, contraste con Doxazosina
+- [[Prostatitis]] — microbioma intestinal e inflamación prostática
