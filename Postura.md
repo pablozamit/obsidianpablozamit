@@ -27,6 +27,31 @@ Esta cascada puede originarse desde arriba (mala posición de cabeza) o desde ab
 - [[Movilidad]] — ejercicios y principios para mantener rango de movimiento articular.
 - [[Sprints]] — la técnica de carrera requiere consciencia postural: activación de abdomen y glúteos para evitar compensaciones.
 
+## Forma correcta de caminar
+
+La mayoría de la gente camina en **modo tracción delantera**: lanzan el pie hacia adelante y tiran del cuerpo con la pierna delantera. Esto sobrecarga la cadera, inclina el torso hacia adelante, deja los [[Glúteos]] perezosos y acentúa el anterior pelvic tilt (APT).
+
+La forma correcta es **tracción trasera (dominancia psoas-glúteos)**:
+
+- **Anclaje del pie**: el dedo gordo, el dedo meñique y el talón deben estar enraizados al suelo en cada paso (@sameloveinsound, jun 2026)
+- **Empujar, no tirar**: la pierna debe extenderse hacia ATRÁS (impulso desde el glúteo y el psoas), no alcanzar hacia adelante. El paso hacia adelante debe ser mínimo; la extensión hacia atrás, máxima
+- **El abdomen se activa naturalmente** al caminar con dominancia psoas-glúteos
+- **Sin anclaje del pie → psoas contraído unilateralmente sin relajación → la cascada postural se perpetúa**
+
+**Cómo practicarlo:**
+1. De pie, presta atención al pie que lanzas hacia adelante. Camina como si te estuvieras tirando hacia adelante con ese pie (tracción delantera — la forma incorrecta)
+2. Ahora prueba lo mismo pero empujando con el pie de atrás. Nota cómo se activan glúteo y abdomen
+3. El mejor ejercicio para aprenderlo es la **elíptica**: mantén toda la planta del pie apoyada en el pedal sin levantar talones; la mayoría levanta los talones al extender, perdiendo el anclaje
+
+> "No seas de tracción delantera, sé de tracción trasera." —@platinsevdalisi (jun 2026)
+
+**Consecuencias de caminar en tracción delantera:**
+- Glúteos inactivos y abdomen no activado
+- APT (pelvis inclinada hacia adelante) y curvatura lumbar excesiva
+- Sobrecarga de cadera y efecto de frenado en cada paso
+- Inclinación del torso hacia adelante → postura arruinada
+- Con el tiempo, desproporciones corporales por mala biomecánica
+
 ## Ejercicios
 
 ### 1. Corrección de rotación pélvica (contra pared)
