@@ -22,4 +22,4 @@ La inactividad de un solo tendón puede desfigurar la estructura facial al tensa
 - Corregir pie plano, APT y FHP
 - Activar la red fascial
 
-Ver también: [[Mewing]], [[Síndrome cruzado]], [[Movilidad]], [[Tensión muscular]], [[Fascia]]
+Ver también: [[Mewing]], [[Postura]], [[Síndrome cruzado]], [[Movilidad]], [[Tensión muscular]], [[Fascia]]

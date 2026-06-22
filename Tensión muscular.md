@@ -32,4 +32,4 @@ La mayoría de los músculos crónicamente tensos son aquellos a los que se les 
 1. Realizan un papel que no están diseñados para hacer (desequilibrio postural)
 2. No tienen suficiente energía disponible (déficit metabólico)
 
-Ver también: [[ATP]], [[Mitocondria]], [[Calcio]], [[Magnesio]], [[Potasio]], [[T3]], [[CO2]], [[Vitamina B1]], [[Metabolismo oxidativo]], [[Ejercicios de respiración]], [[Fascia]]
+Ver también: [[ATP]], [[Mitocondria]], [[Calcio]], [[Magnesio]], [[Potasio]], [[T3]], [[CO2]], [[Vitamina B1]], [[Metabolismo oxidativo]], [[Ejercicios de respiración]], [[Fascia]], [[Postura]]

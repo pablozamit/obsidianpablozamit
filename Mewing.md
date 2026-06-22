@@ -17,4 +17,4 @@ La cascada postural descrita por el [[Tendón tibial anterior]] muestra que un p
 - Respiración nasal
 - Tragar sin activar mejillas
 
-Ver también: [[Tendón tibial anterior]], [[Síndrome cruzado]], [[Respiración nasal]], [[Paladar]]
+Ver también: [[Tendón tibial anterior]], [[Postura]], [[Síndrome cruzado]], [[Respiración nasal]], [[Paladar]]

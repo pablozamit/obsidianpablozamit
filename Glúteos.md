@@ -1,3 +1,5 @@
+Ver también: [[Postura]], [[Tendón tibial anterior]], [[Ejercicios]]
+
 ## Activación
 
 Un problema común es que, por desbalances musculares o posturales, los glúteos no se activan en su totalidad para ciertos [[Ejercicios|ejercicios]], provocando lesiones, dolores o falta de rendimiento.

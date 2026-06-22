@@ -80,3 +80,4 @@ La práctica de Viparita Karani es una variación moderna apoyada en **bolsters*
 - [[Ansiedad]]
 - [[Suelo pélvico]]
 - [[Cortisol]]
+- [[Postura]] — la postura restaurativa y su papel en la cadena postural
