@@ -80,7 +80,6 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>${title}</title>
-    <meta name="description" content="${title} — Enciclopedia de biohacking, salud y suplementos.">
     <meta name="description" content="${metaDesc || (title + ' — Enciclopedia de biohacking, salud y suplementos.')}">
     <meta name="robots" content="noindex, nofollow">
     <meta property="og:title" content="${title}">
@@ -1488,6 +1487,16 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
             const toggle = document.getElementById('menu-toggle');
             const sidebar = document.getElementById('sidebar');
             if (toggle && sidebar) {
+
+            // Scroll sidebar to show current note
+            (function () {
+                var current = document.querySelector('.sidebar-link.current');
+                if (current) {
+                    try { current.scrollIntoView({ block: 'center', behavior: 'instant' }); } catch (e) {
+                        try { current.scrollIntoView({ block: 'center' }); } catch (e2) {}
+                    }
+                }
+            })();
                 toggle.addEventListener('click', function () {
                     sidebar.classList.toggle('open');
                 });
@@ -1775,7 +1784,7 @@ function generateSearchIndex(notes, backlinksMap) {
         .map(n => ({
             title: n.title,
             slug: n.slug,
-            excerpt: buildExcerpt(n.content),
+            excerpt: buildExcerptLocal(n.content),
             tags: collectTags(n.content),
             incoming: backlinksMap[n.slug] ? backlinksMap[n.slug].size : 0
         }));
@@ -2010,6 +2019,31 @@ function generateConnectionsIndex(notes, backlinksMap) {
     const wikilinkRegex = /\[\[([^\]|#]+)(?:#[^\]|]+)?(?:\|([^\]]+))?\]\]/g;
     const noteMap = {};
     notes.forEach(n => { noteMap[n.slug] = n; });
+    const stripMdLocal = (s) => String(s || '')
+        .replace(/^---[\s\S]*?---/, '')
+        .replace(/!\[\[[^\]|]+(?:\|[^\]]+)?\]\]/g, '')
+        .replace(/\[\[([^\]|#]+)(?:#[^\]|]+)?(?:\|([^\]]+))?\]\]/g, (_, a, al) => al || a)
+        .replace(/```[\s\S]*?```/g, '')
+        .replace(/`[^`]+`/g, '')
+        .replace(/^>.*$/gm, '')
+        .replace(/^#+\s+/gm, '')
+        .replace(/\*\*([^*]+)\*\*/g, '$1')
+        .replace(/__([^_]+)__/g, '$1')
+        .replace(/\*([^*]+)\*/g, '$1')
+        .replace(/_([^_]+)_/g, '$1')
+        .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+        .replace(/<aside[\s\S]*?<\/aside>/g, '')
+        .replace(/[|#]/g, ' ')
+        .replace(/\s+/g, ' ')
+        .trim();
+    const buildExcerptLocal = (s) => {
+        const clean = stripMdLocal(s);
+        if (clean.length <= 320) return clean;
+        const cut = clean.slice(0, 320);
+        const lastSpace = cut.lastIndexOf(' ');
+        return (lastSpace > 160 ? cut.slice(0, lastSpace) : cut) + '\u2026';
+    };
+
     return notes
         .filter(n => n.slug !== 'index.html' && n.slug !== 'buscar.html' && n.slug !== 'categorias.html' && n.slug !== '404.html' && n.slug !== 'itinerarios.html')
         .map(n => {
@@ -2037,7 +2071,7 @@ function generateConnectionsIndex(notes, backlinksMap) {
                 title: n.title,
                 outlinks: Array.from(outlinks.values()).sort((a, b) => b.incoming - a.incoming),
                 incoming: backlinksMap[n.slug] ? backlinksMap[n.slug].size : 0,
-                excerpt: buildExcerpt(n.content)
+                excerpt: buildExcerptLocal(n.content)
             };
         });
 }
