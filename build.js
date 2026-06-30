@@ -2454,7 +2454,7 @@ async function build() {
             const htmlContent = marked.parse(content, { renderer });
             const toc = buildToc(htmlContent);
             const backlinks = backlinksMap[note.slug] ? Array.from(backlinksMap[note.slug]) : [];
-            const finalHtml = htmlTemplate(note.title, htmlContent, notes, backlinks, false, note.slug, toc, false, false, false, getMetaDescription(note.content, note.title));
+            const finalHtml = htmlTemplate(note.title, htmlContent, notes, backlinks, false, note.slug, toc, false, false, false, false, getMetaDescription(note.content, note.title));
 
             await fs.writeFile(path.join(DIST_DIR, note.slug), finalHtml);
         }
