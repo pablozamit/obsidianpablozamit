@@ -966,13 +966,14 @@ function preprocessContent(content) {
             return '\n<aside class="callout callout-' + cls + '"><div class="callout-title">' + escapeHTML(displayTitle) + '</div><div class="callout-content">' + bodyHTML + '</div></aside>\n';
         }
     );
-    // Caveat inline: `> _—Texto:_ resto` → `<em class="inline-caveat">—Texto:</em>`        content = content.replace(
-            /^(>\s*)_(—[^_]+)_/gm,
-            function (m, prefix, word) {
-                return prefix + '<em class="inline-caveat">' + escapeHTML(word) + '</em>';
-            }
-        );
-        return content;
+    // Caveat inline: `> _—Texto:_ resto` → `<em class="inline-caveat">—Texto:</em>`
+    content = content.replace(
+        /^(>\s*)_(—[^_]+)_/gm,
+        function (m, prefix, word) {
+            return prefix + '<em class="inline-caveat">' + escapeHTML(word) + '</em>';
+        }
+    );
+    return content;
 }
 
 // Construye tabla de contenidos desde los H2/H3 con id= del HTML ya renderizado
