@@ -30,12 +30,25 @@ function fold(s) {
     return (s || '').toString().normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
 }
 
-const htmlTemplate = (title, content, allNotes, backlinks, isHome = false) => {
-    const sidebarLinks = allNotes
-        .filter(n => n.slug !== 'index.html')
-        .sort((a, b) => a.title.localeCompare(b.title))
-        .map(n => `<a href="${n.slug}" class="sidebar-link">${n.title}</a>`)
-        .join('');
+const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, currentSlug = '') => {
+    // Agrupa la sidebar por letra inicial y marca el item actual
+    const grouped = {};
+    const fold = (s) => (s || '').toString().normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+    for (const n of allNotes) {
+        if (n.slug === 'index.html') continue;
+        const first = fold(n.title).charAt(0).toUpperCase() || '#';
+        if (!grouped[first]) grouped[first] = [];
+        grouped[first].push(n);
+    }
+    const sortedLetters = Object.keys(grouped).sort();
+    const sidebarLinks = sortedLetters.map(letter => {
+        const links = grouped[letter]
+            .slice()
+            .sort((a, b) => a.title.localeCompare(b.title))
+            .map(n => `<a href="${n.slug}" class="sidebar-link${n.slug === currentSlug ? ' current' : ''}" data-slug="${n.slug}">${n.title}</a>`)
+            .join('');
+        return `<div class="sidebar-letter-group"><div class="sidebar-letter">${letter}</div>${links}</div>`;
+    }).join('');
 
     const backlinkSection = backlinks && backlinks.length > 0
         ? `<section class="backlinks" aria-label="Notas que enlazan aquí">
@@ -195,6 +208,16 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false) => {
         }
 
         #notes-list { font-size: var(--fs-sm); }
+        .sidebar-letter-group { margin-bottom: var(--sp-2); }
+        .sidebar-letter {
+            font-family: var(--font-mono);
+            font-size: var(--fs-xs);
+            color: var(--ink-mute);
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            font-weight: 600;
+            padding: var(--sp-3) 0 var(--sp-1);
+        }
         .sidebar-link {
             display: block;
             padding: var(--sp-1) 0;
@@ -203,6 +226,17 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false) => {
             transition: color 0.15s ease;
         }
         .sidebar-link:hover { color: var(--accent); }
+        .sidebar-link.current {
+            color: var(--accent);
+            font-weight: 600;
+        }
+        .sidebar-link.current::before {
+            content: '→';
+            display: inline-block;
+            width: 1em;
+            margin-right: 4px;
+            color: var(--accent);
+        }
 
         /* === Main content === */
         #main-content {
@@ -593,15 +627,24 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false) => {
             const input = document.getElementById('search-input');
             const list = document.getElementById('notes-list');
             if (!input || !list) return;
+            const groups = list.getElementsByClassName('sidebar-letter-group');
             const links = list.getElementsByClassName('sidebar-link');
             const normalize = (s) => (s || '').toString().normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
-            input.addEventListener('input', function () {
+            function applyFilter() {
                 const f = normalize(input.value);
-                for (let i = 0; i < links.length; i++) {
-                    const t = normalize(links[i].textContent || links[i].innerText);
-                    links[i].style.display = (!f || t.indexOf(f) > -1) ? '' : 'none';
+                for (let g = 0; g < groups.length; g++) {
+                    const groupLinks = groups[g].getElementsByClassName('sidebar-link');
+                    let visible = 0;
+                    for (let i = 0; i < groupLinks.length; i++) {
+                        const t = normalize(groupLinks[i].textContent || groupLinks[i].innerText);
+                        const show = (!f || t.indexOf(f) > -1);
+                        groupLinks[i].style.display = show ? '' : 'none';
+                        if (show) visible++;
+                    }
+                    groups[g].style.display = (!f || visible > 0) ? '' : 'none';
                 }
-            });
+            }
+            input.addEventListener('input', applyFilter);
 
             // Drawer móvil
             const toggle = document.getElementById('menu-toggle');
@@ -616,6 +659,26 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false) => {
                     }
                 });
             }
+
+            // Atajos: '/' enfoca buscador, 'Esc' cierra drawer y limpia buscador
+            document.addEventListener('keydown', function (e) {
+                const tag = (e.target && e.target.tagName) || '';
+                if (e.key === '/' && tag !== 'INPUT' && tag !== 'TEXTAREA') {
+                    e.preventDefault();
+                    input.focus();
+                    input.select();
+                }
+                if (e.key === 'Escape') {
+                    if (sidebar && sidebar.classList.contains('open')) {
+                        sidebar.classList.remove('open');
+                    }
+                    if (document.activeElement === input) {
+                        input.value = '';
+                        applyFilter();
+                        input.blur();
+                    }
+                }
+            });
         })();
     </script>
 </body>
@@ -758,7 +821,7 @@ async function build() {
         for (const note of notes) {
             if (note.slug === 'index.html') {
                 const homeContent = generateHomeContent(notes, backlinksMap);
-                const finalHtml = htmlTemplate('Inicio', homeContent, notes, [], true);
+                const finalHtml = htmlTemplate('Inicio', homeContent, notes, [], true, 'index.html');
                 await fs.writeFile(path.join(DIST_DIR, note.slug), finalHtml);
                 continue;
             }
@@ -793,7 +856,7 @@ async function build() {
 
             const htmlContent = marked.parse(content, { renderer });
             const backlinks = backlinksMap[note.slug] ? Array.from(backlinksMap[note.slug]) : [];
-            const finalHtml = htmlTemplate(note.title, htmlContent, notes, backlinks);
+            const finalHtml = htmlTemplate(note.title, htmlContent, notes, backlinks, false, note.slug);
 
             await fs.writeFile(path.join(DIST_DIR, note.slug), finalHtml);
         }
