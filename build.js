@@ -580,6 +580,80 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
             transform: translateY(-1px);
         }
 
+        /* === Callouts (commit 4) === */
+        .callout {
+            margin: var(--sp-5) 0;
+            padding: var(--sp-4) var(--sp-5);
+            border-left: 4px solid var(--accent);
+            background: var(--bg-muted);
+            border-radius: 0 6px 6px 0;
+        }
+        .callout-title {
+            font-family: var(--font-sans);
+            font-size: var(--fs-xs);
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            font-weight: 700;
+            color: var(--accent);
+            margin-bottom: var(--sp-3);
+        }
+        .callout-content p { margin: 0 0 var(--sp-2); color: var(--ink-soft); }
+        .callout-content p:last-child { margin-bottom: 0; }
+        .callout-content strong { color: var(--ink); }
+
+        .callout-note { border-left-color: var(--ink-mute); background: rgba(107,114,128,0.06); }
+        .callout-note .callout-title { color: var(--ink-mute); }
+
+        .callout-tip, .callout-success { border-left-color: var(--accent); background: var(--accent-soft); }
+        .callout-tip .callout-title, .callout-success .callout-title { color: var(--accent); }
+
+        .callout-warning, .callout-caveat { border-left-color: var(--amber); background: rgba(255,177,0,0.10); }
+        .callout-warning .callout-title, .callout-caveat .callout-title { color: var(--amber); }
+        .callout-caveat { background: rgba(255,177,0,0.06); }
+
+        .callout-danger { border-left-color: var(--alert); background: rgba(230,57,70,0.08); }
+        .callout-danger .callout-title { color: var(--alert); }
+
+        .callout-question { border-left-color: #3D6FE0; background: rgba(61,111,224,0.08); }
+        .callout-question .callout-title { color: #3D6FE0; }
+
+        .callout-quote { border-left-color: var(--ink-soft); background: var(--bg-muted); }
+        .callout-quote .callout-title { color: var(--ink-soft); }
+
+        .callout-example { border-left-color: #7C3AED; background: rgba(124,58,237,0.08); }
+        .callout-example .callout-title { color: #7C3AED; }
+
+        .callout-abstract { border-left-color: #0EA5A4; background: rgba(14,165,164,0.08); }
+        .callout-abstract .callout-title { color: #0EA5A4; }
+
+        .callout-evidence { border-left-color: var(--ink-soft); background: rgba(15,20,25,0.04); }
+        .callout-evidence .callout-title { font-family: var(--font-mono); color: var(--ink); letter-spacing: 0.06em; }
+
+        .callout-definition { border-left-color: var(--ink-mute); background: var(--bg-muted); }
+        .callout-definition .callout-title { color: var(--ink-soft); }
+
+        @media (prefers-color-scheme: dark) {
+            .callout-note { background: rgba(255,255,255,0.04); }
+            .callout-tip, .callout-success { background: rgba(76,199,138,0.10); }
+            .callout-warning { background: rgba(255,201,74,0.10); }
+            .callout-caveat { background: rgba(255,201,74,0.08); }
+            .callout-danger { background: rgba(255,107,122,0.10); }
+            .callout-question { background: rgba(94,143,255,0.10); }
+            .callout-quote { background: rgba(255,255,255,0.03); }
+            .callout-example { background: rgba(170,128,255,0.10); }
+            .callout-abstract { background: rgba(60,212,210,0.10); }
+            .callout-evidence { background: rgba(255,255,255,0.03); }
+            .callout-definition { background: rgba(255,255,255,0.03); }
+        }
+
+        .inline-caveat {
+            font-family: var(--font-serif);
+            font-style: italic;
+            color: var(--amber);
+            font-weight: 600;
+            letter-spacing: -0.01em;
+        }
+
         /* === Móvil: sidebar como drawer === */
         @media (max-width: 800px) {
             body { display: block; }
@@ -759,6 +833,56 @@ function generateHomeContent(notes, backlinksMap) {
     `;
 }
 
+// === Commit 4: callouts estilo Obsidian + caveats inline ===
+const CALLOUT_MAP = {
+    note: 'note', info: 'note',
+    abstract: 'abstract', summary: 'abstract', tldr: 'abstract',
+    tip: 'tip', hint: 'tip',
+    success: 'success', check: 'success', done: 'success',
+    question: 'question', help: 'question', faq: 'question',
+    warning: 'warning', caution: 'warning', attention: 'warning', important: 'warning',
+    failure: 'danger', fail: 'danger', missing: 'danger',
+    danger: 'danger', error: 'danger', bug: 'danger',
+    example: 'example',
+    quote: 'quote', cite: 'quote',
+    evidence: 'evidence', source: 'evidence', reference: 'evidence',
+    definition: 'definition', glossary: 'definition',
+    caveat: 'caveat', disclaimer: 'caveat'
+};
+function escapeHTML(s) {
+    return String(s == null ? '' : s)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;');
+}
+function labelize(t) {
+    return String(t || 'note').replace(/_/g, ' ').replace(/\b\w/g, function (c) { return c.toUpperCase(); });
+}
+function preprocessContent(content) {
+    // Callouts Obsidian: `> [!tipo] título opcional\n> body...`
+    content = content.replace(
+        /^(> \[!([a-z]+)\])(?:[ \t]+([^\n]*))?\n((?:>[^\n]*\n)+)/gm,
+        function (m, _head, type, title, body) {
+            const key = String(type || '').toLowerCase();
+            const cls = CALLOUT_MAP[key] || 'note';
+            const displayTitle = (title && title.trim()) || labelize(key);
+            const bodyLines = body.split('\n').map(function (l) { return l.replace(/^>\s?/, ''); });
+            const bodyMarkdown = bodyLines.join('\n').trim();
+            let bodyHTML;
+            try { bodyHTML = marked.parse(bodyMarkdown); } catch (e) { bodyHTML = '<p>' + escapeHTML(bodyLines.join(' ')) + '</p>'; }
+            return '\n<aside class="callout callout-' + cls + '"><div class="callout-title">' + escapeHTML(displayTitle) + '</div><div class="callout-content">' + bodyHTML + '</div></aside>\n';
+        }
+    );
+    // Caveat inline: `> _—Texto:_ resto` → `<em class="inline-caveat">—Texto:</em>`
+    content = content.replace(
+        /^(>\s*)_(—[^_]+)_/gm,
+        function (m, prefix, word) {
+            return prefix + '<em class="inline-caveat">' + escapeHTML(word) + '</em>';
+        }
+    );
+    return content;
+}
+
 async function build() {
     try {
         await fs.emptyDir(DIST_DIR);
@@ -832,6 +956,9 @@ async function build() {
             if (!content.trim().startsWith('# ')) {
                 content = `# ${note.title}\n\n${content}`;
             }
+
+            // Callouts (`> [!tipo]`) y caveats inline antes de wikilinks/imágenes
+            content = preprocessContent(content);
 
             // Wikilinks de imagen
             content = content.replace(/!\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (match, fileName, alt) => {
