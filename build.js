@@ -35,7 +35,7 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
     const grouped = {};
     const fold = (s) => (s || '').toString().normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
     for (const n of allNotes) {
-        if (n.slug === 'index.html' || n.slug === 'buscar.html' || n.slug === '404.html') continue;
+        if (n.slug === 'index.html' || n.slug === 'buscar.html' || n.slug === '404.html' || n.slug === 'itinerarios.html' || n.slug === 'categorias.html') continue;
         const first = fold(n.title).charAt(0).toUpperCase() || '#';
         if (!grouped[first]) grouped[first] = [];
         grouped[first].push(n);
@@ -59,7 +59,7 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
            </section>`
         : '';
 
-    const likeSection = (!isHome && !isSearch && !is404 && !isItinerarios && currentSlug)
+    const likeSection = (!isHome && !isSearch && !is404 && !isItinerarios && !isCategories && currentSlug)
         ? `<section class="like-section" data-slug="${currentSlug}" aria-label="Votar por esta nota">
             <span class="like-label">¿Te sirvió esta nota?</span>
             <button class="like-btn like-btn-up" data-vote="like" type="button" aria-label="Voto positivo">
@@ -1409,7 +1409,7 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
             .itinerary-step.completed { opacity: 1; }
             .step-title a { color: #000; pointer-events: none; }
             .step-preview { color: #333; }
-            .step-number::before { content: counter(step-counter) '. '; }
+            .step-number { font-weight: 700; color: #000; }
         }
 
         /* === Móvil: sidebar como drawer === */
@@ -2036,12 +2036,13 @@ function generateConnectionsIndex(notes, backlinksMap) {
                 slug: n.slug,
                 title: n.title,
                 outlinks: Array.from(outlinks.values()).sort((a, b) => b.incoming - a.incoming),
-                incoming: backlinksMap[n.slug] ? backlinksMap[n.slug].size : 0
+                incoming: backlinksMap[n.slug] ? backlinksMap[n.slug].size : 0,
+                excerpt: buildExcerpt(n.content)
             };
         });
 }
 
-function generateItinerariosContent(notes) {
+function generateItinerariosContent() {
     return `
         <section class="itinerary-hero">
             <h1>Itinerario de lectura</h1>
@@ -2448,7 +2449,7 @@ async function build() {
         // === Commit 11: conexiones + itinerarios ===
         const connectionsIndex = generateConnectionsIndex(notes, backlinksMap);
         await fs.writeFile(path.join(DIST_DIR, 'connections.json'), JSON.stringify(connectionsIndex));
-        const itinerariosContent = generateItinerariosContent(notes);
+        const itinerariosContent = generateItinerariosContent();
         const itinerariosHtml = htmlTemplate('Itinerario', itinerariosContent, notes, [], false, 'itinerarios.html', '', false, false, false, true);
         await fs.writeFile(path.join(DIST_DIR, 'itinerarios.html'), itinerariosHtml);
 
