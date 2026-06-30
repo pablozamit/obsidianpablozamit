@@ -59,6 +59,21 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
            </section>`
         : '';
 
+    const likeSection = (!isHome && !isSearch && !is404 && currentSlug)
+        ? `<section class="like-section" data-slug="${currentSlug}" aria-label="Votar por esta nota">
+            <span class="like-label">¿Te sirvió esta nota?</span>
+            <button class="like-btn like-btn-up" data-vote="like" type="button" aria-label="Voto positivo">
+                <span class="like-icon">👍</span>
+                <span class="count" id="like-count-up">…</span>
+            </button>
+            <button class="like-btn like-btn-down" data-vote="dislike" type="button" aria-label="Voto negativo">
+                <span class="like-icon">👎</span>
+                <span class="count" id="like-count-down">…</span>
+            </button>
+            <span class="like-error" id="like-error" hidden></span>
+           </section>`
+        : '';
+
     return `<!DOCTYPE html>
 <html lang="es">
 <head>
@@ -1031,6 +1046,72 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
             .error-code { font-size: 72px; }
         }
 
+        /* === Likes (commit 8) === */
+        .like-section {
+            margin-top: var(--sp-6);
+            padding: var(--sp-4) 0;
+            border-top: 1px solid var(--rule);
+            border-bottom: 1px solid var(--rule);
+            display: flex;
+            align-items: center;
+            gap: var(--sp-3);
+            font-size: var(--fs-sm);
+            flex-wrap: wrap;
+        }
+        .like-label {
+            color: var(--ink-mute);
+            font-size: var(--fs-xs);
+            font-family: var(--font-mono);
+            letter-spacing: 0.04em;
+            margin-right: var(--sp-1);
+        }
+        .like-btn {
+            background: var(--bg-muted);
+            border: 1px solid var(--rule);
+            border-radius: 8px;
+            padding: var(--sp-2) var(--sp-4);
+            cursor: pointer;
+            font-family: var(--font-sans);
+            font-size: var(--fs-sm);
+            color: var(--ink-soft);
+            display: inline-flex;
+            align-items: center;
+            gap: var(--sp-2);
+            transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+            user-select: none;
+        }
+        .like-btn:hover {
+            border-color: var(--accent);
+            color: var(--ink);
+        }
+        .like-btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+        .like-btn.voted.like-btn-up {
+            background: var(--accent-soft);
+            border-color: var(--accent);
+            color: var(--accent);
+            opacity: 1;
+        }
+        .like-btn.voted.like-btn-down {
+            background: rgba(230,57,70,0.08);
+            border-color: var(--alert);
+            color: var(--alert);
+            opacity: 1;
+        }
+        .like-btn .like-icon { font-size: 1.1em; line-height: 1; }
+        .like-btn .count {
+            font-weight: 600;
+            font-variant-numeric: tabular-nums;
+        }
+        .like-error {
+            font-size: var(--fs-xs);
+            color: var(--alert);
+            width: 100%;
+            margin-top: var(--sp-2);
+        }
+
         /* === Móvil: sidebar como drawer === */
         @media (max-width: 800px) {
             body { display: block; }
@@ -1072,6 +1153,7 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
                 ${content}
             </article>
         </div>
+        ${likeSection}
         ${backlinkSection}
     </main>
 
@@ -1133,6 +1215,99 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
                     }
                 }
             });
+        })();
+    </script>
+    <script>
+        // === Likes (commit 8) ===
+        (function () {
+            var section = document.querySelector('.like-section[data-slug]');
+            if (!section) return;
+            var slug = section.getAttribute('data-slug');
+            var btnUp = section.querySelector('.like-btn-up');
+            var btnDown = section.querySelector('.like-btn-down');
+            var countUp = document.getElementById('like-count-up');
+            var countDown = document.getElementById('like-count-down');
+            var errorEl = document.getElementById('like-error');
+            function showError(msg) {
+                if (errorEl) { errorEl.textContent = msg; errorEl.hidden = false; }
+            }
+            function clearError() { if (errorEl) { errorEl.hidden = true; errorEl.textContent = ''; } }
+            var voted = false;
+            try {
+                if (sessionStorage.getItem('voted:' + slug)) voted = true;
+            } catch (e) {}
+            function updateUI() {
+                if (btnUp) {
+                    if (voted) { btnUp.classList.add('voted'); btnUp.disabled = true; }
+                    else { btnUp.classList.remove('voted'); btnUp.disabled = false; }
+                }
+                if (btnDown) {
+                    if (voted) { btnDown.classList.add('voted'); btnDown.disabled = true; }
+                    else { btnDown.classList.remove('voted'); btnDown.disabled = false; }
+                }
+            }
+            updateUI();
+            function fetchCounts() {
+                clearError();
+                var url = '/api/likes?slug=' + encodeURIComponent(slug);
+                fetch(url).then(function (r) {
+                    if (!r.ok) return null;
+                    return r.json();
+                }).then(function (d) {
+                    if (!d) return;
+                    if (countUp) countUp.textContent = d.likes || 0;
+                    if (countDown) countDown.textContent = d.dislikes || 0;
+                }).catch(function () {
+                    if (countUp) countUp.textContent = '0';
+                    if (countDown) countDown.textContent = '0';
+                });
+            }
+            fetchCounts();
+            function vote(type) {
+                if (voted) { showError('Ya has votado por esta nota.'); return; }
+                clearError();
+                if (btnUp) btnUp.disabled = true;
+                if (btnDown) btnDown.disabled = true;
+                fetch('/api/likes', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ slug: slug, vote: type })
+                }).then(function (r) {
+                    if (r.status === 409) {
+                        voted = true;
+                        try { sessionStorage.setItem('voted:' + slug, '1'); } catch (e) {}
+                        updateUI();
+                        return r.json().then(function (d) {
+                            if (countUp) countUp.textContent = d.likes || 0;
+                            if (countDown) countDown.textContent = d.dislikes || 0;
+                        });
+                    }
+                    if (r.status === 429) {
+                        return r.json().then(function (d) {
+                            var wait = Math.ceil((d.retryAfter || 10000) / 1000);
+                            showError('Demasiadas peticiones. Espera ' + wait + ' s.');
+                            if (btnUp) btnUp.disabled = false;
+                            if (btnDown) btnDown.disabled = false;
+                            setTimeout(function () { fetchCounts(); }, wait * 1000);
+                        });
+                    }
+                    if (!r.ok) throw new Error('HTTP ' + r.status);
+                    return r.json();
+                }).then(function (d) {
+                    if (!d) return;
+                    voted = true;
+                    try { sessionStorage.setItem('voted:' + slug, '1'); } catch (e) {}
+                    updateUI();
+                    if (countUp) countUp.textContent = d.likes || 0;
+                    if (countDown) countDown.textContent = d.dislikes || 0;
+                }).catch(function () {
+                    showError('Error de conexión. Recarga e inténtalo de nuevo.');
+                    if (btnUp) btnUp.disabled = false;
+                    if (btnDown) btnDown.disabled = false;
+                });
+            }
+            if (btnUp) btnUp.addEventListener('click', function () { vote('like'); });
+            if (btnDown) btnDown.addEventListener('click', function () { vote('dislike'); });
         })();
     </script>
 </body>
