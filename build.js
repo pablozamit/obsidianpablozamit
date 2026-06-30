@@ -1784,7 +1784,7 @@ function generateSearchIndex(notes, backlinksMap) {
         .map(n => ({
             title: n.title,
             slug: n.slug,
-            excerpt: buildExcerptLocal(n.content),
+            excerpt: buildExcerpt(n.content),
             tags: collectTags(n.content),
             incoming: backlinksMap[n.slug] ? backlinksMap[n.slug].size : 0
         }));
