@@ -30,12 +30,12 @@ function fold(s) {
     return (s || '').toString().normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
 }
 
-const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, currentSlug = '', toc = '', isSearch = false) => {
+const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, currentSlug = '', toc = '', isSearch = false, is404 = false) => {
     // Agrupa la sidebar por letra inicial y marca el item actual
     const grouped = {};
     const fold = (s) => (s || '').toString().normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
     for (const n of allNotes) {
-        if (n.slug === 'index.html' || n.slug === 'buscar.html') continue;
+        if (n.slug === 'index.html' || n.slug === 'buscar.html' || n.slug === '404.html') continue;
         const first = fold(n.title).charAt(0).toUpperCase() || '#';
         if (!grouped[first]) grouped[first] = [];
         grouped[first].push(n);
@@ -886,6 +886,151 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
             .search-result:hover { background: rgba(76,199,138,0.06); }
         }
 
+        /* === 404 page (commit 7) === */
+        main.is-404 #main-content { max-width: 800px; padding-left: var(--sp-7); padding-right: var(--sp-7); }
+        main.is-404 article { max-width: none; padding: 0; margin: 0; }
+        .not-found-hero {
+            padding: var(--sp-9) 0 var(--sp-7);
+            border-bottom: 1px solid var(--rule);
+            margin-bottom: var(--sp-7);
+            text-align: center;
+        }
+        .error-code {
+            font-family: var(--font-mono);
+            font-size: 96px;
+            line-height: 1;
+            color: var(--accent-soft);
+            margin-bottom: var(--sp-4);
+            font-weight: 700;
+            letter-spacing: -0.04em;
+        }
+        .not-found-hero h1 {
+            font-size: var(--fs-h2);
+            margin: 0 0 var(--sp-4);
+            line-height: 1.2;
+            border: none;
+            padding: 0;
+            font-weight: 700;
+        }
+        .not-found-hero h1 .muted {
+            color: var(--ink-mute);
+            font-weight: 400;
+        }
+        .missed-path {
+            font-family: var(--font-mono);
+            font-size: var(--fs-sm);
+            color: var(--ink-mute);
+            background: var(--bg-muted);
+            display: inline-block;
+            padding: var(--sp-2) var(--sp-3);
+            border-radius: 6px;
+            margin: 0 auto var(--sp-5);
+        }
+        .missed-path code {
+            font-family: var(--font-mono);
+            color: var(--accent);
+            background: transparent;
+            padding: 0;
+            font-size: 1em;
+        }
+        .not-found-hero .body-text {
+            color: var(--ink-soft);
+            font-size: var(--fs-h5);
+            max-width: 56ch;
+            margin: 0 auto var(--sp-3);
+            line-height: 1.5;
+        }
+        .not-found-hero .contact-line {
+            color: var(--ink-soft);
+            font-size: var(--fs-sm);
+            margin: var(--sp-4) auto 0;
+        }
+        .not-found-hero .contact-line a {
+            color: var(--accent);
+            font-weight: 500;
+        }
+        .suggestions-section {
+            padding: var(--sp-6) 0;
+            border-bottom: 1px solid var(--rule);
+        }
+        .suggestions-list { list-style: none; padding: 0; margin: 0; }
+        .suggestion-item {
+            padding: var(--sp-4) 0;
+            border-bottom: 1px solid var(--rule);
+            animation: search-fade-in 0.2s ease both;
+        }
+        @media (prefers-reduced-motion: reduce) {
+            .suggestion-item { animation: none; }
+        }
+        .suggestion-item:last-child { border-bottom: none; }
+        .suggestion-item > a {
+            text-decoration: none;
+            color: var(--ink);
+            display: flex;
+            align-items: baseline;
+            gap: var(--sp-3);
+            flex-wrap: wrap;
+        }
+        .suggestion-item > a:hover .suggestion-title { color: var(--accent); }
+        .suggestion-distance {
+            font-family: var(--font-mono);
+            font-size: var(--fs-xs);
+            color: var(--ink-mute);
+            background: var(--bg-muted);
+            padding: 2px 8px;
+            border-radius: 4px;
+            letter-spacing: 0.04em;
+            flex-shrink: 0;
+        }
+        .suggestion-distance.match-good { color: var(--accent); background: var(--accent-soft); }
+        .suggestion-distance.match-mid { color: var(--amber); background: rgba(255,177,0,0.10); }
+        .suggestion-distance.match-far { color: var(--ink-mute); }
+        .suggestion-title {
+            font-size: var(--fs-h5);
+            font-weight: 600;
+            color: var(--ink);
+            transition: color 0.15s ease;
+            flex-grow: 1;
+        }
+        .suggestions-empty {
+            padding: var(--sp-7) 0;
+            text-align: center;
+            color: var(--ink-soft);
+            font-size: var(--fs-sm);
+        }
+        .cta-section {
+            padding: var(--sp-7) 0;
+            text-align: center;
+        }
+        .cta-section p {
+            color: var(--ink-soft);
+            margin-bottom: var(--sp-4);
+        }
+        .btn-secondary {
+            display: inline-block;
+            padding: var(--sp-3) var(--sp-5);
+            background: transparent;
+            color: var(--accent);
+            border: 1px solid var(--accent);
+            border-radius: 8px;
+            font-size: var(--fs-base);
+            font-weight: 600;
+            font-family: var(--font-sans);
+            cursor: pointer;
+            text-decoration: none;
+            transition: background 0.15s ease, color 0.15s ease;
+            margin-left: var(--sp-3);
+        }
+        .btn-secondary:hover {
+            background: var(--accent);
+            color: #FFFFFF;
+            text-decoration: none;
+        }
+        @media (max-width: 600px) {
+            .btn-secondary { margin-left: 0; margin-top: var(--sp-3); }
+            .error-code { font-size: 72px; }
+        }
+
         /* === Móvil: sidebar como drawer === */
         @media (max-width: 800px) {
             body { display: block; }
@@ -920,7 +1065,7 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
             </nav>
         </div>
     </aside>
-    <main id="main-content"${isHome ? ' class="is-home"' : (isSearch ? ' class="is-search"' : '')}>
+    <main id="main-content" class="${isHome ? 'is-home' : isSearch ? 'is-search' : is404 ? 'is-404' : ''}">
         <div class="article-wrapper${toc ? ' has-toc' : ''}">
             ${toc}
             <article>
@@ -1288,6 +1433,100 @@ function generateSearchContent(notes, query) {
     `;
 }
 
+// === Commit 7: títulos JSON (cliente) + página /404.html ===
+function generateTitlesIndex(notes) {
+    return notes
+        .filter(n => n.slug !== 'index.html' && n.slug !== 'buscar.html' && n.slug !== '404.html')
+        .map(n => ({ title: n.title, slug: n.slug }));
+}
+
+function generate404Content(notes) {
+    return `
+        <section class="not-found-hero">
+            <div class="error-code">404</div>
+            <h1>Esta nota no existe <span class="muted">(todavía).</span></h1>
+            <p class="missed-path">Pediste: <code id="missed-path">…</code></p>
+            <p class="body-text">Esta enciclopedia está en construcción continua. La base es abierta y se va nutriendo con el tiempo; si crees que esta nota debería existir, propónela y la comunidad la considera.</p>
+            <p class="contact-line">Contacto: <a href="mailto:contacto@biohackerslab.com?subject=Proponer%20nota">contacto@biohackerslab.com</a></p>
+        </section>
+        <section class="suggestions-section">
+            <h2 class="home-section-title">Quizás buscabas una de estas <span class="badge">SUGERENCIAS</span></h2>
+            <ul class="suggestions-list" id="suggestions-list"></ul>
+            <p class="suggestions-empty" id="suggestions-empty" hidden>Sin coincidencias razonables. Prueba el buscador para más opciones.</p>
+        </section>
+        <section class="cta-section">
+            <p>¿O prefieres explorar desde otro ángulo?</p>
+            <a class="btn-primary" href="index.html">← Volver al inicio</a>
+            <a class="btn-secondary" href="buscar.html">Ir al buscador</a>
+        </section>
+        <script>
+        (function () {
+            var FOLD = function (s) { return String(s == null ? '' : s).normalize('NFD').replace(/[\\u0300-\\u036f]/g, '').toLowerCase(); };
+            function escapeHTML(s) { return String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;'); }
+            function levenshtein(a, b) {
+                var m = Math.min(a.length, 16);
+                var n = Math.min(b.length, 16);
+                var aa = a.slice(0, m);
+                var bb = b.slice(0, n);
+                if (aa === bb) return Math.abs(a.length - b.length);
+                if (!aa.length) return n;
+                if (!bb.length) return m;
+                var prev = new Array(n + 1);
+                var curr = new Array(n + 1);
+                for (var j = 0; j <= n; j++) prev[j] = j;
+                for (var i = 1; i <= m; i++) {
+                    curr[0] = i;
+                    var ac = aa.charCodeAt(i - 1);
+                    for (var j = 1; j <= n; j++) {
+                        var cost = ac === bb.charCodeAt(j - 1) ? 0 : 1;
+                        var del = curr[j - 1] + 1;
+                        var ins = prev[j] + 1;
+                        var sub = prev[j - 1] + cost;
+                        curr[j] = del < ins ? (del < sub ? del : sub) : (ins < sub ? ins : sub);
+                    }
+                    for (var j2 = 0; j2 <= n; j2++) prev[j2] = curr[j2];
+                }
+                return prev[n];
+            }
+            var missedEl = document.getElementById('missed-path');
+            var listEl = document.getElementById('suggestions-list');
+            var emptyEl = document.getElementById('suggestions-empty');
+            var path = (window.location.pathname || '/');
+            var stem = path.split('/').filter(Boolean).pop() || path;
+            stem = String(stem).replace(/\\.html?$/i, '').replace(/[-_\\.]+/g, ' ').trim();
+            if (missedEl) missedEl.textContent = path;
+            var folded = FOLD(stem);
+            fetch('titles.json').then(function (r) { return r.json(); }).then(function (data) {
+                if (!Array.isArray(data) || !data.length || !folded) { if (emptyEl) emptyEl.hidden = false; return; }
+                var scored = data.map(function (d) {
+                    var ftitle = FOLD(d.title);
+                    var d1 = levenshtein(folded, ftitle);
+                    var prefix = ftitle.indexOf(folded) === 0 || folded.indexOf(ftitle) === 0;
+                    var contains = ftitle.indexOf(folded) > -1 || folded.indexOf(ftitle) > -1;
+                    var score = d1 + (prefix ? -2 : 0) + (contains && !prefix ? -1 : 0);
+                    return { title: d.title, slug: d.slug, score: score, dist: d1, contains: contains, prefix: prefix };
+                }).sort(function (a, b) {
+                    if (a.score !== b.score) return a.score - b.score;
+                    return a.title.length - b.title.length;
+                }).slice(0, 10);
+                if (!scored.length || (scored[0].dist > 8 && !scored[0].contains)) {
+                    if (emptyEl) emptyEl.hidden = false;
+                    return;
+                }
+                var html = scored.map(function (s) {
+                    var cls = s.score <= 1 ? 'match-good' : s.score <= 4 ? 'match-mid' : 'match-far';
+                    var distLabel = s.prefix ? '≈ perfecto' : s.contains ? '~ contiene' : '+/-' + s.dist;
+                    return '<li class="suggestion-item"><a href="' + s.slug + '"><span class="suggestion-distance ' + cls + '">' + escapeHTML(distLabel) + '</span><span class="suggestion-title">' + escapeHTML(s.title) + '</span></a></li>';
+                }).join('');
+                listEl.innerHTML = html;
+            }).catch(function () {
+                if (emptyEl) emptyEl.hidden = false;
+            });
+        })();
+        </script>
+    `;
+}
+
 // Construye tabla de contenidos desde los H2/H3 con id= del HTML ya renderizado
 function buildToc(htmlContent) {
     const headings = [];
@@ -1368,6 +1607,7 @@ async function build() {
 
         for (const note of notes) {
             if (note.slug === 'buscar.html') continue; // escrita al final con generateSearchContent
+            if (note.slug === '404.html') continue;     // escrita al final con generate404Content
             if (note.slug === 'index.html') {
                 const homeContent = generateHomeContent(notes, backlinksMap);
                 const finalHtml = htmlTemplate('Inicio', homeContent, notes, [], true, 'index.html');
@@ -1421,7 +1661,14 @@ async function build() {
         const searchHtml = htmlTemplate('Buscar', searchContent, notes, [], false, 'buscar.html', '', true);
         await fs.writeFile(path.join(DIST_DIR, 'buscar.html'), searchHtml);
 
-        console.log(`Build complete. ${notes.length} notes processed (${searchIndex.length} indexadas para búsqueda).`);
+        // === Commit 7: titles index + 404 page ===
+        const titlesIndex = generateTitlesIndex(notes);
+        await fs.writeFile(path.join(DIST_DIR, 'titles.json'), JSON.stringify(titlesIndex));
+        const notFoundContent = generate404Content(notes);
+        const notFoundHtml = htmlTemplate('404 — Nota no encontrada', notFoundContent, notes, [], false, '404.html', '', false, true);
+        await fs.writeFile(path.join(DIST_DIR, '404.html'), notFoundHtml);
+
+        console.log(`Build complete. ${notes.length} notes processed (${searchIndex.length} indexadas, ${titlesIndex.length} títulos para 404).`);
         console.log(`Static site generated in dist/`);
     } catch (err) {
         console.error('Error during build:', err);
