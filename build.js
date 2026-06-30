@@ -30,7 +30,7 @@ function fold(s) {
     return (s || '').toString().normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
 }
 
-const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, currentSlug = '') => {
+const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, currentSlug = '', toc = '') => {
     // Agrupa la sidebar por letra inicial y marca el item actual
     const grouped = {};
     const fold = (s) => (s || '').toString().normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
@@ -144,6 +144,10 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
         html {
             font-size: var(--fs-base);
             -webkit-text-size-adjust: 100%;
+            scroll-behavior: smooth;
+        }
+        @media (prefers-reduced-motion: reduce) {
+            html { scroll-behavior: auto; }
         }
         body {
             max-width: 100%;
@@ -284,18 +288,90 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
         strong { color: var(--ink); font-weight: 600; }
         em { color: var(--ink-soft); }
 
-        /* === Blockquote (genérico — los callouts llegan en commit 4) === */
+        /* === Layout de lectura + ToC (commit 5) === */
+        .article-wrapper { display: block; }
+        .article-wrapper.has-toc {
+            display: grid;
+            grid-template-columns: 220px 1fr;
+            gap: var(--sp-7);
+            max-width: 1080px;
+            margin: 0 auto;
+        }
+        .article-wrapper.has-toc > article {
+            max-width: 68ch;
+            margin: 0;
+        }
+        @media (max-width: 1100px) {
+            .article-wrapper.has-toc { grid-template-columns: 1fr; }
+        }
+
+        .toc {
+            position: sticky;
+            top: var(--sp-7);
+            align-self: start;
+            max-height: calc(100vh - var(--sp-7) * 2);
+            overflow-y: auto;
+            padding: var(--sp-3) var(--sp-4) var(--sp-3) 0;
+            border-right: 1px solid var(--rule);
+        }
+        @media (max-width: 1100px) {
+            .toc {
+                position: static;
+                max-height: none;
+                padding: var(--sp-4);
+                border: 1px solid var(--rule);
+                border-radius: 6px;
+                margin-bottom: var(--sp-5);
+            }
+        }
+        .toc-title {
+            font-family: var(--font-mono);
+            font-size: var(--fs-xs);
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: var(--ink-mute);
+            margin: 0 0 var(--sp-3);
+            font-weight: 700;
+            padding: 0;
+            border: none;
+        }
+        .toc-list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            font-size: var(--fs-sm);
+        }
+        .toc-item { padding: 0; }
+        .toc-h3 { padding-left: var(--sp-4); }
+        .toc a {
+            color: var(--ink-soft);
+            text-decoration: none;
+            display: block;
+            padding: var(--sp-1) 0;
+            line-height: 1.4;
+        }
+        .toc a:hover { color: var(--accent); }
+
+        /* === Blockquote (no-callout - tipografía cuidada) === */
         blockquote {
             margin: var(--sp-5) 0;
-            padding: var(--sp-3) var(--sp-5);
+            padding: var(--sp-4) var(--sp-6);
             border-left: 3px solid var(--accent);
             background: var(--bg-muted);
             color: var(--ink-soft);
-            border-radius: 0 6px 6px 0;
+            border-radius: 0 8px 8px 0;
+            font-family: var(--font-serif);
+            font-style: italic;
+            font-size: 1.04em;
+            line-height: 1.55;
         }
-        blockquote p { color: var(--ink-soft); margin: 0; }
+        blockquote p {
+            color: var(--ink-soft);
+            margin: 0 0 var(--sp-2);
+        }
+        blockquote p:last-child { margin-bottom: 0; }
 
-        /* === Code === */
+        /* === Code: inline + bloques con tema === */
         code {
             font-family: var(--font-mono);
             font-size: 0.92em;
@@ -306,13 +382,14 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
         }
         pre {
             background: var(--code-bg);
-            padding: var(--sp-4);
-            border-radius: 6px;
+            padding: var(--sp-5) var(--sp-4);
+            border-radius: 8px;
             overflow-x: auto;
             font-family: var(--font-mono);
             font-size: var(--fs-sm);
-            line-height: 1.55;
-            margin: var(--sp-4) 0;
+            line-height: 1.6;
+            margin: var(--sp-5) 0;
+            border: 1px solid var(--rule);
         }
         pre code { background: transparent; padding: 0; }
 
@@ -324,12 +401,15 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
         li { margin-bottom: var(--sp-2); }
         li::marker { color: var(--ink-mute); }
 
-        /* === Tables (base — commit 5 los pule) === */
+        /* === Tables (commit 5: zebra + hover + bordes) === */
         table {
             width: 100%;
             border-collapse: collapse;
             margin: var(--sp-5) 0;
             font-size: var(--fs-sm);
+            border: 1px solid var(--rule);
+            border-radius: 6px;
+            overflow: hidden;
         }
         th, td {
             text-align: left;
@@ -338,8 +418,18 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
         }
         th {
             background: var(--bg-muted);
-            font-weight: 600;
+            font-weight: 700;
             color: var(--ink);
+            border-bottom: 2px solid var(--rule);
+            text-transform: uppercase;
+            font-size: var(--fs-xs);
+            letter-spacing: 0.04em;
+        }
+        tbody tr:nth-child(even) td { background: rgba(15, 20, 25, 0.025); }
+        tbody tr:hover td { background: var(--accent-soft); }
+        tbody tr:last-child td { border-bottom: none; }
+        @media (prefers-color-scheme: dark) {
+            tbody tr:nth-child(even) td { background: rgba(255, 255, 255, 0.025); }
         }
 
         img {
@@ -689,9 +779,12 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
         </div>
     </aside>
     <main id="main-content"${isHome ? ' class="is-home"' : ''}>
-        <article>
-            ${content}
-        </article>
+        <div class="article-wrapper${toc ? ' has-toc' : ''}">
+            ${toc}
+            <article>
+                ${content}
+            </article>
+        </div>
         ${backlinkSection}
     </main>
 
@@ -873,14 +966,32 @@ function preprocessContent(content) {
             return '\n<aside class="callout callout-' + cls + '"><div class="callout-title">' + escapeHTML(displayTitle) + '</div><div class="callout-content">' + bodyHTML + '</div></aside>\n';
         }
     );
-    // Caveat inline: `> _—Texto:_ resto` → `<em class="inline-caveat">—Texto:</em>`
-    content = content.replace(
-        /^(>\s*)_(—[^_]+)_/gm,
-        function (m, prefix, word) {
-            return prefix + '<em class="inline-caveat">' + escapeHTML(word) + '</em>';
-        }
-    );
-    return content;
+    // Caveat inline: `> _—Texto:_ resto` → `<em class="inline-caveat">—Texto:</em>`        content = content.replace(
+            /^(>\s*)_(—[^_]+)_/gm,
+            function (m, prefix, word) {
+                return prefix + '<em class="inline-caveat">' + escapeHTML(word) + '</em>';
+            }
+        );
+        return content;
+}
+
+// Construye tabla de contenidos desde los H2/H3 con id= del HTML ya renderizado
+function buildToc(htmlContent) {
+    const headings = [];
+    const re = /<(h[23]) id="([^"]+)">([^<]+?)<\/\1>/g;
+    let m;
+    while ((m = re.exec(htmlContent)) !== null) {
+        const level = parseInt(m[1].charAt(1), 10);
+        const text = m[3].replace(/<[^>]+>/g, '').trim();
+        if (text && m[2]) headings.push({ level, id: m[2], text });
+    }
+    if (headings.length < 3) return '';
+    let out = '<aside class="toc" aria-label="Tabla de contenidos"><h2 class="toc-title">En esta nota</h2><ul class="toc-list">';
+    headings.forEach(function (h) {
+        out += '<li class="toc-item toc-h' + h.level + '"><a href="#' + h.id + '">' + h.text + '</a></li>';
+    });
+    out += '</ul></aside>';
+    return out;
 }
 
 async function build() {
@@ -982,8 +1093,9 @@ async function build() {
             };
 
             const htmlContent = marked.parse(content, { renderer });
+            const toc = buildToc(htmlContent);
             const backlinks = backlinksMap[note.slug] ? Array.from(backlinksMap[note.slug]) : [];
-            const finalHtml = htmlTemplate(note.title, htmlContent, notes, backlinks, false, note.slug);
+            const finalHtml = htmlTemplate(note.title, htmlContent, notes, backlinks, false, note.slug, toc);
 
             await fs.writeFile(path.join(DIST_DIR, note.slug), finalHtml);
         }
