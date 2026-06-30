@@ -1621,6 +1621,7 @@ function generateSearchContent(notes, query) {
         (function () {
             var QUERY = '';
             try { QUERY = JSON.parse(document.getElementById('initial-query').textContent || '""'); } catch (e) { QUERY = ''; }
+            if (!QUERY && window.location.search) { var p = new URLSearchParams(window.location.search); QUERY = p.get('q') || ''; }
             var FOLD = function (s) { return String(s == null ? '' : s).normalize('NFD').replace(/[\\u0300-\\u036f]/g, '').toLowerCase(); };
             var ESC = function (s) { return String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;'); };
             function escapeRegExp(s) {
@@ -1859,12 +1860,12 @@ function generateCategoriesContent(categories) {
         const allHTML = cat.notes.map(n =>
             `<li><a href="${n.slug}">${n.title}</a> <span class="cat-incoming">${n.incoming} enl.</span></li>`
         ).join('');
-        const encoded = cat.tag.replace(/'/g, '\\x27').replace(/"/g, '&quot;');
+        const encoded = cat.tag.replace(/\x27/g, '\\x27').replace(/"/g, '&quot;');
         return `
-        <article class="category-card" data-encoded="${encoded}">
+        <article class="category-card">
             <div class="category-header">
                 <h2 class="category-name">#${cat.tag}</h2>
-                <span class="category-count">${cat.count} ${cat.count === 1 ? 'nota' : 'notas'}</span>
+                <span class="category-count">${cat.count} notas</span>
             </div>
             <ul class="category-preview">${preview}</ul>
             <div class="category-expand" hidden>
@@ -1895,7 +1896,7 @@ function generateCategoriesContent(categories) {
             grid.querySelectorAll('.category-card').forEach(function (c) {
                 var countEl = c.querySelector('.category-count');
                 if (countEl) {
-                    var m = countEl.textContent.match(/\d+/);
+                    var m = countEl.textContent.match(/\\d+/);
                     if (m) c.dataset.count = m[0];
                 }
             });
