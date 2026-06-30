@@ -13,6 +13,7 @@ Sustancias que mejoran la función cognitiva, la memoria, la creatividad o la mo
 - [[Modafinilo]]
 - [[9-metil-beta-carbolina]] — inhibidor de MAO y potenciador cognitivo
 - [[Azul de metileno]]
+- [[ACD856]] — modulador Trk, efectos a largo plazo sin tolerancia
 - [[Teanina]] — relajante sin sedación
 - [[Colina]]
 - [[Tirosina]]

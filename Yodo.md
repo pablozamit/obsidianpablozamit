@@ -9,6 +9,10 @@ Las hormonas tiroideas se llaman T3 y T4 por la cantidad de átomos de yodo que 
 
 **"Recientemente se demostró que el yodo es un antioxidante."**
 
+## Efecto mucolítico
+
+El yodo actúa como mucolítico: ayuda a eliminar mucosidad estancada de las vías nasales, permitiendo mayor oxigenación cerebral. Este mecanismo, compartido con [[Cobre|cobre]] y [[NAC|NAC]], explicaría parte de sus efectos cognitivos (@lukecadell, 28 jun 2026).
+
 
 Un buen protocolo sería: [[Algas|algas]] + [[Nueces de Brasil]].
 
@@ -82,3 +86,11 @@ Si comieras un montón de algas, te sentirías mal.
 La forma correcta de hacerlo es tomar una pizca muy pequeña de kelp al día, asegurarte de estar recibiendo los cofactores necesarios (selenio y magnesio, sobre todo), y aumentar la dosis de kelp poco a poco mientras te sigas sintiendo bien."**
 
 **"¡El yodo puede eliminar el flúor y el bromo de tu cuerpo! (...) Cuando tomas una gran dosis de yodo, tu cuerpo se inunda de flúor y bromo tóxicos que fueron liberados desde tus células."**
+
+## Ver también
+
+- [[Cobre#Efecto mucolítico]]
+- [[NAC]]
+- [[Tiroides (glándula)]]
+- [[Bromo]]
+- [[Flúor]]

@@ -10,6 +10,10 @@ Mineral traza esencial para el cuerpo humano. Cofactor de múltiples enzimas (cu
 - **Síntesis de neurotransmisores**: noradrenalina y dopamina requieren cobre.
 - **Pigmentación**: la tirosinasa cobre-dependiente convierte tirosina en DOPA y luego en melanina.
 
+## Efecto mucolítico
+
+El cobre actúa como mucolítico: ayuda a eliminar mucosidad estancada de las vías nasales, permitiendo mayor oxigenación cerebral. Este mecanismo, compartido con [[Yodo|yodo]] y [[NAC|NAC]], explicaría parte de sus efectos cognitivos (@lukecadell, 28 jun 2026).
+
 ## Interacción con el zinc
 
 El zinc y el cobre **compiten por los mismos transportadores intestinales** (DMT1 y otros). La suplementación crónica de zinc sin balancear con cobre puede inducir una **deficiencia funcional de cobre**.
@@ -32,6 +36,9 @@ El zinc y el cobre **compiten por los mismos transportadores intestinales** (DMT
 - Legumbres (junto con [[Fitatos|fitatos]] que reducen absorción)
 
 ## Ver también
+
+- [[NAC]]
+- [[Yodo]]
 
 - [[Zinc]]
 - [[Melanina]]

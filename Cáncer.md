@@ -65,9 +65,22 @@ El **melanoma cutáneo** no encaja en el patrón de los cánceres inducidos por 
 
 Los factores candidatos son [[Melanoma#UVA como iniciador|UVA]] (no UVB), variantes genéticas [[Feomelanina|MC1R]], infección por HPV en folículos pilosos, deficiencia de vitamina D3 y temperatura cutánea. Ver análisis completo en [[Melanoma]].
 
+## Inmunoterapia bacteriana: Ewingella americana
+
+Una bacteria natural del intestino de rana (*Ewingella americana*) elimina el 100% de tumores cancerosos en ratones con una sola dosis, en días (jun 2026).
+
+- La bacteria **selectivamente** se dirige, coloniza y destruye tumores sin toxicidad detectable.
+- Al re-introducir cáncer en los animales curados, los tumores **no pudieron crecer** (memoria inmune duradera).
+- Superó a terapias establecidas en el mismo modelo.
+
+Fuente: @NicHulscher, thefocalpoints.com. Pendiente de publicación en revista revisada por pares.
+
+Ver también: [[Ejercicio de alta intensidad#Cáncer]], [[Aspirina (ácido acetilsalicílico)#Las 3 vías antimetastásicas de la aspirina]]
+
 ## Ver también
 
 - [[Melanoma]]
 - [[Vitamina D]]
 - [[Luz ultravioleta]]
 - [[Feomelanina]]
+- [[Ewingella americana]]

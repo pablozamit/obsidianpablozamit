@@ -67,6 +67,17 @@ Mecanismos celulares que **acumulan daño** y **conducen al fenotipo envejecido*
 - **[[Healthspan]] vs [[Lifespan]]**: vivir más años pero enfermos (Parkinson, demencia) no es el objetivo. La mayoría de investigación se centra en añadir vida saludable.
 - **Riesgo de "competencia" entre enfermedades**: en una persona con [[Cáncer]] activo, ↓[[Enfermedad cardiovascular]] puede ser contraproducente (efecto de causa-competencia, observado en mayores).
 
+## Capacidad cardiorrespiratoria vs fuerza para longevidad
+
+Un análisis de ~500.000 personas mostró que los beneficios de mortalidad para la fuerza de agarre (medida de fuerza muscular) se estancan en el nivel intermedio, mientras que para la capacidad cardiorrespiratoria los beneficios continúan incluso en niveles altos (PMID: 29594847).
+
+- Los hazard ratios eran iguales para "fuerza de agarre intermedia + cardio alto" y "fuerza de agarre alta + cardio alto".
+- Fuerza de agarre baja + capacidad cardiorrespiratoria alta superó a fuerza de agarre alta + capacidad cardiorrespiratoria baja.
+- La combinación de ambos es mejor que uno solo, pero tener cardio alto paga más que tener fuerza alta.
+- **Hacer cardio no hace perder músculo** si se cumplen: (1) entrenamiento de fuerza, (2) suficientes calorías y proteína, (3) cardio. @siimland reporta tener VO2 max >60 con un físico musculado.
+
+Ver también: [[Ejercicios]]
+
 ## Estrategias prácticas (resumen biohacker)
 
 1. **[[Dieta]]**: restricción calórica leve, [[Ayuno intermitente]], [[Dieta mediterránea]] o [[Peat-friend]] (según tolerancia individual), baja en [[Azúcar]] añadido y [[Ultra-procesados]].
@@ -126,3 +137,4 @@ Mecanismos celulares que **acumulan daño** y **conducen al fenotipo envejecido*
 - [[Ballena de Groenlandia]]
 - [[TAME trial]]
 - [[CALERIE]]
+- [[Ejercicios]]

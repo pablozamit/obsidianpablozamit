@@ -148,7 +148,7 @@ En el test de Morris water maze, las ratas con aluminio tardaban significativame
 
 > _—Dalton (@Outdoctrination, 5 jun 2026)._
 
-Ver también: [[Acetilcisteína]], [[Aspirina (ácido acetilsalicílico)]], [[Glutatión]], [[Aluminio]]
+Ver también: [[Acetilcisteína]], [[Aspirina (ácido acetilsalicílico)]], [[Glutatión]], [[Aluminio]], [[Cobre#Efecto mucolítico]], [[Yodo#Efecto mucolítico]]
 
 ## Donde Comprar
 - **Tienda recomendada**: [NAC 900 mg - Solutions4Health](https://solutions4health.com/products/nac-900-mg?variant=43818784981209)

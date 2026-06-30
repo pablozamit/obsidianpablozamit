@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "10dc3b1fbf56df4c",
+        "id": "75c53f65d428db9f",
         "type": "tabs",
         "children": [
           {
-            "id": "6ae09e7094a27dd4",
+            "id": "723eed7b78786573",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "WAY-100635.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WAY-100635"
             }
           }
         ]
@@ -159,11 +163,20 @@
       "digitalgarden:Digital Garden Publication Center": false,
       "diff-sender:Enviar cambios a n8n": false,
       "yet-another-obsidian-synchronizer:YAOS": false,
-      "gemini-scribe:Gemini Scribe: Agent Mode": false
+      "gemini-scribe:Gemini Scribe: Agent Mode": false,
+      "periodic-notes:Open this week": false
     }
   },
-  "active": "6ae09e7094a27dd4",
+  "active": "723eed7b78786573",
   "lastOpenFiles": [
+    "Teanina.md",
+    "Sulforafano.md",
+    "Robert Becker.md",
+    "Pre-entrenamiento.md",
+    "Lista de lecturas pendientes.md",
+    "Roux-en-Y.md",
+    "Lista de talleres Copywriting Genesis.md",
+    "Nervio vago.md",
     "Tromboxano.md",
     "Estimulantes.md",
     "Corteza prefrontal.md",
@@ -184,14 +197,6 @@
     "Sin título 1.md",
     "Sin título 1.canvas",
     "Sin título 6.md",
-    "Sin título 7.md",
-    "Sin título 8.md",
-    "Sin título 9.md",
-    "Sin título 10.md",
-    "Sin título 11.md",
-    "Sin título 12.md",
-    "Sin título 13.md",
-    "Sin título 14.md",
     "gemini-scribe/example-prompts.json",
     "gemini-scribe/Agent-Sessions",
     "gemini-scribe/Prompts",
