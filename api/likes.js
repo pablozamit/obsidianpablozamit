@@ -28,7 +28,7 @@ async function kvSet(key, value, ttlSeconds) {
     const params = ttlSeconds ? `?EX=${ttlSeconds}` : '';
     const res = await fetch(`${KV_URL}/set/${encodeURIComponent(key)}${params}`, {
         method: 'POST',
-        headers: { Authorization: `Bearer ${KV_TOKEN}` },
+        headers: { Authorization: `Bearer ${KV_TOKEN}`, 'Content-Type': 'text/plain' },
         body: String(value)
     });
     if (!res.ok) throw new Error(`KV SET failed: ${res.status}`);
@@ -50,7 +50,7 @@ async function kvHIncrBy(key, field, incr) {
     });
     if (!res.ok) throw new Error(`KV HINCRBY failed: ${res.status}`);
     const data = await res.json();
-    return parseInt(data.result, 10);
+    return parseInt(data.result || '0', 10) || 0;
 }
 
 module.exports = async function handler(req, res) {

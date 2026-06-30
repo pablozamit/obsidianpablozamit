@@ -64,13 +64,13 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
             <span class="like-label">¿Te sirvió esta nota?</span>
             <button class="like-btn like-btn-up" data-vote="like" type="button" aria-label="Voto positivo">
                 <span class="like-icon">👍</span>
-                <span class="count" id="like-count-up">…</span>
+                <span class="count" id="like-count-up" aria-atomic="true">…</span>
             </button>
             <button class="like-btn like-btn-down" data-vote="dislike" type="button" aria-label="Voto negativo">
                 <span class="like-icon">👎</span>
-                <span class="count" id="like-count-down">…</span>
+                <span class="count" id="like-count-down" aria-atomic="true">…</span>
             </button>
-            <span class="like-error" id="like-error" hidden></span>
+            <span class="like-error" id="like-error" hidden aria-live="polite"></span>
            </section>`
         : '';
 
