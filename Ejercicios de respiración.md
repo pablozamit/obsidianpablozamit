@@ -29,6 +29,32 @@ Un reporte de caso midió dopamina sérica antes y después de 3 meses de práct
   - Alternativa: **30 rondas** por sesión
   - Alternativa: **21 ciclos** cada mañana durante 30 días
 
+## Nadi Shuddhi Pranayama (Respiración Alterna)
+
+Técnica de [[Pranayama]] que alterna la respiración entre ambas fosas nasales. Un ciclo completo (exhalación izquierda → inhalación izquierda → exhalación derecha → inhalación derecha → exhalación izquierda) dura ~15 segundos, equivalente a ~4 ciclos/minuto.
+
+### Efectos inmediatos en HRV (Chakraborty et al., 2025)
+
+Estudio en 40 adultos jóvenes (20-40 años, PSS >13) naïve a pranayama, midió HRV antes y después de 15 minutos de NSP (PMID: 40272655):
+
+| Parámetro | Pre-NSP | Post-NSP | p |
+|-----------|---------|----------|---|
+| SBP (mmHg) | 113±11.16 | 111.2±11.25 | 0.012 |
+| HR (lpm) | 77.80±9.97 | 76.03±9.39 | 0.027 |
+| SDNN (ms) | 43.44±7.14 | 46.61±6.77 | <0.05 |
+| LF (nu) | 56.33±8.67 | 53.02±8.78 | <0.05 |
+| HF (nu) | 40.54±7.48 | 44.48±7.81 | <0.05 |
+| LF/HF | 1.45±0.39 | 1.24±0.35 | <0.05 |
+
+- DBP y RMSSD no mostraron cambios significativos.
+- Conclusión: 15 minutos de NSP desplazan el balance autonómico hacia predominio parasimpático (↑SDNN, ↑HF, ↓LF, ↓LF/HF).
+- El mecanismo propuesto es estimulación vagal directa vía respiración lenta que modula el barorreflejo y la actividad hipotalámica.
+
+### Protocolo básico
+- 1 ciclo = 15 segundos (~4 rpm)
+- Practicar 15 minutos diarios
+- Realizar tras descansar 10 min en sedestación
+
 ## [[Vortex Breath]] (Respiración Vórtex)
 
 Protocolo de Nick Sweeney (@basedethos) con ratio 1:1 y duraciones decrecientes. Un ciclo de 64 s:
@@ -49,6 +75,7 @@ La fase inicial (13/13) lleva al practicante a la **zona de respiración de reso
 - [[Dopamina]]
 - [[Reflejo de inmersión]]
 - [[Coherencia cardíaca]]
+- [[Variabilidad de la Frecuencia Cardíaca]]
 - [[CO2]]
 - [[Nervio vago]]
 - [[Vortex Breath]]

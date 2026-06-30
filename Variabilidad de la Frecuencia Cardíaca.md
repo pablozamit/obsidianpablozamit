@@ -17,6 +17,9 @@ La HRV baja se asocia con un sistema simpático hiperactivo, el mismo desequilib
 ### Respiración lenta y profunda
 La respiración diafragmática a ~6 respiraciones por minuto (5 segundos inspirando, 5 segundos espirando) maximiza la HRV al sincronizar el ritmo cardíaco con la respiración. Esto se conoce como **resonancia cardíaca** o HRV biofeedback.
 
+### Nadi Shuddhi Pranayama (respiración alterna)
+Quince minutos de [[Ejercicios de respiración#Nadi Shuddhi Pranayama (Respiración Alterna)|NSP]] a ~4 ciclos/min aumentan SDNN de 43.44 a 46.61 ms, HF de 40.54 a 44.48 nu, y reducen LF/HF de 1.45 a 1.24 (Chakraborty et al., 2025, PMID: 40272655).
+
 ### Método 4-7-8
 Inhalar 4 segundos, retener 7, exhalar 8. Estimula el nervio vago y aumenta la HRV.
 
