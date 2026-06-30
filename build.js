@@ -86,12 +86,16 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
     <meta property="og:title" content="${title}">
     <meta property="og:description" content="${metaDesc || (title + ' — Enciclopedia de biohacking, salud y suplementos.')}">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://obsidianpablozamit.vercel.app/${currentSlug || ''}">
+    <meta property="og:url" content="https://obsidianpablozamit.vercel.app/${currentSlug === 'index.html' ? '' : (currentSlug || '')}">
+    <meta property="og:image" content="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1200' height='630'%3E%3Crect width='1200' height='630' fill='%231F7A55'/%3E%3Ctext x='600' y='280' text-anchor='middle' fill='white' font-family='sans-serif' font-weight='bold' font-size='72'%3EBiohacker Lab%3C/text%3E%3Ctext x='600' y='360' text-anchor='middle' fill='rgba(255,255,255,0.8)' font-family='sans-serif' font-size='32'%3EEnciclopedia de biohacking%3C/text%3E%3C/svg%3E">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:site_name" content="Biohacker's Lab">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="${title}">
     <meta name="twitter:description" content="${metaDesc || (title + ' — Enciclopedia de biohacking, salud y suplementos.')}">
-    <link rel="canonical" href="https://obsidianpablozamit.vercel.app/${currentSlug || ''}">
+    <meta name="twitter:image" content="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1200' height='630'%3E%3Crect width='1200' height='630' fill='%231F7A55'/%3E%3Ctext x='600' y='280' text-anchor='middle' fill='white' font-family='sans-serif' font-weight='bold' font-size='72'%3EBiohacker Lab%3C/text%3E%3Ctext x='600' y='360' text-anchor='middle' fill='rgba(255,255,255,0.8)' font-family='sans-serif' font-size='32'%3EEnciclopedia de biohacking%3C/text%3E%3C/svg%3E">
+    <link rel="canonical" href="https://obsidianpablozamit.vercel.app/${currentSlug === 'index.html' ? '' : (currentSlug || '')}">
     <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='15' fill='%231F7A55'/%3E%3Ctext x='16' y='22' text-anchor='middle' fill='white' font-family='Inter,sans-serif' font-weight='700' font-size='20'%3EB%3C/text%3E%3C/svg%3E">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
