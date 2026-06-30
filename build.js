@@ -30,7 +30,7 @@ function fold(s) {
     return (s || '').toString().normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
 }
 
-const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, currentSlug = '', toc = '', isSearch = false, is404 = false, isCategories = false, metaDesc = '') => {
+const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, currentSlug = '', toc = '', isSearch = false, is404 = false, isCategories = false, isItinerarios = false, metaDesc = '') => {
     // Agrupa la sidebar por letra inicial y marca el item actual
     const grouped = {};
     const fold = (s) => (s || '').toString().normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
@@ -59,7 +59,7 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
            </section>`
         : '';
 
-    const likeSection = (!isHome && !isSearch && !is404 && currentSlug)
+    const likeSection = (!isHome && !isSearch && !is404 && !isItinerarios && currentSlug)
         ? `<section class="like-section" data-slug="${currentSlug}" aria-label="Votar por esta nota">
             <span class="like-label">¿Te sirvió esta nota?</span>
             <button class="like-btn like-btn-up" data-vote="like" type="button" aria-label="Voto positivo">
@@ -82,7 +82,7 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
     <title>${title}</title>
     <meta name="description" content="${title} — Enciclopedia de biohacking, salud y suplementos.">
     <meta name="description" content="${metaDesc || (title + ' — Enciclopedia de biohacking, salud y suplementos.')}">
-    <meta name="robots" content="index, follow">
+    <meta name="robots" content="noindex, nofollow">
     <meta property="og:title" content="${title}">
     <meta property="og:description" content="${metaDesc || (title + ' — Enciclopedia de biohacking, salud y suplementos.')}">
     <meta property="og:type" content="website">
@@ -1248,6 +1248,170 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
         }
         .category-expand[hidden] { display: none; }
 
+        /* === Itinerary CTA + page (commit 11) === */
+        .itinerary-cta {
+            margin: var(--sp-4) 0 var(--sp-5);
+            text-align: center;
+        }
+        .btn-itinerary {
+            display: inline-block;
+            padding: var(--sp-3) var(--sp-6);
+            background: var(--bg-muted);
+            color: var(--accent);
+            border: 1px solid var(--accent);
+            border-radius: 8px;
+            font-size: var(--fs-base);
+            font-weight: 600;
+            font-family: var(--font-sans);
+            text-decoration: none;
+            transition: background 0.15s ease, color 0.15s ease;
+        }
+        .btn-itinerary:hover {
+            background: var(--accent);
+            color: #FFFFFF;
+            text-decoration: none;
+        }
+        main.is-itinerarios article { max-width: none; padding: 0; }
+        main.is-itinerarios #main-content { max-width: 860px; }
+        .itinerary-hero {
+            text-align: center;
+            padding: var(--sp-7) 0 var(--sp-5);
+            border-bottom: 1px solid var(--rule);
+            margin-bottom: var(--sp-5);
+        }
+        .itinerary-hero h1 {
+            font-size: var(--fs-h1);
+            margin: 0 0 var(--sp-3);
+            border: none;
+            padding: 0;
+        }
+        .itinerary-hero p {
+            color: var(--ink-soft);
+            max-width: 56ch;
+            margin: 0 auto;
+        }
+        .itinerary-hero p.from-tag {
+            font-family: var(--font-mono);
+            font-size: var(--fs-sm);
+            color: var(--ink-mute);
+            margin-top: var(--sp-4);
+        }
+        .itinerary-hero p.from-tag code {
+            font-family: var(--font-mono);
+            color: var(--accent);
+            background: transparent;
+            padding: 0;
+            font-size: 1em;
+        }
+        .itinerary-actions {
+            display: flex;
+            justify-content: center;
+            gap: var(--sp-3);
+            flex-wrap: wrap;
+            margin-top: var(--sp-5);
+        }
+        .btn-print {
+            display: inline-block;
+            padding: var(--sp-2) var(--sp-5);
+            background: var(--accent);
+            color: #FFFFFF;
+            border: none;
+            border-radius: 8px;
+            font-size: var(--fs-sm);
+            font-weight: 600;
+            font-family: var(--font-sans);
+            cursor: pointer;
+            text-decoration: none;
+            transition: background 0.15s ease;
+        }
+        .btn-print:hover { background: var(--link-hover); }
+        .itinerary-steps { list-style: none; padding: 0; margin: 0; }
+        .itinerary-step {
+            padding: var(--sp-5);
+            margin-bottom: var(--sp-4);
+            background: var(--bg-elev);
+            border: 1px solid var(--rule);
+            border-radius: 10px;
+            transition: border-color 0.15s ease, opacity 0.2s ease;
+        }
+        .itinerary-step.completed { opacity: 0.6; }
+        .step-header {
+            display: flex;
+            align-items: center;
+            gap: var(--sp-3);
+            margin-bottom: var(--sp-3);
+        }
+        .step-checkbox-label {
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+            flex-shrink: 0;
+        }
+        .step-checkbox-label input[type="checkbox"] {
+            width: 22px;
+            height: 22px;
+            accent-color: var(--accent);
+            cursor: pointer;
+            margin: 0;
+        }
+        .step-number {
+            font-family: var(--font-mono);
+            font-size: var(--fs-sm);
+            color: var(--ink-mute);
+            width: 1.4em;
+            text-align: right;
+            flex-shrink: 0;
+        }
+        .step-title {
+            margin: 0;
+            padding: 0;
+            border: none;
+            font-size: var(--fs-h5);
+            font-weight: 600;
+            flex-grow: 1;
+        }
+        .step-title a {
+            color: var(--ink);
+            text-decoration: none;
+        }
+        .step-title a:hover { color: var(--accent); }
+        .step-preview {
+            color: var(--ink-soft);
+            font-size: var(--fs-sm);
+            line-height: 1.6;
+            margin-bottom: var(--sp-2);
+        }
+        .step-meta {
+            font-family: var(--font-mono);
+            font-size: var(--fs-xs);
+            color: var(--ink-mute);
+            letter-spacing: 0.04em;
+        }
+        .itinerary-empty {
+            text-align: center;
+            padding: var(--sp-7) 0;
+            color: var(--ink-soft);
+        }
+        .itinerary-empty h2 {
+            font-size: var(--fs-h4);
+            margin: 0 0 var(--sp-3);
+            border: none;
+            padding: 0;
+            font-weight: 600;
+        }
+        @media print {
+            #sidebar, #menu-toggle, .like-section, .backlinks, .itinerary-cta, .btn-itinerary,
+            .itinerary-hero, .itinerary-actions, .itinerary-footer, .step-checkbox-label,
+            .btn-print { display: none !important; }
+            body { font-size: 11pt; color: #000; background: #fff; font-family: Georgia, serif; }
+            #main-content { max-width: 100% !important; padding: 0 !important; margin: 0 !important; }
+            .itinerary-step { border: 1px solid #ccc; break-inside: avoid; page-break-inside: avoid; background: #fff; }
+            .itinerary-step.completed { opacity: 1; }
+            .step-title a { color: #000; pointer-events: none; }
+            .step-preview { color: #333; }
+            .step-number::before { content: counter(step-counter) '. '; }
+        }
+
         /* === Móvil: sidebar como drawer === */
         @media (max-width: 800px) {
             body { display: block; }
@@ -1283,7 +1447,7 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
             </nav>
         </div>
     </aside>
-    <main id="main-content" class="${isHome ? 'is-home' : isSearch ? 'is-search' : is404 ? 'is-404' : isCategories ? 'is-categories' : ''}">
+    <main id="main-content" class="${isHome ? 'is-home' : isSearch ? 'is-search' : is404 ? 'is-404' : isCategories ? 'is-categories' : isItinerarios ? 'is-itinerarios' : ''}">
         <div class="article-wrapper${toc ? ' has-toc' : ''}">
             ${toc}
             <article>
@@ -1291,6 +1455,7 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
             </article>
         </div>
         ${likeSection}
+        ${!isHome && !isSearch && !is404 && !isCategories && !isItinerarios && currentSlug ? `<div class="itinerary-cta"><a href="itinerarios.html?from=${currentSlug}" class="btn-itinerary">🗺️ Crear itinerario desde esta nota</a></div>` : ''}
         ${backlinkSection}
     </main>
 
@@ -1840,6 +2005,148 @@ function generate404Content(notes) {
     `;
 }
 
+// === Commit 11: conexiones para itinerarios dinámicos ===
+function generateConnectionsIndex(notes, backlinksMap) {
+    const wikilinkRegex = /\[\[([^\]|#]+)(?:#[^\]|]+)?(?:\|([^\]]+))?\]\]/g;
+    const noteMap = {};
+    notes.forEach(n => { noteMap[n.slug] = n; });
+    return notes
+        .filter(n => n.slug !== 'index.html' && n.slug !== 'buscar.html' && n.slug !== 'categorias.html' && n.slug !== '404.html' && n.slug !== 'itinerarios.html')
+        .map(n => {
+            const outlinks = new Map();
+            let m;
+            const slugifyLocal = (text) => (text || '').toString().normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().trim().replace(/[^a-z0-9.\- ]/g, '').replace(/\s+/g, '-').replace(/-+/g, '-');
+            while ((m = wikilinkRegex.exec(n.content)) !== null) {
+                const targetName = m[1].trim();
+                const targetBase = targetName.endsWith('.md') ? targetName.slice(0, -3) : targetName;
+                const targetSlug = slugifyLocal(targetBase) + '.html';
+                if (targetSlug !== n.slug && !outlinks.has(targetSlug)) {
+                    const targetNote = noteMap[targetSlug];
+                    if (targetNote) {
+                        outlinks.set(targetSlug, {
+                            slug: targetSlug,
+                            title: targetNote.title,
+                            incoming: backlinksMap[targetSlug] ? backlinksMap[targetSlug].size : 0
+                        });
+                    }
+                }
+            }
+            wikilinkRegex.lastIndex = 0;
+            return {
+                slug: n.slug,
+                title: n.title,
+                outlinks: Array.from(outlinks.values()).sort((a, b) => b.incoming - a.incoming),
+                incoming: backlinksMap[n.slug] ? backlinksMap[n.slug].size : 0
+            };
+        });
+}
+
+function generateItinerariosContent(notes) {
+    return `
+        <section class="itinerary-hero">
+            <h1>Itinerario de lectura</h1>
+            <p>Ruta guiada generada automáticamente desde la nota de partida. El sistema recorre las notas más relevantes siguiendo los enlaces del wiki. Marca los pasos como completados — tu progreso se guarda en esta sesión.</p>
+            <p class="from-tag" id="itinerary-from-tag"></p>
+            <div class="itinerary-actions">
+                <button class="btn-print" id="btn-print" type="button">🖨️ Descargar PDF</button>
+            </div>
+        </section>
+        <ol class="itinerary-steps" id="itinerary-steps"></ol>
+        <div class="itinerary-empty" id="itinerary-empty" hidden></div>
+        <script>
+        (function () {
+            var stepsEl = document.getElementById('itinerary-steps');
+            var emptyEl = document.getElementById('itinerary-empty');
+            var fromTag = document.getElementById('itinerary-from-tag');
+            var ESC = function (s) { return String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;'); };
+            var params = new URLSearchParams(window.location.search);
+            var fromSlug = (params.get('from') || '').trim();
+            function renderRoute(route, startTitle) {
+                if (fromTag) fromTag.innerHTML = 'Partiendo de <code>' + ESC(startTitle || fromSlug) + '</code> · ' + route.length + ' pasos';
+                if (!route.length) {
+                    stepsEl.innerHTML = '';
+                    emptyEl.hidden = false;
+                    emptyEl.innerHTML = '<h2>Sin conexiones</h2><p>La nota <code>' + ESC(fromSlug) + '</code> no tiene enlaces salientes hacia otras notas del vault. Prueba con otra nota de partida.</p>';
+                    return;
+                }
+                emptyEl.hidden = true;
+                var checked = {};
+                try {
+                    var stored = sessionStorage.getItem('itin:' + fromSlug);
+                    if (stored) checked = JSON.parse(stored);
+                } catch (e) {}
+                stepsEl.innerHTML = route.map(function (n, i) {
+                    var isChecked = checked[n.slug] === true;
+                    var preview = (n.excerpt || '').slice(0, 200);
+                    return '<li class="itinerary-step' + (isChecked ? ' completed' : '') + '" id="step-' + i + '">' +
+                        '<div class="step-header">' +
+                        '<label class="step-checkbox-label"><input type="checkbox" class="step-checkbox" data-slug="' + ESC(n.slug) + '" aria-label="Marcar paso como completado"' + (isChecked ? ' checked' : '') + '></label>' +
+                        '<span class="step-number">' + (i + 1) + '</span>' +
+                        '<h3 class="step-title"><a href="' + n.slug + '">' + ESC(n.title) + '</a></h3>' +
+                        '</div>' +
+                        (preview ? '<p class="step-preview">' + ESC(preview) + '</p>' : '') +
+                        '<p class="step-meta">' + (n.incoming || 0) + ' enlace' + ((n.incoming || 0) === 1 ? '' : 's') + ' entrante' + ((n.incoming || 0) === 1 ? '' : 's') + '</p>' +
+                        '</li>';
+                }).join('');
+                // Re-attach checkbox listeners
+                stepsEl.querySelectorAll('.step-checkbox').forEach(function (cb) {
+                    cb.addEventListener('change', function () {
+                        var slug = this.getAttribute('data-slug');
+                        var step = this.closest('.itinerary-step');
+                        try {
+                            var cur = sessionStorage.getItem('itin:' + fromSlug);
+                            var map = cur ? JSON.parse(cur) : {};
+                            map[slug] = this.checked;
+                            sessionStorage.setItem('itin:' + fromSlug, JSON.stringify(map));
+                        } catch (e) {}
+                        if (this.checked) { step.classList.add('completed'); }
+                        else { step.classList.remove('completed'); }
+                    });
+                });
+            }
+            function buildRoute(data, startSlug) {
+                var graph = {};
+                data.forEach(function (d) { graph[d.slug] = d; });
+                var start = graph[startSlug];
+                if (!start) { renderRoute([], ''); return; }
+                var visited = new Set();
+                var route = [];
+                var queue = [start.slug];
+                visited.add(start.slug);
+                while (queue.length && route.length < 18) {
+                    var slug = queue.shift();
+                    var node = graph[slug];
+                    if (!node) continue;
+                    route.push(node);
+                    var neighbors = (node.outlinks || []).filter(function (o) { return !visited.has(o.slug); });
+                    for (var k = 0; k < Math.min(neighbors.length, 4); k++) {
+                        if (!visited.has(neighbors[k].slug)) {
+                            visited.add(neighbors[k].slug);
+                            queue.push(neighbors[k].slug);
+                        }
+                    }
+                }
+                renderRoute(route, start.title);
+            }
+            if (fromSlug) {
+                fetch('connections.json').then(function (r) { return r.json(); }).then(function (data) {
+                    buildRoute(Array.isArray(data) ? data : [], fromSlug);
+                }).catch(function () {
+                    if (emptyEl) { emptyEl.hidden = false; emptyEl.innerHTML = '<h2>Error</h2><p>No se pudo cargar el grafo de conexiones.</p>'; }
+                });
+            } else {
+                stepsEl.innerHTML = '';
+                emptyEl.hidden = false;
+                emptyEl.innerHTML = '<h2>¿Cómo funciona?</h2><p>Visita cualquier nota y haz clic en <strong>Crear itinerario desde esta nota</strong>. El sistema generará automáticamente una ruta de lectura siguiendo las notas más conectadas del vault.</p><p><a href="index.html">← Volver al inicio</a></p>';
+            }
+            document.getElementById('btn-print').addEventListener('click', function () {
+                window.print();
+            });
+        })();
+        </script>
+    `;
+}
+
 // === Commit 10: helpers de SEO + sitemap ===
 function getMetaDescription(rawMd, title) {
     if (!rawMd) return `${title} — Enciclopedia de biohacking, salud y suplementos.`;
@@ -1881,7 +2188,7 @@ function generateSitemap(notes) {
 }
 
 function generateRobotsTxt() {
-    return `User-agent: *\nAllow: /\nSitemap: https://obsidianpablozamit.vercel.app/sitemap.xml\n`;
+    return `User-agent: *\nDisallow: /\n`;
 }
 
 // === Commit 9: índice de categorías JSON + página /categorias.html ===
@@ -2138,13 +2445,18 @@ async function build() {
         const categoriesHtml = htmlTemplate('Categorías', categoriesContent, notes, [], false, 'categorias.html', '', false, false, true);
         await fs.writeFile(path.join(DIST_DIR, 'categorias.html'), categoriesHtml);
 
-        // === Commit 10: sitemap + robots.txt ===
-        const sitemap = generateSitemap(notes);
-        await fs.writeFile(path.join(DIST_DIR, 'sitemap.xml'), sitemap);
+        // === Commit 11: conexiones + itinerarios ===
+        const connectionsIndex = generateConnectionsIndex(notes, backlinksMap);
+        await fs.writeFile(path.join(DIST_DIR, 'connections.json'), JSON.stringify(connectionsIndex));
+        const itinerariosContent = generateItinerariosContent(notes);
+        const itinerariosHtml = htmlTemplate('Itinerario', itinerariosContent, notes, [], false, 'itinerarios.html', '', false, false, false, true);
+        await fs.writeFile(path.join(DIST_DIR, 'itinerarios.html'), itinerariosHtml);
+
+        // === Commit 10: robots.txt ===
         const robotsTxt = generateRobotsTxt();
         await fs.writeFile(path.join(DIST_DIR, 'robots.txt'), robotsTxt);
 
-        console.log(`Build complete. ${notes.length} notes processed (${searchIndex.length} indexadas, ${titlesIndex.length} títulos, ${categoriesIndex.length} categorías).`);
+        console.log(`Build complete. ${notes.length} notes processed (${searchIndex.length} indexadas, ${titlesIndex.length} títulos, ${categoriesIndex.length} categorías, ${connectionsIndex.length} conexiones).`);
         console.log(`Static site generated in dist/`);
     } catch (err) {
         console.error('Error during build:', err);
