@@ -30,12 +30,12 @@ function fold(s) {
     return (s || '').toString().normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
 }
 
-const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, currentSlug = '', toc = '') => {
+const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, currentSlug = '', toc = '', isSearch = false) => {
     // Agrupa la sidebar por letra inicial y marca el item actual
     const grouped = {};
     const fold = (s) => (s || '').toString().normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
     for (const n of allNotes) {
-        if (n.slug === 'index.html') continue;
+        if (n.slug === 'index.html' || n.slug === 'buscar.html') continue;
         const first = fold(n.title).charAt(0).toUpperCase() || '#';
         if (!grouped[first]) grouped[first] = [];
         grouped[first].push(n);
@@ -69,6 +69,7 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap">
+    ${isSearch ? '<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js" defer></script>' : ''}
     <style>
         :root {
             /* === Palette: Biohacker's Lab (claro) === */
@@ -744,6 +745,147 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
             letter-spacing: -0.01em;
         }
 
+        /* === Search page (commit 6) === */
+        main.is-search #main-content { max-width: 980px; padding-left: var(--sp-7); padding-right: var(--sp-7); }
+        main.is-search article { max-width: none; padding: 0; margin: 0; }
+        .search-hero {
+            padding: var(--sp-8) 0 var(--sp-6);
+            border-bottom: 1px solid var(--rule);
+            margin-bottom: var(--sp-6);
+            text-align: center;
+        }
+        .search-hero h1 {
+            font-size: var(--fs-h1);
+            line-height: 1.15;
+            margin: 0 0 var(--sp-3);
+            border: none;
+            padding: 0;
+        }
+        .search-hero p {
+            color: var(--ink-soft);
+            font-size: var(--fs-h5);
+            max-width: 56ch;
+            margin: 0 auto var(--sp-5);
+            line-height: 1.5;
+        }
+        .search-input-wrap {
+            position: relative;
+            max-width: 640px;
+            margin: 0 auto;
+        }
+        .search-input-wrap input[type="search"] {
+            width: 100%;
+            padding: var(--sp-4) var(--sp-5);
+            font-size: var(--fs-h5);
+            font-family: var(--font-sans);
+            background: var(--bg-elev);
+            border: 1px solid var(--rule);
+            border-radius: 10px;
+            color: var(--ink);
+            outline: none;
+            transition: border-color 0.15s ease, box-shadow 0.15s ease;
+        }
+        .search-input-wrap input[type="search"]:focus {
+            border-color: var(--accent);
+            box-shadow: 0 0 0 4px var(--accent-soft);
+        }
+        .search-hint {
+            font-family: var(--font-mono);
+            font-size: var(--fs-xs);
+            color: var(--ink-mute);
+            text-align: center;
+            margin-top: var(--sp-3);
+            letter-spacing: 0.04em;
+        }
+        .search-hint kbd {
+            font-family: var(--font-mono);
+            background: var(--bg-elev);
+            border: 1px solid var(--rule);
+            padding: 1px 6px;
+            border-radius: 4px;
+            font-size: 0.92em;
+            margin: 0 2px;
+        }
+        .search-meta {
+            font-family: var(--font-mono);
+            font-size: var(--fs-xs);
+            color: var(--ink-mute);
+            text-transform: uppercase;
+            letter-spacing: 0.06em;
+            margin-bottom: var(--sp-4);
+            margin-top: var(--sp-5);
+            min-height: 1em;
+        }
+        .search-group { margin-bottom: var(--sp-6); }
+        .search-group-letter {
+            font-family: var(--font-mono);
+            font-size: var(--fs-xs);
+            color: var(--ink-mute);
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+            font-weight: 600;
+            padding: 0 0 var(--sp-2);
+            border-bottom: 1px solid var(--rule);
+            margin-bottom: var(--sp-3);
+        }
+        .search-results { list-style: none; padding: 0; margin: 0; }
+        .search-result {
+            padding: var(--sp-4) 0;
+            border-bottom: 1px solid var(--rule);
+            animation: search-fade-in 0.2s ease both;
+        }
+        @media (prefers-reduced-motion: reduce) {
+            .search-result { animation: none; }
+        }
+        @keyframes search-fade-in {
+            from { opacity: 0; transform: translateY(4px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .search-result:last-child { border-bottom: none; }
+        .search-result > a {
+            text-decoration: none;
+            color: var(--ink);
+            display: block;
+        }
+        .search-result > a:hover .search-result-title { color: var(--accent); }
+        .search-result-title {
+            font-size: var(--fs-h5);
+            font-weight: 600;
+            margin: 0 0 var(--sp-2);
+            color: var(--ink);
+            transition: color 0.15s ease;
+            border: none;
+            padding: 0;
+        }
+        .search-result-title mark,
+        .search-result-snippet mark {
+            background: var(--accent-soft);
+            color: var(--accent);
+            padding: 0 3px;
+            border-radius: 3px;
+        }
+        .search-result-snippet {
+            color: var(--ink-soft);
+            font-size: var(--fs-sm);
+            line-height: 1.55;
+            margin: 0 0 var(--sp-2);
+        }
+        .search-result-meta {
+            font-family: var(--font-mono);
+            font-size: var(--fs-xs);
+            color: var(--ink-mute);
+            letter-spacing: 0.04em;
+            margin: 0;
+        }
+        .search-empty {
+            padding: var(--sp-7) 0;
+            text-align: center;
+            color: var(--ink-soft);
+        }
+        @media (prefers-color-scheme: dark) {
+            .search-result:hover { background: rgba(76,199,138,0.06); }
+        }
+
         /* === Móvil: sidebar como drawer === */
         @media (max-width: 800px) {
             body { display: block; }
@@ -778,7 +920,7 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
             </nav>
         </div>
     </aside>
-    <main id="main-content"${isHome ? ' class="is-home"' : ''}>
+    <main id="main-content"${isHome ? ' class="is-home"' : (isSearch ? ' class="is-search"' : '')}>
         <div class="article-wrapper${toc ? ' has-toc' : ''}">
             ${toc}
             <article>
@@ -976,6 +1118,176 @@ function preprocessContent(content) {
     return content;
 }
 
+// === Commit 6: índice de búsqueda JSON + página /buscar.html ===
+function generateSearchIndex(notes, backlinksMap) {
+    const stripMd = (s) => String(s || '')
+        .replace(/^---[\s\S]*?---/, '')
+        .replace(/!\[\[[^\]|]+(?:\|[^\]]+)?\]\]/g, '')
+        .replace(/\[\[([^\]|#]+)(?:#[^\]|]+)?(?:\|([^\]]+))?\]\]/g, (_, a, al) => al || a)
+        .replace(/```[\s\S]*?```/g, '')
+        .replace(/`[^`]+`/g, '')
+        .replace(/^>.*$/gm, '')
+        .replace(/^#+\s+/gm, '')
+        .replace(/\*\*([^*]+)\*\*/g, '$1')
+        .replace(/__([^_]+)__/g, '$1')
+        .replace(/\*([^*]+)\*/g, '$1')
+        .replace(/_([^_]+)_/g, '$1')
+        .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+        .replace(/<aside[\s\S]*?<\/aside>/g, '')
+        .replace(/[|#]/g, ' ')
+        .replace(/\s+/g, ' ')
+        .trim();
+    const buildExcerpt = (s) => {
+        const clean = stripMd(s);
+        if (clean.length <= 320) return clean;
+        const cut = clean.slice(0, 320);
+        const lastSpace = cut.lastIndexOf(' ');
+        return (lastSpace > 160 ? cut.slice(0, lastSpace) : cut) + '…';
+    };
+    const collectTags = (s) => {
+        const m = String(s || '').match(/#[\p{L}0-9_\-]+/gu);
+        return m ? Array.from(new Set(m.map(t => t.toLowerCase()))) : [];
+    };
+    return notes
+        .filter(n => n.slug !== 'index.html' && n.slug !== 'buscar.html')
+        .map(n => ({
+            title: n.title,
+            slug: n.slug,
+            excerpt: buildExcerpt(n.content),
+            tags: collectTags(n.content),
+            incoming: backlinksMap[n.slug] ? backlinksMap[n.slug].size : 0
+        }));
+}
+
+function generateSearchContent(notes, query) {
+    const notesCount = notes.filter(n => n.slug !== 'index.html' && n.slug !== 'buscar.html').length;
+    const q = (query || '').toString().replace(/"/g, '&quot;');
+    const initialQJson = JSON.stringify(q);
+    const metaEmpty = `Indexadas ${notesCount} notas. Escribe arriba para buscar.`;
+    return `
+        <section class="search-hero">
+            <h1>Buscar en la enciclopedia</h1>
+            <p>Busca por título o por el contenido de la nota. La búsqueda ignora acentos y es tolerante a typos.</p>
+            <div class="search-input-wrap">
+                <input type="search" id="search-query" placeholder="Escribe una sustancia, síntoma, mecanismo…" aria-label="Buscar en la enciclopedia" autocomplete="off" autocapitalize="off" spellcheck="false" value="${q}">
+            </div>
+            <p class="search-hint">Pulsa <kbd>Esc</kbd> para limpiar · <kbd>Enter</kbd> para abrir el primer resultado</p>
+        </section>
+        <p class="search-meta" id="search-meta" aria-live="polite" data-empty="${metaEmpty}"></p>
+        <div id="search-groups" role="region" aria-label="Resultados de búsqueda"></div>
+        <script id="initial-query" type="application/json">${initialQJson}</script>
+        <script>
+        (function () {
+            var QUERY = '';
+            try { QUERY = JSON.parse(document.getElementById('initial-query').textContent || '""'); } catch (e) { QUERY = ''; }
+            var FOLD = function (s) { return String(s == null ? '' : s).normalize('NFD').replace(/[\\u0300-\\u036f]/g, '').toLowerCase(); };
+            var ESC = function (s) { return String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;'); };
+            function escapeRegExp(s) {
+                return String(s).replace(/[-/\\\\^$*+?.()|[\\]{}]/g, '\\\\$&');
+            }
+            function highlight(text, query) {
+                if (!query || !text) return ESC(text);
+                var tokens = String(query).split(/\\s+/).filter(function (t) { return t.length >= 2; }).slice(0, 6);
+                var out = ESC(text);
+                tokens.forEach(function (tok) {
+                    try {
+                        var re = new RegExp(escapeRegExp(tok), 'gi');
+                        out = out.replace(re, function (m) { return '<mark>' + m + '</mark>'; });
+                    } catch (e) {}
+                });
+                return out;
+            }
+            function render(results, query) {
+                var meta = document.getElementById('search-meta');
+                var groupsEl = document.getElementById('search-groups');
+                if (!query) {
+                    if (meta) meta.textContent = meta.getAttribute('data-empty') || ('Indexadas ' + ${notesCount} + ' notas.');
+                    groupsEl.innerHTML = '<div class="search-empty"><h2>¿Por dónde empezar?</h2><p>Sugerencias:</p><ul><li>Usa palabras clave cortas (melatonina, sueño, dopamina).</li><li>La búsqueda ignora acentos: cafeína encuentra cafeina.</li><li>Las notas mejor enlazadas suben al empatar.</li></ul></div>';
+                    return;
+                }
+                if (!results.length) {
+                    if (meta) meta.textContent = 'Ningún resultado para «' + query + '»';
+                    groupsEl.innerHTML = '<div class="search-empty"><h2>Sin resultados</h2><p>Prueba con otra palabra o vuelve a la <a href="index.html">página de inicio</a>.</p></div>';
+                    return;
+                }
+                if (meta) meta.textContent = results.length + (results.length === 1 ? ' resultado' : ' resultados') + ' para «' + query + '»';
+                var byLetter = {};
+                results.forEach(function (r) {
+                    var ch = FOLD(r.title).charAt(0).toUpperCase() || '#';
+                    if (!byLetter[ch]) byLetter[ch] = [];
+                    byLetter[ch].push(r);
+                });
+                var letters = Object.keys(byLetter).sort();
+                groupsEl.innerHTML = letters.map(function (l) {
+                    var inner = byLetter[l].map(function (r) {
+                        var inc = r.incoming || 0;
+                        return '<li class="search-result"><a href="' + r.slug + '"><h3 class="search-result-title">' + highlight(r.title, query) + '</h3>' + (r.excerpt ? '<p class="search-result-snippet">' + highlight(r.excerpt, query) + '</p>' : '') + '<p class="search-result-meta">' + inc + ' enlace' + (inc === 1 ? '' : 's') + ' entrante' + (inc === 1 ? '' : 's') + '</p></a></li>';
+                    }).join('');
+                    return '<section class="search-group"><div class="search-group-letter">' + l + '</div><ul class="search-results">' + inner + '</ul></section>';
+                }).join('');
+            }
+            var FUSE = null;
+            function run(query) {
+                if (!FUSE) { render([], query); return; }
+                if (!query) { render([], ''); return; }
+                var hits = FUSE.search(FOLD(query), { limit: 80 });
+                render(hits.map(function (h) { return h.item; }), query);
+            }
+            fetch('search-index.json').then(function (r) { return r.json(); }).then(function (data) {
+                var arr = Array.isArray(data) ? data : [];
+                if (typeof window.Fuse === 'function') {
+                    FUSE = new window.Fuse(arr, {
+                        includeScore: true,
+                        threshold: 0.38,
+                        ignoreLocation: true,
+                        minMatchCharLength: 2,
+                        getFn: function (obj, path) {
+                            var v = obj[path];
+                            if (Array.isArray(v)) v = v.join(' ');
+                            return FOLD(v);
+                        },
+                        keys: [
+                            { name: 'title', weight: 0.55 },
+                            { name: 'tags', weight: 0.25 },
+                            { name: 'excerpt', weight: 0.20 }
+                        ]
+                    });
+                    var initialQ = (QUERY || document.getElementById('search-query').value || '').trim();
+                    run(initialQ);
+                } else {
+                    render([], QUERY || '');
+                }
+            }).catch(function () {
+                var meta = document.getElementById('search-meta');
+                if (meta) meta.textContent = 'Error cargando el índice de búsqueda';
+                var groupsEl = document.getElementById('search-groups');
+                if (groupsEl) groupsEl.innerHTML = '<div class="search-empty"><h2>No se pudo cargar el índice</h2><p>Recarga la página.</p></div>';
+            });
+            var input = document.getElementById('search-query');
+            var lastQ = '';
+            function onInput() {
+                var q = (input.value || '').trim();
+                if (q === lastQ) return;
+                lastQ = q;
+                run(q);
+                var url = q ? '?q=' + encodeURIComponent(q) : window.location.pathname;
+                try { if (history && history.replaceState) history.replaceState(null, '', url); } catch (e) {}
+            }
+            if (input) {
+                input.addEventListener('input', onInput);
+                input.addEventListener('keydown', function (e) {
+                    if (e.key === 'Escape') { input.value = ''; onInput(); input.blur(); }
+                    if (e.key === 'Enter') {
+                        var first = document.querySelector('#search-groups a[href]');
+                        if (first) { e.preventDefault(); window.location.href = first.getAttribute('href'); }
+                    }
+                });
+            }
+        })();
+        </script>
+    `;
+}
+
 // Construye tabla de contenidos desde los H2/H3 con id= del HTML ya renderizado
 function buildToc(htmlContent) {
     const headings = [];
@@ -1055,6 +1367,7 @@ async function build() {
         }
 
         for (const note of notes) {
+            if (note.slug === 'buscar.html') continue; // escrita al final con generateSearchContent
             if (note.slug === 'index.html') {
                 const homeContent = generateHomeContent(notes, backlinksMap);
                 const finalHtml = htmlTemplate('Inicio', homeContent, notes, [], true, 'index.html');
@@ -1101,7 +1414,14 @@ async function build() {
             await fs.writeFile(path.join(DIST_DIR, note.slug), finalHtml);
         }
 
-        console.log(`Build complete. ${notes.length} notes processed.`);
+        // === Commit 6: search index + search page ===
+        const searchIndex = generateSearchIndex(notes, backlinksMap);
+        await fs.writeFile(path.join(DIST_DIR, 'search-index.json'), JSON.stringify(searchIndex));
+        const searchContent = generateSearchContent(notes, '');
+        const searchHtml = htmlTemplate('Buscar', searchContent, notes, [], false, 'buscar.html', '', true);
+        await fs.writeFile(path.join(DIST_DIR, 'buscar.html'), searchHtml);
+
+        console.log(`Build complete. ${notes.length} notes processed (${searchIndex.length} indexadas para búsqueda).`);
         console.log(`Static site generated in dist/`);
     } catch (err) {
         console.error('Error during build:', err);
