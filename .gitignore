@@ -8,6 +8,9 @@ nul
 .smart-connections/
 .opencode/
 
+# AI agent workflow instructions (not encyclopedia content)
+AGENTS.md
+
 # Node
 node_modules/
 
