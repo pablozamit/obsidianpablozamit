@@ -53,5 +53,39 @@ La [[Autofagia|autofagia]] (reciclaje de componentes celulares dañados) puede a
 
 Caveat: la magnitud de autofagia inducida por ejercicio es menor y más localizada (músculo) que la inducida por ayuno (sistémica). No son equivalentes exactos.
 
+## Adaptaciones proteómicas profundas: el día 3 como tipping point (Norwitz, Nature Metabolism 2026)
+
+> [!evidence] Estudio reciente
+> Nick Norwitz (Harvard/Oxford) resume un estudio publicado en **Nature Metabolism**: 12 voluntarios sanos, ayuno hídrico de 7 días y **2.923 proteínas circulantes** seguidas con proteómica avanzada. **1.034 proteínas cambiaron significativamente** durante el ayuno y la mayoría de los cambios emergieron **después del día 3**.
+
+### Lo que pasa por fases
+
+- **Días 1–2 — Switch de combustible.** Proteínas de transporte lipídico y producción de cetonas se elevan mientras el cuerpo abandona la [[Glucosa|glucosa]] como combustible principal. Esperable, ayuno cetogénico 101.
+- **Día 3 — Punto de inflexión biológico.** Oleada masiva de cambios proteicos que dwarf completamente lo visto en los primeros dos días. Es la firma sistémica del "ayuno profundo" tal como lo planteaba [[Ernesto Prieto]].
+- **Re-feeding (3 días post-ayuno) — Persistencia de la firma molecular.** Muchas adaptaciones **persisten** incluso después de 3 días comiendo otra vez — similar a una actualización de software que no se borra al reiniciar el equipo.
+
+> _—Nick Norwitz @nicknorwitz:_ "Some people may stop fasting just before many of the benefits begin."
+
+### Implicación práctica
+
+> [!tip] Los ayunos < 48h probablemente se quedan cortos
+> Si las adaptaciones más profundas emergen **después del día 3**, los formatos populares en redes (16:8, OMAD, 24h) no llegan al grueso de los cambios moleculares. El protocolo de 3–5 días activa una capa proteica que el ayuno corto ni roza.
+
+> [!warning] Ayunos > 48h no son para todos
+> Más allá de [[Electrolitos|sodio]] y [[Agua|agua]], monitorizar [[Insulina|insulina]] y [[Cortisol|cortisol]] basal antes de empezar. Contraindicaciones relativas: embarazo, [[Diabetes|diabetes]] tipo 1, menores de 18, IMC < 20, medicación sensibilizadora de insulina sin ajuste médico. Cualquier ayuno > 24h con comorbilidades requiere valoración previa.
+
+### Conexiones con el resto del vault
+
+- [[Mitocondria]] — la biogénesis mitocondrial inducida por ayuno solapa temporalmente con la oleada proteica del día 3 (vía [[Sirtuinas|SIRT1]] / [[mTOR]]).
+- [[Cetonas]] — los días 1–2 son dominados por adaptación cetogénica; el día 3 marca el salto de cetosis a una reprogramación más profunda.
+- [[Hipótesis de desacoplamiento metabólico|Desacoplamiento metabólico]] — la firma del día 3 probablemente refleja señalización hormética mitocondrial.
+- [[Insulina]] y [[HGH]] — caída sostenida de [[Insulina|insulina]] + pulso de [[HGH|GH]] son el contexto endocrino que permite la oleada proteica del día 3.
+- [[Células madre]] — los pools de células madre (mitocondriales, gástricos, inmunes) se activan específicamente con adaptaciones de día 3+.
+- [[Longevidad]] — la persistencia post re-feeding es la firma molecular que sostienen las hipótesis de extensión de [[Longevidad|lifespan]] vía ayuno.
+
+> _—inferencia: el número exacto de 1.034 proteínas y la afirmación de "persistencia post re-feeding" son claims de Norwitz en hilo de X (28 jun 2026); verificar DOI y datos brutos del paper antes de citarlos como evidencia cerrada._
+
+#ayuno #proteómica #cetosis #autofagia #mitocondria #metabolismo #hormesis #longevidad
+
 ## Notas Sueltas
 
