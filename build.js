@@ -30,7 +30,7 @@ function fold(s) {
     return (s || '').toString().normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
 }
 
-const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, currentSlug = '', toc = '', isSearch = false, is404 = false, isCategories = false) => {
+const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, currentSlug = '', toc = '', isSearch = false, is404 = false, isCategories = false, metaDesc = '') => {
     // Agrupa la sidebar por letra inicial y marca el item actual
     const grouped = {};
     const fold = (s) => (s || '').toString().normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
@@ -81,6 +81,18 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>${title}</title>
     <meta name="description" content="${title} — Enciclopedia de biohacking, salud y suplementos.">
+    <meta name="description" content="${metaDesc || (title + ' — Enciclopedia de biohacking, salud y suplementos.')}">
+    <meta name="robots" content="index, follow">
+    <meta property="og:title" content="${title}">
+    <meta property="og:description" content="${metaDesc || (title + ' — Enciclopedia de biohacking, salud y suplementos.')}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://obsidianpablozamit.vercel.app/${currentSlug || ''}">
+    <meta property="og:site_name" content="Biohacker's Lab">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="${title}">
+    <meta name="twitter:description" content="${metaDesc || (title + ' — Enciclopedia de biohacking, salud y suplementos.')}">
+    <link rel="canonical" href="https://obsidianpablozamit.vercel.app/${currentSlug || ''}">
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='15' fill='%231F7A55'/%3E%3Ctext x='16' y='22' text-anchor='middle' fill='white' font-family='Inter,sans-serif' font-weight='700' font-size='20'%3EB%3C/text%3E%3C/svg%3E">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap">
@@ -1437,7 +1449,7 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
 
 // Genera el contenido HTML del home (hero, top conectadas, aleatorio)
 // Mantiene el resto de notas generadas por el flujo estándar
-function generateHomeContent(notes, backlinksMap) {
+function generateHomeContent(notes, backlinksMap, catCount = 0) {
     // Suma total de wikilinks del vault
     let totalLinks = 0;
     const linkRegex = /\[\[([^\]|#]+)(?:#([^\]|]+))?(?:\|([^\]]+))?\]\]/g;
@@ -1477,7 +1489,7 @@ function generateHomeContent(notes, backlinksMap) {
                 <input type="search" name="q" placeholder="Busca una sustancia, síntoma o mecanismo…" aria-label="Buscar en la enciclopedia">
                 <button type="submit">Buscar</button>
             </form>
-            <p class="home-stats"><span class="num">${notes.length}</span> notas · <span class="num">${totalLinks}</span> enlaces cruzados</p>
+            <p class="home-stats"><span class="num">${notes.length}</span> notas · <span class="num">${totalLinks}</span> enlaces · <span class="num">${catCount}</span> <a href="categorias.html">categorías</a></p>
         </section>
 
         <section class="home-section">
@@ -1824,6 +1836,50 @@ function generate404Content(notes) {
     `;
 }
 
+// === Commit 10: helpers de SEO + sitemap ===
+function getMetaDescription(rawMd, title) {
+    if (!rawMd) return `${title} — Enciclopedia de biohacking, salud y suplementos.`;
+    const cleaned = rawMd
+        .replace(/^---[\s\S]*?---/, '')
+        .replace(/^#\s+.+/gm, '')
+        .replace(/!\[\[[^\]]+\]\]/g, '')
+        .replace(/\[\[([^\]]+)\]\]/g, '$1')
+        .replace(/```[\s\S]*?```/g, '')
+        .replace(/`[^`]+`/g, '')
+        .replace(/\*\*([^*]+)\*\*/g, '$1')
+        .replace(/__([^_]+)__/g, '$1')
+        .replace(/\*([^*]+)\*/g, '$1')
+        .replace(/_([^_]+)_/g, '$1')
+        .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+        .replace(/^>.*$/gm, '')
+        .replace(/[|#]/g, ' ')
+        .replace(/\s+/g, ' ')
+        .trim();
+    const firstPara = cleaned.split(/\n\n|\.\s/).find(s => s.length > 30) || cleaned.slice(0, 160);
+    return firstPara.length > 160 ? firstPara.slice(0, 157) + '…' : firstPara;
+}
+
+function generateSitemap(notes) {
+    const BASE = 'https://obsidianpablozamit.vercel.app';
+    const specials = [
+        { slug: 'index.html', freq: 'daily', pri: '1.0' },
+        { slug: 'buscar.html', freq: 'monthly', pri: '0.9' },
+        { slug: 'categorias.html', freq: 'weekly', pri: '0.9' }
+    ];
+    const specialUrls = specials.map(s =>
+        `  <url><loc>${BASE}/${s.slug}</loc><changefreq>${s.freq}</changefreq><priority>${s.pri}</priority></url>`
+    ).join('\n');
+    const noteUrls = notes
+        .filter(n => n.slug !== 'index.html' && n.slug !== 'buscar.html' && n.slug !== 'categorias.html' && n.slug !== '404.html')
+        .map(n => `  <url><loc>${BASE}/${n.slug}</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>`)
+        .join('\n');
+    return `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${specialUrls}\n${noteUrls}\n</urlset>\n`;
+}
+
+function generateRobotsTxt() {
+    return `User-agent: *\nAllow: /\nSitemap: https://obsidianpablozamit.vercel.app/sitemap.xml\n`;
+}
+
 // === Commit 9: índice de categorías JSON + página /categorias.html ===
 function generateCategoriesIndex(notes, backlinksMap) {
     const tagMap = {};
@@ -2009,8 +2065,10 @@ async function build() {
         for (const note of notes) {
             if (note.slug === 'buscar.html') continue; // escrita al final con generateSearchContent
             if (note.slug === '404.html') continue;     // escrita al final con generate404Content
+            if (note.slug === 'categorias.html') continue; // escrita al final con generateCategoriesContent
             if (note.slug === 'index.html') {
-                const homeContent = generateHomeContent(notes, backlinksMap);
+                const catCount = generateCategoriesIndex(notes, backlinksMap).length;
+                const homeContent = generateHomeContent(notes, backlinksMap, catCount);
                 const finalHtml = htmlTemplate('Inicio', homeContent, notes, [], true, 'index.html');
                 await fs.writeFile(path.join(DIST_DIR, note.slug), finalHtml);
                 continue;
@@ -2050,7 +2108,7 @@ async function build() {
             const htmlContent = marked.parse(content, { renderer });
             const toc = buildToc(htmlContent);
             const backlinks = backlinksMap[note.slug] ? Array.from(backlinksMap[note.slug]) : [];
-            const finalHtml = htmlTemplate(note.title, htmlContent, notes, backlinks, false, note.slug, toc);
+            const finalHtml = htmlTemplate(note.title, htmlContent, notes, backlinks, false, note.slug, toc, false, false, false, getMetaDescription(note.content, note.title));
 
             await fs.writeFile(path.join(DIST_DIR, note.slug), finalHtml);
         }
@@ -2075,6 +2133,12 @@ async function build() {
         const categoriesContent = generateCategoriesContent(categoriesIndex);
         const categoriesHtml = htmlTemplate('Categorías', categoriesContent, notes, [], false, 'categorias.html', '', false, false, true);
         await fs.writeFile(path.join(DIST_DIR, 'categorias.html'), categoriesHtml);
+
+        // === Commit 10: sitemap + robots.txt ===
+        const sitemap = generateSitemap(notes);
+        await fs.writeFile(path.join(DIST_DIR, 'sitemap.xml'), sitemap);
+        const robotsTxt = generateRobotsTxt();
+        await fs.writeFile(path.join(DIST_DIR, 'robots.txt'), robotsTxt);
 
         console.log(`Build complete. ${notes.length} notes processed (${searchIndex.length} indexadas, ${titlesIndex.length} títulos, ${categoriesIndex.length} categorías).`);
         console.log(`Static site generated in dist/`);
