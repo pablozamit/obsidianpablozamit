@@ -30,7 +30,7 @@ function fold(s) {
     return (s || '').toString().normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
 }
 
-const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, currentSlug = '', toc = '', isSearch = false, is404 = false) => {
+const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, currentSlug = '', toc = '', isSearch = false, is404 = false, isCategories = false) => {
     // Agrupa la sidebar por letra inicial y marca el item actual
     const grouped = {};
     const fold = (s) => (s || '').toString().normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
@@ -204,6 +204,16 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
             letter-spacing: -0.01em;
         }
         #inicio-link:hover { color: var(--link-hover); }
+        #categorias-link {
+            font-weight: 600;
+            margin-bottom: var(--sp-4);
+            display: block;
+            font-size: var(--fs-sm);
+            color: var(--ink-soft);
+            text-decoration: none;
+            letter-spacing: -0.01em;
+        }
+        #categorias-link:hover { color: var(--accent); }
 
         #search-input {
             width: 100%;
@@ -1112,6 +1122,116 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
             margin-top: var(--sp-2);
         }
 
+        /* === Categories page (commit 9) === */
+        main.is-categories article { max-width: none; padding: 0; }
+        main.is-categories #main-content { max-width: 1080px; }
+        .category-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: var(--sp-4);
+        }
+        @media (max-width: 1100px) {
+            .category-grid { grid-template-columns: repeat(2, 1fr); }
+        }
+        @media (max-width: 600px) {
+            .category-grid { grid-template-columns: 1fr; }
+        }
+        .category-card {
+            background: var(--bg-elev);
+            border: 1px solid var(--rule);
+            border-radius: 10px;
+            padding: var(--sp-5);
+            transition: border-color 0.15s ease, box-shadow 0.15s ease;
+        }
+        .category-card:hover {
+            border-color: var(--accent-soft);
+            box-shadow: 0 4px 16px rgba(31, 122, 85, 0.06);
+        }
+        .category-card.expanded {
+            border-color: var(--accent);
+            box-shadow: 0 4px 20px rgba(31, 122, 85, 0.12);
+        }
+        .category-header {
+            display: flex;
+            align-items: baseline;
+            justify-content: space-between;
+            gap: var(--sp-2);
+            margin-bottom: var(--sp-3);
+            flex-wrap: wrap;
+        }
+        .category-name {
+            margin: 0;
+            padding: 0;
+            font-size: var(--fs-h5);
+            font-weight: 700;
+            color: var(--ink);
+            border: none;
+            letter-spacing: -0.015em;
+        }
+        .category-count {
+            font-family: var(--font-mono);
+            font-size: var(--fs-xs);
+            color: var(--ink-mute);
+            letter-spacing: 0.04em;
+            background: var(--bg-muted);
+            padding: 2px 8px;
+            border-radius: 4px;
+            flex-shrink: 0;
+        }
+        .category-preview, .category-all {
+            list-style: none;
+            padding: 0;
+            margin: 0 0 var(--sp-3);
+            font-size: var(--fs-sm);
+        }
+        .category-preview li, .category-all li {
+            padding: var(--sp-1) 0;
+            margin: 0;
+            border-bottom: 1px solid var(--rule);
+        }
+        .category-preview li:last-child, .category-all li:last-child { border-bottom: none; }
+        .category-preview a, .category-all a {
+            color: var(--ink);
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.15s ease;
+        }
+        .category-preview a:hover, .category-all a:hover {
+            color: var(--accent);
+            text-decoration: none;
+        }
+        .cat-incoming {
+            font-family: var(--font-mono);
+            font-size: var(--fs-xs);
+            color: var(--ink-mute);
+            margin-left: var(--sp-2);
+        }
+        .category-toggle {
+            display: inline-block;
+            width: 100%;
+            padding: var(--sp-2) 0;
+            background: transparent;
+            border: none;
+            border-top: 1px solid var(--rule);
+            color: var(--accent);
+            font-family: var(--font-mono);
+            font-size: var(--fs-xs);
+            font-weight: 600;
+            cursor: pointer;
+            letter-spacing: 0.06em;
+            text-transform: uppercase;
+            transition: color 0.15s ease;
+            text-align: center;
+        }
+        .category-toggle:hover { color: var(--link-hover); }
+        .btn-cat-search {
+            display: inline-block;
+            margin-top: var(--sp-3);
+            font-size: var(--fs-sm);
+            padding: var(--sp-2) var(--sp-4);
+        }
+        .category-expand[hidden] { display: none; }
+
         /* === Móvil: sidebar como drawer === */
         @media (max-width: 800px) {
             body { display: block; }
@@ -1138,6 +1258,7 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
     <aside id="sidebar" aria-label="Índice de notas">
         <div id="sidebar-content">
             <a href="index.html" id="inicio-link">Inicio</a>
+            <a href="categorias.html" id="categorias-link">Categorías</a>
             <div class="sidebar-sticky-area">
                 <input type="text" id="search-input" placeholder="Buscar nota…" aria-label="Buscar nota">
             </div>
@@ -1146,7 +1267,7 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
             </nav>
         </div>
     </aside>
-    <main id="main-content" class="${isHome ? 'is-home' : isSearch ? 'is-search' : is404 ? 'is-404' : ''}">
+    <main id="main-content" class="${isHome ? 'is-home' : isSearch ? 'is-search' : is404 ? 'is-404' : isCategories ? 'is-categories' : ''}">
         <div class="article-wrapper${toc ? ' has-toc' : ''}">
             ${toc}
             <article>
@@ -1702,6 +1823,110 @@ function generate404Content(notes) {
     `;
 }
 
+// === Commit 9: índice de categorías JSON + página /categorias.html ===
+function generateCategoriesIndex(notes, backlinksMap) {
+    const tagMap = {};
+    const collectTags = (s) => {
+        const m = String(s || '').match(/#[\p{L}0-9_\-]+/gu);
+        return m ? Array.from(new Set(m.map(t => t.toLowerCase()))) : [];
+    };
+    for (const note of notes) {
+        if (note.slug === 'index.html' || note.slug === 'buscar.html' || note.slug === 'categorias.html' || note.slug === '404.html') continue;
+        const tags = collectTags(note.content);
+        const incoming = backlinksMap[note.slug] ? backlinksMap[note.slug].size : 0;
+        for (const tag of tags) {
+            if (!tagMap[tag]) tagMap[tag] = [];
+            tagMap[tag].push({ title: note.title, slug: note.slug, incoming });
+        }
+    }
+    const categories = Object.entries(tagMap)
+        .filter(([, entries]) => entries.length >= 5)
+        .map(([tag, entries]) => ({
+            tag: tag.replace(/^#/, ''),
+            count: entries.length,
+            notes: entries.sort((a, b) => b.incoming - a.incoming)
+        }))
+        .sort((a, b) => b.count - a.count);
+    return categories;
+}
+
+function generateCategoriesContent(categories) {
+    const cards = categories.map(cat => {
+        const top5 = cat.notes.slice(0, 5);
+        const preview = top5.map(n =>
+            `<li><a href="${n.slug}">${n.title}</a></li>`
+        ).join('');
+        const allHTML = cat.notes.map(n =>
+            `<li><a href="${n.slug}">${n.title}</a> <span class="cat-incoming">${n.incoming} enl.</span></li>`
+        ).join('');
+        const encoded = cat.tag.replace(/'/g, '\\x27').replace(/"/g, '&quot;');
+        return `
+        <article class="category-card" data-encoded="${encoded}">
+            <div class="category-header">
+                <h2 class="category-name">#${cat.tag}</h2>
+                <span class="category-count">${cat.count} ${cat.count === 1 ? 'nota' : 'notas'}</span>
+            </div>
+            <ul class="category-preview">${preview}</ul>
+            <div class="category-expand" hidden>
+                <ul class="category-all">${allHTML}</ul>
+                <a class="btn-primary btn-cat-search" href="buscar.html?q=${encodeURIComponent(cat.tag)}">Ver todas en el buscador →</a>
+            </div>
+            <button class="category-toggle" aria-expanded="false" aria-label="Expandir categoría ${cat.tag}">+ ${cat.count} notas</button>
+        </article>`;
+    }).join('');
+
+    return `
+        <section class="hero">
+            <p class="hero-eyebrow">Descubrimiento</p>
+            <h1 class="hero-title">Explorar por <span class="accent">categorías</span></h1>
+            <p class="hero-sub">Clusters temáticos detectados automáticamente desde los hashtags de las notas. Cada categoría agrupa al menos 5 notas sobre el mismo tema.</p>
+            <p class="home-stats"><span class="num">${categories.length}</span> categorías activas</p>
+        </section>
+        <section class="home-section">
+            <div class="category-grid" id="category-grid">
+                ${cards}
+            </div>
+        </section>
+        <script>
+        (function () {
+            var grid = document.getElementById('category-grid');
+            if (!grid) return;
+            // Store note counts from DOM for toggle labels
+            grid.querySelectorAll('.category-card').forEach(function (c) {
+                var countEl = c.querySelector('.category-count');
+                if (countEl) {
+                    var m = countEl.textContent.match(/\d+/);
+                    if (m) c.dataset.count = m[0];
+                }
+            });
+            grid.addEventListener('click', function (e) {
+                var toggle = e.target.closest('.category-toggle');
+                if (!toggle) return;
+                e.preventDefault();
+                var card = toggle.closest('.category-card');
+                var expand = card.querySelector('.category-expand');
+                var preview = card.querySelector('.category-preview');
+                var expanded = toggle.getAttribute('aria-expanded') === 'true';
+                var count = card.dataset.count || '';
+                if (expanded) {
+                    expand.hidden = true;
+                    preview.hidden = false;
+                    toggle.setAttribute('aria-expanded', 'false');
+                    toggle.textContent = '+ ' + count + ' notas';
+                    card.classList.remove('expanded');
+                } else {
+                    expand.hidden = false;
+                    preview.hidden = true;
+                    toggle.setAttribute('aria-expanded', 'true');
+                    toggle.textContent = '− Contraer';
+                    card.classList.add('expanded');
+                }
+            });
+        })();
+        </script>
+    `;
+}
+
 // Construye tabla de contenidos desde los H2/H3 con id= del HTML ya renderizado
 function buildToc(htmlContent) {
     const headings = [];
@@ -1843,7 +2068,14 @@ async function build() {
         const notFoundHtml = htmlTemplate('404 — Nota no encontrada', notFoundContent, notes, [], false, '404.html', '', false, true);
         await fs.writeFile(path.join(DIST_DIR, '404.html'), notFoundHtml);
 
-        console.log(`Build complete. ${notes.length} notes processed (${searchIndex.length} indexadas, ${titlesIndex.length} títulos para 404).`);
+        // === Commit 9: categories ===
+        const categoriesIndex = generateCategoriesIndex(notes, backlinksMap);
+        await fs.writeFile(path.join(DIST_DIR, 'categories.json'), JSON.stringify(categoriesIndex));
+        const categoriesContent = generateCategoriesContent(categoriesIndex);
+        const categoriesHtml = htmlTemplate('Categorías', categoriesContent, notes, [], false, 'categorias.html', '', false, false, true);
+        await fs.writeFile(path.join(DIST_DIR, 'categorias.html'), categoriesHtml);
+
+        console.log(`Build complete. ${notes.length} notes processed (${searchIndex.length} indexadas, ${titlesIndex.length} títulos, ${categoriesIndex.length} categorías).`);
         console.log(`Static site generated in dist/`);
     } catch (err) {
         console.error('Error during build:', err);
