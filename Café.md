@@ -38,4 +38,12 @@ Síntesis basada en Grimhood (@Grimhood, @Zenfrog4) y @capsuline (jun 2026):
 > "All three are easy to replenish in capsule form. Magnesium glycinate at 300-400mg fits a size 0 HPMC, one or two daily. Zinc at 15-25mg elemental goes into a size 4 HPMC. Thiamine at 50-100mg fits a size 3 or 4. HPMC over gelatin for this whole stack as it handles..."
 > _—@capsuline (1 jun 2026)_
 
+## Ver también
+
+- [[Cafeína]] — bioquímica del compuesto activo (mitocondria, adenosina, CYP1A2)
+- [[Teanina]] — stack neuroprotector para acompañar el café
+- [[Magnesio]], [[Zinc]], [[Vitamina B1]] — nutrientes que el café depleciona
+- [[Té]] — alternativa con cafeína + L-teanina natural
+- [[Electrolitos]] — el café altera el balance electrolítico
+
 ## Alternativas al Café

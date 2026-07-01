@@ -74,6 +74,15 @@ Esto constituye una "plantilla para el envejecimiento biológico acelerado" (@Th
 
 Ver [[Ritmo circadiano]], [[Sueño]], [[CYP1A2]] (si existe).
 
+## Ver también
+
+- [[Café]] — efectos prácticos del consumo (depleción de nutrientes, stacks)
+- [[CYP1A2]] — genética del metabolismo de cafeína
+- [[Teanina]] — mitigador de efectos secundarios
+- [[Ritmo circadiano]] — la cafeína desplaza el reloj biológico
+- [[Adenosina]] — receptor sobre el que actúa
+- [[Té]] — otra fuente de cafeína con perfil diferente
+
 ## Estudios por Repasar
 
 1.  "Las actividades [[Antioxidantes|antioxidantes]] y [[Inflamación|antiinflamatorias]] de la cafeína atenúan eficazmente la esteatohepatitis no alcohólica y la lesión hepática inducida por tioacetamida en ratas macho."
