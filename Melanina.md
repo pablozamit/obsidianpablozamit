@@ -15,9 +15,36 @@ El tipo de melanina producido depende principalmente de la **concentración de c
 
 Contrario a la intuición, la presencia de melanina o sus precursores parece ser **necesaria** para el desarrollo del [[Melanoma]]. Los albinos (que carecen de ambas melaninas) casi nunca desarrollan melanoma, aunque sí SCC/BCC. Ver [[Melanoma#Albinos negros: experimento natural]] y [[Feomelanina]].
 
+## Melanina como transductor cuántico
+
+La melanina es mucho más que un pigmento cutáneo. Es un **pigmento agujero negro** que absorbe radiación electromagnética, regula minerales y quelata metales pesados. Se encuentra por todo el cuerpo: retina, cerebro, oído interno, corazón y substantia nigra.
+
+### Propiedades biofísicas
+
+- **Foto-receptora**: la producción de melanina se estimula vía radiación UV. La melanina puede **dividir el agua** (fotólisis) en electrones, H⁺ y oxígeno dentro del cuerpo —muchas personas están hipóxicas y tienen bajo potencial redox (pocos electrones).
+- **Transductora**: la melanina convierte la energía lumínica en señales biológicas utilizables.
+- **Conexión leptina-melanocortina**: está íntimamente ligada a la vía leptina-melanocortina, uno de los principales sistemas de regulación del apetito, balance energético y estado metabólico.
+
+### Consecuencias de bloquear la UV
+
+Si bloqueamos la luz UV —con protector solar o evitando el sol— se interrumpe la producción de melanina y, con ella, múltiples vías dependientes:
+
+- [[Vitamina D]]
+- [[Óxido nítrico]] (NO)
+- Neurotransmisores (serotonina, dopamina)
+- Endocannabinoides
+- Hormona tiroidea
+- β-endorfinas y encefalinas
+
+> _—Marco de @spugh01 (30 jun 2026), que integra la melanina como transductor cuántico dentro de la biología cuántica: luz como información, agua como medio, melanina como transductor, DHA como receptor/cableado, mitocondria como procesador, hormonas como mensajeros._
+
+Además, el uso de gafas de sol bloquea la señal UV en la retina, reduciendo aún más la producción de melanina y vitamina D (@spugh01 y @Greythebeard, 30 jun 2026).
+
 ## Ver también
 
 - [[Feomelanina]]
 - [[Melanoma]]
 - [[Piel]]
 - [[Luz ultravioleta]]
+- [[Luz solar]]
+- [[Protector solar]]

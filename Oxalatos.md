@@ -22,3 +22,7 @@ Los oxalatos son sales y ésteres del ácido oxálico, una sustancia orgánica q
 - **Enfermedades Relacionadas**: Existen enfermedades genéticas raras, como la hiperoxaluria primaria, en las que el cuerpo produce demasiado oxalato.
     
 - **Balance Nutricional**: Es importante equilibrar la preocupación sobre los oxalatos con la necesidad de una dieta rica en nutrientes. Muchos alimentos que contienen oxalatos también son ricos en otros nutrientes beneficiosos.
+
+## Prevención con glicina
+
+La [[Glicina]] activa el microARN miR-411-3p, reduciendo la secreción de oxalato hacia la orina, aumentando el citrato y alcalinizando el pH urinario, lo que previene la formación de cálculos de oxalato cálcico. Ver [[Glicina#Prevención de cálculos renales]].

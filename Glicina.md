@@ -72,10 +72,29 @@ Glicina → más 5-AR → más DHT → más 3b-diol → activación GABA-A → r
 
 La N-acetiltaurina (presente en [[Magnesio Acetil Taurato]]) tiene mayor afinidad por el receptor de glicina que la glicina misma.
 
+## Prevención de cálculos renales
+
+La glicina previene y revierte los **cálculos de oxalato cálcico** mediante un mecanismo epigenético: activa el **microARN miR-411-3p**, que regula la maquinaria renal para evitar la formación de cristales.
+
+### Mecanismo
+
+1. **Reduce la secreción de oxalato** hacia la orina (disminuye el sustrato para cristalización).
+2. **Aumenta el citrato urinario**, un inhibidor natural que quelata el calcio antes de que se combine con el oxalato.
+3. **Alcaliniza el pH urinario**, eliminando la acidez que los cristales necesitan para nucleación y crecimiento.
+4. **Minimiza la deposición de cristales** en modelos experimentales (etilenglicol).
+
+Las personas con cálculos renales presentan **menos glicina en orina**, lo que sugiere que es un factor relevante en la susceptibilidad.
+
+> _—Protocolo de @JotaManifesto basado en el eje glicina → miR-411-3p → transporte de oxalato / citrato / pH. Dosis no especificada, pero el perfil de seguridad de la glicina permite experimentar con 3-10 g/día._
+
+Ver [[Oxalatos]] y [[Riñón]].
+
 ### Relacionado
 
 - [[Eyaculación Precoz]] — nota principal sobre EP
 - [[Ansiedad y EP]] — la glicina aparece como ansiolítico
 - [[GABA]] — principal neurotransmisor inhibidor
 - [[Magnesio Acetil Taurato]] — contiene acetil taurina con mayor afinidad por el receptor de glicina
+- [[Oxalatos]] — sustrato de los cálculos que la glicina previene
+- [[Riñón]] — órgano diana de este efecto
 

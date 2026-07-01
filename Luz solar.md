@@ -87,7 +87,18 @@ La exposición a **UVB/luz solar** estimula el lóbulo anterior de la hipófisis
 
 > _—Síntesis basada en @BerbarianWizard (1 oct 2025), que señala el sol como activador natural de la vía melanocortínica del deseo._
 
-Ver [[Libido]] para el marco dual completo y [[PT-141 (Bremelanotida)]] para la versión farmacológica.
+### La melanocortina como sistema adaptativo a UV
+
+El sistema melanocortínico no es un mecanismo de defensa contra el daño UV, sino un **sistema adaptativo** que evolucionó para responder a la luz solar. Consideraciones:
+
+- Los melanocitos regulan la producción de melanina en proporción directa a la exposición UV. Es una **respuesta adaptativa**, no una respuesta a daño. El cuerpo se prepara para más sol, no pide menos.
+- El sistema melanocortínico conecta con el apetito, la inflamación, la función inmune y la respuesta al estrés. Reducirlo a "defensa contra UV" ignora su papel biológico central.
+- Los seres humanos son una **especie circadiana de exterior** con un sistema melanocortínico diseñado para gestionar carga de UV. Ha estado haciéndolo durante cientos de miles de años de exposición solar ecuatorial.
+- La idea de que este sistema es inadecuado y necesita ser suplementado con **filtros químicos derivados del petróleo** aplicados cada dos horas es biológicamente absurda.
+
+> _—Argumento de @zaidkdahhaj (30 jun 2026), que critica el encuadre de la UV como amenaza pura que requiere mitigación tecnológica._
+
+Ver también [[Protector solar]] para los datos epidemiológicos que respaldan esta crítica.
 
 ## Huesos y calcio
 
