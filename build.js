@@ -30,7 +30,32 @@ function fold(s) {
     return (s || '').toString().normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
 }
 
-const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, currentSlug = '', toc = '', isSearch = false, is404 = false, isCategories = false, isItinerarios = false, metaDesc = '') => {
+function parseFrontmatter(raw) {
+    if (!raw || typeof raw !== "string") return { content: raw || "", frontmatter: {} };
+    const m = raw.match(/^---\n([\s\S]*?)\n---(?:\n|$)/);
+    if (!m) return { content: raw, frontmatter: {} };
+    const yamlBody = m[1];
+    const rest = raw.slice(m[0].length);
+    const fm = {};
+    yamlBody.split(/\n/).forEach(line => {
+        const kv = line.match(/^([a-zA-Z_][\w-]*)\s*:\s*(.*)$/);
+        if (!kv) return;
+        const key = kv[1].trim();
+        const raw2 = (kv[2] || "").trim().replace(/^['"]|['"]$/g, "");
+        const asNum = Number(raw2);
+        fm[key] = (raw2 !== "" && !Number.isNaN(asNum) && /^-?\d/.test(raw2)) ? asNum : raw2;
+    });
+    return { content: rest, frontmatter: fm };
+}
+
+function ratingLabel(r) {
+    if (r >= 9) return "Imprescindible";
+    if (r >= 7) return "Bueno";
+    if (r >= 5) return "Medio";
+    if (r >= 3) return "Básico";
+    return "Bajo";
+}
+const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, currentSlug = '', toc = '', isSearch = false, is404 = false, isCategories = false, isItinerarios = false, metaDesc = '', currentRating = null) => {
     // Agrupa la sidebar por letra inicial y marca el item actual
     const grouped = {};
     const fold = (s) => (s || '').toString().normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
@@ -1072,6 +1097,138 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
         }
 
         /* === Likes (commit 8) === */
+
+        .note-rating {
+            display: inline-flex;
+            align-items: center;
+            gap: 14px;
+            padding: 10px 16px;
+            margin: 0 0 28px;
+            border-radius: 10px;
+            font-family: var(--font-body, "Inter", system-ui, sans-serif);
+            border: 1px solid transparent;
+            max-width: max-content;
+        }
+        .note-rating-score {
+            font-weight: 700;
+            font-size: clamp(20px, 2.4vw, 26px);
+            line-height: 1;
+            font-variant-numeric: tabular-nums;
+        }
+        .note-rating-bar {
+            width: 80px;
+            height: 6px;
+            background: rgba(0,0,0,.08);
+            border-radius: 3px;
+            overflow: hidden;
+        }
+        .note-rating-fill {
+            display: block;
+            height: 100%;
+            border-radius: 3px;
+            transition: width 320ms ease;
+        }
+        .note-rating-label {
+            font-size: 13px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+            opacity: 0.85;
+        }
+        .note-rating[data-rating="1"],
+        .note-rating[data-rating="2"] {
+            background: #fdecec;
+            color: #a01b1b;
+            border-color: rgba(160,27,27,.18);
+        }
+        .note-rating[data-rating="1"] .note-rating-fill,
+        .note-rating[data-rating="2"] .note-rating-fill { background: #c7322f; }
+        .note-rating[data-rating="3"],
+        .note-rating[data-rating="4"] {
+            background: #fff1e0;
+            color: #a04200;
+            border-color: rgba(160,66,0,.18);
+        }
+        .note-rating[data-rating="3"] .note-rating-fill,
+        .note-rating[data-rating="4"] .note-rating-fill { background: #e8771f; }
+        .note-rating[data-rating="5"],
+        .note-rating[data-rating="6"] {
+            background: #fff8d6;
+            color: #8a6a00;
+            border-color: rgba(138,106,0,.20);
+        }
+        .note-rating[data-rating="5"] .note-rating-fill,
+        .note-rating[data-rating="6"] .note-rating-fill { background: #d4a017; }
+        .note-rating[data-rating="7"],
+        .note-rating[data-rating="8"] {
+            background: #e6f4ea;
+            color: #156b35;
+            border-color: rgba(21,107,53,.18);
+        }
+        .note-rating[data-rating="7"] .note-rating-fill,
+        .note-rating[data-rating="8"] .note-rating-fill { background: #2aa15a; }
+        .note-rating[data-rating="9"],
+        .note-rating[data-rating="10"] {
+            background: #d4eddd;
+            color: #0a4d22;
+            border-color: rgba(10,77,34,.30);
+            box-shadow: 0 1px 0 rgba(10,77,34,.08);
+        }
+        .note-rating[data-rating="9"] .note-rating-fill,
+        .note-rating[data-rating="10"] .note-rating-fill { background: #16703b; }
+        body.dark .note-rating[data-rating="1"],
+        body.dark .note-rating[data-rating="2"] {
+            background: rgba(199,50,47, .15);
+            color: #f06b6b;
+            border-color: rgba(199,50,47, .30);
+        }
+        body.dark .note-rating[data-rating="1"] .note-rating-fill,
+        body.dark .note-rating[data-rating="2"] .note-rating-fill { background: #f06b6b; }
+        body.dark .note-rating[data-rating="3"],
+        body.dark .note-rating[data-rating="4"] {
+            background: rgba(232,119,31, .15);
+            color: #f09250;
+            border-color: rgba(232,119,31, .30);
+        }
+        body.dark .note-rating[data-rating="3"] .note-rating-fill,
+        body.dark .note-rating[data-rating="4"] .note-rating-fill { background: #f09250; }
+        body.dark .note-rating[data-rating="5"],
+        body.dark .note-rating[data-rating="6"] {
+            background: rgba(212,160,23, .15);
+            color: #daba50;
+            border-color: rgba(212,160,23, .30);
+        }
+        body.dark .note-rating[data-rating="5"] .note-rating-fill,
+        body.dark .note-rating[data-rating="6"] .note-rating-fill { background: #daba50; }
+        body.dark .note-rating[data-rating="7"],
+        body.dark .note-rating[data-rating="8"] {
+            background: rgba(42,161,90, .15);
+            color: #65bb85;
+            border-color: rgba(42,161,90, .30);
+        }
+        body.dark .note-rating[data-rating="7"] .note-rating-fill,
+        body.dark .note-rating[data-rating="8"] .note-rating-fill { background: #65bb85; }
+        body.dark .note-rating[data-rating="9"],
+        body.dark .note-rating[data-rating="10"] {
+            background: rgba(22,112,59, .15);
+            color: #5a9d72;
+            border-color: rgba(22,112,59, .30);
+            box-shadow: inset 0 0 0 1px rgba(182,232,199,.10);
+        }
+        body.dark .note-rating[data-rating="9"] .note-rating-fill,
+        body.dark .note-rating[data-rating="10"] .note-rating-fill { background: #5a9d72; }
+        @media print {
+            .note-rating {
+                background: transparent !important;
+                border: 1px solid #888 !important;
+                color: #222 !important;
+                print-color-adjust: exact;
+                -webkit-print-color-adjust: exact;
+            }
+            .note-rating-fill { background: #444 !important; }
+            .note-rating-label { color: #444 !important; }
+        }
+
         .like-section {
             margin-top: var(--sp-6);
             padding: var(--sp-4) 0;
@@ -1450,6 +1607,13 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
         <div class="article-wrapper${toc ? ' has-toc' : ''}">
             ${toc}
             <article>
+                ${currentRating ? `
+                <div class="note-rating" data-rating="${currentRating}" aria-label="Puntuacion ${currentRating} de 10" role="figure">
+                    <span class="note-rating-score">${currentRating}</span>
+                    <div class="note-rating-bar" aria-hidden="true"><div class="note-rating-fill" style="width: ${currentRating * 10}%"></div></div>
+                    <span class="note-rating-label">${ratingLabel(currentRating)}</span>
+                </div>
+                ` : ""}
                 ${content}
             </article>
         </div>
@@ -2389,7 +2553,10 @@ async function build() {
             const title = path.basename(md.name, '.md');
             const slug = getSlugifiedFilename(md.name);
 
-            notes.push({ title, slug, path: md.path, content });
+            const parsed = parseFrontmatter(content);
+            const ratingRaw = parsed.frontmatter.rating;
+            const rating = (typeof ratingRaw === "number" && Number.isInteger(ratingRaw) && ratingRaw >= 1 && ratingRaw <= 10) ? ratingRaw : null;
+            notes.push({ title, slug, path: md.path, content: parsed.content, rating });
         }
 
         for (const note of notes) {
@@ -2454,7 +2621,7 @@ async function build() {
             const htmlContent = marked.parse(content, { renderer });
             const toc = buildToc(htmlContent);
             const backlinks = backlinksMap[note.slug] ? Array.from(backlinksMap[note.slug]) : [];
-            const finalHtml = htmlTemplate(note.title, htmlContent, notes, backlinks, false, note.slug, toc, false, false, false, false, getMetaDescription(note.content, note.title));
+            const finalHtml = htmlTemplate(note.title, htmlContent, notes, backlinks, false, note.slug, toc, false, false, false, false, getMetaDescription(note.content, note.title), note.rating);
 
             await fs.writeFile(path.join(DIST_DIR, note.slug), finalHtml);
         }
