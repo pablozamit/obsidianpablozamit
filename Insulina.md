@@ -29,6 +29,78 @@ Esta visión coincide en parte con el marco Peat-friend del vault, pero omite di
 
 > _—Caveat: la posición "sugar is not the enemy" es correcta **en contexto** (matriz, dosis, frecuencia), pero la presentación del autor en formato myth-busting agrega confusión al consumidor medio que ya no distingue entre sacarosa aislada, fructosa libre y almidón complejo._
 
+# Insulina intranasal
+
+La insulina administrada por vía intranasal (IN) atraviesa la [[Barrera hematoencefálica]] directamente sin afectar significativamente la glucosa sanguínea periférica. A diferencia de la insulina inyectada, **no causa hipoglucemia** a dosis terapéuticas (20-160 IU).
+
+## Seguridad
+
+- No reduce la glucosa sanguínea periférica (Morph, revisión de 100+ estudios).
+- No causa resistencia a la insulina cerebral; al contrario, **restaura la sensibilidad a la insulina** en el cerebro (relevante en Alzheimer, considerada "diabetes tipo 3").
+- Dosis estudiadas: 20-160 IU (dosis óptima). Estudios han usado hasta 1000 IU con solo 1 caso de hipoglucemia a 600 IU, probablemente por deglución accidental.
+- El único riesgo real es hipoglucemia por deglución (tragar en vez de inhalar); a dosis de 20-160 IU no es un problema.
+
+## Efectos metabólicos
+
+| Marcador | Efecto |
+|----------|--------|
+| ATP cerebral | ↑ |
+| Fosfocreatina | ↑ |
+| Respiración mitocondrial | ↑ |
+| ADN mitocondrial (Nd1, Nd4) | ↑ |
+| Capacidad antioxidante | ↑ (↑[[Glutatión]], ↑SOD, activa [[Nrf2]]) |
+| Estrés oxidativo | ↓ |
+| Señalización inflamatoria | ↓ |
+| Relación lactato:piruvato | ↓ |
+| Flujo sanguíneo cerebral | ↑ |
+| PGC-1α | ↑ |
+| Metabolismo glucosa cerebral | Preservado en modelos de Alzheimer |
+| GLUT-1 en cerebro estresado | ↑ |
+| Eficiencia metabólica neuronal | ↑ |
+
+## Efectos cognitivos
+
+- Mejora: recuerdo de palabras, memoria diferida, memoria de trabajo, memoria de reconocimiento
+- Mejora: aprendizaje espacial, navegación espacial, velocidad de aprendizaje
+- Mejora: memoria en Alzheimer y personas en riesgo
+- ↓ Deterioro cognitivo
+- ↑ Motivación y conducta exploratoria
+- ↓ Corticosterona y pérdida de peso por estrés
+
+## Neuroprotección
+
+- ↓ Depósitos de [[Aβ]] (beta-amiloide)
+- Restaura señalización IRS-1 y Akt
+- Restaura mTOR y sensibilidad a insulina cerebral
+- ↓ Degeneración neuronal y marcadores de daño cerebral
+- ↓ Edema cerebral y tamaño de lesión
+- Repara la [[Barrera hematoencefálica]]
+- ↓ Activación microglial y citoquinas inflamatorias
+- ↓ Apoptosis por ER-stress y autofagia maladaptativa
+- ↓ Caspasa-3 en neuronas
+- Previene depleción de ATP y [[BDNF]] durante excitotoxicidad por glutamato
+- Mejora el metabolismo oxidativo mitocondrial
+
+## Modulación de neurotransmisores
+
+- ↓ NET (transportador de noradrenalina) en locus coeruleus → ↑ noradrenalina disponible
+- ↑ DAT (transportador de dopamina) en VTA y substantia nigra → recaptación de dopamina
+- ↓ Dopamina en VTA vía recaptación (elimina distracciones por recompensa)
+- Restaura señalización de receptores adrenérgicos y serotoninérgicos
+- Restaura SERT (transportador de serotonina)
+- ↑ [[BDNF]], ↑NGF-β, ↑TrkB, ↑GDNF
+- ↑ Receptores NMDA en superficie → plasticidad sináptica
+- ↑ Actividad GABA-A → equilibrio inhibitorio
+- ↑ Liberación presináptica de glutamato en NAc
+- ↑ Conexiones dopaminérgicas en mesencéfalo
+- Protege neuronas dopaminérgicas de substantia nigra
+
+## Perfil general
+
+La insulina intranasal es descrita como el **nootrópico más infravalorado** (@doctormorphh, mar-jun 2026): cero efectos secundarios a dosis terapéuticas, mejora enfoque eliminando distracciones (no estimulando), neuroprotectora, y optimizadora del metabolismo energético cerebral.
+
+> _—Caveat: la evidencia es prometedora pero mayoritariamente preclínica. Los ensayos en humanos (especialmente en Alzheimer) muestran beneficios cognitivos, pero su uso como nootrópico en sanos no tiene aprobación regulatoria. @doctormorphh no es médico y no es consejo médico._
+
 # Ver también
 - [[Glucosa]]
 - [[Cortisol]]

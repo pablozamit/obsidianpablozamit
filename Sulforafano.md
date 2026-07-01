@@ -97,6 +97,10 @@ El sulforafano es el **inductor Nrf2 más potente** conocido en la dieta:
 
 > El sulforafano tiene el marketing más sólido de todos los fitoquímicos "antioxidantes" (Nrf2, GST, HDAC), pero los efectos clínicos en humanos son **modestos a dosis alcanzables**. No es un "supermedicamento" como sugiere la literatura comercial. La sinergia con el consumo de crucíferas crudas/cocinadas al vapor es más realista que megadosis de suplementos.
 
+## Brotes de brócoli
+
+Los brotes (germinados) de brócoli de 3 días son la **fuente más concentrada** de sulforafano: ~50-100 mg/100 g de glucorafanina. Son fáciles de cultivar en casa en pocos días y extremadamente densos en nutrientes (@Mavimaxxing, 29 jun 2026).
+
 ## Ver también
 
 - [[Crucíferas]

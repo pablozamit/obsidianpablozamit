@@ -50,6 +50,30 @@ La cafeína sola **empeora** los síntomas de [[TDAH]] en niños. Sin embargo, c
 
 Efectos medibles 1-2 horas después de una dosis única (@MyProtocols, 4 jun 2026).
 
+## Genética CYP1A2: metabolizadores lentos vs rápidos
+
+Aproximadamente la **mitad de la población** porta una variante genética del gen **CYP1A2** que los convierte en **metabolizadores lentos** de la cafeína:
+
+- **Metabolizadores rápidos** (aledo *1A): metabolizan la cafeína rápidamente, menor riesgo cardiovascular.
+- **Metabolizadores lentos** (alelo *1F): la cafeína permanece más tiempo en sangre, aumentando significativamente el riesgo de **alteraciones del sueño** y **problemas cardiovasculares** (hipertensión, infarto).
+- El efecto es dosis-dependiente: en lentos, cada taza adicional se asocia con mayor riesgo, mientras que en rápidos el riesgo se mantiene plano o incluso disminuye.
+
+### Aceleración del envejecimiento biológico
+
+Con la edad, el cuerpo produce menos:
+- [[Dopamina]]
+- [[Acetilcolina]]
+- [[Noradrenalina]]
+- Hormonas sexuales, de crecimiento y tiroideas
+
+El consumo de cafeína acelera la depleción de estos neurotransmisores y hormonas, creando un **bucle de retroalimentación negativo**:
+
+> "Cuantos más años tienes, menos neurotransmisores produces → más café necesitas para funcionar → más aceleras su depleción → empeoras tu biología."
+
+Esto constituye una "plantilla para el envejecimiento biológico acelerado" (@ThorTorrens, 30 jun 2026). En metabolizadores lentos de CYP1A2, el efecto es aún más pronunciado porque el estímulo persiste más tiempo en el organismo.
+
+Ver [[Ritmo circadiano]], [[Sueño]], [[CYP1A2]] (si existe).
+
 ## Estudios por Repasar
 
 1.  "Las actividades [[Antioxidantes|antioxidantes]] y [[Inflamación|antiinflamatorias]] de la cafeína atenúan eficazmente la esteatohepatitis no alcohólica y la lesión hepática inducida por tioacetamida en ratas macho."
