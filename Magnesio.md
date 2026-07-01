@@ -1,3 +1,7 @@
+---
+rating: 10
+---
+
 # Magnesio
 
 ## Complejos engañosos (óxido como base)

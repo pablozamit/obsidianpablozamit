@@ -1,3 +1,7 @@
+---
+rating: 7
+---
+
 # Aspirina (Ácido Acetilsalicílico)
 
 La [[Aspirina]] es un [[Fármaco]] ampliamente utilizado con diversas propiedades.
