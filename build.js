@@ -55,12 +55,12 @@ function ratingLabel(r) {
     if (r >= 3) return "Básico";
     return "Bajo";
 }
-const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, currentSlug = '', toc = '', isSearch = false, is404 = false, isCategories = false, isItinerarios = false, metaDesc = '', currentRating = null) => {
+const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, currentSlug = '', toc = '', isSearch = false, is404 = false, isCategories = false, isItinerarios = false, isImprescindibles = false, metaDesc = '', currentRating = null) => {
     // Agrupa la sidebar por letra inicial y marca el item actual
     const grouped = {};
     const fold = (s) => (s || '').toString().normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
     for (const n of allNotes) {
-        if (n.slug === 'index.html' || n.slug === 'buscar.html' || n.slug === '404.html' || n.slug === 'itinerarios.html' || n.slug === 'categorias.html') continue;
+        if (n.slug === 'index.html' || n.slug === 'buscar.html' || n.slug === '404.html' || n.slug === 'itinerarios.html' || n.slug === 'categorias.html' || n.slug === 'imprescindibles.html') continue;
         const first = fold(n.title).charAt(0).toUpperCase() || '#';
         if (!grouped[first]) grouped[first] = [];
         grouped[first].push(n);
@@ -84,7 +84,7 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
            </section>`
         : '';
 
-    const likeSection = (!isHome && !isSearch && !is404 && !isItinerarios && !isCategories && currentSlug)
+    const likeSection = (!isHome && !isSearch && !is404 && !isItinerarios && !isCategories && !isImprescindibles && currentSlug)
         ? `<section class="like-section" data-slug="${currentSlug}" aria-label="Votar por esta nota">
             <span class="like-label">¿Te sirvió esta nota?</span>
             <button class="like-btn like-btn-up" data-vote="like" type="button" aria-label="Voto positivo">
@@ -254,6 +254,28 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
             letter-spacing: -0.01em;
         }
         #categorias-link:hover { color: var(--accent); }
+        #top-ratings-link { position: relative; display: inline-block; padding: .5rem .75rem; color: var(--text); text-decoration: none; border-radius: 6px; transition: color .15s ease; }
+        #top-ratings-link::before { content: "★"; margin-right: .35rem; color: var(--accent); font-weight: 700; }
+        #top-ratings-link:hover { color: var(--accent); background: var(--bg-accent-soft, transparent); }
+        .imprescindibles-page { max-width: 900px; margin: 0 auto; padding: 2rem 1rem; }
+        .imprescindibles-title { font-size: 1.9rem; margin: 0 0 .25rem; letter-spacing: -.01em; }
+        .imprescindibles-subtitle { color: var(--muted); margin: 0 0 2rem; font-size: .95rem; }
+        .imprescindibles-empty { text-align: center; padding: 4rem 2rem; color: var(--muted); }
+        .tier-section { margin-bottom: 2.5rem; }
+        .tier-section--imprescindible { border-top: 3px solid #c9a227; padding-top: 1.25rem; }
+        .tier-section--bueno { border-top: 2px solid #6b8e4e; padding-top: 1.25rem; }
+        .tier-section--medio { border-top: 2px solid #7d8590; padding-top: 1.25rem; }
+        .tier-header { display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 1rem; }
+        .tier-label { margin: 0; font-size: 1.25rem; }
+        .tier-range { color: var(--muted); font-variant-numeric: tabular-nums; font-size: .9rem; }
+        .tier-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: .85rem; }
+        .tier-card { display: flex; align-items: center; gap: .75rem; padding: .85rem 1rem; border: 1px solid var(--border, #e0e0e0); border-radius: 8px; background: var(--card-bg, var(--bg)); text-decoration: none; color: inherit; transition: transform .15s ease, box-shadow .15s ease, border-color .15s ease; }
+        .tier-card:hover { transform: translateY(-1px); border-color: var(--accent); box-shadow: 0 4px 12px rgba(0,0,0,.06); }
+        .tier-card-rating { display: inline-flex; align-items: center; justify-content: center; min-width: 2.25rem; height: 2.25rem; padding: 0 .6rem; border-radius: 6px; font-weight: 700; font-variant-numeric: tabular-nums; }
+        .tier-card-rating--imprescindible { background: #c9a227; color: #1a1a1a; }
+        .tier-card-rating--bueno { background: #6b8e4e; color: #fff; }
+        .tier-card-rating--medio { background: #7d8590; color: #fff; }
+        .tier-card-title { font-weight: 500; line-height: 1.3; }
 
         #search-input {
             width: 100%;
@@ -1595,6 +1617,7 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
         <div id="sidebar-content">
             <a href="index.html" id="inicio-link">Inicio</a>
             <a href="categorias.html" id="categorias-link">Categorías</a>
+            <a href="imprescindibles.html" id="top-ratings-link">Top ratings</a>
             <div class="sidebar-sticky-area">
                 <input type="text" id="search-input" placeholder="Buscar nota…" aria-label="Buscar nota">
             </div>
@@ -1603,7 +1626,7 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
             </nav>
         </div>
     </aside>
-    <main id="main-content" class="${isHome ? 'is-home' : isSearch ? 'is-search' : is404 ? 'is-404' : isCategories ? 'is-categories' : isItinerarios ? 'is-itinerarios' : ''}">
+    <main id="main-content" class="${isHome ? 'is-home' : isSearch ? 'is-search' : is404 ? 'is-404' : isCategories ? 'is-categories' : isItinerarios ? 'is-itinerarios' : isImprescindibles ? 'is-imprescindibles' : ''}">
         <div class="article-wrapper${toc ? ' has-toc' : ''}">
             ${toc}
             <article>
@@ -1618,7 +1641,7 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
             </article>
         </div>
         ${likeSection}
-        ${!isHome && !isSearch && !is404 && !isCategories && !isItinerarios && currentSlug ? `<div class="itinerary-cta"><a href="itinerarios.html?from=${currentSlug}" class="btn-itinerary">🗺️ Crear itinerario desde esta nota</a></div>` : ''}
+        ${!isHome && !isSearch && !is404 && !isCategories && !isItinerarios && !isImprescindibles && currentSlug ? `<div class="itinerary-cta"><a href="itinerarios.html?from=${currentSlug}" class="btn-itinerary">🗺️ Crear itinerario desde esta nota</a></div>` : ''}
         ${backlinkSection}
     </main>
 
@@ -1791,7 +1814,7 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
 
 // Genera el contenido HTML del home (hero, top conectadas, aleatorio)
 // Mantiene el resto de notas generadas por el flujo estándar
-function generateHomeContent(notes, backlinksMap, catCount = 0) {
+function generateHomeContent(notes, backlinksMap, catCount = 0, impCount = 0) {
     // Suma total de wikilinks del vault
     let totalLinks = 0;
     const linkRegex = /\[\[([^\]|#]+)(?:#([^\]|]+))?(?:\|([^\]]+))?\]\]/g;
@@ -1831,7 +1854,7 @@ function generateHomeContent(notes, backlinksMap, catCount = 0) {
                 <input type="search" name="q" placeholder="Busca una sustancia, síntoma o mecanismo…" aria-label="Buscar en la enciclopedia">
                 <button type="submit">Buscar</button>
             </form>
-            <p class="home-stats"><span class="num">${notes.length}</span> notas · <span class="num">${totalLinks}</span> enlaces · <span class="num">${catCount}</span> <a href="categorias.html">categorías</a></p>
+            <p class="home-stats"><span class="num">${notes.length}</span> notas · <span class="num">${totalLinks}</span> enlaces · <span class="num">${catCount}</span> <a href="categorias.html">categorías</a>${impCount > 0 ? ' · <span class="num">' + impCount + '</span> <a href="imprescindibles.html">imprescindibles</a>' : ''}</p>
         </section>
 
         <section class="home-section">
@@ -2391,6 +2414,46 @@ function generateRobotsTxt() {
 }
 
 // === Commit 9: índice de categorías JSON + página /categorias.html ===
+// === Commit 13: imprescindibles ===
+function generateImprescindiblesIndex(notes) {
+    const tiers = [
+        { min: 9, max: 10, key: 'imprescindible', label: 'Imprescindible (9-10)', notes: [] },
+        { min: 7, max: 8,  key: 'bueno',         label: 'Bueno (7-8)',          notes: [] },
+        { min: 5, max: 6,  key: 'medio',         label: 'Medio (5-6)',          notes: [] }
+    ];
+    for (const n of notes) {
+        const r = n.frontmatter && n.frontmatter.rating;
+        if (typeof r !== 'number' || isNaN(r) || r < 5) continue;
+        for (const g of tiers) {
+            if (r >= g.min && r <= g.max) {
+                g.notes.push(n);
+                break;
+            }
+        }
+    }
+    for (const g of tiers) {
+        g.notes.sort((a, b) => (b.frontmatter.rating || 0) - (a.frontmatter.rating || 0));
+    }
+    const total = tiers.reduce((s, g) => s + g.notes.length, 0);
+    return { tiers, total };
+}
+
+function generateImprescindiblesContent(index) {
+    if (!index || index.total === 0) {
+        return '<section class="imprescindibles-empty"><h1 class="imprescindibles-title">Top ratings</h1><p>Aún no hay notas con rating. Añade <code>rating: 7</code> en el frontmatter.</p></section>';
+    }
+    const sectionsHtml = index.tiers.map(function (g) {
+        if (g.notes.length === 0) return '';
+        const cardsHtml = g.notes.map(function (n) {
+            const r = n.frontmatter.rating;
+            const slug = encodeURI(n.slug);
+            return '<a class="tier-card tier-card--' + g.key + '" href="' + slug + '"><span class="tier-card-rating tier-card-rating--' + g.key + '">' + r + '</span><span class="tier-card-title">' + n.title + '</span></a>';
+        }).join('');
+        return '<section class="tier-section tier-section--' + g.key + '"><header class="tier-header"><h2 class="tier-label">' + g.label + '</h2><span class="tier-range">' + g.min + '-' + g.max + '</span></header><div class="tier-grid">' + cardsHtml + '</div></section>';
+    }).join('');
+    return '<section class="imprescindibles-page"><h1 class="imprescindibles-title">🏆 Top ratings</h1><p class="imprescindibles-subtitle">Las notas mejor valoradas, organizadas por tier.</p>' + sectionsHtml + '</section>';
+}
+
 function generateCategoriesIndex(notes, backlinksMap) {
     const tagMap = {};
     const collectTags = (s) => {
@@ -2581,7 +2644,8 @@ async function build() {
             if (note.slug === 'categorias.html') continue; // escrita al final con generateCategoriesContent
             if (note.slug === 'index.html') {
                 const catCount = generateCategoriesIndex(notes, backlinksMap).length;
-                const homeContent = generateHomeContent(notes, backlinksMap, catCount);
+        const impCount = generateImprescindiblesIndex(notes).total;
+                const homeContent = generateHomeContent(notes, backlinksMap, catCount, impCount);
                 const finalHtml = htmlTemplate('Inicio', homeContent, notes, [], true, 'index.html');
                 await fs.writeFile(path.join(DIST_DIR, note.slug), finalHtml);
                 continue;
@@ -2653,6 +2717,20 @@ async function build() {
         const itinerariosContent = generateItinerariosContent();
         const itinerariosHtml = htmlTemplate('Itinerario', itinerariosContent, notes, [], false, 'itinerarios.html', '', false, false, false, true);
         await fs.writeFile(path.join(DIST_DIR, 'itinerarios.html'), itinerariosHtml);
+
+    // === Commit 13: /imprescindibles.html ===
+    const imprescindiblesIndex = generateImprescindiblesIndex(notes);
+    const imprescindiblesContent = generateImprescindiblesContent(imprescindiblesIndex);
+    const imprescindiblesHtml = htmlTemplate(
+        'Top ratings',
+        imprescindiblesContent,
+        notes,
+        backlinksMap,
+        false, '', '', false, false, false, false, false,
+        'Top ratings — notas mejor valoradas del vault, organizadas por tier.',
+        null
+    );
+    await fs.writeFile(path.join(DIST_DIR, 'imprescindibles.html'), imprescindiblesHtml);
 
         // === Commit 10: robots.txt ===
         const robotsTxt = generateRobotsTxt();
