@@ -1,3 +1,7 @@
+---
+rating: 7
+---
+
 [[Minerales]].
 ## Niveles adecuados
 
