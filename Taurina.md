@@ -1,3 +1,6 @@
+---
+rating: 10
+---
 
 La taurina es un aminoácido que contiene [[azufre]] y se encuentra naturalmente en el cuerpo, desempeñando un papel crítico en varios procesos fisiológicos.
 

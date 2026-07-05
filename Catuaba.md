@@ -1,3 +1,7 @@
+---
+rating: 9
+---
+
 La **catuaba** (palabra guaraní que significa "lo que da fuerza a la india") se utiliza para las infusiones de la corteza de un número de árboles nativos de Brasil. Las cortezas más utilizadas son derivados de los árboles *Trichilia catigua* y *Erythroxylum vaccinifolium*.
 
 Una infusión de la corteza se utiliza en la medicina tradicional de Brasil como afrodisíaco y estimulante del [[Sistema nervioso central]].
