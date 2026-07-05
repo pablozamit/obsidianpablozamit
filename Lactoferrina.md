@@ -1,3 +1,7 @@
+---
+rating: 9
+---
+
 Lactoferrina es una glicoproteína que se une al [[Hierro|hierro]] presente en secreciones epiteliales como la [[Leche|leche]] y en los gránulos secundarios de los neutrófilos. Tiene múltiples funciones biológicas debido a su capacidad para regular la absorción de [[Hierro|hierro]] y modular las respuestas [[Sistema inmune|inmunitarias]], además de poseer actividades antimicrobianas, antivirales, [[Antioxidantes|antioxidantes]], [[Cáncer|anticancerígenas]] y [[Inflamación|antiinflamatorias]].
 
 ### Funciones en el [[Metabolismo|Metabolismo]], la Fisiología y la Neurología
