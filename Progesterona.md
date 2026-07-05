@@ -1,3 +1,7 @@
+---
+rating: 9
+---
+
 ·En testículos sanos debería producirse 1,5-2 mg diarios (?)
 
 > [!IMPORTANT]
