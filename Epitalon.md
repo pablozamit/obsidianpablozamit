@@ -68,6 +68,14 @@ Tetrapéptido sintético (4 aa) desarrollado por el gerontólogo ruso **Vladimir
 - **[[Peroxidación lipídica]]**: ↓.
 - **Radicales libres]**: ↓.
 
+#### Neuroprotección (BasedBiohacker, jul 2026)
+
+El epitalon es uno de los antioxidantes neuroprotectores más potentes estudiados. El cerebro es ~60% grasa (ácidos grasos poliinsaturados), las moléculas más oxidativamente vulnerables del cuerpo. Cuando los ROS las atacan, se produce **peroxidación lipídica** — una reacción en cadena que los subproductos **4HNE** y **MDA** perpetúan. Estos aparecen elevados en cerebros con Alzheimer, Párkinson y ELA, uniéndose a beta-amiloide y acelerando la formación de placa.
+
+En estudios con *Drosophila* (estándar para estrés oxidativo), el **epitalon superó al extracto pineal crudo del que deriva a dosis 1000x menores**. Inhibe directamente la peroxidación lipídica, reduce ROS y protege neuronas del daño hipóxico que acelera el envejecimiento cerebral.
+
+> "La mayoría usa epitalon para sueño, ritmo circadiano, telómeros. Pero cada ciclo estamos ejecutando calladamente uno de los protocolos anti-neurodegeneración más potentes disponibles fuera de una clínica." — @BasedBiohacker
+
 ### Inmunomodulación
 
 - **Timo]**: efecto tímico-mimético.

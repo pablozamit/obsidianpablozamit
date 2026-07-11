@@ -36,6 +36,8 @@ Al reducir la carga de detoxificación del hígado, la zanahoria cruda preserva 
 
 > _—Metabolic Uncle (@MetabolicUncle), 16 jun 2026. Basado en el protocolo de Ray Peat._
 
+> @PathOfMen_ (jul 2026): "Eat raw carrots daily. The fiber binds to excess estrogen in your gut and removes it before your body reabsorbs it. Most men are estrogen dominant and have no idea."
+
 ## Notas Relacionadas
 - [[Vitamina A]]
 - [[Retinol]]
