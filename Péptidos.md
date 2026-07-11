@@ -99,6 +99,7 @@ Clase promovida por el gerontólogo ruso Vladimir Khavinson como "reguladores de
 
 - [[Epitalon]] — tetrapeptido (Ala-Glu-Asp-Gly); se afirma que activa telomerasa.
 - Thymalin — péptido tímico; se afirma que restaura función inmune.
+- [[Vilon]] — dipéptido (Lys-Glu); el más corto del catálogo Khavinson, análogo de uno de los componentes de Thymalin.
 - [[Péptidos bioreguladores]] — nota parent.
 - Testoluten — nota ya existente (regeneración testicular).
 
@@ -135,6 +136,7 @@ Clase promovida por el gerontólogo ruso Vladimir Khavinson como "reguladores de
 | [[Tirzepatida]] | GLP-1/GIP | FDA/EMA aprobado (Mounjaro®) | Dual incretina |
 | [[TB-500]] | Reparador | Gray market | Músculo, tendón |
 | Thymalin | Bioregulador | No aprobado | Khavinson, inmune |
+| [[Vilon]] | Bioregulador | No aprobado | Khavinson, dipéptido Lys-Glu, inmune |
 | [[Thymosin Alpha-1]] | Inmune | Aprobado en Italia/China | Hepatitis B, adyuvante |
 | Testoluten | Bioregulador | No aprobado | Khavinson, testicular |
 | [[Péptidos bioreguladores]] | Categoría | — | Nota parent Khavinson |

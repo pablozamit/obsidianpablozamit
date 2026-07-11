@@ -6,6 +6,7 @@ Los **péptidos bioreguladores** son una clase de péptidos sintéticos cortos (
 
 - **Epithalamin** / **Epitalon** (péptido pineal): comercializado como "geroprotector"; se le atribuye la mayor parte de los datos de extensión de lifespan en modelos animales.
 - **Thymalin** (péptido tímico): apoyo inmune.
+- **[[Vilon]]** (dipéptido Lys-Glu): el péptido más corto del catálogo; análogo de uno de los dos componentes activos de Thymalin.
 - **Cortagen**: péptido cerebral.
 - **Testoluten**: péptido testicular, comercializado para "restart" de producción de [[Testosterona]] en hombres envejecidos.
 - **Vesugen**, **Pinealon**, otros: cada uno dirigido a un tejido específico.
