@@ -89,6 +89,35 @@ Las personas con cálculos renales presentan **menos glicina en orina**, lo que 
 
 Ver [[Oxalatos]] y [[Riñón]].
 
+## Experimento 90 días: dosis altas (Dan Go, jul 2026)
+
+Dan Go (@CoachDanGo) tomó **10-15 g de glicina en polvo cada noche** durante 90 días (~2-3x la dosis estándar) y reportó:
+
+### 1. Sueño
+Medido con anillo Oura:
+- Aumento de sueño profundo y REM
+- Reducción significativa del tiempo hasta entrar en REM
+- Se dormía más rápido
+
+### 2. Recuperación
+- Menos dolor muscular post-entrenamiento
+- Pasó de 3 a 4 entrenamientos por semana
+- Las agujetas desaparecieron más rápido
+- Sensación de recuperarse como a los 30 años
+- Mecanismo: la glicina activa síntesis proteica y secreción de [[Hormona de Crecimiento]] → menos estrés oxidativo e inflamación
+
+### 3. Piel (semana 4+)
+- Menos arrugas
+- Más luminosidad
+- Más firmeza
+- Mecanismo: la glicina es esencial para síntesis de [[Colágeno]] y producción de [[Glutatión]], que combate radicales libres responsables del envejecimiento prematuro
+
+### Contraindicaciones reportadas
+- Embarazo y lactancia (datos insuficientes)
+- Personas tomando clozapina
+- Enfermedades hepáticas o medicación con ciclosporina o warfarina
+- Consultar al médico si aplica
+
 ### Relacionado
 
 - [[Eyaculación Precoz]] — nota principal sobre EP
@@ -97,4 +126,6 @@ Ver [[Oxalatos]] y [[Riñón]].
 - [[Magnesio Acetil Taurato]] — contiene acetil taurina con mayor afinidad por el receptor de glicina
 - [[Oxalatos]] — sustrato de los cálculos que la glicina previene
 - [[Riñón]] — órgano diana de este efecto
+- [[Colágeno]] — la glicina es su aminoácido principal
+- [[Hormona de Crecimiento]] — estimulada por glicina a dosis altas
 
