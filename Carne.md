@@ -21,8 +21,19 @@ El impacto metabólico de la carne depende de la temperatura y el tiempo de cocc
 > [!TIP]
 > El uso de adobos o marinadas ácidas (vinagre, limón) o hierbas aromáticas previas al cocinado puede reducir la formación de compuestos inflamatorios.
 
+## Vísceras (offal)
+
+Las vísceras son la parte más densa en nutrientes del animal — especialmente el hígado, riñones, corazón y mollejas. Contienen formas altamente biodisponibles de vitaminas A, D, K2, B12, cobre, zinc y hierro hemínico.
+
+### Jabalí salvaje y testosterona
+
+@Yamnayanage (jul 2026) reporta que las **vísceras de jabalí salvaje** (wild boar offal) elevan la [[Testosterona]] lo suficiente como para dar positivo en un test PED. El mecanismo propuesto es la absorción directa de esteroides presentes en el tejido animal — el jabalí salvaje tiene niveles endógenos de hormonas mucho más altos que el cerdo de granja por su dieta natural y su vida no castrada.
+
+> Caveat: no hay estudios controlados que confirmen este efecto. La afirmación es anecdótica.
+
 ## Notas Relacionadas
 - [[AGEs]]
 - [[Hierro]]
 - [[Zinc]]
 - [[Vitamina B12]]
+- [[Testosterona]]
