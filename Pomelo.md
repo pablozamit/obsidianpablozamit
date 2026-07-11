@@ -44,6 +44,17 @@ Las **furanocumarinas** del pomelo (principalmente **6',7'-dihidroxibergamotina*
 - **[Cálculos renales]**: ↑citrato urinario → ↓riesgo de litiasis (efecto alcalinizante).
 - **[[Cáncer de próstata]**: estudios prospectivos asocian el consumo de pomelo a ↓riesgo (licopeno y naringenina).
 
+### Naringenina: hígado graso e insulina (Gunnar @rockstar_vegan)
+
+Medio pomelo antes de cada comida durante 12 semanas → pérdida de peso significativa.
+
+En roedores, la **naringenina** (flavanona del pomelo) añadida a una dieta alta en grasas produjo:
+- **Hígado graso ↓80%**
+- **Insulina normalizada**
+- Obesidad revertida
+
+> Fuentes: PMID 16579728, PMID 20110573
+
 ## Contraindicaciones
 
 - **[Fármacos metabolizados por CYP3A4]**: lista larga (ver arriba). Consultar siempre con farmacéutico.

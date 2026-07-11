@@ -131,4 +131,18 @@ La luz roja típica (660-850 nm) evita los melanocitos al penetrar más profundo
 
 # Productos a Analizar
 
-(Sección para productos externos, sin enlaces directos)
+## Loxstar vs Minoxidil (@dalton_rando, 2026)
+
+Loxstar (X-347) superó a minoxidil en ensayo clínico para crecimiento capilar. Ingredientes clave:
+
+| Ingrediente | Función |
+|---|---|
+| Dihidroquercetina glucósido | Antioxidante, estimula folículo |
+| EGCG glucósido | Catequina del té verde, antiandrogénico |
+| Glicina | Bloque de [[Colágeno]] |
+| Zinc | Cofactor enzimático para queratina |
+| Capixyl | Péptido biomimético (acetil hexapéptido-1 + ácido oleanólico) |
+| Ácido oleanólico | Inhibidor de [[5α-Reductasa]] (DHT) |
+| Apigenina | Vasodilatación, flavona |
+| Biotinil-GHK péptido | Cobre-péptido, regeneración folicular |
+| [[Melatonina]] | Regulador del ciclo capilar, antioxidante |

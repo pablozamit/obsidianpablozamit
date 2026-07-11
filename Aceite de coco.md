@@ -34,6 +34,20 @@ El aceite de coco ha mostrado potencial para reducir la [[Neuroinflamación]].
 
 ---
 
+## Digeribilidad: cadena larga vs media (@HansAmato, jul 2026)
+
+La digestibilidad de las grasas depende de la **longitud de cadena**, no de si son saturadas o insaturadas.
+
+| MCT (aceite de coco) | LCT (sebo, manteca de cerdo) |
+|---|---|
+| Mínima bilis necesaria | Requiere secreción biliar significativa |
+| Absorbidos directamente vía vena porta | Requieren lipasa completa + ensamblaje en quilomicrones |
+| Mínimo trabajo digestivo | Alta demanda digestiva |
+
+**Implicación práctica**: alguien con flujo biliar comprometido o baja producción de lipasa puede tolerar aceite de coco y sentir malestar con sebo de res o manteca de cerdo, aunque ambos sean grasas saturadas.
+
+**Matiz** (@PerformanceProtocol): el ~50% del aceite de coco es **ácido láurico (C12)**, que se comporta parcialmente como LCT — recluta bilis y usa la ruta de quilomicrones, no el atajo portal. Los MCT puros (C8-C10) sí toman la vía portal directa.
+
 ## Fuentes
 
 - Gupta, A., & Singh, R. K. (2010). *Coconut oil: A review of its role in the prevention and treatment of various disorders*. [Enlace](https://consensus.app/papers/coconut-earth-gupta/e7590553af0155a2afc07bf6e159f971/?utm_source=chatgpt)
