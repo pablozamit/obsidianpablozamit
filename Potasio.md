@@ -19,6 +19,13 @@ En el HTMA (Hair Tissue Mineral Analysis) el [[Potasio|potasio]] bajo es uno de 
 
 **Fuentes dietéticas**: plátano, aguacate, patata, boniato, espinacas, salmón. La suplementación con citrato de K o bicarbonato de K es útil en contextos de [[Ansiedad|estrés]] crónico o tras consumo elevado de [[Café|cafeína]] (que aumenta la excreción). Dosis oral típica: 100-400 mg/día de K elemental (cuidado con personas en medicación que retenga K o con insuficiencia renal).
 
+### Trucos de cocina para aumentar potasio (@PGC1a_RB, jul 2026)
+
+- **Cocer el arroz en agua de coco** en lugar de agua normal — el agua de coco es rica en potasio y se absorbe en el grano
+- **Lo-salt** (50% KCl, 50% NaCl): añadir al arroz cocido para ajustar la relación Na/K
+- **Crémor tártaro** (cream of tartar, bitartrato de potasio): añadir al arroz con especias
+- **Tomates secos** (sun-dried tomatoes): mezclar con el arroz antes o después de cocinar. Contienen **~1700-1800 mg de potasio por 100 g**, además de licopeno. Son la fuente vegetal más concentrada de potasio después de las patatas deshidratadas.
+
 Ver también: [[Electrolitos]], [[Magnesio]], [[Eje HPA]], [[Cortisol]].
 
 
