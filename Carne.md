@@ -31,6 +31,10 @@ Las vísceras son la parte más densa en nutrientes del animal — especialmente
 
 > Caveat: no hay estudios controlados que confirmen este efecto. La afirmación es anecdótica.
 
+## Carne curada y nitratos
+
+El consumo de carne curada con nitratos (embutidos, salami, bacon, jerky) se asocia con un **OR 3.49** de episodios de mania, con efectos replicados en modelos animales (alteración de vías cerebrales y microbioma). Ver [[Nitratos en carne curada]].
+
 ## Notas Relacionadas
 - [[AGEs]]
 - [[Hierro]]

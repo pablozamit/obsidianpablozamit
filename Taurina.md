@@ -10,6 +10,12 @@ La taurina es un aminoácido que contiene [[azufre]] y se encuentra naturalmente
 
 https://pubmed.ncbi.nlm.nih.gov/38188568/
 
+### Enfermedad inflamatoria intestinal (@Outdoctrination, jul 2026)
+
+Estudio (2025): los niveles de taurina son **marcadamente más bajos** en personas con enfermedades inflamatorias intestinales (EII), tanto colitis ulcerosa como Crohn. Cuando la enfermedad estaba en remisión, los niveles de taurina eran más altos que cuando estaba activa. La taurina circulante está directamente vinculada a la presencia y severidad de la inflamación intestinal.
+
+Mecanismo: antiinflamatorio multifacético y potenciador del microbioma intestinal.
+
 ## Longevidad
 
 https://pubmed.ncbi.nlm.nih.gov/37836520/
