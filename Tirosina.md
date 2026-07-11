@@ -49,6 +49,30 @@ L-Fenilalanina (Phe) --[Fenilalanina hidroxilasa, requiere BH4]--> L-Tirosina (T
 
 - **Alimentos ricos en tirosina**: [Queso curado|quesos curados] (parmesano, cheddar, gouda), [Huevo]s, [[Salmón], [[Sardinas], [Aves de corral|pollo y pavo], [Tofu], [Soja], [Almendras], [[Aguacate], [Plátano] (también precursor de serotonina vía triptófano), [Frijol negro|frijoles].
 
+## El baile MSH vs TSH (Abud Bakri MD @AbudBakri, jul 2026)
+
+La tirosina es el precursor común de dos vías divergentes reguladas por el ciclo circadiano:
+
+| Fase | Vía | Producto | Función |
+|---|---|---|---|
+| **Día** | MSH (melanocortina) | [[Melanina]] | Pigmentación, energía, estado de ánimo |
+| **Noche** | TSH (tirotropina) | [[T3]]/[[T4]] (tiroxina) | Metabolismo, reparación |
+
+**TSH diurno alto = somnolencia y fatiga** durante el día. También implica **incapacidad para broncearse** (la vía MSH está suprimida) → más daño UV.
+
+**UVA** (no UVB) activa la vía MSH → explica por qué las lámparas UVA dan energía y buen estado de ánimo.
+
+**Implicación práctica** (@BerbarianWizard): la capacidad de broncearse es un proxy de función tiroidea — si no te bronceas, tu eje MSH puede estar suprimido por TSH alto. Broda Barnes y [[Ray Peat]] omitieron este marcador en su evaluación de hipotiroidismo.
+
+### Conexión con bromantano
+
+El [[Bromantano]] upregula tirosina hidroxilasa (TH) para producir dopamina. La TH compite por el mismo precursor (tirosina) que las vías MSH y TSH. Abud Bakri señala que **bromantano no funciona bien si eres hipotiroideo** — si la conversión a T3/T4 está comprometida, el pool de tirosina no se dirige eficientemente a dopamina.
+
+### Relevancia circadiana (@biohacker)
+- Explica el solapamiento entre trastornos tiroideos y trastorno bipolar
+- Hay casos donde arreglar el ritmo circadiano remite síntomas de ambos
+- Los receptores de MSH están en la glándula pineal — conexión directa con [[Melatonina]]
+
 ## Ver también
 
 - [Aminoácidos]

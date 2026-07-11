@@ -45,6 +45,14 @@ Sistema GOATA Movement — desarrollado a partir del análisis de patrones de mo
 
 El estiramiento diario (10 min) reduce el crecimiento tumoral en un 52% al activar la respuesta inmune a través de la red de **[[Fascia]]**. Ver [[Cáncer#Estiramiento y reducción de tumores]].
 
+## Volumen óptimo de movimiento para salud cardiovascular (@BowTiedPhys, jul 2026)
+
+Las guías estándar de **150 min/semana** son insuficientes para reducciones significativas de riesgo cardiovascular.
+
+Los beneficios reales (>30% reducción de riesgo CVD) aparecen con **560-610 min/semana** (3-4× la dosis estándar).
+
+"Actividad moderada" en los ensayos = movimiento de baja intensidad y estado estable: caminata rápida + levantamiento de pesas (BowTiedPhys @BowTiedPhys, 1 jul 2026).
+
 ## Liberación de fascia de pantorrilla (segundo corazón)
 
 Las pantorrillas son el "segundo corazón" — bombean sangre de vuelta al corazón con cada paso. Si la fascia de las pantorrillas está densa, la circulación se estanca, la linfa se acumula y el sistema nervioso se mantiene en modo supervivencia (@juleshorn01, jul 2026).

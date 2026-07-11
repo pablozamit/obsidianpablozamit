@@ -13,6 +13,19 @@ La próstata proviene del mismo tejido embrionario que la mama (?).
 ·[[Masaje prostático]]
 
 
+## PSA y testosterona con cetosis + baños de hielo (Thomas P Seager, PhD @seagertp)
+
+Historia documentada por Joe Rogan (@joerogan) de un hombre en sus 50s:
+
+- **PSA**: cayó de >7 a <1 tras manejo con **cetosis + baños de hielo**
+- **Testosterona**: se disparó a **1140** (rango considerado "crazy high" por su urólogo)
+- **LH**: testado a **8** ("off the charts para un hombre gordo en sus 50s") — confirmó que no era por esteroides exógenos
+- **Clave**: el estudio japonés de 1991 muestra que el **ejercicio después del baño de hielo** es el factor determinante, al contrario de lo que se recomienda comúnmente
+
+> "My urologist didn't believe me. He thought I must be juicing. So he had my luteinizing hormones tested too."
+
+> _—Thomas P Seager, PhD (@seagertp), 3 jul 2026. Confirmó ser el sujeto de la historia y escribió un libro sobre el protocolo._
+
 ## Cáncer de próstata
 
 Un estudio de diciembre de 2024 sugiere que los pacientes de cáncer de próstata que durante un año tuvieron una dieta más alta en omega 3 y aceite de pescado redujeron el tamaño del tumor en un 14% de media, mientras que aquellos que tuvieron una dieta más alta en omega 6 con aceite de semillas lo vieron aumentado un 25%:
