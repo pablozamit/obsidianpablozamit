@@ -66,6 +66,15 @@ Contrario a la intuición, los niveles **bajos** de vitamina D3 se correlacionan
 
 Ver análisis completo en [[Melanoma#Godar et al. (2018) — análisis mundial de CMM vs UVB]].
 
+## L. reuteri + Urolitina A para ↑ vitamina D (George Ferman @Helios_Movement, jul 2026)
+
+Dos herramientas infravaloradas para aumentar los niveles de vitamina D en verano:
+
+- **_Limosilactobacillus reuteri_ (NCIMB 30242)**: cepa probiótica que puede incrementar los niveles circulantes de 25-hidroxivitamina D
+- **[[Urolitina A]]**: metabolito postbiótico de las elagitaninas; activa la biogénesis mitocondrial y puede modular el metabolismo de la vitamina D
+
+> _—George Ferman (@Helios_Movement), 2 jul 2026_
+
 ## Ver también
 
 - [[Luz solar]]
