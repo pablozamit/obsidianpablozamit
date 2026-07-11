@@ -11,6 +11,29 @@ Mezcla de péptidos neurotróficos derivados de cerebro porcino. Factor de creci
 
 Descrito como una "ducha para el cerebro" (Cowboyesque Stud @WhenSteroids, 15 jun 2026).
 
+Bryan Johnson (@bryan_johnson, may-jun 2024) lo describe como "posiblemente el mejor neuro-enhancer que he probado (subjetivamente)".
+
+## Protocolo Bryan Johnson
+
+- **10 inyecciones IM de 5 mL en 20 días** (día sí, día no)
+- **Coste**: $160
+- **Indicación**: hinchazón cerebral por estenosis de vena yugular interna (IJVS)
+
+### Mediciones baseline
+- MRI cerebral (marcadores de inflamación)
+- HRV de sueño (WHOOP, media 3 meses)
+- Tests cognitivos
+
+### Dosis de referencia europea (aprobado para ictus)
+- 20-50 mL/día por 10-21 días
+- Concentración: 215.2 mg/mL de ingrediente activo
+- Bryan Johnson buscaba guía sobre **uso continuado** y **biomarcadores** para medir eficacia/efectos negativos
+
+## Experiencias de usuarios
+
+- **Ryanrich (@BlueAnubis_)**: Ciclo 1: 1×5mL/día (lun-vie, finde off) × 4 semanas = 20 dosis. "This rocked!" Ciclo 2: 10mL/día × 18 días. "Too intense, would not recommend."
+- **Eric Raum (@ericraum)**: 10mL/día → bajó a 5mL tras 2 semanas por respuesta pseudo-gripal (probable respuesta inmune). 5mL/día × 30 días ha sido exitoso en cada ciclo.
+
 ## Protocolo
 
 - **Dosis**: 5 ml (1 ampolla) al día, preferiblemente PM

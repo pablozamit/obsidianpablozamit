@@ -18,6 +18,14 @@ La **apigenina** es un [[Flavonoides|flavonoide]] natural, una subclase de compu
 
 La apigenina se encuentra abundantemente en [[Alimentos]] como el [[Perejil]] (especialmente seco), las [[Flores de manzanilla]], las [[Semillas de apio]], las [[Espinacas]], el [[Apio]], las [[Naranjas]], las [[Alcachofas]], el [[Tomillo]], las [[Cerezas]], el [[Té]], las [[Aceitunas]] y el [[Brócoli]].
 
+## Apigenina y estrógeno (aromatasa)
+
+La apigenina es un **inhibidor de la aromatasa** (convierte andrógenos en estrógenos). El perejil seco es una de las fuentes más concentradas y una forma práctica de dosificarlo diariamente (Juliana Lung @JulianaLung, jul 2026).
+
+**Hack práctico**: perejil seco espolvoreado sobre cualquier comida salteada, pollo a la plancha, etc. El perejil fresco se pone malo rápidamente; el seco dura y no domina el sabor del plato.
+
+**Gremolata**: perejil fresco picado + ralladura de limón + ajo. Hierobolism (@undulgences) añade que la apigenina también es **fitoprogestina** e **inhibe la formación de lactato**.
+
 ## Consideraciones
 
 Aunque la apigenina se consume ampliamente a través de la [[Dieta]], la investigación sobre el uso a largo plazo de [[Suplementos]] es limitada. Su [[Biodisponibilidad]] puede ser baja a media, y su [[Absorción]] podría mejorar al consumirla con [[Grasas]] y [[Carbohidratos]].

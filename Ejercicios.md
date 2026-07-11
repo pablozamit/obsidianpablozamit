@@ -44,3 +44,16 @@ Sistema GOATA Movement — desarrollado a partir del análisis de patrones de mo
 ## Estiramiento
 
 El estiramiento diario (10 min) reduce el crecimiento tumoral en un 52% al activar la respuesta inmune a través de la red de **[[Fascia]]**. Ver [[Cáncer#Estiramiento y reducción de tumores]].
+
+## Liberación de fascia de pantorrilla (segundo corazón)
+
+Las pantorrillas son el "segundo corazón" — bombean sangre de vuelta al corazón con cada paso. Si la fascia de las pantorrillas está densa, la circulación se estanca, la linfa se acumula y el sistema nervioso se mantiene en modo supervivencia (@juleshorn01, jul 2026).
+
+### Ejercicio
+1. Siéntate en posición de rodillas (kneeling)
+2. Coloca una **plyo ball** o **toalla enrollada** entre la pantorrilla y el isquiotibial, justo debajo de la rodilla
+3. Baja el peso lentamente
+4. Respira a través de la tensión
+5. Mantén **1-5 minutos**
+
+Restablece la circulación, el drenaje linfático y saca al sistema nervioso del modo "on" constante.
