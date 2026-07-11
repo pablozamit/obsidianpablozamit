@@ -83,7 +83,7 @@ Fragmentos o análogos de GH diseñados para lipólisis sin efecto sistémico.
 
 - [[AOD-9604]] — fragmento aa 176-191 de GH; lipólisis sin alterar la glucosa.
 - Fragmento hGH 176-191 — mismo concepto, otro nombre comercial.
-- 5-amino-1MQ — no es péptido (molécula pequeña), inhibe NNMT ↑NAD+ y lipólisis; vendido en stacks de péptidos.
+- [[5-Amino-1MQ]] — no es péptido (molécula pequeña), inhibe NNMT ↑NAD+ y lipólisis; vendido en stacks de péptidos.
 
 ### 6. Nootrópicos peptídicos
 
