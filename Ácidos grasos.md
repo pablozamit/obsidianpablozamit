@@ -28,6 +28,20 @@ Los **ácidos grasos** son biomoléculas lipídicas fundamentales para el organi
 -   **Salud Ocular y Concentración:** Apoyan la [[Salud ocular]] y pueden mejorar la [[Concentración]].
 -   **Salud de la [[Piel]]:** Promueven la [[Salud]] y el bienestar de la [[Piel]].
 
+## Calorías según longitud de cadena (@SSavson, jun 2026)
+
+Los ácidos grasos de distinta longitud aportan diferentes calorías por gramo. A menor longitud de cadena, menor densidad calórica (@SSavson, 29 jun 2026):
+
+| Tipo | Longitud | Calorías/gramo |
+|------|----------|---------------|
+| [[Ácidos grasos de cadena corta|Acetato]] (C2) | 2C | ~3.5 |
+| [[Ácidos grasos de cadena corta|Butirato]] (C4) | 4C | ~6 |
+| [[Ácidos grasos de cadena corta|Propionato]] (C3) | 3C | (intermedio) |
+| [[Ácidos grasos de cadena media|MCT]] (C6-C12) | 6-12C | ~8 |
+| Ácidos grasos de cadena larga (C14+) | 14C+ | 9 |
+
+El comentario de @C02isG00D añade: cuanto más oxidado está un combustible, menos calorías por gramo y más [[CO2]] produce por caloría — por eso los [[Carbohidratos]] son excelentes (alta producción de CO2 por caloría).
+
 ## Tipos
 
 -   [[Ácidos grasos saturados]]

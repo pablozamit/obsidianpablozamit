@@ -31,7 +31,24 @@ Los FOS (fructo-oligosacáridos) son versiones de cadena más corta, con efecto 
 - **Saciedad y respuesta glucémica**: ralentiza el vaciado gástrico y modula picos glucémicos.
 - **Absorción mineral**: mejora la absorción de calcio y magnesio en algunos estudios.
 
-## Mecanismos candidatos para el efecto "vacuna"
+## Mecanismos del efecto protector (@NickJikomes)
+
+### Catabolismo microbiano de fructosa
+
+La inulina llega al colon intacta y es fermentada por bacterias como *Bifidobacterium* y *Lactobacillus*. Cuando hay fructosa libre en la dieta:
+
+- Las bacterias del colon **catabolizan la fructosa** antes de que pueda absorberse y llegar al hígado.
+- La fructosa se convierte en [[Ácidos grasos de cadena corta|SCFAs]] (butirato, acetato, propionato) en lugar de llegar al hígado para DNL.
+- Esto reduce directamente la carga de fructosa hepática.
+
+### Glutatión y protección contra peroxidación lipídica
+
+- La fermentación de inulina estimula la producción de [[Glutatión]] hepático.
+- El glutatión es el antioxidante principal para detoxificar 4-HNE y MDA (aldehídos tóxicos de la peroxidación lipídica).
+- Cuando hay fructosa (genera ROS) + ω-6 PUFAs (sustrato de LPO), el glutatión es crítico para contener el daño.
+- La inulina, al elevar glutatión, protege al hígado del círculo vicioso fructosa→ROS→LPO→más daño.
+
+### Mecanismos candidatos adicionales
 
 (inferencias, no confirmadas por el paper compartido):
 
@@ -66,3 +83,4 @@ Los FOS (fructo-oligosacáridos) son versiones de cadena más corta, con efecto 
 - [[Butirato]]
 - [[Microbiota]]
 - [[Diente de león]]
+- [[Peroxidación lipídica]] (mecanismo de protección por glutatión)

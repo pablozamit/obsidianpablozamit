@@ -63,6 +63,14 @@ Resina natural extraída del **lentisco** (Pistacia lentiscus var. chia), un arb
 
 > La mástica de Quíos es uno de esos productos naturales con un perfil in vitro impresionante — selectividad apoptótica por células cancerosas, actividad antibacteriana contra H. pylori y P. gingivalis, y un historial de uso tradicional de milenios. La limitación evidente es que no hay ensayos clínicos oncológicos humanos. Como el propio Healthy Alfred dice: es un sniper en lugar de una bomba de fragmentación, pero no hay estudios fase III. Para salud digestiva y oral, la evidencia es más sólida (antibacteriana, gastroprotectora, antiinflamatoria). La calidad del producto es crítica: la autenticidad DOP marca la diferencia entre resina activa y "savia de árbol equivocado".
 
+### Testimonios
+
+**@Perrduction (2026)**: masticando mástica 2-3h/día, 5 días/semana + 1 shot de kéfir a diario → "todos los problemas estomacales e intolerancias alimentarias desaparecieron al 100%". Las intolerancias previas incluían lácteos, pan, ciertas frutas y carne roja. Nota: el kéfir es un confounder significativo — no puede atribuirse solo a la mástica.
+
+**The Eagle flies free @Fa21519230 (28 jun 2026)**: hilo viral (72.9K views) repitiendo los mismos datos in vitro (PMID 22126583) con el marco "quimioterapia = bomba de alfombra, mástica = francotirador". Añade el dato de supresión tumoral del 52% en ratones (el PMID reporta 35% en colorrectal — posible discrepancia por tipo tumoral o redondeo). Respuesta crítica de @PatriotArrow73: "En el laboratorio TODO mata células cancerosas. No se sorprendan por ese tipo de publicaciones, es amarillismo científico".
+
+### Puntuación: 9/10
+
 ## Ver también
 
 - Pistacia lentiscus

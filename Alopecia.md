@@ -102,6 +102,7 @@ Comparativa detallada en [[Vitamina E#Caída del cabello y alopecia]]. Resumen:
 - [[Vitamina E]]
 - [[Finasteride]]
 - [[Minoxidil]]
+- [[Microneedling]]
 - [[5-alfa reductasas]]
 - [[Alopregnanolona]]
 - [[Saw palmetto]]

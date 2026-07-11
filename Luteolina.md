@@ -17,10 +17,29 @@ Tipo de inhibición: **competitiva reversible** (Ki en rango micromolar bajo). E
 - **Inhibidor de MAO** (a concentraciones altas, no fisiológicas).
 - **Modulador de GABA-A**: en algunos estudios, efecto ansiolítico leve.
 
+## Tetramethoxyluteolin (@gaezv/gaezpeat, 28 jun 2026)
+
+La tetrametoxiluteolina es un derivado **metilado y liposoluble** de la luteolina con un perfil farmacocinético y farmacodinámico distinto:
+
+**Metilación**: los cuatro grupos metoxilo (-OCH₃) en lugar de los -OH de la luteolina convencional la hacen:
+- **Liposoluble** → atraviesa la [[Barrera hematoencefálica]] con facilidad.
+- **Resistente a glucuronidación** → mayor vida media plasmática que luteolina.
+- **Cero actividad estrogénica**: a diferencia de la mayoría de flavonoides, no se une a ER. Esto la diferencia de [[Quercetina]], [[Apigenina]], [[Naringenina]] y otras flavonas con actividad estrogénica débil.
+
+**Usos potenciales**:
+- **Antihistamínico**: estabiliza [[Mastocitos]] y microglía, reduce liberación de histamina y otras citoquinas proinflamatorias.
+- **Antiinflamatorio**: inhibe microglía y mastocitos en SNC (vía NF-κB, p38, JNK).
+- **Rosácea tópica**: aplicación directa sobre la piel por su lipofilicidad.
+- **Niebla mental** (brain fog): al cruzar la BHE y apagar microglía, podría reducir neuroinflamación de bajo grado.
+- **Posible inhibidor de aldosa reductasa** (por reply de @DeffoPro): "It also might stop making fructose from glucose" — la aldosa reductasa convierte glucosa en sorbitol (vía del poliol), que luego se convierte en fructosa. Si la tetrametoxiluteolina inhibe esta enzima, reduciría la producción endógena de fructosa. **Dato in vitro no confirmado** para este compuesto específico.
+
+**Caveat**: gaezv no ha usado el compuesto personalmente ("Havent used yet"). Es una revisión teórica de la literatura. No hay ensayos clínicos humanos específicos de tetrametoxiluteolina a diferencia de luteolina.
+
 ## Dosis y forma
 
-- 50-200 mg/día en suplementos. Dosis más altas (>500 mg) reportan sedación leve y molestias GI.
-- Biodisponibilidad oral: ~10-30% (sufre glucuronidación rápida). Formas liposomal o nanoparticulada mejoran absorción.
+- 50-200 mg/día en suplementos (luteolina estándar). Dosis más altas (>500 mg) reportan sedación leve y molestias GI.
+- Biodisponibilidad oral de luteolina estándar: ~10-30% (sufre glucuronidación rápida). Formas liposomal o nanoparticulada mejoran absorción.
+- La tetrametoxiluteolina (forma metilada) tiene mejor biodisponibilidad por su lipofilicidad, pero no hay dosis establecidas en humanos.
 
 ## Caveats para COMT lenta (Met/Met)
 

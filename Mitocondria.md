@@ -45,4 +45,4 @@ El [[Café|café]] crónico y otros estimulantes que activan repetidamente las s
 
 Ver [[Café#Stack de reposición completo (para bebedores crónicos de café)]].
 
-Ver también: [[Tensión muscular]]
+Ver también: [[Tensión muscular]], [[CoQ10]] (cofactor esencial de la cadena respiratoria), [[Benzodiazepinas]] (fármacos con dianas mitocondriales directas)

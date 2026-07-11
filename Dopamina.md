@@ -33,6 +33,26 @@ En el circuito de la motivación sexual, la dopamina funciona como el **"acelera
 
 Ver el marco completo en [[Libido]].
 
+## Guanfacina
+
+La guanfacina es un agonista α2A-adrenérgico aprobado para [[ADHD]]. Reduce la liberación de [[Noradrenalina]] al activar autorreceptores α2A presinápticos en el [[Locus coeruleus]], lo que disminuye el "ruido" adrenérgico y mejora el enfoque.
+
+### Guanfacina y HRV (@anabology, jun 2026)
+
+Anecdóticamente, guanfacina 1 mg ER (liberación prolongada) **duplicó la [[Variabilidad de la Frecuencia Cardíaca|HRV]]** en cuestión de semanas (@anabology, 29 jun 2026). Mecanismo plausible: al reducir el tono simpático vía bloqueo α2A, el sistema nervioso se desplaza hacia predominio parasimpático, lo que se refleja en mayor HRV. Efectos reportados varían: algunos usuarios reportan mejoría drástica, otros describen sensación de "cabeza flotante despersonalizada" (@NoahRyanCo).
+
+### Guanfacina + Elvanse/Dexedrine (combo dopaminérgico puro)
+
+La combinación de **guanfacina** (agonista α2A-adrenérgico) con **Elvanse/Dexedrine** (lisdexanfetamina/dexanfetamina) produce un perfil neuroquímico descrito como "dopamina pura" (@doctormorphh, 30 jun 2026):
+
+- **Guanfacina**: reduce la liberación de [[Noradrenalina]] al activar autorreceptores α2A presinápticos en el [[Locus coeruleus]].
+- **Elvanse/Dexedrine**: inhibe [[DAT]] (transportador de dopamina) y [[NET]] (transportador de noradrenalina), aumentando dopamina y noradrenalina en la hendidura sináptica.
+- **Efecto neto**: al reducir la liberación basal de noradrenalina (guanfacina), el componente adrenérgico de la anfetamina se atenúa, dejando que el efecto dopaminérgico (inhibición de DAT) domine sin la activación simpática periférica (taquicardia, ansiedad, tensión).
+
+**Caveat**: quien usa este combo puede sentir que está siendo productivo cuando en realidad solo está hiperenfocado en actividades irrelevantes. Requiere "allocate your time accordingly" (asignar el tiempo intencionalmente).
+
+No hay ensayos clínicos que evalúen esta combinación específica; es un hallazgo anecdótico de la comunidad. La guanfacina se usa aprobada para [[ADHD]] en monoterapia, y la dexanfetamina también. La combinación no es estándar.
+
 ## Ver también
 
 - [[Libido]]

@@ -141,6 +141,24 @@ El [[Magnesio|magnesio]] es cofactor en más de 300 reacciones enzimáticas, inc
 
 Ver análisis completo del marco mineral-cortisol en [[Cortisol#Deficiencia Mineral como Causa Upstream]].
 
+## Magnesio tópico (aceite de magnesio)
+
+El **aceite de magnesio** (cloruro de magnesio en solución acuosa) es una alternativa a la suplementación oral para quienes tienen digestiones sensibles o buscan absorción transdérmica.
+
+**Aplicación**: extender sobre brazos y piernas (@anomalie_blue, 30 jun 2026). La piel absorbe el magnesio, que luego participa en >300 reacciones enzimáticas — sistema nervioso, corazón, dientes, todos los órganos.
+
+**Beneficios reportados**:
+- Relajación muscular y nerviosa
+- Mejora del sueño
+- Útil en hipotiroidismo y personas que sudan mucho (pierden magnesio por sudor)
+
+**Inconvenientes**:
+- Sensación pegajosa al secarse
+- Puede irritar piel con eczema o sensible (@Naomi_D_Harvey: "will hurt as if it's burning")
+- Puede resecar la piel con uso continuado
+
+**Marcas recomendadas**: Georgi's en [[DMSO]] (mejora absorción, @anomalie_blue). Alternativa más suave: baños de [[Sales de Epsom]] (sulfato de magnesio).
+
 ## Magnesio y control eyaculatorio
 
 @_aestheticprimal_ (30 sept 2025) lleva la suplementación de magnesio al rango **1 g elemental/día** específicamente para abordar la [[Eyaculación precoz|eyaculación precoz]] desde un ángulo neurovegetativo:

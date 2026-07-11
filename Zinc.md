@@ -135,6 +135,33 @@ Algunos usuarios en la comunidad reportan que la suplementación con zinc les pr
 
 **Mitigación**: mantener ratio zinc/cobre adecuado (típicamente 15-25 mg zinc + 1-2 mg cobre) al suplementar zinc de forma crónica.
 
+## Hipocupremia inducida por zinc (simula cáncer hematológico)
+
+El uso crónico de suplementos multivitamínicos ricos en zinc, especialmente los comercializados para "subir las defensas", induce **hipocupremia** (deficiencia de [[Cobre]]) por atrapamiento en el enterocito: zinc y cobre compiten por el transportador **DMT1** en el intestino delgado, y el exceso de zinc satura el transportador, bloqueando la absorción de cobre (@RhenalsMedint, 29 jun 2026).
+
+Con el tiempo, esta deficiencia de cobre **simula distintos tipos de cánceres en sangre** (leucemias), presentándose con anemia y neutropenia que pueden confundirse con neoplasias hematológicas.
+
+### Detalles clínicos (@gonzaloruizutri, 30 jun 2026)
+
+- **Umbral**: el problema aparece con dosis sostenidas **>40 mg/día** de zinc elemental, no con dosis puntuales.
+- **Perfil analítico**: cursa con anemia + neutropenia, pero con hierro y [[B12]] normales — esto ayuda a diferenciarlo de otras anemias.
+- **Marcador temprano**: la **[[Ceruloplasmina]] baja** es más sensible que el cobre sérico para detectar la depleción a tiempo.
+- **Ratio práctico** al suplementar zinc a largo plazo: **10-15 mg de zinc por cada 1 mg de cobre**.
+
+### Síntomas de hipocupremia
+
+- Anemia (por alteración del metabolismo del [[Hierro]])
+- Neutropenia (↓ defensas)
+- Morenas y canas prematuras
+- Fatiga y debilidad
+- Problemas neurológicos (neuropatía, mielopatía)
+
+**IMPORTANTE**: si se suplementa zinc a largo plazo (>40 mg/día sostenido), monitorizar ceruloplasmina y cobre sérico cada 3-6 meses, y mantener el ratio adecuado con cobre.
+
+## Suplementos de alimentos integrales
+
+El zinc de **ostras deshidratadas** (ej. Befrtil Oyster Zn) es una alternativa a las formas aisladas (gluconato, picolinato, etc.). Ventaja: la matriz natural de la ostra aporta [[Cobre]], [[Selenio]] y otros cofactores que pueden mejorar el perfil de absorción y reducir el riesgo de desbalance Zn/Cu (@CookingWithChris, 30 jun 2026). Ver [[Suplementos#Suplementos basados en alimentos naturales (whole-food supplements)]].
+
 ## Ver también
 
 - [[Cobre]]

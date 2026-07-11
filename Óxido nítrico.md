@@ -16,8 +16,12 @@ El NO liberado por la luz solar relaja las paredes arteriales → **vasodilataci
 
 ## Ver también
 
+- [[Citrulina]] — precursor indirecto de NO
+- [[Arginina]] — precursor directo de NO
+- [[CoQ10]] — protege NO de degradación
 - [[Luz solar]]
 - [[Luz ultravioleta]]
 - [[Vitamina D]]
 - [[Frecuencia de comidas]] — la lipemia postprandial de comidas grandes reduce NO biodisponible.
 - [[Endotelio]]
+- [[Disfunción eréctil]]

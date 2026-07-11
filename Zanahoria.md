@@ -38,6 +38,30 @@ Al reducir la carga de detoxificación del hígado, la zanahoria cruda preserva 
 
 > @PathOfMen_ (jul 2026): "Eat raw carrots daily. The fiber binds to excess estrogen in your gut and removes it before your body reabsorbs it. Most men are estrogen dominant and have no idea."
 
+### Estudio: salvado de trigo y tránsito intestinal
+
+> "Wheat bran, senna and plastic flakes led to the intended reduction in whole-gut transit-time, increase in defecatory frequency and increase in stool form score. Loperamide caused the opposite effect. The length of time the absorbed oestrogen was detectable in the serum fell with wheat bran and senna... Our data indicate there is likely to be an effect of intestinal transit on the absorption of oestrogens."
+> — *Intestinal absorption of oestrogen: the effect of altering transit-time*
+
+Esto respalda el mecanismo de la zanahoria: al acelerar el tránsito intestinal (fibra insoluble), se reduce la ventana de reabsorción de estrógenos desconjugados por beta-glucuronidasa bacteriana.
+
+### Tejido vs sangre: estrógeno tisular
+
+> "Blood estrogen tends to drop with progesterone but tissue estrogen often rises, so you end up with estrogen dominance that is not seen on blood tests." —Master Metabolism, citando a Ray Peat
+
+Esto implica que la dominancia estrogénica puede estar presente incluso con estradiol sérico "normal". La fibra de zanahoria cruda reduce la carga total al interrumpir la recirculación enterohepática.
+
+### Semilla de zanahoria silvestre (Daucus carota)
+
+> "Wild carrot seed... inhibits Δ5,3-β-hydroxy steroid dehydrogenase (3β-HSD), which converts pregnenolone to progesterone (among other things), so it's more likely an anti-progesterone, pro-estrogen effect."
+> —Master Metabolism
+
+_Caveat_: la semilla de zanahoria silvestre tiene efectos hormonales **opuestos** a los de la raíz de zanahoria. La raíz reduce estrógenos (vía fibra); la semilla los aumenta (vía inhibición de 3β-HSD → menos progesterona → relativamente más estrógeno). No confundir.
+
+### DIM
+
+Master Metabolism (@lowmegatron, 28 jun 2026) comenta sobre [[DIM]]: "It has oestrogenic and antiandrogenic effects. Probably best avoided." Esto contrasta con la reputación habitual de DIM como modulador estrogénico beneficioso (ver [[DIM]]). La afirmación de actividad estrogénica directa del DIM no está bien documentada en la literatura — podría referirse a efectos paradójicos en ciertos contextos.
+
 ## Notas Relacionadas
 - [[Vitamina A]]
 - [[Retinol]]

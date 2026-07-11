@@ -102,6 +102,42 @@ El **método Buteyko** es una técnica de respiración desarrollada por el médi
 - **[[Respiración diafragmática]]**: complementaria; Buteyko añade restricción de volumen.
 - **[[Respiración de Buteyko]] vs. "[[Hiperventilación controlada]]"**: en enfoque opuesto, ambas útiles en contextos distintos.
 
+## Cinturón Buteyko
+
+El **cinturón Buteyko** es un dispositivo físico (banda elástica ajustable) que se coloca alrededor del abdomen superior / diafragma, justo debajo de las costillas. Su función es **limitar mecánicamente la excursión diafragmática**, reduciendo el volumen tidal y forzando una respiración más superficial. Es una herramienta para intensificar la práctica del método Buteyko sin requerir atención consciente constante.
+
+### Mecanismo de acción
+
+1. **Restricción mecánica**: el cinturón presiona el diafragma, impidiendo inhalaciones profundas.
+2. **↑ CO2 alveolar**: al reducir el volumen tidal, aumenta la [[Presión parcial de CO2]] en sangre.
+3. **▲ Tono vagal**: el CO2 elevado estimula el [[Nervio vago]] vía quimiorreceptores, desplazando el balance autonómico hacia predominio [[Parasimpático]].
+4. **▼ Hiperventilación crónica**: interrumpe el hábito de respiración excesiva que mantiene la [[Hipocapnia]].
+
+La restricción física del diafragma también puede aumentar el **flujo magnético** en la región (el diafragma es un músculo con actividad eléctrica detectable), lo que algunos autores vinculan con la propiocepción vagal y la sincronización de ondas cerebrales, aunque esta conexión es especulativa.
+
+### Evidencia y contexto clínico
+
+- El cinturón Buteyko carece de ensayos clínicos controlados que lo evalúen como intervención independiente. Su uso se basa en la lógica mecánica del método Buteyko y en la evidencia indirecta de que ↑CO2 mejora síntomas de hiperventilación.
+- Es una herramienta de **entrenamiento**, no un dispositivo médico. Útil para personas que ya practican Buteyko y quieren profundizar sin esfuerzo consciente adicional.
+- **Contraindicaciones**: las mismas que [[Tapeo bucal]] y Buteyko intensivo — [[EPOC]] severa, [[Apnea obstructiva del sueño]] severa no tratada, [[Embarazo]], hernias abdominales, cirugía abdominal reciente.
+
+### Marco de Jack Kruse (perspectiva ampliada)
+
+El neurocirujano Jack Kruse ha popularizado el cinturón Buteyko dentro de un marco más amplio de **"biología cuántica"**. En su modelo, la respiración superficial no solo eleva CO2, sino que:
+
+- **Desfragmenta la "tabla de agua" corporal**: el CO2 mejora el flujo de protones en la cadena respiratoria mitocondrial, lo que reorganiza las capas de [[Agua estructurada]] (agua EZ, 4ª fase de Pollack) en la [[Fascia]] y el citoplasma. Compara este proceso con desfragmentar un disco duro.
+- **Aumenta el flujo magnético diafragmático**: el diafragma genera un campo electromagnético medible; al restringir su movimiento, se altera la frecuencia y amplitud de este campo, que Kruse conecta con la sincronización vagal y la resonancia con el campo magnético terrestre ([[Resonancia Schumann]], ~7.83 Hz).
+- **Conecta dopamina y tipo de fibra muscular**: las motoneuronas que inervan fibras de contracción rápida (tipo II) vs lenta (tipo I) tienen distinto perfil [[Dopamina|dopaminérgico]]. Kruse sugiere que el estado metabólico global (CO2, luz, hidratación) determina qué fibras se reclutan, influyendo en el tono muscular, la postura y la función cognitiva.
+
+**Caveats**: este marco es altamente especulativo. La [[Agua estructurada]] de Pollack es un fenómeno real pero su relevancia fisiológica in vivo está en debate. La conexión entre flujo magnético diafragmático y salud sistémica no tiene respaldo en la literatura revisada por pares. Las afirmaciones de Kruse sobre "desfragmentación del agua" son metafóricas, no mecanismos establecidos. Se incluye como contexto teórico, no como protocolo basado en evidencia.
+
+### Práctica
+
+- **Colocación**: banda ajustable alrededor del torso, justo debajo del esternón, suficientemente firme para notar resistencia al inhalar profundamente, pero sin dificultar la respiración en reposo.
+- **Duración**: empezar con 10-15 minutos, 1-2 veces al día. No usar para dormir sin supervisión.
+- **Combinación**: puede usarse durante sesiones de [[Respiración reducida]] o como recordatorio pasivo de respiración nasal superficial durante el día.
+- **Alternativa casera**: una faja elástica ancha o cinturón apretado puede imitar el efecto, aunque con menor precisión.
+
 ## Ver también
 
 - [[Respiración nasal]]
@@ -156,3 +192,10 @@ El **método Buteyko** es una técnica de respiración desarrollada por el médi
 - [[Entrenamiento hipóxico]]
 - [[Dióxido de carbono]]
 - [[CO2]]
+- [[Agua estructurada]]
+- [[Fascia]]
+- [[Resonancia Schumann]]
+- [[Dopamina]]
+- [[Nervio vago]]
+- [[Flujo magnético]]
+- [[Cinturón Buteyko]]

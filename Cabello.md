@@ -131,6 +131,10 @@ La luz roja típica (660-850 nm) evita los melanocitos al penetrar más profundo
 
 # Productos a Analizar
 
+## Microneedling
+
+Ver nota dedicada: [[Microneedling]] — técnica de microlesiones controladas para regeneración folicular, incluyendo protocolo práctico completo (preparación, técnica, desinfección, frecuencias, contraindicaciones y post-cuidado).
+
 ## Loxstar vs Minoxidil (@dalton_rando, 2026)
 
 Loxstar (X-347) superó a minoxidil en ensayo clínico para crecimiento capilar. Ingredientes clave:

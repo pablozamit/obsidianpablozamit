@@ -58,6 +58,20 @@ Aproximadamente la **mitad de la población** porta una variante genética del g
 - **Metabolizadores lentos** (alelo *1F): la cafeína permanece más tiempo en sangre, aumentando significativamente el riesgo de **alteraciones del sueño** y **problemas cardiovasculares** (hipertensión, infarto).
 - El efecto es dosis-dependiente: en lentos, cada taza adicional se asocia con mayor riesgo, mientras que en rápidos el riesgo se mantiene plano o incluso disminuye.
 
+### Competencia cortisol-DHEA
+
+La cafeína fuerza a las glándulas suprarrenales a priorizar la producción de [[Cortisol]] sobre [[DHEA]] porque comparten los mismos precursores bioquímicos ([[Pregnenolona]] → 17OH-pregnenolona → DHEA vs [[Progesterona]] → cortisol). Al activar el eje HPA, la cafeína desvía la materia prima hacia la vía del cortisol, "robando" los recursos necesarios para producir DHEA, que es el precursor directo de [[Testosterona]] (@ThorTorrens, 30 jun 2026).
+
+**Consecuencias prácticas**:
+- ↓ [[DHEA]] → ↓ materia prima para andrógenos → ↓ [[Testosterona]] libre
+- Ratio Cortisol/DHEA elevado (estado catabólico crónico)
+- El cuerpo entra en "modo supervivencia": el sistema nervioso downregula funciones no esenciales como la reproducción y la [[Libido]]
+- La tensión vascular crónica (↓[[Óxido nítrico]], vasoconstricción periférica) compromete el flujo sanguíneo necesario para la función sexual
+
+> "If your libido was nuked by SSRIs and you're on a mission to get it back, the last thing you should be consuming is caffeine." —@ThorTorrens
+
+**Caveat**: este marco asume que la cafeína produce una activación suprarrenal sostenida. En metabolizadores rápidos, el estímulo es breve. En metabolizadores lentos de [[CYP1A2]], la [[Cafeína]] persiste más tiempo y este efecto sería más pronunciado. La evidencia directa de que la cafeína crónica agota DHEA en humanos es limitada; la mayoría de los estudios muestran efectos agudos sobre cortisol, no depleción crónica de DHEA.
+
 ### Aceleración del envejecimiento biológico
 
 Con la edad, el cuerpo produce menos:

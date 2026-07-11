@@ -127,3 +127,4 @@ La mayoría de compuestos GABAérgicos actúan sobre el receptor **GABA-A** (can
 - [[Magnesio Acetil Taurato]] — triple agonista GABA/glicina/NMDA
 - [[Baclofeno]] — agonista GABA-B
 - [[Ansiedad y EP]] — la ansiedad como causa de EP
+- [[Benzodiazepinas]] — fármacos como fármacos mitocondriales sistémicos (Chris Masterjohn)

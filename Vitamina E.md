@@ -1,6 +1,21 @@
 
 # Beneficios
 
+## Volumen testicular (@oxidativestate, jun 2026)
+
+La vitamina E aumenta el tamaño testicular — y esto va más allá de lo estético (@oxidativestate, 30 jun 2026):
+
+- El **95% de la [[Testosterona]]** se produce en las células de Leydig testiculares. La concentración de T en testículos es **100× mayor** que en sangre.
+- La T se convierte en andrógenos más potentes como [[DHT]], cruciales para la espermatogénesis. Si los andrógenos son bajos, los espermatozoides mueren.
+- **Testículos pequeños** no pueden contener suficientes andrógenos.
+- El **volumen testicular** es un indicador de salud metabólica: el [[ATP]] es necesario para la función de Leydig.
+- La mayor parte del volumen testicular son los **túbulos seminíferos** (fábricas de esperma). Mayor volumen → mejor calidad seminal y mayor recuento.
+- [[Cortisol]], [[Estrógeno]], [[Serotonina]] y [[Estrés oxidativo]] reducen el volumen testicular, la producción de T y el recuento espermático.
+
+**Mecanismo**: la vitamina E defiende los testículos del estrés oxidativo y mejora el flujo sanguíneo → más oxígeno, [[CO2]], nutrientes y mejor regulación térmica.
+
+**Evidencia**: confirmado en estudios en ratas donde la suplementación con vitamina E aumentó el tamaño testicular respecto al control (@oxidativestate, 21 jun 2026). Anécdotas humanas: "First time a supplement did what you guys said it would" (@grain_silo_ape). Resultados varían según marca y forma (tocoferoles mixtos, no solo α-tocoferol).
+
 200mg of Vitamin E for 30 days significantly increase sperm health and reduced inflammation in low fertilization rates IVF males:
 ![[Pasted image 20230331055941.png]]
 

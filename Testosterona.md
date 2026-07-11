@@ -1,4 +1,15 @@
 
+## Mapa hormonal masculino (@JustinMihaly, jun 2026)
+
+| Hormona | Función |
+|---------|---------|
+| [[Testosterona]] | Drive, output, [[Músculo]], [[Libido]], glóbulos rojos, confianza |
+| [[Estrógeno]] | Función vascular, sensibilidad de libido, salud articular, [[Sensibilidad a la insulina]], calidad del [[Sueño]], protección ósea, [[Óxido nítrico]], rango emocional |
+| [[DHT]] | Agresividad, filo neurológico, intensidad sexual, tono androgénico |
+| [[Progesterona]] | Estabilidad del sistema nervioso, equilibrio anti-estrógeno, soporte al sueño, [[GABA]] |
+| [[Cortisol]] | Medida de demanda de estrés; consume muchos recursos tanto si está alto como bajo |
+| [[T3]] (tiroidea) | Permiso metabólico para que todo esto funcione |
+
 La testosterona, un esteroide de 19 átomos de C es sintetizada a partir del [[colesterol]] en las células de Leydig de los testículos, la corteza suprarrenal y en las células tecales del ovario.
 
 El colesterol es necesario estructuralmente, pero **el colesterol dietario no es un factor limitante**: el cuerpo lo sintetiza endógenamente a partir de cualquier macronutriente, y las células de Leydig lo obtienen por captación de LDL y síntesis de novo. Los verdaderos cuellos de botella son la señalización de LH y las enzimas esteroidogénicas. Ver [[Colesterol#Colesterol y producción hormonal]].

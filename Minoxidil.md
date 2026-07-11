@@ -14,6 +14,10 @@ El minoxidil aumenta la [[Prolactina|prolactina]], que es un antagonista de la [
 
 -   Tópico al 5%
 
+## Combinación sinérgica
+
+- **[[Microneedling]]**: el estudio de 2013 mostró ~**4x más recuento capilar** combinando minoxidil + microneedling semanal a 1.5mm vs minoxidil solo. Meta-análisis posterior confirma la sinergia. Ver [[Microneedling#Protocolo básico]].
+
 ## Alternativas
 
 - **[[Alopecia|2-Desoxi-D-Ribosa (2DDR) tópica]]**: gel de azúcar tópico comparable al minoxidil al 2% en eficacia (Anjum, 2024). Sin beneficio al combinarlos. Mecanismo vía VEGF/angiogénesis.
