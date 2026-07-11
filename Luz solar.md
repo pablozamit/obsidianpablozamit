@@ -110,6 +110,36 @@ Los receptores de vitamina D también existen en el **músculo esquelético**. E
 
 El calcitriol modula el sistema inmune activando **catelicidinas**, péptidos antimicrobianos que los macrófagos usan para matar bacterias y virus. El pico invernal de infecciones respiratorias correlaciona precisamente con el nadir estacional de vitamina D.
 
+## Umbral seguro de daño acumulativo (Matt Zirwas, MD @MattZirwas, jul 2026)
+
+El dermatólogo Matt Zirwas cuestiona el mensaje de "evitar el sol", señalando que reducir la exposición solar aumenta el riesgo de muerte tanto como **ser fumador**.
+
+### 1.6 SED como umbral sin acumulación de daño
+
+Estudio: tomaron a las personas más susceptibles al daño UV y las expusieron al sol, haciendo biopsias de piel para medir daño y reparación, repetido diariamente durante 4 días.
+
+- A **1.6 SED** (Standard Erythemal Dose) no hubo **acumulación de daño** — el cuerpo repara el daño diario siempre que no supere este umbral
+- El daño en el ADN es reparado por el cuerpo; el problema es cuando el daño supera la capacidad de reparación
+
+### Beneficios comprobados del sol
+
+El sol reduce el riesgo de muerte principalmente por:
+
+- **Infartos y accidentes cerebrovasculares** (muy bien demostrado)
+- **Enfermedades autoinmunes, demencia, cáncer y depresión** (probable, evidencia más limitada)
+
+### Vitamina D no reproduce los beneficios
+
+Los suplementos de vitamina D han sido **refutados robustamente** como sustitutos del sol para prevenir las enfermedades mencionadas. La vitamina D es útil principalmente como **marcador** de exposición solar adecuada.
+
+### Recomendación práctica
+
+> "Toma tanto sol sin protección como puedas sin quemarte."
+
+Safety margins: las charts asumen día perfectamente despejado, cero polución, y sol incidiendo perpendicularmente. A menos que estés tumbado boca arriba, el sol te da en ángulo (menos intensidad).
+
+> "Morir de cáncer de piel es realmente raro, comparado con el riesgo de infarto, ictus, enfermedades autoinmunes, demencia y otros cánceres."
+
 ## Ventana segura de exposición
 
 Los mismos fotones UVB que sintetizan vitamina D también crean **dímeros de timina** en el ADN. Las células tienen enzimas de reparación por escisión de nucleótidos que corrigen miles de lesiones al día, pero la capacidad de reparación disminuye con la edad.

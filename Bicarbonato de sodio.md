@@ -69,6 +69,24 @@ Existe evidencia anecdótica que sugiere una mejora en la calidad del [[Ayuno|su
 
 - **Stack Sugerido**: Se combina eficazmente con [[Inositol]] y [[Teanina]] antes de dormir para maximizar la relajación y la profundidad del descanso.
 
+## Distocia de parto (RCT, @lowmegatron, jul 2026)
+
+El bicarbonato de sodio, tradicionalmente usado en deportes como buffer del ácido láctico, se aplicó al **parto distócico** (trabajo de parto lento/difícil).
+
+**RCT** (200 parturientas distócicas):
+- Al confirmar distocia, se midió **lactato en líquido amniótico** (AFL)
+- Grupo bicarbonato: 4.26 g oral disueltos en 200 mL de agua (dosis única, formato Samarin), oxitocina iniciada 1 hora después
+- Grupo control: oxitocina inmediata
+
+**Resultados**:
+- El AFL refleja el metabolismo anaeróbico del útero. Niveles altos de AFL indican acidosis del músculo uterino → contracciones ineficaces
+- **Aumento del 17-20% en partos vaginales espontáneos**, evitando cesáreas de emergencia
+- Sin efectos adversos en el feto
+
+> "We were able to significantly increase the number of women having a spontaneous delivery, avoiding the emergency Caesarean section. Not by just a few percent, but by around 17-20 percent."
+
+**Referencia**: "A randomized controlled trial of a new treatment for labor dystocia"
+
 ## Salud ósea
 
 ### Reducción de pérdida ósea

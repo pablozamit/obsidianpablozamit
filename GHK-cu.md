@@ -53,6 +53,19 @@ Péptido natural con propiedades regenerativas, especialmente en la piel, cabell
 - Estimula la cicatrización de heridas.
 - Protege la piel de la radiación UV.
 - Reduce la inflamación de la piel.
+
+### Sinergia con luz roja (625-635 nm) (@realpeptides, jun 2026)
+
+Fibroblastos humanos expuestos a LED rojo + GHK-Cu mostraron:
+
+| Medición | GHK-Cu + Luz roja | Luz roja sola |
+|---|---|---|
+| Viabilidad celular | **12.5×** más que células sin nada | Modesta |
+| bFGF | **+230%** (3.3×) | Línea base |
+| COL1 (colágeno tipo I) | **+70%** | Línea base |
+| Procolágeno | **+30%** | Línea base |
+
+GHK-Cu también funciona sin luz: en ensayo comparativo (20 voluntarios, ~1 mes), crema de GHK-Cu sola aumentó colágeno en **70%** de los casos, vs. **50%** para vitamina C tópica y **40%** para ácido retinoico.
 - Aumenta el crecimiento/espesor del cabello.
 - Aumenta el tamaño de los folículos pilosos.
 - Ayuda a reconstruir los vasos sanguíneos del folículo piloso.
