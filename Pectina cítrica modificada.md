@@ -14,7 +14,7 @@ La pectina cítrica modificada (MCP) es un polisacárido derivado de la fibra de
 
 > _—@gaezpeat (10 jun 2026)._
 
-Ver también: [[Metales pesados]], [[Clorela]], [[Enterosgel]], [[Zeolita]], [[Carbón activado]], [[Algas]]
+Ver también: [[Metales pesados]], [[Clorela]], [[Enterosgel]], [[Zeolita]], [[Carbón activado]], [[Algas]], [[Sauna]]
 
 ## Uso combinado con alginato sódico
 
@@ -23,9 +23,13 @@ Combinada con **alginato sódico** (derivado de [[Algas|algas]]), muestra eviden
 - Cicatrización intestinal
 - Quelación de metales
 
+## Uso pre-sauna como Binder
+
+Una estrategia avanzada consiste en tomar **15 g de MCP antes de la sauna**. El calor moviliza toxinas almacenadas (metales pesados, productos finales de glicación, xenobióticos lipofílicos) desde los tejidos grasos a la circulación sistémica. El binder ya está presente en el tracto digestivo para atraparlas y excretarlas, evitando que recirculen y estresen el hígado y el cerebro. Marcas recomendadas: Heavenly Heat Saunas.
+
 ## Dosis
 
-5 g, 3 veces al día.
+5 g, 3 veces al día (dosis estándar). Hasta 15 g como dosis única pre-sauna.
 
 ## Ver también
 

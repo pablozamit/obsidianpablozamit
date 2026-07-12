@@ -102,6 +102,20 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
     return `<!DOCTYPE html>
 <html lang="es">
 <head>
+    <script>
+        // Cookie-based auth hint: si el usuario está autenticado, marcamos
+        // <html> con pz-authed ANTES de que el body se parsee. Esto evita
+        // el flash de "Acceso restringido" en cada navegación para usuarios
+        // con sesión activa. La cookie la ponen/limpia user-features.js al
+        // cambiar el estado de auth de Firebase.
+        (function () {
+            try {
+                if (document.cookie.split('; ').some(function (c) { return c.indexOf('pz_auth=1') === 0; })) {
+                    document.documentElement.classList.add('pz-authed');
+                }
+            } catch (e) { /* cookies deshabilitadas: caemos al flujo normal con gate */ }
+        })();
+    </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>${title}</title>

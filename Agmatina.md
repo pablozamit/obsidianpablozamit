@@ -1,6 +1,8 @@
 # Agmatina (Sulfato de Agmatina)
 
-La **agmatina** es un compuesto químico que se produce naturalmente en los organismos a partir del [[Aminoácidos|aminoácido]] [[Arginina]]. Esta molécula ha demostrado ejercer acciones modulatorias en múltiples dianas moleculares, notablemente en sistemas de [[Neurotransmisores]], [[Canales iónicos]], síntesis de [[Óxido nítrico]] (NO) y [[Metabolismo]] de [[Poliaminas]], lo cual provee las bases para futuras investigaciones en potenciales aplicaciones.
+La **agmatina** es un compuesto químico que se produce naturalmente en los organismos a partir del [[Aminoácidos|aminoácido]] [[Arginina]]. Es un **primo cercano de la [[Ketamina]]** — para de pensar demasiado, elimina adicción, reduce la neuroinflamación, actúa como antidepresivo rápido y promueve la [[Neurogénesis]].
+
+Esta molécula ha demostrado ejercer acciones modulatorias en múltiples dianas moleculares, notablemente en sistemas de [[Neurotransmisores]], [[Canales iónicos]], síntesis de [[Óxido nítrico]] (NO) y [[Metabolismo]] de [[Poliaminas]], lo cual provee las bases para futuras investigaciones en potenciales aplicaciones.
 
 Considerado por _aestheticprimal_ como el mejor suplemento para el estado de ánimo: "de todos los suplementos, alimentos y herramientas que he usado, nada produce un beneficio tan grande en el ánimo como el sulfato de agmatina". También destaca su [[Neuroprotector|neuroprotección]].
 

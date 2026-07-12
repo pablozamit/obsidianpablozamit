@@ -404,8 +404,43 @@ function isAuthPage() {
   return /\/(login|registro|perfil)(\.html)?\/?$/.test(path);
 }
 
+// Cookie que el script inline del <head> (en build.js) lee ANTES de que
+// el body se parsee. Si está presente, marca <html> con `pz-authed` y el
+// CSS por defecto no oculta el contenido: cero flash de "Acceso
+// restringido" en cada navegación. La establecemos/limpiamos en
+// onUserChanged según cambie el estado de Firebase.
+const AUTH_COOKIE_NAME = 'pz_auth';
+const AUTH_COOKIE_DAYS = 30;
+function setAuthCookie() {
+  try {
+    const exp = new Date(Date.now() + AUTH_COOKIE_DAYS * 24 * 60 * 60 * 1000).toUTCString();
+    document.cookie = AUTH_COOKIE_NAME + '=1; expires=' + exp + '; path=/; SameSite=Strict; Secure';
+  } catch (e) { /* cookies deshabilitadas: el gate funcionará vía JS igualmente */ }
+}
+function clearAuthCookie() {
+  try {
+    document.cookie = AUTH_COOKIE_NAME + '=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/';
+  } catch (e) { /* noop */ }
+}
+
+function setAuthedClass(authed) {
+  // Sincroniza la clase con el estado de auth. La usamos para:
+  // 1. Override del CSS por defecto (html:not(.pz-authed) oculta el
+  //    contenido). Si el usuario está autenticado, mostramos el
+  //    contenido sin esperar al gate.
+  // 2. En el flujo de transición: si la cookie aún no está pero
+  //    Firebase ya confirmó al usuario, lo añadimos igual para evitar
+  //    un frame de contenido oculto.
+  if (authed) document.documentElement.classList.add('pz-authed');
+  else document.documentElement.classList.remove('pz-authed');
+}
+
 function applyAuthGate() {
   if (isAuthPage()) return;
+  // El script inline del <head> ya marca pz-authed si hay cookie. Si
+  // llegamos aquí con la clase, el usuario está autenticado y no
+  // debemos ocultar el contenido. Salimos sin tocar nada.
+  if (document.documentElement.classList.contains('pz-authed')) return;
   // Idempotente: si el listener del gate se dispara dos veces (la primera
   // sync con currentUser=null antes de que onAuthStateChanged determine al
   // usuario, y async más tarde ya con el user real) no acumulamos duplicados.
@@ -494,6 +529,8 @@ async function init() {
     window.__currentUser = user || null;
     updateAuthUI(user);
     if (user) {
+      setAuthedClass(true);
+      setAuthCookie();
       removeAuthGate();
       // initLikes/initHistory/etc. corren en async wrapper
       if (!window.__userFeaturesStarted) {
@@ -511,6 +548,8 @@ async function init() {
       // Re-aplicar el gate al desloguearse (auto-logout, signOut manual,
       // expiración de token). Sin esto, el contenido queda visible tras
       // cerrar sesión, rompiendo la regla "no existe el usuario anónimo".
+      setAuthedClass(false);
+      clearAuthCookie();
       applyAuthGate();
       window.__userFeaturesStarted = false;
     }

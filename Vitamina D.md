@@ -75,6 +75,28 @@ Dos herramientas infravaloradas para aumentar los niveles de vitamina D en veran
 
 > _—George Ferman (@Helios_Movement), 2 jul 2026_
 
+## Combinación con Vitamina K2
+
+Las cápsulas combinadas de D3+K2 suelen tener una ratio invertida (ej. 5.000 UI D3 + 90 mcg K2), lo que impide ajustar cada nutriente independientemente.
+
+### Qué hace realmente la K2
+
+El beneficio principal de la [[Vitamina K|K2]] no es el manejo del calcio, sino el **metabólico**: mejora la sensibilidad a la [[Insulina]] al modificar la microbiota intestinal → más ácidos biliares y ácidos grasos de cadena corta → activación de receptores intestinales → más [[GLP-1]] (hormona natural que controla azúcar en sangre, hambre y peso). La activación de MGP (Matrix GLA Protein) para evitar depósitos de calcio en arterias es real, pero secundario. La K2 **no extrae calcio de la placa calcificada existente**; previene nuevos depósitos mejorando la salud metabólica.
+
+### Dosis adecuadas
+
+- **D3**: rango seguro en sangre 50-90 ng/mL. No hay beneficio demostrado por encima de 100 ng/mL, solo riesgo (hipercalcemia, daño renal, reducción de flujo a órganos). El magnesio es importante para el metabolismo de la D3 pero **no previene la hipercalcemia**.
+- **K2**: 400-600 mcg/día para obtener beneficios metabólicos. Dosis seguras en investigación hasta 45 mg/día para salud ósea.
+- **Formas de K2 en alimentos**: MK-4 (yema de huevo, mantequilla, hígado, queso, carne oscura de pollo); MK-7 (natto, chucrut, verduras fermentadas, yogur, kéfir). El contenido varía mucho según producción.
+
+### Problema de las combo pills
+
+Al fijar D3 y K2 en una misma cápsula, no se puede aumentar la K2 sin sobredosificar D3, ni reducir D3 sin eliminar K2. La solución es **tomarlos por separado**, testar los niveles de D3 cada pocos meses y ajustar cada dosis independientemente.
+
+### Seguridad de la D3 solar vs suplementos
+
+El sol produce hasta 20.000 UI/día con controles internos (si se produce demasiada, la síntesis se ralentiza y parte se degrada). No es posible la toxicidad por exposición solar. Con suplementos, el cuerpo absorbe la dosis ingerida sin ese control, por lo que la toxicidad por D3 es posible.
+
 ## Ver también
 
 - [[Luz solar]]
