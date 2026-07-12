@@ -14,6 +14,23 @@ Aumenta la excreción de [[Flúor]].
 
 Usado en fórmulas de quelantes naturales (super-binders) para [[Metales pesados]], especialmente [[Aluminio]] y [[Flúor]]. También se le atribuye efecto descalcificante sobre la glándula pineal.
 
+## Mineralización: reducción de pérdida de minerales (aestheticprimal)
+
+10 g de tamarindo al día produce cambios cuantitativos en la pérdida urinaria/fecal de minerales y en la excreción de tóxicos (@aestheticprimal, 28 sept 2025):
+
+| Mineral / Efecto | Cambio |
+|------------------|--------|
+| Pérdida de [[Magnesio]] | ↓ 70% |
+| Pérdida de [[Calcio]] | ↓ 41% |
+| Pérdida de [[Zinc]] | ↓ 40% |
+| Excreción de [[Flúor]] | ↑ 38% |
+
+El tamarindo es, por tanto, una herramienta de **mineralización** (no solo quelación): reduce la pérdida de minerales positivos al tiempo que aumenta la excreción de elementos tóxicos.
+
+> _—@aestheticprimal, 28 sept 2025_
+
+**Caveat del autor**: a dosis altas puede tener efecto laxante.
+
 ## Preparación
 
 1. Limpiar las semillas crudas de tamarindo
