@@ -41,6 +41,11 @@ const COURSES = [
   },
   // Superpack subcourses
   {
+    fileName: 'EAR + IA WEEK.md',
+    drivePath: 'Superpack/EAR + IA WEEK',
+    description: 'Workshop intensivo sobre regulación emocional con IA como copiloto. Pendiente de revisión tras revisar el contenido del doc "Enlaces".',
+  },
+  {
     fileName: 'Sistema de Meditación Binaural.md',
     drivePath: 'Superpack/Sistema de Meditación Binaural',
     description: 'Colección de pistas de meditación binaural para estados específicos: foco, calma, sueño, energía.',
