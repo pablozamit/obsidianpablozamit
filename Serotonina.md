@@ -8,6 +8,19 @@ La exposición a luz brillante ([[Luz solar]]) aumenta la síntesis de serotonin
 ""La serotonina fue nombrada así ya que regula el tono del suero: es un vasoconstrictor, liberado de forma sistémica en respuesta a la irritación o inflamación intestinal.""
 
 
+## Producción de serotonina en el tracto gastrointestinal
+
+La mayor parte de la serotonina corporal se produce en el **tracto gastrointestinal**, no en el cerebro. Las células enterocromafines del intestino sintetizan serotonina a partir de triptófano, y esta producción local está implicada en motilidad y función inmune intestinal.
+
+- El **estreñimiento crónico** se ha correlacionado con **bajos niveles de serotonina mucosal** en el intestino grueso (PMC2694720).
+- Los receptores de serotonina en el intestino (no el cerebro) son los principales reguladores de la motilidad intestinal.
+- La desincronización circadiana y la disfunción de [[Melanopsinas|melanopsina]] comprometen la producción intestinal.
+
+> "Most of the body's serotonin is actually created in the gut by light release from the microbiome that is controlled by the incident light we chose to live under."
+> _—@DrJackKruse, 28 sept 2025, citando PMC2694720_
+
+**Caveat**: el marco general de Kruse ("light is the most powerful drug", bacterias emitiendo 5000× más luz que células eucariotas) es especulativo y no respaldado por literatura peer-reviewed. Solo los claims específicos con paper support están consolidados.
+
 ## Serotonina y cortisol
 
 La serotonina estimula la producción de [[Cortisol]] en las glándulas suprarrenales de forma **dosis-dependiente**. Los antagonistas de serotonina (como la [[Ciproheptadina]]) abolieron la respuesta de cortisol a la serotonina, y se observó aumento de [[cAMP]] confirmando la producción de cortisol [PMID: 1374544].

@@ -53,6 +53,25 @@ La combinación de **guanfacina** (agonista α2A-adrenérgico) con **Elvanse/Dex
 
 No hay ensayos clínicos que evalúen esta combinación específica; es un hallazgo anecdótico de la comunidad. La guanfacina se usa aprobada para [[ADHD]] en monoterapia, y la dexanfetamina también. La combinación no es estándar.
 
+## Dopamina en el tracto gastrointestinal
+
+El tracto gastrointestinal produce cantidades sustanciales de dopamina, que funciona como **molécula de señalización paracrina** local, no solo como neurotransmisor central.
+
+Funciones de la dopamina GI:
+
+- Estimula **secreciones exocrinas**
+- Inhibe la **motilidad gástrica**
+- Modula la **absorción de sodio**
+- Regula el **flujo sanguíneo mucosal**
+- Protectora frente a la **úlcera gastroduodenal**
+
+**Implicación clínica**: la dopamina GI baja puede contribuir a trastornos de motilidad como el síndrome de intestino irritable y el SIBO, que se están volviendo pandémicos. La luz solar matutina estimula la producción de dopamina, lo que mejora la motilidad GI.
+
+> "Morning sunlight also stimulates dopamine production and we now know that dopamine receptors in the GI tract regulate gastrointestinal motility. Irritable bowel syndrome and small intestinal bacterial overgrowth, which are becoming pandemic today, are largely motility related disorders."
+> _—@DrJackKruse, 28 sept 2025, citando academic.oup.com (Substantial Production of Dopamine in the Human GI Tract)_
+
+**Caveat**: el marco general del autor (luz como "droga más poderosa", microbioma liberando 5000× más luz) es especulativo. Solo el claim específico sobre producción sustancial de dopamina en el tracto GI está paper-supported.
+
 ## Ver también
 
 - [[Libido]]

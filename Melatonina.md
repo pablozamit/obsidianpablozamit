@@ -88,6 +88,24 @@ Prioriza siempre hábitos antes que suplementos: Exposición a la luz natural de
     -   **Enzima:** *Hidroxiindol-O-metiltransferasa (HIOMT)* también conocida como **ASMT**
     -   Esta enzima convierte N-acetilserotonina en melatonina mediante una [[Metilación|metilación]].
 
+## Funciones de la melatonina en el tracto gastrointestinal (PMC3198018)
+
+La melatonina se produce localmente en el tracto gastrointestinal donde cumple funciones específicas más allá del ritmo circadiano pineal:
+
+- Regula la **motilidad intestinal**
+- Modula el **sistema inmune** GI
+- Controla la **secreción** gastrointestinal
+- Libera **péptidos** involucrados en balance energético y mantenimiento
+- Protege el **colon** en condiciones patofisiológicas vía mecanismos antioxidativos
+- Modula la **flora intestinal** con potencial acción antimicrobiana
+
+> "In the gut melatonin plays significant roles in regulating intestinal motility, the immune system, GI secretion, and the release of peptides involved in energy balance and maintenance. Melatonin also protects the colon in different pathophysiological conditions, and these protective effects involve activation of antioxidative mechanisms which combat oxidative stress. Another effect of melatonin is the alteration of gut flora and potential anti-microbiotic actions."
+> _—@DrJackKruse, 28 sept 2025, citando PMC3198018_
+
+**Implicación clínica**: la melatonina baja puede contribuir a etapas de [[Disbiosis intestinal]]. La [[Luz solar|luz solar matutina]] y la oscuridad nocturna favorecen su producción local.
+
+**Caveat**: el marco del autor (Kruse) tiene componentes especulativos; los claims específicos están paper-supported.
+
 # Aplicaciones:
 
 -   [[Quelación|Quelación]] de [[Metales pesados|metales pesados]]: "Toma megadosis de melatonina por la noche para equilibrar y también para [[Quelación|quelar]] [[Metales pesados|metales pesados]]."

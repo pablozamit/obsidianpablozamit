@@ -80,6 +80,19 @@ Las mismas células de melanopsina se conectan con los **núcleos del rafe**, do
 
 La serotonina es el precursor de la **[[Melatonina]]**. La glándula pineal convierte serotonina en melatonina después del anochecer. Mayor producción diurna de serotonina → más materia prima disponible para la síntesis nocturna de melatonina. El eje luz-estado de ánimo-sueño es un único pipeline bioquímico continuo.
 
+## Producción de neurotransmisores en el intestino (DrJackKruse)
+
+La luz solar no solo programa la producción central de serotonina y melatonina — también modula la producción local de neurotransmisores en el **tracto gastrointestinal** vía la luz emitida por el microbioma (tesis central de @DrJackKruse, 28 sept 2025, basada en 3 papers peer-reviewed).
+
+- **[[Serotonina]]** (~95% de la serotonina corporal): se produce en células enterocromafines del intestino (PMC2694720). El estreñimiento crónico se correlaciona con bajos niveles de serotonina mucosal.
+- **[[Melatonina]] GI**: modula motilidad intestinal, sistema inmune GI, secreción, péptidos de balance energético, flora intestinal (PMC3198018).
+- **[[Dopamina]] GI**: cantidades sustanciales, señalización paracrina local, regula motilidad, secreciones, absorción de Na, flujo sanguíneo mucosal (academic.oup.com).
+
+> "Your gastrointestinal system will never function optimally in a circadian mismatch (melanopsin dysfunction) and that will bypass however good a diet is."
+> _—@DrJackKruse, 28 sept 2025_
+
+**Caveat**: el marco general de Kruse (luz como "droga más poderosa", bacterias emitiendo 5000× más luz que células eucariotas) es especulativo y no paper-supported. Solo los 3 claims específicos con paper citation están consolidados.
+
 ## Pulsos de superóxido y ritmo día/noche
 
 Una línea de pensamiento biohacker (@yungkingmito, 1 oct 2025) lleva la conexión luz-oscuridad al terreno de la [[Especies reactivas del oxígeno|biología redox mitocondrial]]:
