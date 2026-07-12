@@ -1852,10 +1852,15 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
         })();
     </script>
     <script type="module">
-        import './js/user-features.js';
-    </script>
-    <script type="module">
-        window.__FIREBASE_CONFIG__ = {"apiKey":"","authDomain":"","databaseURL":"","projectId":"","storageBucket":"","messagingSenderId":"","appId":""};
+        window.__FIREBASE_CONFIG__ = {
+            apiKey: "${process.env.FIREBASE_API_KEY || ''}",
+            authDomain: "${process.env.FIREBASE_AUTH_DOMAIN || ''}",
+            databaseURL: "${process.env.FIREBASE_DATABASE_URL || ''}",
+            projectId: "${process.env.FIREBASE_PROJECT_ID || ''}",
+            storageBucket: "${process.env.FIREBASE_STORAGE_BUCKET || ''}",
+            messagingSenderId: "${process.env.FIREBASE_MESSAGING_SENDER_ID || ''}",
+            appId: "${process.env.FIREBASE_APP_ID || ''}"
+        };
         import './js/user-features.js';
     </script>
 </body>
