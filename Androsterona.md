@@ -15,6 +15,14 @@ La **androsterona** es una [[Hormonas|hormona esteroide]] con una débil activid
 -   El consumo excesivo de androsterona sintética puede ocasionar [[Efectos secundarios]] como [[Trastornos hepáticos]], problemas de [[Coagulación sanguínea]], aumento de [[Glóbulos rojos]] e incluso [[Impotencia sexual]] en [[Hombres]].
 -   En [[Mujeres]], niveles elevados de androsterona pueden estar asociados con [[Acné]], con o sin [[Hirsutismo]].
 
+## Androstadienona vs Androsterona: Efectos en la Atractividad Percibida
+
+La **androstadienona** (no confundir con la androsterona) es una feromona esteroidea que, al ser percibida por el olfato, hace que los demás perciban tu rostro y tu voz como más atractivos. La androsterona comparte similitudes en sus efectos sobre la atractividad percibida, aunque con menor potencia, por lo que puede usarse como sustituto cuando no se tiene acceso a androstadienona.
+
+## Fragancias Convencionales vs Alternativas No-Tóxicas
+
+Las fragancias convencionales son extremadamente [[Estrógenos|estrogénicas]], por lo que no se recomienda su uso. Si se va a usar un perfume, optar por opciones no-tóxicas 100% orgánicas como Malabar New York, que elabora perfumes orgánicos finos sin ingredientes sintéticos.
+
 ## Investigación Adicional
 
 -   **Sinergia con [[DHEA]]:** Se ha investigado un notable efecto sinérgico de la androsterona con [[DHEA]].

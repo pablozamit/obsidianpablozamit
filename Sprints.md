@@ -1,5 +1,37 @@
 Los sprints o carreras al máximo de velocidad son uno de los mejores ejercicios de optimización neurohormonal.
 
+## Entrenamiento de Sprints Repetidos (RST) vs HIIT
+
+El **entrenamiento de sprints repetidos (Repeated Sprint Training, RST)** consiste en sprints de 5-10 segundos a máxima intensidad con descansos de 30-60 segundos (recuperación insuficiente). En 10 minutos totales se completa la sesión. Se diferencia del HIIT tradicional, que mantiene cargas de 3-8 minutos con alta liberación de [[Cortisol]].
+
+### Mecanismo Fisiológico
+
+Los sprints cortos dependen casi enteramente del **sistema de fosfocreatina**. La fosfocreatina dona un grupo fosfato al ADP para regenerar ATP instantáneamente — sin oxígeno, sin acumulación de lactato.
+
+En el primer sprint, las reservas de fosfocreatina se agotan ~60% en 10 segundos. Con solo 30-60 segundos de descanso, las reservas no se recuperan completamente. En el siguiente sprint, el cuerpo no puede depender tanto de la fosfocreatina y extrae más energía del sistema aeróbico. Sprint tras sprint, la contribución de la fosfocreatina cae y el consumo de oxígeno se eleva, hasta alcanzar cerca del VO₂ máximo en los sprints finales — entrenando el sistema aeróbico a través de la explosividad repetida, aunque los sprints sean más lentos.
+
+### Evidencia
+
+Un meta-análisis de 2024 (51 estudios, >1.200 atletas) comparó RST, HIIT, entrenamiento de sprints intervalados y cardio continuo. El RST y el HIIT empataron como los mejores para mejorar VO₂ máximo, con el RST mostrando una ligera ventaja en efectividad.
+
+### Ventajas del RST sobre HIIT
+
+1. **Eficiencia de tiempo**: 10 minutos vs 30-40 minutos de HIIT.
+2. **Menor estrés metabólico**: Los sprints cortos no inundan el sistema de cortisol como los esfuerzos sostenidos de alta intensidad.
+3. **Potencia y habilidad**: Cada sprint entrena explosividad, velocidad y coordinación total del cuerpo.
+4. **Gasto energético**: El metabolismo permanece elevado después de la sesión. 2-3 sesiones/semana mantienen mayor quema calórica en reposo. El HIIT puede suprimir el metabolismo si se abusa.
+5. **Reclutamiento de fibras rápidas (tipo II)**: Alto potencial de crecimiento y alta demanda metabólica. Se entrena potencia y resistencia simultáneamente.
+
+### Protocolo Avanzado (Cluster)
+
+Para personas ya entrenadas: 4-6 sprints cada minuto (uno por minuto), descansar 2-4 minutos, repetir el cluster 2-3 veces. Esto mantiene mayor potencia a lo largo de la sesión mientras se acumula el estímulo aeróbico.
+
+La clave es la **recuperación insuficiente** entre sprints. Si se descansa demasiado, la fosfocreatina se recupera completamente y se convierte en entrenamiento de potencia pura — útil, pero no es el mismo estímulo. La magia ocurre cuando el sistema aeróbico se ve forzado a intervenir porque el sistema anaeróbico no puede mantener el ritmo.
+
+### Cardio Zona 2
+
+El cardio largo y lento en [[Zona 2]] es ineficaz para mejorar el VO₂ máximo, pero construye densidad capilar alrededor de las células musculares, mejorando la entrega de oxígeno — lo que potenciará el efecto del RST. Es útil para el desarrollo aeróbico a largo plazo como complemento, no como sustituto.
+
 
 ## **Efectos neurológicos**
 

@@ -337,6 +337,15 @@ Es mejor caracterizado como **"adaptógeno dopaminérgico nootrópico"** o **"re
 |Bromantane Tissue Oxygenation and Mitochondrial ATP|2025|Upregulación enzimas mitocondriales, ATP bajo hipoxia, citocromos P450 mejorados. Mecanismo resistencia energética.|
 |Smart drugs occurrence in Europe|2025|Bromantano en envíos europeos con variabilidad crítica pureza. Importancia de COAs independientes.|
 
+## Dosis y Fuentes
+
+El bromantano se clasifica más precisamente como un **actoprotector** que como un estimulante, porque activa sin agotar, reduce la ansiedad en lugar de incrementarla, mejora el sueño y el ciclo circadiano, y produce beneficios que persisten meses después de dejar de tomarse.
+
+- **Dosis sublingual estándar**: 50-100 mg. Para sesiones que requieren máxima productividad, hasta 150 mg. La vía sublingual es la más común para el polvo.
+- **Vía intranasal**: Más cara pero más conveniente. Fuente: everychem.com
+- **Vendedores EU**: aniracetam.eu, semaxpolska.com
+- **Vendedores US**: science.bio (polvo sublingual), everychem.com (intranasal), swisschems.is
+
 ---
 
 Bromantano representa una innovación farmacológica genuina del desarrollo científico ruso tardío-soviético, con perfil de seguridad y beneficios únicos que lo distinguen radicalmente de estimulantes convencionales. Su mala caracterización como "estimulante" ha oscurecido su verdadero valor como **reactivador de sistemas dopaminérgicos endógenos y adaptógeno nootrópico duradera-actuante**.
