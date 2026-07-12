@@ -65,6 +65,12 @@ Desde ahí también puedes **cerrar sesión**.
 
 ---
 
+## 📚 Formaciones
+
+Si buscas mis cursos y materiales formativos, están todos centralizados en [[Formaciones]]: cursos activos, en desarrollo y material complementario. Si acabas de unirte a un curso, esa nota es tu punto de partida.
+
+---
+
 ## 🤝 Comunidad
 
 Hay dos canales oficiales para la membresía. Únete al que prefieras (o a los dos):
