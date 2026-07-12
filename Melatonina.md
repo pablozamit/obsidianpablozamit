@@ -104,7 +104,7 @@ La melatonina se produce localmente en el tracto gastrointestinal donde cumple f
 
 **Implicación clínica**: la melatonina baja puede contribuir a etapas de [[Disbiosis intestinal]]. La [[Luz solar|luz solar matutina]] y la oscuridad nocturna favorecen su producción local.
 
-**Caveat**: el marco del autor (Kruse) tiene componentes especulativos; los claims específicos están paper-supported.
+**Caveat**: el marco general de Kruse (luz como "droga más poderosa", bacterias emitiendo 5000× más luz que células eucariotas, triptófano como "time crystal") es especulativo y no paper-supported. Solo los claims específicos con paper citation están consolidados.
 
 # Aplicaciones:
 

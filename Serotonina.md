@@ -19,7 +19,7 @@ La mayor parte de la serotonina corporal se produce en el **tracto gastrointesti
 > "Most of the body's serotonin is actually created in the gut by light release from the microbiome that is controlled by the incident light we chose to live under."
 > _—@DrJackKruse, 28 sept 2025, citando PMC2694720_
 
-**Caveat**: el marco general de Kruse ("light is the most powerful drug", bacterias emitiendo 5000× más luz que células eucariotas) es especulativo y no respaldado por literatura peer-reviewed. Solo los claims específicos con paper support están consolidados.
+**Caveat**: el marco general de Kruse (luz como "droga más poderosa", bacterias emitiendo 5000× más luz que células eucariotas, triptófano como "time crystal") es especulativo y no paper-supported. Solo los claims específicos con paper citation están consolidados.
 
 ## Serotonina y cortisol
 

@@ -38,5 +38,5 @@ El tamarindo es, por tanto, una herramienta de **mineralización** (no solo quel
 3. Frotar para separar la testa negra del núcleo blanco
 4. Pulverizar el núcleo blanco hasta obtener un polvo fino
 
-Ver también: [[Microplásticos]], [[Probióticos]], [[Metales pesados]], [[Aluminio]], [[Flúor]], [[Desintoxicación]]
+Ver también: [[Microplásticos]], [[Probióticos]], [[Metales pesados]], [[Aluminio]], [[Flúor]], [[Desintoxicación]], [[Magnesio]], [[Calcio]], [[Zinc]]
 

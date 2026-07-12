@@ -149,6 +149,8 @@ Algunos usuarios reportan que el NAC puede producir **embotamiento emocional** (
 > "NAC downregulates glutamate release in the reward center of the brain (nucleus accumbens). Its why its good for compulsive urges but can cause emotional numbing if you overshoot. If you're low in dopamine precursors (tyrosine, phenylalanine, B6), you'll feel blunted faster. Dial the dose down & consider stacking with dopamine support."
 > _—Noah Ryan (@NoahRyanCo), 29 sept 2025_
 
+Complementa la sección **"Efecto sobre el estado de ánimo (caveat)"** más abajo con el mecanismo específico de downregulation glutamatérgica y la interacción con precursores de dopamina.
+
 El NAC modula la liberación de glutamato específicamente en el [[Núcleo accumbens]] (centro de recompensa cerebral). El mismo mecanismo que reduce conductas compulsivas y adictivas (downregulation de glutamato) puede producir **embotamiento emocional** si la dosis es excesiva o si hay déficit de precursores dopaminérgicos.
 
 **Interacción con precursores de dopamina**: si los niveles de [[Tirosina|tyrosina]], fenilalanina o [[Vitamina B6|B6]] son bajos, el efecto de "embotamiento" aparece antes. Estrategia propuesta:

@@ -48,6 +48,8 @@ El tueste cambia significativamente el contenido de polifenoles y ácidos clorog
 | Medio (medium roast) | ~8.44 mg/g | ~6.56 mg/g | ~0.94 mg/g |
 | Oscuro (dark roast) | ~7.95 mg/g | ~4.35 mg/g | ~2.33 mg/g |
 
+_(Datos de Wallace; otros compuestos como cafeína, trigonelina o kahweol varían independientemente del tueste y no se recogen aquí.)_
+
 **Conclusiones prácticas**:
 - El tueste **claro** maximiza los [[Ácidos clorogénicos|ácidos clorogénicos]], que regulan el azúcar en sangre, protegen los vasos sanguíneos y actúan como antioxidantes.
 - El tueste **oscuro** los pierde, pero gana ácido gálico y otros polifenoles formados durante la pirólisis.

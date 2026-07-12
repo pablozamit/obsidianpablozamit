@@ -2,12 +2,12 @@ El lumisterol es un esterol que se encuentra en la [[Piel|piel]] humana, formado
 
 ## Mecanismo de seguridad contra la toxicidad de vitamina D
 
-El cuerpo **no puede sobredosificarse** con vitamina D producida por el sol porque el exceso de previtamina D3 se desvía a compuestos inertes (lumisterol y taquisterol) en lugar de convertirse en vitamina D activa. Este es un mecanismo de seguridad interno que **ningún suplemento replica**.
+El cuerpo **no puede sobredosificarse** con vitamina D producida por el sol porque el exceso de previtamina D3 se desvía a compuestos inertes (lumisterol) en lugar de convertirse en vitamina D activa. Este es un mecanismo de seguridad interno que **ningún suplemento replica**.
 
-Las dos rutas alternativas del 7-dehidrocolesterol bajo UVB:
+Las dos rutas del 7-dehidrocolesterol bajo UVB:
 
 - **7-dehidrocolesterol + UVB** → previtamina D3 → vitamina D3 (camino activo)
-- **Exceso de 7-dehidrocolesterol + UVB** → lumisterol + taquisterol (camino inerte)
+- **Exceso de previtamina D3 + UVB** → lumisterol (camino inerte)
 
 Por eso:
 - La exposición solar nunca causa toxicidad de vitamina D
