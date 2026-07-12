@@ -101,13 +101,9 @@ async function initLikes() {
       btn.addEventListener('click', async () => {
         const type = btn.getAttribute('data-vote');
         try {
+          // Solo guardamos el voto privado en RTDB. El contador público
+          // ya se incrementa vía el listener inline de build.js (vote()).
           await saveVote(slug, type);
-          // Also update public counter via existing API
-          await fetch('/api/likes', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ slug, vote: type })
-          });
           section.querySelectorAll('.like-btn').forEach(b => {
             b.disabled = true;
             b.classList.remove('voted');
@@ -346,16 +342,27 @@ async function init() {
   }
   initAuthForms();
   initAuthUI();
-  onUserChanged(async (user) => {
+  onUserChanged((user) => {
+    // Exponer el usuario actual para que el listener inline de build.js
+    // (vote()) pueda bloquear votos anónimos antes de cualquier click.
+    window.__currentUser = user || null;
     updateAuthUI(user);
     if (user) {
       removeAuthGate();
-      await initFavorites();
-      await initLikes();
-      await initHistory();
-      await initAnnotations();
-      await initItinerary();
-      await initProfile();
+      // initLikes/initHistory/etc. corren en async wrapper
+      (async () => {
+        await initFavorites();
+        await initLikes();
+        await initHistory();
+        await initAnnotations();
+        await initItinerary();
+        await initProfile();
+      })();
+    } else {
+      // Re-aplicar el gate al desloguearse (auto-logout, signOut manual,
+      // expiración de token). Sin esto, el contenido queda visible tras
+      // cerrar sesión, rompiendo la regla "no existe el usuario anónimo".
+      applyAuthGate();
     }
   });
 }

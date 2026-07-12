@@ -1805,6 +1805,9 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
             }
             fetchCounts();
             function vote(type) {
+                // Defense-in-depth: ningún voto sin sesión. window.__currentUser
+                // lo asigna user-features.js dentro de onUserChanged.
+                if (!window.__currentUser) { showError('Inicia sesión para votar.'); return; }
                 if (voted) { showError('Ya has votado por esta nota.'); return; }
                 clearError();
                 if (btnUp) btnUp.disabled = true;
