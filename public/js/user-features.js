@@ -336,17 +336,27 @@ function showGateError(msg) {
 // Main init
 async function init() {
   applyAuthGate();
-  // Safety timeout: if Firebase doesn't initialize in 6 s, show error in gate overlay
-  const initTimeout = new Promise(resolve => {
-    setTimeout(() => {
-      if (!getCurrentUser()) showGateError('No se pudo verificar la sesión. Recarga la página.');
-    }, 6000);
-  });
+  // Safety timeout: si Firebase no inicializa en 6 s y no hay usuario,
+  // mostramos el error en el overlay en vez del botón genérico de login.
+  let safetyTimer = setTimeout(() => {
+    if (!getCurrentUser()) showGateError('No se pudo verificar la sesión. Recarga la página.');
+  }, 6000);
   try {
-    await Promise.race([initAuth().then(() => clearTimeout(initTimeout)), initTimeout]);
+    await initAuth();
+    clearTimeout(safetyTimer);
   } catch (e) {
+    clearTimeout(safetyTimer);
     showGateError('Error inicializando Firebase: ' + (e?.message || e));
   }
+
+  // Después de que Firebase haya determinado el estado, sincronizamos el
+  // gate con el usuario actual. Esto cubre el caso en el que el listener
+  // basado en onUserChanged todavía no haya disparado (por ejemplo, si el
+  // usuario ya estaba autenticado y Firebase lo resolvió durante la init).
+  if (getCurrentUser()) {
+    removeAuthGate();
+  }
+
   initAuthForms();
   initAuthUI();
   onUserChanged((user) => {
@@ -357,19 +367,23 @@ async function init() {
     if (user) {
       removeAuthGate();
       // initLikes/initHistory/etc. corren en async wrapper
-      (async () => {
-        await initFavorites();
-        await initLikes();
-        await initHistory();
-        await initAnnotations();
-        await initItinerary();
-        await initProfile();
-      })();
+      if (!window.__userFeaturesStarted) {
+        window.__userFeaturesStarted = true;
+        (async () => {
+          await initFavorites();
+          await initLikes();
+          await initHistory();
+          await initAnnotations();
+          await initItinerary();
+          await initProfile();
+        })();
+      }
     } else {
       // Re-aplicar el gate al desloguearse (auto-logout, signOut manual,
       // expiración de token). Sin esto, el contenido queda visible tras
       // cerrar sesión, rompiendo la regla "no existe el usuario anónimo".
       applyAuthGate();
+      window.__userFeaturesStarted = false;
     }
   });
 }

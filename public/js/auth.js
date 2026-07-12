@@ -1,7 +1,11 @@
 import { initFirebase } from './firebase-app.js';
 
 let authInstance = null;
-let currentUser = null;
+// Inicializamos a `undefined` (NO null) para que en `onUserChanged` el check
+// `if (currentUser !== undefined) callback(currentUser)` NO dispare el
+// callback sync con un valor "falsy". Sólo cuando Firebase determine el
+// estado real (null o user object) se ejecutarán los listeners.
+let currentUser = undefined;
 let unsubscribe = null;
 const listeners = new Set();
 
@@ -31,6 +35,8 @@ export async function initAuth() {
 
 export function onUserChanged(callback) {
   listeners.add(callback);
+  // Sólo dispara el callback de forma síncrona si Firebase ya tiene el
+  // estado determinado. `undefined` significa "todavía no se sabe".
   if (currentUser !== undefined) callback(currentUser);
   return () => listeners.delete(callback);
 }
