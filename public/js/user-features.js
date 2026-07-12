@@ -280,14 +280,51 @@ async function initProfile() {
   `;
 }
 
+// Auth gate: hide content immediately and show login prompt if no user
+function isAuthPage() {
+  const path = window.location.pathname;
+  return path.includes('/login') || path.includes('/registro') || path.includes('/perfil');
+}
+
+function applyAuthGate() {
+  if (isAuthPage()) return;
+  // Inject style that hides main content immediately
+  const style = document.createElement('style');
+  style.setAttribute('data-gate', 'true');
+  style.textContent = '#sidebar, #main-content, #menu-toggle { display: none !important; }';
+  document.head.appendChild(style);
+  // Show guest overlay
+  const overlay = document.createElement('div');
+  overlay.id = 'guest-overlay';
+  overlay.innerHTML = `
+    <div style="position:fixed;inset:0;display:flex;align-items:center;justify-content:center;background:var(--bg, #FAFAF7);z-index:9999;font-family:var(--font-sans,Inter,system-ui,sans-serif);">
+      <div style="text-align:center;max-width:420px;padding:2rem;">
+        <h1 style="font-size:1.8rem;margin:0 0 0.5rem;color:var(--ink,#0F1419);">Acceso restringido</h1>
+        <p style="margin:1rem 0 1.5rem;color:var(--ink-soft,#3A414B);">Necesitas iniciar sesión para ver el contenido.</p>
+        <a href="login.html" style="display:inline-block;padding:0.75rem 1.5rem;background:var(--accent,#1F7A55);color:white;text-decoration:none;border-radius:8px;font-weight:600;">Iniciar sesión</a>
+      </div>
+    </div>
+  `;
+  document.body.appendChild(overlay);
+}
+
+function removeAuthGate() {
+  const style = document.querySelector('style[data-gate]');
+  if (style) style.remove();
+  const overlay = document.getElementById('guest-overlay');
+  if (overlay) overlay.remove();
+}
+
 // Main init
 async function init() {
+  applyAuthGate();
   await initAuth();
   initAuthForms();
   initAuthUI();
   onUserChanged(async (user) => {
     updateAuthUI(user);
     if (user) {
+      removeAuthGate();
       await initFavorites();
       await initLikes();
       await initHistory();
