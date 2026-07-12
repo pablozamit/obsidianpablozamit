@@ -26,6 +26,15 @@ Aumenta la capacidad antioxidante total, mejora el equilibrio redox del cerebro 
 ### Transmisión dopaminérgica en la corteza prefrontal (PFC)
 A diferencia de la mayoría de compuestos dopaminérgicos que actúan en regiones mesolímbicas (como el núcleo accumbens o NAc) —responsables de la motivación, el drive y la energía—, el Ginkgo eleva selectivamente la [[Dopamina|dopamina]] en la [[Corteza prefrontal|corteza prefrontal]] (PFC). Esto se traduce en competencia y control cognitivo en lugar de un impulso motivacional bruto.
 
+## Salud visual (Ginkgo)
+
+> "Gingko biloba: has a selective cerebro-vascular dilator and seems to increase circulation to the back of the eye as well as increasing blood flow to the eye."
+> _—Barbara O'Neill (@BarbaraOneillAU), 26 sept 2025_
+
+El ginkgo es un **dilatador cerebrovascular selectivo** que también aumenta la **circulación al fondo del ojo** y el flujo sanguíneo ocular general. Esto tiene aplicación en condiciones como retinopatía diabética, glaucoma y degeneración macular asociada a la edad (DMAE), donde la perfusión retiniana está comprometida.
+
+> _—Caveat de fuente: Barbara O'Neill es naturópata con afirmaciones controvertidas en otros dominios. El claim específico sobre ginkgo + circulación ocular tiene paper support (varios ensayos clínicos pequeños en retinopatía y glaucoma), pero la magnitud del efecto es modesta y no sustituye el tratamiento estándar._
+
 ## Dosis y protocolo
 
 - **200 mg** de extracto estandarizado: dosis inicial que eleva la transmisión dopaminérgica en el PFC, mejorando la atención sostenida, el filtro de distracciones y la toma de decisiones calculadas bajo estrés.
