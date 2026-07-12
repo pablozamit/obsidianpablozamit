@@ -30,6 +30,9 @@ Desde que el fotón UVB rompe el enlace hasta que el calcitriol activa genes pas
 - La piel produce **10–50 veces más** que un suplemento
 - El cuerpo **no puede sobredosificarse** con vitamina D solar (el exceso de previtamina D3 se convierte en subproductos inertes), pero sí con suplementos
 
+> "When UV light hits your skin, it turns a substance called 7-dehydrocholesterol (7-DHC) into pre-Vitamin D3, which your body uses to make Vitamin D. But if you stay in sun for too long, any extra 7-DHC turns into harmless stuff like lumisterol. This is your body's way of making sure you don't end up with too much vitamin D. NO SUPPLEMENT can replicate this."
+> _—Rusty (@ze_rusty), 28 sept 2025_
+
 ### Lámparas de UVB: ¿"fabricar verano en febrero"?
 
 Una posición biohacker crítica (@yungkingmito, 1 oct 2025) considera que las **lámparas de UVB** usadas para "simular verano en invierno" **rompen la coherencia estacional**:
