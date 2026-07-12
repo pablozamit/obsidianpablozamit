@@ -109,28 +109,36 @@ const INTERMEDIATE_FOLDERS = new Set([
   'Archivos', 'Files', 'Materiales',
 ]);
 
-// Devuelve el nombre de la lección para un archivo, o null si va a la raíz.
-// Reglas:
-//   - Si el archivo está en la raíz del curso (sin subcarpeta) → null.
-//   - Si la primera subcarpeta es "bucket" organizativo (Contenido, etc.):
-//       - Si el archivo está directamente en ese bucket (segs.length=2) → null.
-//       - Si hay un nivel más (Módulo, sección, etc.) → ese nivel es la lección.
-//   - En otro caso, la primera subcarpeta ES la lección.
-function getLeccionKey(f, coursePath) {
-  if (!f.path.startsWith(coursePath + '/')) return null;
-  // El dump guarda `path` como la ruta del PADRE (no incluye el archivo).
-  // Calculamos el path real concatenando el nombre para que las segs reflejen
-  // la jerarquía completa. Si el manifest ya viene con el path completo
-  // (post-fix del dump), endsWith lo detecta y no duplica el nombre.
+// Patrón para detectar carpetas que son MÓDULOS (no lecciones). Si una
+// carpeta del curso matchea este patrón, los archivos DENTRO son las
+// lecciones reales (uno por archivo), y la carpeta se lista como header
+// en la nota del curso pero NO genera una .md propia.
+const MODULO_REGEX = /^(?:M[oó]dulo|Bonus)\b/i;
+
+// Devuelve la ubicación del archivo en el árbol del curso: { modulo, leccion }.
+//   - modulo: nombre del módulo si la carpeta inmediata matchea MODULO_REGEX
+//     (p.ej. "Módulo 1: X", "Bonus 1: Y"); null en otro caso.
+//   - leccion: nombre del archivo sin extensión si está dentro de un módulo;
+//     nombre de la carpeta inmediata si NO es módulo; null si está en la raíz
+//     del curso (sin subcarpeta) o directamente bajo un bucket (Contenido).
+function getTreeLocation(f, coursePath) {
+  if (!f.path.startsWith(coursePath + '/')) return { modulo: null, leccion: null };
   const realPath = f.path.endsWith('/' + f.name) ? f.path : (f.path ? f.path + '/' + f.name : f.name);
   const rel = realPath.slice(coursePath.length + 1);
   const segs = rel.split('/');
-  if (segs.length < 2) return null; // archivo suelto en la raíz del curso
-  if (INTERMEDIATE_FOLDERS.has(segs[0])) {
-    if (segs.length < 3) return null; // archivo directamente en el bucket
-    return segs[1];
+  if (segs.length < 2) return { modulo: null, leccion: null };
+  let folder = segs[0];
+  if (INTERMEDIATE_FOLDERS.has(folder)) {
+    if (segs.length < 3) return { modulo: null, leccion: null };
+    folder = segs[1];
   }
-  return segs[0];
+  // Si la carpeta es un Módulo, el archivo DENTRO es la lección
+  if (MODULO_REGEX.test(folder)) {
+    const cleanName = f.name.replace(/(?:\.[a-zA-Z0-9]+)+\s*$/, '').trim();
+    return { modulo: folder, leccion: cleanName };
+  }
+  // Comportamiento legacy: la carpeta ES la lección
+  return { modulo: null, leccion: folder };
 }
 
 // Detecta si un archivo en la raíz del curso representa un "bloque" de
@@ -177,15 +185,24 @@ function detectBloqueRootFile(f) {
 }
 
 function groupByLeccion(files, coursePath) {
+  // modulos: Map<moduloName, Map<leccionName, files[]>>  (para cursos con Módulo X / Bonus X)
+  // lecciones: Map<leccionName, files[]>  (legacy: carpeta = lección)
+  // rootFiles: archivos en la raíz del curso (o directamente bajo un bucket)
+  const modulos = new Map();
   const lecciones = new Map();
   const rootFiles = [];
   for (const f of files) {
-    const leccionKey = getLeccionKey(f, coursePath);
-    if (leccionKey === null) {
-      rootFiles.push(f);
+    const { modulo, leccion } = getTreeLocation(f, coursePath);
+    if (modulo) {
+      if (!modulos.has(modulo)) modulos.set(modulo, new Map());
+      const modLecs = modulos.get(modulo);
+      if (!modLecs.has(leccion)) modLecs.set(leccion, []);
+      modLecs.get(leccion).push(f);
+    } else if (leccion) {
+      if (!lecciones.has(leccion)) lecciones.set(leccion, []);
+      lecciones.get(leccion).push(f);
     } else {
-      if (!lecciones.has(leccionKey)) lecciones.set(leccionKey, []);
-      lecciones.get(leccionKey).push(f);
+      rootFiles.push(f);
     }
   }
   // Segunda pasada: si quedan archivos sueltos en la raíz que matchean el
@@ -210,7 +227,7 @@ function groupByLeccion(files, coursePath) {
   // convierte en su propia lección, agrupando同名 (mismo nombre sin
   // extensión) bajo la misma lección. Esto cubre cursos que son solo PDFs,
   // libros o notas de taller (p.ej. Biblioteca, Taller Metas 2026).
-  if (lecciones.size === 0 && remainingRoot.length > 0) {
+  if (lecciones.size === 0 && modulos.size === 0 && remainingRoot.length > 0) {
     const finalRoot = [];
     for (const f of remainingRoot) {
       const cleanName = f.name
@@ -225,10 +242,10 @@ function groupByLeccion(files, coursePath) {
       if (!lecciones.has(cleanName)) lecciones.set(cleanName, []);
       lecciones.get(cleanName).push(f);
     }
-    return { lecciones, rootFiles: finalRoot };
+    return { modulos, lecciones, rootFiles: finalRoot };
   }
 
-  return { lecciones, rootFiles: remainingRoot };
+  return { modulos, lecciones, rootFiles: remainingRoot };
 }
 
 // Ordenación de lecciones: extrae un número (con posible subnumeración) del
@@ -331,7 +348,7 @@ function buildMediaTable(files, coursePath, label) {
 
 // ── Generadores de notas ───────────────────────────────────────────────────
 
-function generateCourseNote(course, lecciones, rootFiles) {
+function generateCourseNote(course, modulos, lecciones, rootFiles) {
   const title = course.fileName.replace(/\.md$/, '');
   let out = '';
   out += `---\n`;
@@ -343,6 +360,21 @@ function generateCourseNote(course, lecciones, rootFiles) {
   out += `# ${title}\n\n`;
   out += `> 📝 **Descripción provisional**: ${course.description} _— revísala y edítala tras revisar el contenido de las lecciones._\n\n`;
 
+  // Si el curso tiene módulos, los listamos como headers con sus lecciones debajo.
+  if (modulos.size > 0) {
+    const sortedMods = [...modulos.entries()].sort((a, b) => leccionOrden(a[0]) - leccionOrden(b[0]));
+    for (const [modName, modLecs] of sortedMods) {
+      out += `## 📂 ${modName}\n\n`;
+      const sortedLecs = [...modLecs.keys()].sort((a, b) => leccionOrden(a) - leccionOrden(b));
+      for (const lecName of sortedLecs) {
+        const safeName = sanitizeFilename(`${title} - ${lecName}`);
+        out += `- [[${safeName}]]\n`;
+      }
+      out += `\n`;
+    }
+  }
+
+  // Lecciones "legacy" (carpeta = lección, no módulo)
   if (lecciones.size > 0) {
     out += `## 📚 Lecciones (${lecciones.size})\n\n`;
     // Ordenamos por número extraído del nombre ("Módulo 1", "2. ...", etc.)
@@ -378,7 +410,7 @@ function generateCourseNote(course, lecciones, rootFiles) {
   return out;
 }
 
-function generateLeccionNote(course, leccionName, leccionFiles) {
+function generateLeccionNote(course, leccionName, leccionFiles, moduloName = null) {
   const courseTitle = course.fileName.replace(/\.md$/, '');
   const orden = leccionOrden(leccionName);
 
@@ -398,6 +430,7 @@ function generateLeccionNote(course, leccionName, leccionFiles) {
   out += `tipo: leccion\n`;
   out += `curso: ${courseTitle}\n`;
   out += `orden: ${orden}\n`;
+  if (moduloName) out += `modulo: ${moduloName}\n`;
   out += `---\n\n`;
   out += `# ${leccionName}\n\n`;
   out += `Parte del curso [[${courseTitle}]].\n\n`;
@@ -428,18 +461,32 @@ let totalMedia = 0;
 for (const c of COURSES) {
   try {
   const files = filesIn(manifest, c.drivePath);
-  const { lecciones, rootFiles } = groupByLeccion(files, c.drivePath);
+  const { modulos, lecciones, rootFiles } = groupByLeccion(files, c.drivePath);
 
   if (files.length === 0) {
     console.warn(`  ⚠  ${c.fileName.padEnd(42)}  drivePath no existe en manifest: "${c.drivePath}"`);
   }
 
   // Nota del curso (índice)
-  const courseNote = generateCourseNote(c, lecciones, rootFiles);
+  const courseNote = generateCourseNote(c, modulos, lecciones, rootFiles);
   writeFileSync(c.fileName, courseNote);
   totalCourses++;
 
-  // Notas de lecciones
+  // Notas de lecciones dentro de módulos (un .md por archivo dentro de cada Módulo)
+  const sortedMods = [...modulos.entries()].sort((a, b) => leccionOrden(a[0]) - leccionOrden(b[0]));
+  for (const [modName, modLecs] of sortedMods) {
+    const sortedLecs = [...modLecs.entries()].sort((a, b) => leccionOrden(a[0]) - leccionOrden(b[0]));
+    for (const [leccionName, leccionFiles] of sortedLecs) {
+      const leccionFileName = sanitizeFilename(`${c.fileName.replace(/\.md$/, '')} - ${leccionName}.md`);
+      const leccionNote = generateLeccionNote(c, leccionName, leccionFiles, modName);
+      writeFileSync(leccionFileName, leccionNote);
+      totalLecciones++;
+      totalTexts += leccionFiles.filter(f => f.content && f.content.trim().length > 0).length;
+      totalMedia += leccionFiles.filter(f => f.webViewLink && f.mimeType !== 'application/vnd.google-apps.folder' && (!f.content || !f.content.trim())).length;
+    }
+  }
+
+  // Notas de lecciones "legacy" (la carpeta ES la lección)
   const sorted = [...lecciones.entries()].sort((a, b) => leccionOrden(a[0]) - leccionOrden(b[0]));
   for (const [leccionName, leccionFiles] of sorted) {
     const leccionFileName = sanitizeFilename(`${c.fileName.replace(/\.md$/, '')} - ${leccionName}.md`);
@@ -455,7 +502,8 @@ for (const c of COURSES) {
   totalMedia += rootFiles.filter(f => f.webViewLink && f.mimeType !== 'application/vnd.google-apps.folder' && (!f.content || !f.content.trim())).length;
 
   const status = files.length === 0 ? '⚠ ' : '✓ ';
-  console.log(`  ${status}${c.fileName.padEnd(42)}  ${lecciones.size} lecciones + ${rootFiles.length} raíz`);
+  const totalLeccionesCount = [...modulos.values()].reduce((acc, m) => acc + m.size, 0) + lecciones.size;
+  console.log(`  ${status}${c.fileName.padEnd(42)}  ${modulos.size} módulos / ${totalLeccionesCount} lecciones + ${rootFiles.length} raíz`);
   } catch (err) {
     console.error(`  ✗  ${c.fileName.padEnd(42)}  ERROR: ${err.message}`);
   }
