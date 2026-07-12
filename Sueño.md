@@ -60,5 +60,25 @@ Combinado con **[[Magnesio|glicinato de magnesio]]** para amplificar el efecto. 
 - **Combo de Inducción al Sueño**:
 - **Efecto**: Este combo se utiliza para facilitar la transición al sueño profundo y mejorar la estabilidad durante el descanso nocturno.
 
+## Teoría del surplus electrónico mitocondrial (Fabiano, 2025)
+
+> "A surplus of mitochondrial electrons induces sleep. While we sleep, the electrons are consumed through increased energy usage in the brain, which lowers harmful waste. Sleep, like aging, may be an inescapable consequence of aerobic metabolism."
+> _—Nicholas Fabiano, MD (@NTFabiano), 26 sept 2025, citando Nature_
+
+Tesis emergente: el sueño se activa cuando se acumula un **excedente de electrones en la cadena de transporte de electrones mitocondrial** ([[Cadenas transportadoras de electrones (CTE)|CTE]]). El cerebro, durante el sueño, **consume esos electrones** mediante aumento del uso energético, lo que reduce el "waste" dañino (radicales libres, productos de oxidación).
+
+**Implicaciones**:
+
+- El sueño no es solo "descanso" o "reparación" pasiva — es un **proceso bioquímico activo** de descarga de electrones acumulados.
+- La **resistencia energética** (energy resistance) es un emergente del modelo: el sistema se "obliga" a dormir cuando el flujo de electrones se acumula.
+- **Aging como análoga**: el envejecimiento sería también una consecuencia inescapable del metabolismo aeróbico, mediada por la misma acumulación.
+
+> "Sleep is not passive rest. New data show it is triggered by a mitochondrial overflow of electrons, a biochemical fire alarm that forces the brain to shut down and clean house."
+> _—Shanaka Anslem Perera (@shanaka86), 26 sept 2025_
+
+**Conexión con melatonina y luz NIR** (@Pump Science @pumpdotscience, 26 sept 2025): la pregunta abierta es si el estrés oxidativo del excedente de electrones se relaciona con el papel de la melatonina mitocondrial como barredora de ROS. Si la melatonina limpia las ROS que produce este excedente, entonces luz NIR → melatonina facilita el ciclo de sueño desde la otra punta. Ver [[Melatonina#¿Dónde se produce la melatonina?|melatonina mitocondrial]].
+
+> _—Modelo reciente (2025), no consolidado. La teoría tiene coherencia bioquímica con la relación CTE-ROS-mitocondria, pero los detalles mecanísticos aún están en desarrollo._
+
 
 
