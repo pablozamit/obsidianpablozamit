@@ -283,7 +283,7 @@ async function initProfile() {
 // Auth gate: hide content immediately and show login prompt if no user
 function isAuthPage() {
   const path = window.location.pathname;
-  return path.includes('/login') || path.includes('/registro') || path.includes('/perfil');
+  return /\/(login|registro|perfil)(\.html)?\/?$/.test(path);
 }
 
 function applyAuthGate() {
@@ -315,10 +315,35 @@ function removeAuthGate() {
   if (overlay) overlay.remove();
 }
 
+// Show error message in the gate overlay if Firebase never initializes
+function showGateError(msg) {
+  const overlay = document.getElementById('guest-overlay');
+  if (!overlay) return;
+  overlay.innerHTML = `
+    <div style="position:fixed;inset:0;display:flex;align-items:center;justify-content:center;background:var(--bg, #FAFAF7);z-index:9999;font-family:var(--font-sans,Inter,system-ui,sans-serif);padding:20px;">
+      <div style="text-align:center;max-width:420px;padding:2rem;background:var(--bg-elev,#fff);border:1px solid var(--rule,#e5e5e5);border-radius:12px;">
+        <h1 style="font-size:1.4rem;margin:0 0 .5rem;color:var(--alert,#B3261E);">Error de configuración</h1>
+        <p style="margin:1rem 0;color:var(--ink-soft,#3A414B);font-size:.95rem;">${msg}</p>
+        <button type="button" onclick="location.reload()" style="margin-top:8px;padding:.5rem 1rem;background:var(--accent,#1F7A55);color:white;border:none;border-radius:6px;cursor:pointer;">Recargar</button>
+      </div>
+    </div>
+  `;
+}
+
 // Main init
 async function init() {
   applyAuthGate();
-  await initAuth();
+  // Safety timeout: if Firebase doesn't initialize in 6 s, show error in gate overlay
+  const initTimeout = new Promise(resolve => {
+    setTimeout(() => {
+      if (!getCurrentUser()) showGateError('No se pudo verificar la sesión. Recarga la página.');
+    }, 6000);
+  });
+  try {
+    await Promise.race([initAuth().then(() => clearTimeout(initTimeout)), initTimeout]);
+  } catch (e) {
+    showGateError('Error inicializando Firebase: ' + (e?.message || e));
+  }
   initAuthForms();
   initAuthUI();
   onUserChanged(async (user) => {
