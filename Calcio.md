@@ -19,6 +19,10 @@ Mecanismo propuesto:
 
 **Evidencia in vivo limitada**: el efecto es plausible y hay datos in vitro; los RCT en humanos son escasos. El mecanismo se encuadra dentro de un marco más amplio: el calcio modula endocrino metabólicamente. No es un "SERMs natural" pero ayuda a la dirección correcta.
 
+### Datos en animales: dieta baja en calcio y estrógenos
+
+Un estudio en ratas mostró que una dieta baja en calcio multiplicó el estrógeno sérico por **4.3** y el estrógeno intratesticular por **2.4**. La suplementación con **menatetrenona (K2 MK-4)** restauró los niveles de estrógeno al valor basal (Morph @doctormorphh, 12 jun 2026). Esto conecta directamente con el papel de la [[Vitamina K|Vitamina K2]] en la modulación del [[Estradiol (E2)|estradiol]] y su conversión a [[Estrona (E1)|estrona]].
+
 ## Fuentes de calcio (moosa)
 
 - **Lácteos**: buena fuente, pero no tolerado por todos (intolerancia a lactosa, caseína, etc.).

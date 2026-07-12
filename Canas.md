@@ -10,6 +10,10 @@ Si te preocupas por tu [[Cabello|cabello]] y tu piel, es importante que tu cuerp
 [[Ácido ortosilícico]]
 [[NAC]]
 
+## Canas y prolactina
+
+La [[Prolactina]] elevada se asocia con envejecimiento prematuro del cabello. Bloquear el receptor de prolactina revierte las canas en estudios preliminares, probablemente porque la prolactina interfiere con la señalización de los [[Melanocitos]] (Dalton @Outdoctrination, 21 jun 2026). Ver [[Prolactina#Prolactina, cabello y canas]].
+
 ## Canas por suplementación prolongada de zinc
 
 Algunos usuarios en la comunidad reportan que la suplementación con zinc les produjo más canas y cabellos blancos, presumiblemente por **depleción de [[Cobre]]** (observación de @badintentz en respuesta a @GoodTexture, 1 mar 2026). El zinc y el cobre compiten por los mismos transportadores intestinales; suplementar zinc de forma crónica sin equilibrar con cobre puede inducir una deficiencia funcional de cobre que afecte a la tirosinasa (enzima [[Cobre|cobre-dependiente]] que sintetiza [[Melanina|melanina]]).

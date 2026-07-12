@@ -14,6 +14,12 @@ Las fibras fácilmente fermentables (salvado, psyllium, crucíferas crudas, legu
 - Ansiedad sin causa aparente
 - Rubor facial tras las comidas
 
+## Fatiga postprandial por endotoxemia
+
+La fatiga que aparece 30 minutos después de comer no es "coma alimenticio" ni bajada de azúcar. En un intestino con [[Permeabilidad intestinal]] aumentada, las bacterias atraviesan la barrera junto con los nutrientes. El sistema inmune responde como ante una infección de bajo grado: las citoquinas inflamatorias se disparan y la energía se desploma.
+
+Esto explica por qué el ayuno se siente mejor para muchas personas — no porque ayunar sea óptimo, sino porque detiene temporalmente la inundación de endotoxinas. La solución no es comer menos, sino reparar la barrera intestinal (Hans Amato @HansAmato, 14 jun 2026).
+
 ## Eliminación
 
 - **[[Carbón activado]]**: adsorbe endotoxinas intestinales en <30 min, reduciéndolas hasta un 47.3% en una megadosis.

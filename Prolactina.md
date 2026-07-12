@@ -14,6 +14,20 @@ La hiperprolactinemia interfiere con la producción de **[[DHT]]** (dihidrotesto
 
 El hipotiroidismo duplica los niveles de prolactina en hombres. El tratamiento con hormona tiroidea (T4) en hombres hipotiroideos duplica la testosterona total y libre, y reduce la prolactina a la mitad. Ver [[Hipotiroidismo]] y [[Tiroides (glándula)]].
 
+## Prolactina, cabello y canas
+
+La prolactina elevada contribuye directamente a la [[Alopecia|caída del cabello]] y al envejecimiento prematuro ([[Canas|canas]]). Bloquear o reducir la prolactina estimula el crecimiento capilar y revierte las canas en estudios preliminares — se está desarrollando un anticuerpo contra el receptor de prolactina con este fin (Dalton @Outdoctrination, 21 jun 2026).
+
+## Causas de prolactina elevada
+
+- **[[Prolactinoma]]**: tumor secretor de prolactina en la hipófisis
+- **[[Estrógeno]] alto**: el estrógeno estimula la producción de prolactina
+- **[[Dopamina]] baja**: la dopamina es el inhibidor principal de la prolactina; sin suficiente dopamina, la prolactina se dispara
+- **[[Serotonina]] alta**: la serotonina estimula la liberación de prolactina vía receptores 5-HT
+- **[[Hipotiroidismo]]**: la falta de hormona tiroidea duplica los niveles de prolactina
+- **[[Minoxidil]]**: el minoxidil tópico eleva la prolactina como efecto secundario conocido
+- Estrés crónico, privación de sueño, fármacos antipsicóticos
+
 ## Formas de reducirla
 
 ·[[Vitamina E]]: especialmente el [[Alfa-tocoferol]], aunque las únicas fuentes son 1) testimoniales, 2) este artículo de Ray Peat: https://raypeat.com/articles/articles/vitamin-e.shtml

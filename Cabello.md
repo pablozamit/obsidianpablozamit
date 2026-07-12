@@ -133,6 +133,14 @@ La luz roja típica (660-850 nm) evita los melanocitos al penetrar más profundo
 
 El [[Agua de arroz|agua de arroz fermentada]] es el tratamiento capilar tradicional más longevo del que se tiene registro, practicado por las mujeres Yao de la aldea de Huangluo (China) durante más de 1.000 años. Tienen el pelo más largo de media de cualquier población (6 pies/1.8 m) y conservan el color negro décadas más que otros grupos. Ver [[Agua de arroz#Ideal para el cabello: agua de arroz fermentada]].
 
+## Prolactina y caída del cabello
+
+La [[Prolactina]] elevada es una causa directa de caída del cabello y contribuye a las [[Canas|canas prematuras]]. La prolactina suprime la [[Dopamina]], y su exceso interfiere con la producción de [[DHT]] al inhibir la [[5-alfa reductasas|5α-reductasa]], un mecanismo paralelo al de la [[Alopecia androgénica|alopecia androgénica]]. En estudios preliminares, bloquear el receptor de prolactina estimula el crecimiento capilar y revierte las canas (Dalton @Outdoctrination, 21 jun 2026).
+
+**Causas de prolactina elevada**: [[Prolactinoma]], [[Estrógeno]] alto, [[Dopamina]] baja, [[Serotonina]] alta, [[Hipotiroidismo]], [[Minoxidil]] tópico, estrés crónico. Ver [[Prolactina#Causas de prolactina elevada]].
+
+**Formas de reducirla**: [[Café]], [[Vitamina E]], [[Zinc]], [[Vitamina B6]] (P-5-P), [[Calcio]] (lácteos), luz roja en la hipófisis, agonistas D2 ([[Cabergolina]], [[Bromocriptina]]). Ver [[Prolactina#Formas de reducirla]].
+
 # Productos a Analizar
 
 ## Microneedling

@@ -16,7 +16,7 @@ Algunos alimentos pueden elevar significativamente los niveles de estradiol en p
 ## Metabolismo y Potencia
 El impacto biológico del estradiol no solo depende de su producción, sino de su interconversión metabólica.
 - **Conversión a E1**: El estradiol (E2) puede convertirse en **[[Estrona (E1)]]** (un estrógeno significativamente más débil) mediante la enzima **[[17β-HSD4]]**.
-- **Modulación**: Investigaciones y experimentos individuales (N=1, Hans 2026) sugieren que megadosis de **[[Vitamina K|Vitamina K2 (MK-4)]]** podrían favorecer esta vía hacia la estrona, reduciendo la señalización estrogénica total sin suprimir la producción hormonal de base.
+- **Modulación**: La vitamina K2 MK-4 puede impulsar el metabolismo del estradiol hacia la estrona (E2 → E1), un estrógeno mucho más débil. Es una herramienta rápida para gestionar el estradiol mientras se promueve la salud general (Morph @doctormorphh, 14 jun 2026). Experimentos individuales (N=1, Hans 2026) sugieren que megadosis de **[[Vitamina K|Vitamina K2 (MK-4)]]** favorecen esta vía, reduciendo la señalización estrogénica total sin suprimir la producción hormonal de base.
 
 ## 17α-estradiol y longevidad
 
