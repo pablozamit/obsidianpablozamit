@@ -17,4 +17,17 @@ El boro es un mineral que es probablemente [[Andrógenos|androgénico]].
 - Ayuda a metabolizar y retener vitaminas y minerales.
 - Disminuye niveles excesivos de [[Estrógeno]].
 
+## Antagonista del Fluoruro
+
+El boro actúa como **antídoto literal del fluoruro**, contrarrestando cada uno de sus efectos nocivos:
+
+|Efecto|Fluoruro|Boro|
+|---|---|---|
+|Hormona paratiroidea (PTH)|↑ (estimula)|↓ (inhibe)|
+|Vitamina D|↓ (reduce)|↑ (aumenta)|
+|Metabolismo del calcio|Dañado|Mejorado|
+|Testosterona|↓ (reduce)|↑ (aumenta)|
+
+Además, la **nanohidroxiapatita dopada con boro** supera al fluoruro en fortalecimiento dental y mejora de la microdureza, ofreciendo una alternativa superior para la salud bucal sin toxicidad.
+
 Ver también: [[Artritis]], [[Minerales traza]], [[Hueso]]

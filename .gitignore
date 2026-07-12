@@ -24,4 +24,4 @@ desktop.ini
 secrets/
 n8npablozamitcom*.json
 _tmp/
-scripts/
+# scripts/ is intentionally tracked — contains our Drive sync tooling

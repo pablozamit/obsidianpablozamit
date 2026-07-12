@@ -21,10 +21,34 @@ Sin embargo, se sabe que la desactivación de cromosomas X puede ocurrir, y que 
 -   [[Cáncer de colon]]
 -   [[Cáncer de próstata]]
 
+## Quimioterapia y Metástasis
+
+Un estudio chino (Cancer Cell, jul 2025) demostró que la quimioterapia puede acelerar la metástasis al despertar células tumorales durmientes. Fármacos como doxorubicina y cisplatino activan la reactivación de células diseminadas durmientes (DTCs) en lugar de acumular DTCs proliferativas preexistentes.
+
+**Mecanismo**: la quimioterapia induce senescencia en fibroblastos → liberan proteínas que hacen que los neutrófilos formen trampas extracelulares (NETs) → el microambiente pulmonar se vuelve favorable para que las células cancerosas durmientes reinicien su crecimiento. Esto explica por qué pacientes con cáncer de mama pueden desarrollar metástasis pulmonar tras tratamiento exitoso del tumor primario.
+
+Un estudio previo en EE.UU. encontró que la radioterapia en dosis altas también puede promover paradójicamente el crecimiento de tumores metastásicos.
+
 ## Compuestos Naturales Potentes
-Un análisis reciente de más de 1,100 estudios ha identificado **12 compuestos naturales** con actividad anticancerígena de amplio espectro:
-- Estos compuestos atacan vías centrales como la muerte celular coordinada, la evasión inmunitaria y el metabolismo celular.
-- Estrategia clave: Muchos de estos agentes (como el [[Diente de león]] o la [[Goma de masilla (mastic)|goma de masilla]]) atacan **vulnerabilidades mitocondriales** específicas que las células sanas no presentan.
+
+Un análisis landmark de >1,100 estudios (Chinese Medicine, 2025; Nicolas Hulscher) identificó **12 compuestos naturales** con actividad anticancerígena de amplio espectro, actuando sobre apoptosis, evasión inmune, metabolismo, angiogénesis y resistencia a fármacos:
+
+|Compuesto|Fuente|Mecanismos Clave|
+|---|---|---|
+|**Apigenina**|Manzanilla, perejil|↓PD-L1, ↓PI3K/AKT/EGFR, ↓NF-κB/MMP-2/9, apoptosis/autofagia/ferroptosis, revierte resistencia (MDR1/P-gp)|
+|**Artemisinina**|Ajenjo dulce|Estrés oxidativo (ROS, peroxidación lipídica), antiangiogénico, ↓vimentina/N-cadherina, contrarresta resistencia (STAT3/AKT/HSP90)|
+|**Berberina**|Coptis, sello de oro|↓PI3K/AKT/HER2/TGF-β, ↓NF-κB, revierte resistencia (P-gp/MRP1/NRF2), ↓PD-L1, ↓MMP-2/9|
+|**Curcumina**|Cúrcuma|Apoptosis/autofagia/ferroptosis, ↓NF-κB/STAT3, ↓VEGF (antiangiogénico), revierte resistencia (P-gp/BCRP), ↓Twist1/MMP-9/EMT|
+|**Emodina**|Ruibarbo, Polygonum|Interfiere Wnt/β-catenin/STAT3/NF-κB, necroptosis/ferroptosis, ↓GLUT1, ↓MMP-2/9, revierte resistencia (P-gp/GST)|
+|**EGCG**|Té verde|↓PI3K/AKT/mTOR, apoptosis (Bax↑/Bcl-2↓), ↓STAT3, ↓MMP-2/9/VEGF, ↓P-gp|
+|**Ginsenósidos**|Ginseng|↓EMT/MMP, ↓STAT3, apoptosis (caspasas), restaura p53/PTEN, modulan microbiota tumoral|
+|**Icarina/Icaritina**|Epimedio|↑CD8+/CXCL9/10, ↓PD-L1, ↓PI3K/AKT, revierte resistencia (P-gp/MRP1), ↑E-cadherina|
+|**Resveratrol**|Uva, bayas|Activa p53, ↓NF-κB, ↓vimentina/EMT, apoptosis/autofagia/ferroptosis, sinergia con tratamientos convencionales|
+|**Silibinina**|Cardo mariano|↓mTOR/STAT3, antiangiogénico, inhibe Wnt/β-catenina, soporte mitocondrial, ↓PD-L1|
+|**Triptólido**|Trueno de Dios|Potente en rango nanomolar, bloquea NF-κB/STAT3/AKT/mTOR, ↓PD-L1/CD47, apoptosis/parada ciclo|
+|**Ácido ursólico**|Manzana, albahaca, romero|Apoptosis (p53/ROS), ↓AKT/mTOR, ↓CXCL12/FN1 (metástasis), revierte resistencia, ferroptosis (↓NRF2)|
+
+Varios de estos compuestos (curcumina, artemisinina, ginsenósidos, icaritina, silibinina, resveratrol) están ya en ensayos clínicos de fase temprana e intermedia; icaritina y ciertos ginsenósidos están en Fase II y III.
 
 ## Fotobiomodulación (PBM)
 
@@ -75,7 +99,7 @@ Una bacteria natural del intestino de rana (*Ewingella americana*) elimina el 10
 
 Fuente: @NicHulscher, thefocalpoints.com. Pendiente de publicación en revista revisada por pares.
 
-Ver también: [[Ejercicio de alta intensidad#Cáncer]], [[Aspirina (ácido acetilsalicílico)#Las 3 vías antimetastásicas de la aspirina]]
+Ver también: [[Ejercicio de alta intensidad#Cáncer]], [[Aspirina (ácido acetilsalicílico)#Las 3 vías antimetastásicas de la aspirina]], [[Apigenina]], [[Berberina]], [[Curcumina]], [[Resveratrol]], [[Cardo mariano]]
 
 ## Ver también
 

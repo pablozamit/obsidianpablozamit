@@ -46,6 +46,12 @@ Además, la aspirina posee propiedades [[Antiinflamatorios|antiinflamatorias]], 
 
 La aspirina mejora el metabolismo de la [[Glucosa]], lo que se traduce en un mejor rendimiento físico: aumenta la resistencia, reduce el lactato durante el ejercicio [PMID: 18824931, 32269652] y mejora la capacidad de ejercicio en enfermedades como la esclerosis múltiple [PMID: 29076760].
 
+### Hígado Graso (MASH)
+
+Un estudio landmark (JAMA, 2024) mostró que **aspirina 81 mg/día (baby aspirin)** reduce la grasa hepática en casi un **40%** en pacientes con enfermedad de hígado graso asociada a disfunción metabólica (MASH, antes llamada NASH). 71 pacientes completaron 6 meses de tratamiento aleatorizado frente a placebo. La aspirina también reduce la inflamación hepática y la esteatosis.
+
+Consideraciones de seguridad: tomar con el estómago lleno; suspender 10 días antes de cirugía; contraindicada en alérgicos a AINEs; precaución si han tenido hemorragia digestiva o pólipos en últimos 6 meses.
+
 ### Función Pulmonar
 
 En personas expuestas a contaminación o fumadores, la aspirina mejora la función pulmonar: aumenta el FEV1 (volumen espiratorio forzado en un segundo) y la FVC (capacidad vital forzada), indicadores que suelen estar reducidos en asma, fibrosis y disfunción pulmonar [PMID: 31553629, 26396235].
