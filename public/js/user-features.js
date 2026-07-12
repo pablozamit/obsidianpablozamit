@@ -1,4 +1,5 @@
-import { initAuth, onUserChanged, signIn, signUp, signOutUser, getCurrentUser } from './auth.js';
+import { initAuth as _initAuth, onUserChanged, signIn, signUp, signOutUser, getCurrentUser } from './auth.js';
+const initAuth = _initAuth;
 import {
   toggleFavorite, getFavorites,
   saveVote, getVotes,
@@ -281,6 +282,7 @@ async function initProfile() {
 
 // Main init
 async function init() {
+  await initAuth();
   initAuthForms();
   initAuthUI();
   onUserChanged(async (user) => {
