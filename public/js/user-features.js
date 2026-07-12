@@ -119,14 +119,49 @@ async function initLikes() {
   }
 }
 
-// Reading history
+// Reading history (throttled: 30 s por slug, persistido en sessionStorage)
+const HISTORY_THROTTLE_MS = 30 * 1000;
+const HISTORY_STORAGE_KEY = 'historyThrottle:v1';
+
+function loadHistoryThrottleMap() {
+  try {
+    const raw = sessionStorage.getItem(HISTORY_STORAGE_KEY);
+    if (!raw) return new Map();
+    const entries = JSON.parse(raw);
+    return new Map(entries);
+  } catch {
+    return new Map();
+  }
+}
+
+function saveHistoryThrottleMap(map) {
+  try {
+    // Limpieza oportunista para que sessionStorage no crezca: descartamos
+    // entradas más viejas de 5 min. Sólo conservamos timestamps recientes.
+    const cutoff = Date.now() - 5 * 60 * 1000;
+    const clean = [...map.entries()].filter(([, ts]) => ts > cutoff);
+    sessionStorage.setItem(HISTORY_STORAGE_KEY, JSON.stringify(clean));
+  } catch {
+    // sessionStorage puede no estar disponible (modo privado, etc.) y no
+    // debe romper la navegación si falla.
+  }
+}
+
 async function initHistory() {
   const slug = getSlug();
   if (slug === 'index.html' || slug === 'buscar.html' || slug === 'login.html' || slug === 'registro.html' || slug === 'perfil.html') return;
+  const now = Date.now();
+  const map = loadHistoryThrottleMap();
+  const lastWrite = map.get(slug);
+  if (lastWrite && (now - lastWrite) < HISTORY_THROTTLE_MS) {
+    return; // Throttled: demasiado pronto desde la última escritura.
+  }
   try {
     await recordReading(slug);
+    map.set(slug, now);
+    saveHistoryThrottleMap(map);
   } catch (e) {
-    // Not logged in
+    // No logueado
   }
 }
 
