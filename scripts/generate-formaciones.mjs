@@ -134,7 +134,14 @@ function getTreeLocation(f, coursePath) {
   }
   // Si la carpeta es un Módulo, el archivo DENTRO es la lección
   if (MODULO_REGEX.test(folder)) {
-    const cleanName = f.name.replace(/(?:\.[a-zA-Z0-9]+)+\s*$/, '').trim();
+    // Quitar extensión Y, si el resto termina en paréntesis con pinta de
+    // metadato (versión/version, número de versión X.Y, draft, copia, etc.),
+    // quitar también ese paréntesis. No tocamos paréntesis "semánticos"
+    // como (intro), (avanzado), (práctica) — solo ruido tipo " (versión 1.0)".
+    const cleanName = f.name
+      .replace(/(?:\.[a-zA-Z0-9]+)+\s*$/, '')
+      .replace(/\s*\([^)]*(?:versi[oó]n|\d+\.\d+|\b(?:draft|copia|borrador|wip|oficial|final|beta)\b)[^)]*\)\s*$/i, '')
+      .trim();
     return { modulo: folder, leccion: cleanName };
   }
   // Comportamiento legacy: la carpeta ES la lección
