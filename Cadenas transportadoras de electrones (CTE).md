@@ -17,6 +17,17 @@ La [[Cadenas transportadoras de electrones (CTE)|CTE]] no solo transporta electr
 
 > _—La consecuencia práctica: el espectro solar del orto/ocaso es el "cóctel" más favorable para la función mitocondrial, mientras que el del mediodía (mucho azul/UV) la sobreexcita. Ver [[Luz solar]], [[Terapia de luz roja]] y [[Complejo IV]] para el detalle._
 
+## Flujo inverso de electrones (reverse electron flow)
+
+En condiciones fisiológicas normales, el **Complejo I** recibe electrones del NADH. Pero cuando el ratio [[NAD+|NAD+/NADH]] está desplazado o el gradiente de protones es alto, parte del flujo puede invertirse:
+
+- En lugar de que los electrones vayan de NADH → CoQ, pueden ir hacia atrás desde la ubiquinona reducida hacia el Complejo I
+- Estos electrones "invertidos" reaccionan con oxígeno molecular para producir [[Anión superóxido|anión superóxido]] (O₂•⁻)
+- En reposo, se estima que el **1-3%** del movimiento de electrones del Complejo I ocurre en este flujo inverso
+- Este superóxido no es solo daño colateral: a bajas concentraciones sostenidas actúa como señal redox que regula la [[Mitocondria|función mitocondrial]] y la respuesta al estrés (ver [[Especies reactivas del oxígeno#Concepto de mitohormesis]])
+
+> _—Bryce Hanna @photobiogenesis (11 jul 2026)_
+
 ## Ver también
 
 - [[Mitocondria]]

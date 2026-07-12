@@ -129,6 +129,10 @@ La luz roja típica (660-850 nm) evita los melanocitos al penetrar más profundo
 
 > _—Thomas P Seager, PhD (@seagertp), 30 may 2026. [morozkoforge.com/post/beyond-red-light-therapy](https://morozkoforge.com/post/beyond-red-light-therapy)_
 
+# Agua de arroz fermentada
+
+El [[Agua de arroz|agua de arroz fermentada]] es el tratamiento capilar tradicional más longevo del que se tiene registro, practicado por las mujeres Yao de la aldea de Huangluo (China) durante más de 1.000 años. Tienen el pelo más largo de media de cualquier población (6 pies/1.8 m) y conservan el color negro décadas más que otros grupos. Ver [[Agua de arroz#Ideal para el cabello: agua de arroz fermentada]].
+
 # Productos a Analizar
 
 ## Microneedling

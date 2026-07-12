@@ -57,6 +57,17 @@ Argumento: la cetogénesis (fabricación de [[Cetonas|cuerpos cetónicos]] en la
 
 > _—Caveats del dato: estudio transversal (no longitudinal), muestra pequeña, medida en piel (no en todos los tejidos), y otros estudios posteriores han mostrado magnitudes variables o caídas menos lineales en otros tejidos (músculo, hígado, cerebro). El patrón general (caída con la edad) es consistente, pero el "50%" es una cifra específica de Massudi 2012, no una constante universal._
 
+## Ratio NAD+/NADH y estrés reductivo
+
+El NAD+ y NADH no son solo cofactores estáticos: el **ratio NAD+/NADH** determina el flujo de electrones a través de la [[Cadenas transportadoras de electrones (CTE)|cadena de transporte de electrones]].
+
+- El NADH dona electrones al Complejo I de la CTE
+- Cuando el ratio se desplaza demasiado hacia NADH (poco NAD+ disponible), el flujo de electrones se ralentiza — esto se llama **estrés reductivo**
+- En estrés reductivo, los electrones se "estancan" y la CTE empieza a liberar electrones sueltos que se combinan con oxígeno para formar [[Anión superóxido|superóxido]], una [[Especies reactivas del oxígeno|ROS]]
+- Este fenómeno de "off-gassing" de electrones sobrantes es normal a bajos niveles (~1-3% del flujo en reposo), pero puede aumentar cuando el ratio NAD+/NADH está crónicamente bajo
+
+> _—Bryce Hanna @photobiogenesis (11 jul 2026)_
+
 ## Ver también
 
 - [[Glucosa]]
