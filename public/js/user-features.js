@@ -11,10 +11,32 @@ import {
 
 const ESC = (s) => String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 
+// Firebase RTDB no permite . # $ [ ] / en keys. Codificamos en base64url
+// (reversible, URL-safe, sin caracteres prohibidos) para que slugs como
+// '1.-fundamentos' o 'mi-nota.html' no rompan los writes/reads. Esto era un
+// bug silencioso: el catch handler genérico mostraba "Inicia sesión..."
+// aunque el usuario SÍ estuviera logueado, porque el error real era
+// "Invalid key" de Firebase.
+function firebaseKey(slug) {
+  const str = String(slug || '').replace(/\.html?$/, '') || 'index';
+  return btoa(unescape(encodeURIComponent(str)))
+    .replace(/\+/g, '-')
+    .replace(/\//g, '_')
+    .replace(/=+$/, '');
+}
+function fromFirebaseKey(key) {
+  try {
+    const b64 = String(key || '').replace(/-/g, '+').replace(/_/g, '/');
+    const padded = b64 + '='.repeat((4 - b64.length % 4) % 4);
+    return decodeURIComponent(escape(atob(padded)));
+  } catch (e) {
+    return key; // fallback para claves legacy no codificadas
+  }
+}
 function getSlug() {
   const path = window.location.pathname;
-  const file = path.split('/').filter(Boolean).pop() || 'index.html';
-  return file.replace(/\.html?$/, '') + '.html';
+  const file = path.split('/').filter(Boolean).pop() || 'index';
+  return firebaseKey(file);
 }
 
 // Auth UI
@@ -279,12 +301,18 @@ async function initAnnotations() {
   }
 
   saveBtn.addEventListener('click', async () => {
+    if (!getCurrentUser()) {
+      console.warn('[annotations] getCurrentUser() returned null at click time');
+      alert('No se pudo verificar la sesión. Recarga la página.');
+      return;
+    }
     try {
       await saveAnnotation(slug, textarea.value);
       msg.textContent = 'Guardado';
       setTimeout(() => msg.textContent = '', 2000);
     } catch (e) {
-      alert('Inicia sesión para guardar notas personales.');
+      console.error('[annotations] save failed:', e);
+      alert('No se pudo guardar la nota: ' + (e?.message || 'Error desconocido'));
     }
   });
 }
@@ -296,7 +324,7 @@ async function initItinerary() {
   stepsEl.dataset.initialized = 'true';
 
   const params = new URLSearchParams(window.location.search);
-  const fromSlug = (params.get('from') || '').trim();
+  const fromSlug = firebaseKey((params.get('from') || '').trim());
   if (!fromSlug) return;
 
   try {
@@ -381,14 +409,14 @@ async function initProfile() {
     getAnnotations().catch(() => ({}))
   ]);
 
-  const favList = Object.keys(favs).map(s => `<li><a href="${s}">${ESC(s.replace('.html', ''))}</a></li>`).join('') || '<li>No tienes notas guardadas.</li>';
+  const favList = Object.keys(favs).map(k => { const s = fromFirebaseKey(k); return `<li><a href="${s}.html">${ESC(s)}</a></li>`; }).join('') || '<li>No tienes notas guardadas.</li>';
   const histList = Object.entries(history)
     .sort((a, b) => b[1] - a[1])
     .slice(0, 20)
-    .map(([s, ts]) => `<li><a href="${s}">${ESC(s.replace('.html', ''))}</a> <small>${new Date(ts).toLocaleDateString()}</small></li>`)
+    .map(([k, ts]) => { const s = fromFirebaseKey(k); return `<li><a href="${s}.html">${ESC(s)}</a> <small>${new Date(ts).toLocaleDateString()}</small></li>`; })
     .join('') || '<li>No hay historial reciente.</li>';
   const annotList = Object.entries(annotations)
-    .map(([s, text]) => `<li><a href="${s}">${ESC(s.replace('.html', ''))}</a>: ${ESC(text.slice(0, 80))}${text.length > 80 ? '...' : ''}</li>`)
+    .map(([k, text]) => { const s = fromFirebaseKey(k); return `<li><a href="${s}.html">${ESC(s)}: ${ESC(text.slice(0, 80))}${text.length > 80 ? '...' : ''}</li>`; })
     .join('') || '<li>No tienes notas personales.</li>';
 
   container.innerHTML = `
@@ -548,7 +576,8 @@ async function initCourseProgress() {
     let completedCount = 0;
     for (const a of lessonLinks) {
       const href = a.getAttribute('href');
-      if (href && progress[href]) {
+      const key = firebaseKey(href);
+      if (key && progress[key]) {
         completedCount++;
         a.classList.add('lesson-completed');
         a.parentElement?.classList.add('lesson-is-completed');
