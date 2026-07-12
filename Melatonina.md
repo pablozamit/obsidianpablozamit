@@ -47,6 +47,27 @@ Efectos sobre cabello y piel: Ensayos con melatonina tópica han mostrado aument
 
 Uso tópico para cabello o piel: Los productos con melatonina tópica (lociones capilares, sérums faciales) se aplican generalmente 1 vez al día, por la noche, sobre cuero cabelludo o piel limpia; la tolerancia suele ser buena, pero pueden aparecer irritación local o alergia, por lo que conviene empezar con zonas pequeñas y suspender en caso de reacción.
 
+### Densidad capilar +41% en 6 meses (@nootropicguy)
+
+> "Melatonin increases hair density by 41% in 6 months. Your scalp literally manufactures its own melatonin at concentrations 100x higher than your blood. Nature built melatonin receptors into follicles for a reason. Topical melatonin = working WITH your biology, not against it"
+> _—NootBro (@nootropicguy), 26 sept 2025_
+
+El cuero cabelludo **fabrica su propia melatonina** a concentraciones 100× mayores que la sangre, y los folículos pilosos tienen receptores de melatonina integrados. La aplicación tópica trabaja **con** la biología local, no contra ella.
+
+**Dato cuantitativo**: aumento de **densidad capilar del 41% en 6 meses** con melatonina tópica (estudio clínico citado por @nootropicguy).
+
+> "Topical melatonin uses small micro-to-mg doses. Plasma melatonin levels don't change significantly. Not concerned about it at all."
+> _—@nootropicguy, 28 sept 2025_
+
+### Caveat de Paul Saladino: la luz infrarroja también cuenta
+
+> "Infrared light also creates melatonin in the mitochondria of every cell of your body - not just your brain. Real sunlight is essential for optimal melatonin levels systemically."
+> _—Paul Saladino, MD (@paulsaladinomd), 26 sept 2025_
+
+La luz infrarroja del espectro solar genera melatonina en las mitocondrias de **todas** las células del cuerpo — no solo cerebro ni cuero cabelludo. La producción endógena sistémica depende también de la **exposición solar real**; la suplementación oral o la aplicación tópica no sustituyen esa vía mitocondrial.
+
+> _—Coherente con el marco ya establecido en la nota sobre la melatonina mitocondrial local (§ "Mecanismo NIR → melatonina mitocondrial")._
+
 
 ## Inflamación
 
