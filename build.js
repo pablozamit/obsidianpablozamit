@@ -2807,7 +2807,7 @@ async function build() {
                     }
                     await fs.writeFile(destPath, html);
                 } else {
-                    await fs.copy(srcPath, destPath);
+                    await fs.copy(srcPath, destPath, { filter: (src) => path.basename(src).toLowerCase() !== 'desktop.ini' && path.basename(src).toLowerCase() !== 'thumbs.db' });
                 }
             }
         }
@@ -2894,7 +2894,7 @@ async function build() {
             const htmlContent = marked.parse(content, { renderer });
             const toc = buildToc(htmlContent);
             const backlinks = backlinksMap[note.slug] ? Array.from(backlinksMap[note.slug]) : [];
-            const finalHtml = htmlTemplate(note.title, htmlContent, notes, backlinks, false, note.slug, toc, false, false, false, false, getMetaDescription(note.content, note.title), note.rating, (note.frontmatter && note.frontmatter.tipo) || '');
+            const finalHtml = htmlTemplate(note.title, htmlContent, notes, backlinks, false, note.slug, toc, false, false, false, false, false, getMetaDescription(note.content, note.title), note.rating, (note.frontmatter && note.frontmatter.tipo) || '');
 
             await fs.writeFile(path.join(DIST_DIR, note.slug), finalHtml);
         }
