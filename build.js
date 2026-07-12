@@ -2667,10 +2667,40 @@ async function build() {
         const PUBLIC_DIR = path.join(__dirname, 'public');
         if (await fs.pathExists(PUBLIC_DIR)) {
             const publicFiles = await fs.readdir(PUBLIC_DIR);
+            const firebaseConfigScript = `
+    <script type="module">
+        window.__FIREBASE_CONFIG__ = {
+            apiKey: "${process.env.FIREBASE_API_KEY || ''}",
+            authDomain: "${process.env.FIREBASE_AUTH_DOMAIN || ''}",
+            databaseURL: "${process.env.FIREBASE_DATABASE_URL || ''}",
+            projectId: "${process.env.FIREBASE_PROJECT_ID || ''}",
+            storageBucket: "${process.env.FIREBASE_STORAGE_BUCKET || ''}",
+            messagingSenderId: "${process.env.FIREBASE_MESSAGING_SENDER_ID || ''}",
+            appId: "${process.env.FIREBASE_APP_ID || ''}"
+        };
+        import '/js/user-features.js';
+    </script>`;
             for (const pubFile of publicFiles) {
                 if (pubFile === 'desktop.ini') continue;
-                await fs.copy(path.join(PUBLIC_DIR, pubFile), path.join(DIST_DIR, pubFile));
+                const srcPath = path.join(PUBLIC_DIR, pubFile);
+                const destPath = path.join(DIST_DIR, pubFile);
+                if (pubFile === 'login.html' || pubFile === 'registro.html' || pubFile === 'perfil.html') {
+                    let html = await fs.readFile(srcPath, 'utf8');
+                    if (html.includes('</body>')) {
+                        html = html.replace('</body>', firebaseConfigScript + '\n</body>');
+                    } else {
+                        html = html + firebaseConfigScript;
+                    }
+                    await fs.writeFile(destPath, html);
+                } else {
+                    await fs.copy(srcPath, destPath);
+                }
             }
+        }
+        // Copy public/js/ to dist/js/ recursively
+        const publicJsDir = path.join(__dirname, 'public', 'js');
+        if (await fs.pathExists(publicJsDir)) {
+            await fs.copy(publicJsDir, path.join(DIST_DIR, 'js'));
         }
 
         const notes = [];
