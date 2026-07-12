@@ -132,6 +132,22 @@ La suplementación con NAC puede mejorar el rendimiento en aquellos con niveles 
 
 El NAC puede reducir la excreción de ciertos medicamentos, lo que lleva a un aumento de los niveles plasmáticos.
 
+## Intento de prohibición por la FDA (2020)
+
+La FDA intentó prohibir el NAC como suplemento en 2020 argumentando que era un fármaco aprobado (mucolítico) antes que un suplemento, por lo que no podía venderse como tal. El intento fracasó, pero reveló que el NAC competía directamente con intervenciones farmacéuticas por su eficacia.
+
+> _—@1Immortals1 (11 jul 2026)_
+
+## Efecto sobre el estado de ánimo (caveat)
+
+Algunos usuarios reportan que el NAC puede producir **embotamiento emocional** (dulling of emotions), posiblemente por su modulación del glutamato a nivel del núcleo accumbens. El mismo mecanismo que reduce conductas adictivas y obsesivas puede aplanar el rango emocional en ciertas personas. Es un efecto dosis-dependiente y no universal.
+
+> _—Sean Flynn @SeanFlynnLive (11 jul 2026)_
+
+## Alternativa: glicina sola (Vadrek)
+
+Vadrek (@Cacatzel) propone tomar solo **glicina 9-12 mg/día** en lugar de NAC hasta después de los 55 años, argumentando que la glicina es suficiente para mantener la síntesis de glutatión en personas jóvenes sin estrés oxidativo elevado. No hay evidencia sólida que respalde este límite de edad, pero es una estrategia de mínima intervención.
+
 ## NACET (N-acetilcisteína etil éster)
 
 Forma esterificada de [[Acetilcisteína|NAC]] con biodisponibilidad muy superior:

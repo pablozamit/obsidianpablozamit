@@ -155,15 +155,19 @@ function formatVisitedTimeAgo(ts) {
   if (diffMs < 0) return 'hace un momento';
   const min = Math.round(diffMs / 60000);
   if (min < 1) return 'hace un momento';
-  if (min < 60) return 'hace ' + min + ' min';
+  if (min === 1) return 'hace 1 minuto';
+  if (min < 60) return 'hace ' + min + ' minutos';
   const hours = Math.round(diffMs / 3600000);
-  if (hours < 24) return 'hace ' + hours + ' h';
+  if (hours === 1) return 'hace 1 hora';
+  if (hours < 24) return 'hace ' + hours + ' horas';
   const days = Math.round(diffMs / 86400000);
   if (days === 1) return 'ayer';
   if (days < 30) return 'hace ' + days + ' días';
   const months = Math.round(days / 30);
+  if (months === 1) return 'hace 1 mes';
   if (months < 12) return 'hace ' + months + ' meses';
   const years = Math.round(days / 365);
+  if (years === 1) return 'hace 1 año';
   return 'hace ' + years + ' años';
 }
 
@@ -174,25 +178,32 @@ function initVisitedIndicator() {
     slug === 'login.html' || slug === 'registro.html' || slug === 'perfil.html'
   ) return;
 
-  const map = loadVisitedMap();
-  const lastVisit = map[slug];
-
-  // Registramos esta visita en localStorage (barato y persistente). En
-  // primera visita, no hay lastVisit y por tanto nada que renderizar.
-  map[slug] = Date.now();
-  saveVisitedMap(map);
+  // Copia inmutable del map: si saveVisitedMap falla (cuota llena) no
+  // contaminamos el objeto que recibimos del localStorage con un ts que
+  // nunca llegó a persistir.
+  const loaded = loadVisitedMap();
+  const lastVisit = loaded[slug];
+  const next = Object.assign({}, loaded);
+  next[slug] = Date.now();
+  saveVisitedMap(next);
 
   if (!lastVisit) return;
 
-  // Insertar el indicador sutil justo después del h1 de la nota.
+  // Anchor más estable: preferimos un wrapper .page-header (que el
+  // template debería tener) y, si no existe, caemos al primer h1. Esto
+  // evita el problema de desplazar bloques de metadatos que vivan justo
+  // después del título.
+  const header = document.querySelector('.page-header');
   const h1 = document.querySelector('h1');
-  if (!h1 || !h1.parentNode) return;
-  if (h1.parentNode.querySelector('.visited-indicator')) return; // idempotente
+  let anchor = header || h1;
+  if (!anchor || !anchor.parentNode) return;
+  if (anchor.parentNode.querySelector('.visited-indicator')) return; // idempotente
+
   const el = document.createElement('p');
   el.className = 'visited-indicator';
   el.style.cssText = 'margin:0 0 1rem;font-size:.85em;font-style:italic;color:var(--ink-mute,#8A8F96);font-weight:400;';
   el.textContent = 'Última visita: ' + formatVisitedTimeAgo(lastVisit);
-  h1.parentNode.insertBefore(el, h1.nextSibling);
+  anchor.parentNode.insertBefore(el, anchor.nextSibling);
 }
 
 // Reading history (throttled: 30 s por slug, persistido en sessionStorage)

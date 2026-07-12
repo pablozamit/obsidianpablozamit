@@ -42,6 +42,24 @@ Un usuario biohacker publicó un autoinforme con la siguiente cronología, citad
 
 > _—Datos subjetivos de un solo sujeto, citados en el tweet. Las náuseas y la sensación de "clammy" son efectos adversos conocidos de la bremelanotida por su acción melanocortínica periférica (incluida la activación de receptores MC1R del tracto gastrointestinal y de la piel)._
 
+## Efectos secundarios prácticos
+
+El perfil de efectos adversos de PT-141 es significativo y limita su uso en la práctica:
+
+- **Náuseas**: el efecto secundario más común. Ocurre incluso a dosis bajas en personas sensibles. Empieza ~1-2h después de la dosis
+- **Vómitos**: en algunos casos, especialmente si se supera la dosis tolerada individual
+- **Dolor de cabeza**: reportado con frecuencia
+- **Presión arterial**: se eleva transitoriamente, por lo que no es un compuesto para apilar con cualquier cosa (Kris Chase @KrisRChase, 11 jul 2026)
+- **Erecciones nocturnas**: el efecto dura más de lo esperado y puede producir erecciones durante el sueño (Trex @Ivanaeus77)
+- **Bronceado**: al activar MC1R (receptor de melanocortina cutáneo), PT-141 también estimula la melanogénesis y puede broncear la piel con exposición solar
+- **"Dick sore"**: sensación de dolor/irritación pencana reportada por algunos usuarios (Corn Syrup Solids @Howbow_Dat)
+
+## Titulación de dosis
+
+La sensibilidad individual varía enormemente. La recomendación general: **empezar muy bajo** e ir subiendo. La dosis umbral para efectos secundarios (náuseas) está muy cerca de la dosis efectiva.
+
+Timing: la ventana de acción empieza ~45 min después de la administración.
+
 ## Ver también
 
 - [[Libido]]
