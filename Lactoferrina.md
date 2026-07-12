@@ -80,6 +80,33 @@ Confirmación de los datos con un estudio específico en **hombres y mujeres jap
 - **Importante**: la pasteurización destruye la lactoferrina — la leche pasteurizada comercial tiene casi cero (Gunnar @FarvingCo, 8 jun 2026).
 - Los suplementos deben ser **entéricos** (enteric-coated) para sobrevivir el ácido estomacal y llegar al intestino. La mayoría de los suplementos de lactoferrina son un desperdicio de dinero porque el ácido estomacal los destruye antes de que alcancen el intestino (@FarvingCo).
 
+### Salud intestinal
+
+La lactoferrina es uno de los suplementos más completos para el [[Intestino|intestino]] (Dalton @Outdoctrination, 21 dic 2025):
+
+- **Repara la barrera intestinal**: disminuye la [[Zonulina]] sérica, estimula la creación de [[Célula| células epiteliales]], promueve su diferenciación y aumenta las proteínas de unión estrecha ([[Permeabilidad intestinal|tight junctions]])
+- **Antiinflamatorio intestinal**: reduce [[IL-6]] y hepcidina en pacientes con [[Enfermedad inflamatoria intestinal|Crohn]] (100 mg/día)
+- **Antidiarreico**: 3 g/día redujo a la mitad los casos de diarrea asociada a antibióticos en <2 semanas; 600 mg/día reduce náuseas, diarrea y dolor abdominal
+- **Antifúngico**: reduce el crecimiento de [[Candida]], altera la formación de biofilm y es sinérgico con otros antifúngicos
+- **Antimicrobiano selectivo**: priva de [[Hierro|hierro]] a patógenos ([[E. coli]]) mientras que las comensales ([[Lactobacillus]], [[Bifidobacterium]]) prosperan al requerir menos hierro
+- **Promueve la absorción de hierro**: el hierro no absorbido en el intestino alimenta [[Estrés oxidativo|estrés oxidativo]], [[Inflamación]] crónica y [[SIBO|sobrecrecimiento bacteriano]]
+- **Estimula la [[Lactasa]]**: la lactoferrina aumenta la producción de lactasa, la enzima que digiere la lactosa — útil para [[Intolerancia a la lactosa|intolerantes]]
+
+### Cáncer de colon
+
+En animales, la lactoferrina previene e incluso revierte el [[Cáncer de colon]] y de tracto digestivo. En humanos, 3 g/día ralentizó significativamente el crecimiento de tumores colorrectales (Dalton @Outdoctrination, 21 dic 2025).
+
+### Modulación inmune
+
+- **[[IgA secretora (sIgA)]]**: la lactoferrina recupera los niveles de sIgA, el anticuerpo que patrulla el revestimiento intestinal y se agota con el [[Estrés crónico|estrés crónico]]
+- **Tolerancia inmune**: aumenta células tolerogénicas que mantienen la paz, suprime [[Linfocitos T CD4| células T CD4+]] hiperactivas, ayuda al sistema inmune a distinguir entre amigos y enemigos
+- **[[Receptores tipo Toll (TLR)]]**: reduce la expresión de TLRs (sensores inmunes que detectan componentes bacterianos), previniendo cascadas inflamatorias excesivas
+- **[[BDNF]]**: estimula el BDNF, apoyando el sistema nervioso del intestino que gobierna la sensibilización al dolor y la motilidad
+
+### Caso clínico: remisión de Crohn
+
+Un paciente con [[Enfermedad inflamatoria intestinal|Crohn]] severo perdió acceso a sus medicamentos al mudarse a EE.UU. Comenzó a tomar 1 g/día de lactoferrina como sustituto. Sin recaída. Remisión sostenida (Dalton @Outdoctrination, 21 dic 2025).
+
 ### Comparativa con [[Aspirina (ácido acetilsalicílico)|aspirina]] para cáncer
 
 En un hilo sobre el efecto antimetastásico de la aspirina (Dalton @Outdoctrination, 21 mar 2026), un usuario propuso lactoferrina como "alternativa mejor". Respuesta de Dalton: los mecanismos son muy diferentes y la lactoferrina tiene mucha menos investigación específica sobre cáncer que la aspirina. La aspirina ataca metástasis vía inhibición de COX/TXA2/PGE2 y restauración de linfocitos T; la lactoferrina actúa más como inmunomodulador general y quelante de hierro. No son intercambiables.

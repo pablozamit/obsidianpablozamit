@@ -150,11 +150,16 @@ Vadrek (@Cacatzel) propone tomar solo **glicina 9-12 mg/día** en lugar de NAC h
 
 ## NACET (N-acetilcisteína etil éster)
 
-Forma esterificada de [[Acetilcisteína|NAC]] con biodisponibilidad muy superior:
+Forma esterificada de [[Acetilcisteína|NAC]] con propiedades significativamente superiores (Bio.Science @1BioScience, 22 feb 2026):
 
+- **Biodisponibilidad**: 60-80% vs ~5-10% para NAC
+- **Barrera hematoencefálica**: la lipofilia permite entrada al SNC sin esfuerzo, donde NAC tiene dificultades
+- **Acumulación en glóbulos rojos**: capacidad única que permite acceso a dominios que NAC apenas alcanza
+- **Aumento de glutatión**: significativamente más potente, especialmente a nivel intracelular (el marcador que realmente importa), no extracelular
 - **Dosis eficaces**: 100-200 mg de NACET ≈ gramos de NAC (Elijah Krings, 2026)
 - **Inhibición de COX-1**: 200 veces más potente que la [[Aspirina (ácido acetilsalicílico)|aspirina]] (Elijah Krings, 2026)
-- Atraviesa mejor membranas celulares por su forma esterificada
+
+**GlyNAC vs NACET**: GlyNAC (NAC + glicina) aporta un cofactor para la síntesis de glutatión, pero no resuelve los problemas fundamentales de biodisponibilidad y penetración del NAC (Bio.Science @1BioScience, 23 feb 2026).
 
 ## Reversión de daño cerebral por aluminio
 

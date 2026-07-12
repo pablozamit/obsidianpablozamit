@@ -19,3 +19,9 @@ dist/
 .vercel
 .env*
 desktop.ini
+
+# Secrets (Google service account keys, etc.)
+secrets/
+n8npablozamitcom*.json
+_tmp/
+scripts/
