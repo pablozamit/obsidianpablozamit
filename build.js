@@ -55,7 +55,7 @@ function ratingLabel(r) {
     if (r >= 3) return "Básico";
     return "Bajo";
 }
-const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, currentSlug = '', toc = '', isSearch = false, is404 = false, isCategories = false, isItinerarios = false, isImprescindibles = false, metaDesc = '', currentRating = null) => {
+const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, currentSlug = '', toc = '', isSearch = false, is404 = false, isCategories = false, isItinerarios = false, isImprescindibles = false, metaDesc = '', currentRating = null, noteType = '') => {
     // Agrupa la sidebar por letra inicial y marca el item actual
     const grouped = {};
     const fold = (s) => (s || '').toString().normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
@@ -1665,6 +1665,100 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
         .auth-form .error { color: var(--alert); font-size: var(--fs-sm); margin-top: 8px; }
         .auth-link { color: var(--accent); text-decoration: none; }
         .auth-link:hover { text-decoration: underline; }
+
+        /* === Course progress (commit X) === */
+        .lesson-completed-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: var(--sp-2);
+            padding: var(--sp-3) var(--sp-5);
+            margin: var(--sp-3) 0 var(--sp-5);
+            background: var(--bg-elev);
+            color: var(--ink-soft);
+            border: 1px solid var(--rule);
+            border-radius: 8px;
+            font-family: var(--font-sans);
+            font-size: var(--fs-sm);
+            font-weight: 600;
+            cursor: pointer;
+            transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+        }
+        .lesson-completed-btn:hover {
+            border-color: var(--accent);
+            color: var(--ink);
+        }
+        .lesson-completed-btn.completed {
+            background: var(--accent-soft);
+            color: var(--accent);
+            border-color: var(--accent);
+        }
+        .lesson-completed-btn.completed:hover {
+            background: var(--accent-soft);
+        }
+
+        .progress-bar-container {
+            margin: var(--sp-5) 0 var(--sp-6);
+            padding: var(--sp-4) var(--sp-5);
+            background: var(--bg-muted);
+            border: 1px solid var(--rule);
+            border-left: 3px solid var(--accent);
+            border-radius: 10px;
+        }
+        .progress-bar-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            margin-bottom: var(--sp-3);
+            font-family: var(--font-sans);
+            font-size: var(--fs-sm);
+            gap: var(--sp-3);
+            flex-wrap: wrap;
+        }
+        .progress-bar-title {
+            font-weight: 600;
+            color: var(--ink);
+        }
+        .progress-bar-stats {
+            font-family: var(--font-mono);
+            color: var(--ink-mute);
+            font-size: var(--fs-xs);
+            font-variant-numeric: tabular-nums;
+        }
+        .progress-bar-track {
+            width: 100%;
+            height: 6px;
+            background: var(--rule);
+            border-radius: 3px;
+            overflow: hidden;
+        }
+        .progress-bar-fill {
+            height: 100%;
+            background: var(--accent);
+            border-radius: 3px;
+            transition: width 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        @media (prefers-color-scheme: dark) {
+            .progress-bar-track { background: rgba(255,255,255,0.08); }
+        }
+
+        /* Lecciones completadas en la lista del curso */
+        .lesson-is-completed {
+            opacity: 0.7;
+        }
+        .lesson-is-completed a.lesson-completed::before {
+            content: '✅ ';
+            display: inline-block;
+            margin-right: 2px;
+        }
+        .lesson-is-completed a.lesson-completed {
+            text-decoration: line-through;
+            text-decoration-color: var(--rule);
+            text-decoration-thickness: 1px;
+        }
+        .lesson-is-completed a.lesson-completed:hover {
+            text-decoration: line-through;
+            text-decoration-color: var(--accent);
+        }
     </style>
 </head>
 <body>
@@ -1686,7 +1780,7 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
     <main id="main-content" class="${isHome ? 'is-home' : isSearch ? 'is-search' : is404 ? 'is-404' : isCategories ? 'is-categories' : isItinerarios ? 'is-itinerarios' : isImprescindibles ? 'is-imprescindibles' : ''}">
         <div class="article-wrapper${toc ? ' has-toc' : ''}">
             ${toc}
-            <article>
+            <article data-note-type="${noteType}">
                 ${currentRating ? `
                 <div class="note-rating" data-rating="${currentRating}" aria-label="Puntuacion ${currentRating} de 10" role="figure">
                     <span class="note-rating-score">${currentRating}</span>
@@ -1700,6 +1794,7 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
         ${likeSection}
         ${!isHome && !isSearch && !is404 && !isCategories && !isItinerarios && !isImprescindibles && currentSlug ? `<div id="favorite-section"></div>` : ''}
         ${!isHome && !isSearch && !is404 && !isCategories && !isItinerarios && !isImprescindibles && currentSlug ? `<div id="annotation-section"></div>` : ''}
+        ${(!isHome && !isSearch && !is404 && !isCategories && !isItinerarios && !isImprescindibles && currentSlug && noteType === 'leccion') ? `<div id="course-progress-section"></div>` : ''}
         ${!isHome && !isSearch && !is404 && !isCategories && !isItinerarios && !isImprescindibles && currentSlug ? `<div class="itinerary-cta"><a href="itinerarios.html?from=${currentSlug}" class="btn-itinerary">🗺️ Crear itinerario desde esta nota</a></div>` : ''}
         ${backlinkSection}
     </main>
@@ -2733,7 +2828,7 @@ async function build() {
             const parsed = parseFrontmatter(content);
             const ratingRaw = parsed.frontmatter.rating;
             const rating = (typeof ratingRaw === "number" && Number.isInteger(ratingRaw) && ratingRaw >= 1 && ratingRaw <= 10) ? ratingRaw : null;
-            notes.push({ title, slug, path: md.path, content: parsed.content, rating });
+            notes.push({ title, slug, path: md.path, content: parsed.content, rating, frontmatter: parsed.frontmatter || {} });
         }
 
         for (const note of notes) {
@@ -2799,7 +2894,7 @@ async function build() {
             const htmlContent = marked.parse(content, { renderer });
             const toc = buildToc(htmlContent);
             const backlinks = backlinksMap[note.slug] ? Array.from(backlinksMap[note.slug]) : [];
-            const finalHtml = htmlTemplate(note.title, htmlContent, notes, backlinks, false, note.slug, toc, false, false, false, false, getMetaDescription(note.content, note.title), note.rating);
+            const finalHtml = htmlTemplate(note.title, htmlContent, notes, backlinks, false, note.slug, toc, false, false, false, false, getMetaDescription(note.content, note.title), note.rating, (note.frontmatter && note.frontmatter.tipo) || '');
 
             await fs.writeFile(path.join(DIST_DIR, note.slug), finalHtml);
         }

@@ -5,7 +5,8 @@ import {
   saveVote, getVotes,
   recordReading, getHistory,
   saveAnnotation, getAnnotations,
-  saveItineraryProgress, getItineraryProgress
+  saveItineraryProgress, getItineraryProgress,
+  toggleLessonProgress, getProgress
 } from './db.js';
 
 const ESC = (s) => String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
@@ -490,6 +491,96 @@ function showGateError(msg) {
   `;
 }
 
+// Course progress: botón "Marcar como completada" en notas de lección,
+// y checkmarks + barra de progreso en notas de curso (formación).
+// Silencioso si no hay sesión: el AuthGate ya oculta la página entera,
+// así que no necesitamos limpiar el DOM al desloguearse.
+async function initCourseProgress() {
+  const article = document.querySelector('article[data-note-type]');
+  if (!article) return;
+  const noteType = article.getAttribute('data-note-type');
+  const slug = getSlug();
+
+  // Si no hay contenedor inyectado por build.js (p.ej. la página es un
+  // curso o lección legacy sin data-note-type), no hacemos nada.
+  if (noteType !== 'leccion' && noteType !== 'formacion') return;
+
+  let progress;
+  try {
+    progress = await getProgress();
+  } catch (e) {
+    return; // No logueado o RTDB no disponible
+  }
+
+  // === Lección: botón de marcar como completada ===
+  if (noteType === 'leccion') {
+    const container = document.getElementById('course-progress-section');
+    if (!container || container.dataset.initialized) return;
+    container.dataset.initialized = 'true';
+
+    const btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = 'lesson-completed-btn';
+    const isCompleted = !!progress[slug];
+    if (isCompleted) btn.classList.add('completed');
+    btn.innerHTML = isCompleted ? '↩ Desmarcar como completada' : '✅ Marcar como completada';
+
+    btn.addEventListener('click', async () => {
+      try {
+        const nowCompleted = await toggleLessonProgress(slug);
+        btn.classList.toggle('completed', nowCompleted);
+        btn.innerHTML = nowCompleted ? '↩ Desmarcar como completada' : '✅ Marcar como completada';
+      } catch (e) {
+        alert('Inicia sesión para trackear tu progreso.');
+      }
+    });
+    container.appendChild(btn);
+    return;
+  }
+
+  // === Curso/Formación: checkmarks en lecciones + barra de progreso ===
+  if (noteType === 'formacion') {
+    // Pillamos todos los links a lecciones dentro de <ul><li>. Esto esquiva
+    // las tablas markdown de "🎬 Recursos adicionales" (van en <table>).
+    const lessonLinks = Array.from(article.querySelectorAll('ul li a[href$=".html"]'));
+    if (lessonLinks.length === 0) return;
+
+    let completedCount = 0;
+    for (const a of lessonLinks) {
+      const href = a.getAttribute('href');
+      if (href && progress[href]) {
+        completedCount++;
+        a.classList.add('lesson-completed');
+        a.parentElement?.classList.add('lesson-is-completed');
+      }
+    }
+
+    // Inyectar barra de progreso tras el blockquote de descripción, o tras
+    // el h1 si no hay blockquote.
+    let bar = document.getElementById('course-progress-bar');
+    if (!bar) {
+      bar = document.createElement('div');
+      bar.id = 'course-progress-bar';
+      bar.className = 'progress-bar-container';
+      const anchor = article.querySelector('blockquote') || article.querySelector('h1');
+      if (anchor) anchor.insertAdjacentElement('afterend', bar);
+      else article.prepend(bar);
+    }
+
+    const total = lessonLinks.length;
+    const percent = total > 0 ? Math.round((completedCount / total) * 100) : 0;
+    bar.innerHTML = `
+      <div class="progress-bar-header">
+        <span class="progress-bar-title">Progreso del curso</span>
+        <span class="progress-bar-stats">${completedCount}/${total} lecciones (${percent}%)</span>
+      </div>
+      <div class="progress-bar-track" role="progressbar" aria-valuenow="${percent}" aria-valuemin="0" aria-valuemax="100" aria-label="Progreso del curso">
+        <div class="progress-bar-fill" style="width: ${percent}%"></div>
+      </div>
+    `;
+  }
+}
+
 // Main init
 async function init() {
   applyAuthGate();
@@ -540,6 +631,7 @@ async function init() {
           await initLikes();
           await initHistory();
           await initAnnotations();
+          await initCourseProgress();
           await initItinerary();
           await initProfile();
         })();

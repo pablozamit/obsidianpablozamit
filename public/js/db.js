@@ -109,6 +109,28 @@ export async function getAnnotations() {
   return val || {};
 }
 
+// Lesson progress (mark/unmark a leccion note as completed for the current user)
+export async function toggleLessonProgress(slug) {
+  const user = requireUser();
+  const path = userPath(user.uid, 'progress', slug);
+  const current = await getValue(path);
+  if (current) {
+    await removeValue(path);
+    return false;
+  } else {
+    await setValue(path, { completedAt: Date.now() });
+    return true;
+  }
+}
+
+// Returns the user's full progress map: { leccionSlug: { completedAt } }.
+// Throws if the user is not authenticated (caller decides how to handle).
+export async function getProgress() {
+  const user = requireUser();
+  const val = await getValue(userPath(user.uid, 'progress'));
+  return val || {};
+}
+
 // Itinerary progress
 export async function saveItineraryProgress(fromSlug, completedSteps) {
   const user = requireUser();
