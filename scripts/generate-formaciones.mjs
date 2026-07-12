@@ -41,9 +41,14 @@ const COURSES = [
   },
   // Superpack subcourses
   {
-    fileName: 'EAR + IA WEEK.md',
+    fileName: 'Estudios de Alto Rendimiento.md',
     drivePath: 'Superpack/EAR + IA WEEK',
-    description: 'Workshop intensivo sobre regulación emocional con IA como copiloto. Pendiente de revisión tras revisar el contenido del doc "Enlaces".',
+    description: '📝 Pendiente de descripción — el usuario debe completarla tras revisar el contenido del doc "Enlaces" de Drive.',
+  },
+  {
+    fileName: 'IA Week.md',
+    drivePath: 'Superpack/EAR + IA WEEK',
+    description: '📝 Pendiente de descripción — el usuario debe completarla tras revisar el contenido del doc "Enlaces" de Drive.',
   },
   {
     fileName: 'Sistema de Meditación Binaural.md',

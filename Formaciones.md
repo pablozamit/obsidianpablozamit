@@ -12,7 +12,8 @@ tags: [hub, indice, formacion]
 ## 🎓 Cursos del Superpack
 
 - [[Sistema de Meditación Binaural]] — Colección de pistas binaurales para foco, calma, sueño y energía.
-- [[EAR + IA WEEK]] — Workshop intensivo (descripción provisional, pendiente de revisar el contenido de la carpeta).
+- [[Estudios de Alto Rendimiento]] — 📝 Pendiente de descripción.
+- [[IA Week]] — 📝 Pendiente de descripción.
 - [[Toda la Noche]] — Protocolos avanzados de multiorgasmia masculina.
 - [[Sistema AntiFap 3.0]] — El sistema core de retención seminal. Versión 3.0.
 - [[Sistema de Transmutación Masculina]] — Marco para canalizar la energía sexual hacia proyectos y propósito.
