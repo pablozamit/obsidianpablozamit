@@ -119,6 +119,82 @@ async function initLikes() {
   }
 }
 
+// Indicador de "visitada hace N días" — leído y escrito en localStorage,
+// sin tocar RTDB. Cero coste de Firebase: el timestamp existe solo en este
+// navegador/origen. Limpiamos entradas de más de 90 días para que el
+// localStorage no crezca sin límite.
+const VISITED_STORAGE_KEY = 'visitedNotes:v1';
+const VISITED_GC_MS = 90 * 24 * 60 * 60 * 1000;
+
+function loadVisitedMap() {
+  try {
+    const raw = localStorage.getItem(VISITED_STORAGE_KEY);
+    if (!raw) return {};
+    const obj = JSON.parse(raw);
+    return (obj && typeof obj === 'object' && !Array.isArray(obj)) ? obj : {};
+  } catch {
+    return {};
+  }
+}
+
+function saveVisitedMap(map) {
+  try {
+    const now = Date.now();
+    for (const slug in map) {
+      if (now - (map[slug] || 0) > VISITED_GC_MS) delete map[slug];
+    }
+    localStorage.setItem(VISITED_STORAGE_KEY, JSON.stringify(map));
+  } catch {
+    // localStorage puede no estar disponible (modo privado, cuota) y no
+    // debe romper la página si falla.
+  }
+}
+
+function formatVisitedTimeAgo(ts) {
+  const diffMs = Date.now() - ts;
+  if (diffMs < 0) return 'hace un momento';
+  const min = Math.round(diffMs / 60000);
+  if (min < 1) return 'hace un momento';
+  if (min < 60) return 'hace ' + min + ' min';
+  const hours = Math.round(diffMs / 3600000);
+  if (hours < 24) return 'hace ' + hours + ' h';
+  const days = Math.round(diffMs / 86400000);
+  if (days === 1) return 'ayer';
+  if (days < 30) return 'hace ' + days + ' días';
+  const months = Math.round(days / 30);
+  if (months < 12) return 'hace ' + months + ' meses';
+  const years = Math.round(days / 365);
+  return 'hace ' + years + ' años';
+}
+
+function initVisitedIndicator() {
+  const slug = getSlug();
+  if (
+    slug === 'index.html' || slug === 'buscar.html' ||
+    slug === 'login.html' || slug === 'registro.html' || slug === 'perfil.html'
+  ) return;
+
+  const map = loadVisitedMap();
+  const lastVisit = map[slug];
+
+  // Registramos esta visita en localStorage (barato y persistente). En
+  // primera visita, no hay lastVisit y por tanto nada que renderizar.
+  map[slug] = Date.now();
+  saveVisitedMap(map);
+
+  if (!lastVisit) return;
+
+  // Insertar el indicador sutil justo después del h1 de la nota.
+  const h1 = document.querySelector('h1');
+  if (!h1 || !h1.parentNode) return;
+  if (h1.parentNode.querySelector('.visited-indicator')) return; // idempotente
+  const el = document.createElement('p');
+  el.className = 'visited-indicator';
+  el.style.cssText = 'margin:0 0 1rem;font-size:.85em;font-style:italic;color:var(--ink-mute,#8A8F96);font-weight:400;';
+  el.textContent = 'Última visita: ' + formatVisitedTimeAgo(lastVisit);
+  h1.parentNode.insertBefore(el, h1.nextSibling);
+}
+
 // Reading history (throttled: 30 s por slug, persistido en sessionStorage)
 const HISTORY_THROTTLE_MS = 30 * 1000;
 const HISTORY_STORAGE_KEY = 'historyThrottle:v1';
@@ -391,6 +467,13 @@ async function init() {
   if (getCurrentUser()) {
     removeAuthGate();
   }
+
+  // Indicador de "visitada hace N días" — sin coste RTDB: lee/escribe en
+  // localStorage. Lo dejamos correr siempre aunque luego el gate oculte
+  // el contenido para usuarios sin sesión (no se ve, pero el timestamp
+  // se registra igual; cuando el usuario se loguee y vuelva a esta nota,
+  // ya tendrá lastVisit reproducible).
+  initVisitedIndicator();
 
   initAuthForms();
   initAuthUI();
