@@ -110,7 +110,9 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
         // cambiar el estado de auth de Firebase.
         (function () {
             try {
-                if (document.cookie.split('; ').some(function (c) { return c.indexOf('pz_auth=1') === 0; })) {
+                // Comparación EXACTA contra 'pz_auth=1' (no prefijo) para no
+                // matchear por accidente un futuro cookie tipo 'pz_auth=10'.
+                if (document.cookie.split('; ').indexOf('pz_auth=1') !== -1) {
                     document.documentElement.classList.add('pz-authed');
                 }
             } catch (e) { /* cookies deshabilitadas: caemos al flujo normal con gate */ }
