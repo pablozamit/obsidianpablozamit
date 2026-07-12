@@ -65,3 +65,22 @@ Las pantorrillas son el "segundo corazón" — bombean sangre de vuelta al coraz
 5. Mantén **1-5 minutos**
 
 Restablece la circulación, el drenaje linfático y saca al sistema nervioso del modo "on" constante.
+
+## Ejercicio y [[Dopamina]] (Moosa)
+
+> "Exercise increases dopamine synthesis as well as its sensitivity by increasing dopamine receptors D2/D3 density. Exercise is really one of the best, healthiest things you can do, if done correctly. (lifting weights, sprinting, not hyperventilating for too long etc)"
+> _—Moosa (@questmoosa), 26 sept 2025_
+
+El ejercicio aumenta **ambas dimensiones** del sistema dopaminérgico:
+
+- **Síntesis**: mayor producción de dopamina
+- **Sensibilidad**: upregulation de la densidad de receptores D2/D3 postsinápticos
+
+No es solo un "subidón" transitorio — el efecto sobre la densidad de receptores es **acumulativo** y se mantiene más allá de la sesión.
+
+**Modalidades óptimas**:
+- **[[Pesas]] (lifting)**: máximo esfuerzo metabólico, gran upregulation D2/D3
+- **[[Sprints]]**: efecto similar en menor tiempo
+- **Hiperventilación prolongada** (cardio aeróbico largo, ej. correr 1h+): menos efectivo sobre D2/D3, puede cronificar el cortisol y empeorar la sensibilidad
+
+> _—Síntesis basada en @questmoosa (26 sept 2025). El claim específico sobre upregulation de D2/D3 con ejercicio tiene soporte en literatura de neurociencia del ejercicio (rate coding + receptor trafficking); los matices sobre "sprints vs cardio largo" son coherentes con la diferencia metabólica entre trabajo de alta potencia y resistencia._
