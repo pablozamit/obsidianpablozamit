@@ -409,14 +409,14 @@ async function initProfile() {
     getAnnotations().catch(() => ({}))
   ]);
 
-  const favList = Object.keys(favs).map(k => { const s = fromFirebaseKey(k); return `<li><a href="${s}.html">${ESC(s)}</a></li>`; }).join('') || '<li>No tienes notas guardadas.</li>';
+  const favList = Object.keys(favs).map(k => { const s = fromFirebaseKey(k).replace(/\.html?$/, ''); return `<li><a href="${s}.html">${ESC(s)}</a></li>`; }).join('') || '<li>No tienes notas guardadas.</li>';
   const histList = Object.entries(history)
     .sort((a, b) => b[1] - a[1])
     .slice(0, 20)
-    .map(([k, ts]) => { const s = fromFirebaseKey(k); return `<li><a href="${s}.html">${ESC(s)}</a> <small>${new Date(ts).toLocaleDateString()}</small></li>`; })
+    .map(([k, ts]) => { const s = fromFirebaseKey(k).replace(/\.html?$/, ''); return `<li><a href="${s}.html">${ESC(s)}</a> <small>${new Date(ts).toLocaleDateString()}</small></li>`; })
     .join('') || '<li>No hay historial reciente.</li>';
   const annotList = Object.entries(annotations)
-    .map(([k, text]) => { const s = fromFirebaseKey(k); return `<li><a href="${s}.html">${ESC(s)}: ${ESC(text.slice(0, 80))}${text.length > 80 ? '...' : ''}</li>`; })
+    .map(([k, text]) => { const s = fromFirebaseKey(k).replace(/\.html?$/, ''); return `<li><a href="${s}.html">${ESC(s)}: ${ESC(text.slice(0, 80))}${text.length > 80 ? '...' : ''}</li>`; })
     .join('') || '<li>No tienes notas personales.</li>';
 
   container.innerHTML = `
