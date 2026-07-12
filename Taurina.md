@@ -101,6 +101,10 @@ La taurina puede mejorar el rendimiento en el ejercicio y reducir la fatiga musc
 
 ·"Cualquier dosis entre 500 mg o 5 g diarios debería funcionar (para reponer los niveles de taurina testicular con el tiempo), dependiendo de tu ingesta de proteínas y tolerancia a la taurina. Algunas personas se cansan de la taurina, mientras que otras se sienten alerta y despiertas. Esto podría deberse a que la taurina en dosis bajas potencia el efecto de estimulantes como la [[cafeína]] (por ejemplo, Red Bull), mientras que dosis más grandes lo contrarrestarían. Yo uso 2-3 g antes de acostarme en mi batido previo a la cama, que está aproximadamente 2-3 horas después de aplicar los otros suplementos, ya que el momento no importa (Estudio sobre esteroidogénesis testicular)": https://pubmed.ncbi.nlm.nih.gov/28849500/)
 
+### Taurina, testosterona y recuperación de estatus social
+
+En primates, los machos acosados ("bullied") muestran descensos duraderos de [[Testosterona]] que persisten incluso después de que el entorno mejora. En ratas sometidas a derrota social (modelo animal de pérdida de estatus), la suplementación con taurina revirtió la caída de testosterona y facilitó la recuperación conductual (Metabolic Blueprint @metabolic_print, 10 mar 2026). Dosis reportada: 2 g/día.
+
 ·Dosis muy altas pueden disolver la [[ansiedad]] (?) Por encima de 3 gramos, 1-2 veces al día.
 
 ·Skin issues (dryness) (?)

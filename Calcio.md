@@ -71,6 +71,18 @@ El marco Moosa para apoyar la T3 baja con calcio:
 
 - **K2 (menaquinona-7)**: esencial para dirigir el Ca al hueso. Fuentes: natto (mayor fuente conocida), quesos gouda/Edam/Brie, hígado, mantequilla de pasto. Dosis: 100-200 mcg MK-7/día.
 
+## Calcio y prevención de cáncer de colon
+
+El calcio oral se une a los [[Ácidos biliares|ácidos biliares]] y [[Ácidos grasos|ácidos grasos]] citotóxicos en el lumen intestinal, protegiendo la mucosa colónica del daño que estimula la proliferación epitelial. Una dieta alta en grasa aumenta la concentración de estos ácidos en el colon; el calcio los neutraliza. Además, el calcio incrementa la producción de [[CO2]], que es una señal para que las células cancerosas entren en [[Apoptosis|apoptosis]] y tiene propiedades antibacterianas (Oxidative State @oxidativestate, 11 feb 2026). PMID: 1775941.
+
+## Meta diaria de calcio: 3-5 g
+
+La ingesta diaria óptima de calcio se sitúa en 3-5 g/día para aumentar el [[Metabolismo|metabolismo oxidativo]], mejorar la [[Digestión|digestión]], reducir la [[Serotonina]] sérica y fortalecer los [[Huesos|huesos]] (Oxidative State @oxidativestate, 15 mar 2026).
+
+## El "Calcium Spark" y el origen de la vida
+
+Cuando un espermatozoide penetra el óvulo, desencadena la liberación de iones de calcio almacenados en el óvulo — el "Calcium Spark" (chispa de calcio). Este pulso de calcio activa la [[Piruvato deshidrogenasa (PDH)]], las enzimas del [[Ciclo de Krebs]], la [[Cadena de transporte de electrones]] y la [[ATP sintasa]], encendiendo la producción de energía de la primera célula y permitiendo la formación de un nuevo ser (Oxidative State @oxidativestate, 15 mar 2026).
+
 ## Preparación de Calcio Casero (Cáscaras de Huevo)
 
 "Esto es lo que he hecho yo mismo para obtener calcio de cáscaras de huevo durante los últimos cuatro años y no me he enfermado ni he muerto. Enjuago las cáscaras de huevo y las pongo a secar. Una vez que tengo una buena cantidad, las horneo durante 10 minutos a 200 grados. Una vez que se enfrían, las pulverizo en una licuadora hasta obtener la molienda más fina posible."
