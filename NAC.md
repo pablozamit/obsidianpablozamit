@@ -144,6 +144,28 @@ Algunos usuarios reportan que el NAC puede producir **embotamiento emocional** (
 
 > _—Sean Flynn @SeanFlynnLive (11 jul 2026)_
 
+## Modulación del glutamato en el núcleo accumbens (Noah Ryan)
+
+> "NAC downregulates glutamate release in the reward center of the brain (nucleus accumbens). Its why its good for compulsive urges but can cause emotional numbing if you overshoot. If you're low in dopamine precursors (tyrosine, phenylalanine, B6), you'll feel blunted faster. Dial the dose down & consider stacking with dopamine support."
+> _—Noah Ryan (@NoahRyanCo), 29 sept 2025_
+
+El NAC modula la liberación de glutamato específicamente en el [[Núcleo accumbens]] (centro de recompensa cerebral). El mismo mecanismo que reduce conductas compulsivas y adictivas (downregulation de glutamato) puede producir **embotamiento emocional** si la dosis es excesiva o si hay déficit de precursores dopaminérgicos.
+
+**Interacción con precursores de dopamina**: si los niveles de [[Tirosina|tyrosina]], fenilalanina o [[Vitamina B6|B6]] son bajos, el efecto de "embotamiento" aparece antes. Estrategia propuesta:
+- Reducir la dosis de NAC
+- Considerar stack con soporte dopaminérgico: [[Tirosina|tyrosina]] o mucuna (L-DOPA)
+
+## NAC como precursor rate-limiting de glutatión
+
+> "NAC is the rate-limiting precursor to glutathione. Depleted glutathione = impaired detox, oxidative stress, and neurotoxicity. NAC helps you make glutathione inside the cell where its needed most. Direct glutathione supplementation gets broken down in the liver. Its so effective at protecting your liver its used clinically for tylenol overdose. Elite for recovery, respiratory function, mood, and immunity too."
+> _—Noah Ryan (@NoahRyanCo), 29 sept 2025_
+
+El NAC es el precursor **rate-limiting** de la síntesis intracelular de [[Glutatión]]. Glutatión depletado = detox impaired + estrés oxidativo + neurotoxicidad.
+
+**Ventaja sobre glutatión directo**: la suplementación directa de glutatión se degrada en el [[Hígado|hígado]] antes de llegar a las células. El NAC, en cambio, permite que la célula sintetice glutatión **dentro de sí misma** donde se necesita.
+
+**Uso clínico destacado**: en sobredosis de acetaminofén (tylenol), donde el NAC salva vidas al restaurar glutatión hepático.
+
 ## Alternativa: glicina sola (Vadrek)
 
 Vadrek (@Cacatzel) propone tomar solo **glicina 9-12 mg/día** en lugar de NAC hasta después de los 55 años, argumentando que la glicina es suficiente para mantener la síntesis de glutatión en personas jóvenes sin estrés oxidativo elevado. No hay evidencia sólida que respalde este límite de edad, pero es una estrategia de mínima intervención.
@@ -169,7 +191,7 @@ En el test de Morris water maze, las ratas con aluminio tardaban significativame
 
 > _—Dalton (@Outdoctrination, 5 jun 2026)._
 
-Ver también: [[Acetilcisteína]], [[Aspirina (ácido acetilsalicílico)]], [[Glutatión]], [[Aluminio]], [[Cobre#Efecto mucolítico]], [[Yodo#Efecto mucolítico]]
+Ver también: [[Acetilcisteína]], [[Aspirina (ácido acetilsalicílico)]], [[Glutatión]], [[Aluminio]], [[Cobre#Efecto mucolítico]], [[Yodo#Efecto mucolítico]], [[Núcleo accumbens]], [[Dopamina]], [[Tirosina]]
 
 ## Donde Comprar
 - **Tienda recomendada**: [NAC 900 mg - Solutions4Health](https://solutions4health.com/products/nac-900-mg?variant=43818784981209)
