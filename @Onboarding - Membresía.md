@@ -67,12 +67,15 @@ Desde ahí también puedes **cerrar sesión**.
 
 ## 🤝 Comunidad
 
-Para charlar, preguntas rápidas y compartir hallazgos con el resto de miembros:
+Hay dos canales oficiales para la membresía. Únete al que prefieras (o a los dos):
 
-- 📱 **WhatsApp**: [https://chat.whatsapp.com/JI35IFxhGkZF9kqGeLHj7S](https://chat.whatsapp.com/JI35IFxhGkZF9kqGeLHj7S)
-  - Es el grupo más antiguo y el más poblado. La conversación del día a día ocurre ahí.
+- 📱 **WhatsApp** (general, el más activo): [https://chat.whatsapp.com/JI35IFxhGkZF9kqGeLHj7S](https://chat.whatsapp.com/JI35IFxhGkZF9kqGeLHj7S)
+  - Es el grupo más antiguo y el más poblado. La conversación del día a día ocurre aquí.
 
-**Etiqueta del grupo**: este es un espacio para biohacking aplicado, ciencia y experiencias propias. No spam, no multilevel, no enlaces a compras sin contexto. Si dudas, pregunta antes de compartir.
+- 💬 **Slack** (oficial de la membresía, con canales temáticos): [https://join.slack.com/t/pablozamitcomunidad/shared_invite/zt-3z8l6qj80-AksNbDR~tfNXYyiiNiS9Jw](https://join.slack.com/t/pablozamitcomunidad/shared_invite/zt-3z8l6qj80-AksNbDR~tfNXYyiiNiS9Jw)
+  - El espacio oficial, con canales por tema y archivos persistentes. Útil para preguntas concretas y referencias que quieras conservar localizables.
+
+**Etiqueta**: este es un espacio para biohacking aplicado, ciencia y experiencias propias. No spam, no multilevel, no enlaces a compras sin contexto. Si dudas, pregunta antes de compartir.
 
 ---
 
