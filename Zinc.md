@@ -158,6 +158,19 @@ Con el tiempo, esta deficiencia de cobre **simula distintos tipos de cánceres e
 
 **IMPORTANTE**: si se suplementa zinc a largo plazo (>40 mg/día sostenido), monitorizar ceruloplasmina y cobre sérico cada 3-6 meses, y mantener el ratio adecuado con cobre.
 
+## Zinc y depresión
+
+El zinc tiene un papel relevante en la fisiopatología y el tratamiento de la **depresión**. La deficiencia de zinc es un factor de riesgo y predictor de depresión, especialmente en mujeres y en población anciana.
+
+**Mecanismos**:
+- **Antagonista NMDA**: el zinc inhibe los receptores NMDA hiperactivos (excitotoxicidad glutamatérgica), un mecanismo compartido con la **ketamina**
+- **↑ BDNF**: la suplementación con zinc aumenta el factor neurotrófico derivado del cerebro (BDNF), promoviendo neuroplasticidad
+- **↑ GABA**: modula positivamente la señalización GABAérgica, efecto ansiolítico
+
+**Dosis y eficacia**: 25 mg/día de zinc elemental (como gluconato o citrato) duplica la tasa de respuesta en pacientes con depresión que toman antidepresivos convencionales (ISRS/IRSN). Mecanismo propuesto: corrección de la deficiencia de zinc subclínica + antagonismo NMDA directo.
+
+> *—Dalton @Outdoctrination (hilo sobre zinc y depresión, 2026)*
+
 ## Suplementos de alimentos integrales
 
 El zinc de **ostras deshidratadas** (ej. Befrtil Oyster Zn) es una alternativa a las formas aisladas (gluconato, picolinato, etc.). Ventaja: la matriz natural de la ostra aporta [[Cobre]], [[Selenio]] y otros cofactores que pueden mejorar el perfil de absorción y reducir el riesgo de desbalance Zn/Cu (@CookingWithChris, 30 jun 2026). Ver [[Suplementos#Suplementos basados en alimentos naturales (whole-food supplements)]].

@@ -76,6 +76,19 @@ Los haplotipos más estudiados:
 > "This is your reminder that some people with slow COMT consume 18000% of the RDA in methylated B vitamins and wonder why they have anxiety."
 > _—@Helios_Movement (6 jun 2026)_
 
+> "Unless you have gone from being chronically ill to healthy or you have extensively read the literature, you can not comprehend how much of your mental chatter is utter bs created by networks that misbehave. If you are not focusing on nutrient maxing, gut health etc and you are thinking your way out of 20 years of homeostasis, you are wasting time."
+> _—George Ferman (@Helios_Movement), 12 jul 2026_
+
+**Stack para COMT lenta / salud cognitiva** (George Ferman, 12 jul 2026):
+- **200 mg tiamina** (B1)
+- **10 g Creapure** (creatina monohidrato)
+- **300 mg magnesio acetil taurato**
+- **100 mg ubiquinol** (CoQ10 reducida)
+- **250 mg citocolina** (CDP-Colina)
+- **500 mg ALCAR** o **bromantano** con **L-tirosina**
+- **300 mg L-teanina**
+- **5 mg litio orotato** (para "quitar el filo")
+
 El autor George Ferman (@Helios_Movement) es un ex-PT que escribe sobre salud en su Substack "Health Library" (ex-Substack "Helios Movement"). Su tesis es que la metilación de catecolaminas consume SAMe, y que personas con COMT lenta que suplementan con altas dosis de vitaminas B metiladas (B12, folato, etc.) generan un "exceso de metilación" que paradójicamente les causa ansiedad. La cifra "18000% del RDA" es hipérbole retórica.
 
 **Caveats a su framework**:

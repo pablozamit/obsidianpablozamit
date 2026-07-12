@@ -14,6 +14,8 @@
 -   Tierra de Diatomeas: Recomendada por amiga científica de Pablo Zamit, requiere más investigación.
 -   BIOVEA: Mencionada (aunque no sé si recomendada) por Ernesto Prieto.
 -   Meraki Medicinal: Buena calidad, probada por Pablo Zamit.
+-   [Balanced Body Mind](https://www.balancedbodymind.com/): Tienda UK de suplementos
+-   [Upgraded Formulas](https://www.upgradedformulas.com/): Tienda UK de suplementos
 -   Objective Nutrients: Recomendada por CelestialBeing.
 -  The Ordinary
 

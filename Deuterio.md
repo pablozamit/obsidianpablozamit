@@ -24,7 +24,7 @@ Las [[Dieta cetogénica|grasas animales]] son el macronutriente más bajo en deu
 
 Thomas Seyfried, biólogo del Boston College, concluyó que el cáncer es una enfermedad metabólica [[Mitocondria|mitocondrial]], no genética. Seneff va un paso más allá: la sobrecarga de deuterio es la causa de que las mitocondrias funcionen mal desde el principio.
 
-Ver también: [[Cáncer]], [[Hipótesis de desacoplamiento metabólico]]
+Ver también: [[Cáncer]], [[Hipótesis de desacoplamiento metabólico]], [[Cadenas transportadoras de electrones (CTE)]]
 
 ## Deuterio, Complejo IV y corriente regenerativa de Becker
 

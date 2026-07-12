@@ -9,9 +9,19 @@ estado: activo
 
 > 📝 **Descripción provisional**: Protocolos avanzados de multiorgasmia masculina. Técnicas, prácticas y materiales. _— revísala y edítala tras revisar el contenido de las lecciones._
 
-## 📚 Lecciones (9)
+## 📂 Bonus: Secretos Sexuales
 
-- [[Toda la Noche - Bonus- Secretos Sexuales]]
+- [[Toda la Noche - Secretos-sexuales-versionlibro]]
+- [[Toda la Noche - ss7]]
+- [[Toda la Noche - ss6]]
+- [[Toda la Noche - ss5]]
+- [[Toda la Noche - ss4]]
+- [[Toda la Noche - ss3]]
+- [[Toda la Noche - SS2]]
+- [[Toda la Noche - SS-Audio-1]]
+
+## 📚 Lecciones (8)
+
 - [[Toda la Noche - Semana 8]]
 - [[Toda la Noche - Semana 7]]
 - [[Toda la Noche - Semana 6]]

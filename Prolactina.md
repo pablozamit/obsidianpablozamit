@@ -26,6 +26,10 @@ La prolactina elevada contribuye directamente a la [[Alopecia|caída del cabello
 - **[[Serotonina]] alta**: la serotonina estimula la liberación de prolactina vía receptores 5-HT
 - **[[Hipotiroidismo]]**: la falta de hormona tiroidea duplica los niveles de prolactina
 - **[[Minoxidil]]**: el minoxidil tópico eleva la prolactina como efecto secundario conocido
+- **[[Campos electromagnéticos|CEM]] (EMF)**: la radiación electromagnética (móviles, WiFi, antenas) activa los **canales de calcio dependientes de voltaje (VGCC)** en la membrana celular. La entrada masiva de calcio intracelular:
+  - ↑ Síntesis y liberación de prolactina (efecto dosis-respuesta demostrado in vitro)
+  - ↓ Producción de [[ATP]] mitocondrial (sobrecarga de calcio → disfunción mitocondrial)
+  - **Mitigación**: [[Magnesio]] 400 mg – 2 g/día, que actúa como **bloqueador natural de canales de calcio**, reduciendo la entrada de Ca²⁺ inducida por EMF y normalizando la prolactina (Moosa, 2026)
 - Estrés crónico, privación de sueño, fármacos antipsicóticos
 
 ## Formas de reducirla

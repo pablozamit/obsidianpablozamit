@@ -2,7 +2,17 @@ La mayoría de la gente piensa que las canas son una parte inevitable del enveje
 
 La verdad es que las canas, así como otros síntomas del envejecimiento como la fatiga, las [[Arrugas|arrugas]] y el empeoramiento de la [[Memoria|memoria]], suelen ser signos de toxicidad por metales pesados.
 
-Si te preocupas por tu [[Cabello|cabello]] y tu piel, es importante que tu cuerpo obtenga las [[Vitaminas|vitaminas]] y [[Antioxidantes|antioxidantes]] necesarios para contrarrestar el daño causado por los metales pesados y el **deterioro mitocondrial**. Estudios recientes (2025) señalan que la suplementación con **[[NAC]]** protege a los melanocitos de la muerte celular inducida por fallos energéticos en el folículo.
+Si te preocupas por tu [[Cabello|cabello]] y tu piel, es importante que tu cuerpo obtenga las [[Vitaminas|vitaminas]] y [[Antioxidantes|antioxidantes]] necesarios para contrarrestar el daño causado por los metales pesados y el **deterioro mitocondrial**.
+
+## Mecanismo: disfunción mitocondrial → ROS → muerte de melanocitos
+
+Las canas comienzan en la [[Mitocondria|mitocondria]]. La disfunción mitocondrial en el folículo piloso genera [[Especies reactivas del oxígeno|ROS]] (especies reactivas de oxígeno) que destruyen selectivamente las **células madre de melanocitos** (McSCs) — las células que reponen el pigmento del cabello.
+
+En modelos animales knockout del gen **Dguok** (enzima mitocondrial de reparación de nucleótidos), el estrés oxidativo acumulado elimina el pool de McSCs, produciendo encanecimiento prematuro e irreversible.
+
+**Intervención**: la suplementación con **[[NAC]]** (N-acetilcisteína) elimina los ROS y restaura la capacidad de los melanocitos de producir pigmento, revirtiendo las canas en modelos animales. En humanos, el NAC solo puede no ser suficiente — se requiere una optimización antioxidante general: [[Glutatión]] (precursor), [[Vitamina C]], [[Vitamina E]], [[Selenio]] y soporte mitocondrial ([[CoQ10]], [[Pirroloquinolina quinona|PQQ]]).
+
+> *—Dalton @Outdoctrination (hilo sobre canas y NAC), extendiendo el modelo Dguok -/- publicado*
 
 [[Biotina]]
 [[Ácido hialurónico]]
@@ -26,3 +36,7 @@ Algunos usuarios en la comunidad reportan que la suplementación con zinc les pr
 - [[Cobre]]
 - [[Melanina]]
 - [[NAC]]
+- [[PQQ]]
+- [[CoQ10]]
+- [[Mitocondria]]
+- [[Glutatión]]

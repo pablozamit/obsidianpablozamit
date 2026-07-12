@@ -1,5 +1,16 @@
 # Vitamina C (ácido ascórbico)
 
+## Sintética vs. Natural (Acerola Cherry)
+
+La vitamina C sintética (ácido ascórbico aislado) contiene trazas de contaminación por metales pesados del proceso de fabricación industrial. Según Ray Peat, 500 mg de ascorbato sintético disueltos en 1 L de agua producen radicales libres equivalentes a una dosis letal de rayos X.
+
+La **cáscara de acerola cherry** (*Malpighia emarginata*) es la fuente natural más potente de vitamina C, con una matriz de cofactores bioflavonoides (rutina, quercetina, antocianinas) que:
+- Protegen la vitamina C de la oxidación durante la digestión
+- Mejoran su absorción y retención celular
+- Aportan actividad antioxidante sinérgica que la forma aislada no tiene
+
+> *—anabology (hilo sobre vitamina C), citando a Ray Peat*
+
 ## Megadosis: efectos notables
 
 A dosis altas (mega-dosis), la [[Vitamina C]] produce efectos que se *sienten* (@aestheticprimal, 12 jun 2026):
@@ -21,4 +32,4 @@ Un ensayo clínico mostró que **2 kiwis al día durante 8 semanas** aumentó la
 
 > _—@aestheticprimal (12 jun 2026), @JotaManifesto (10 jun 2026) citando estudio de 1954, Dalton @Outdoctrination (9 jun 2026) citando ensayo clínico de kiwi._
 
-Ver también: [[Colágeno]], [[Prolactina]], [[Oxitocina]], [[Óxido nítrico]], [[Aterosclerosis]]
+Ver también: [[Colágeno]], [[Prolactina]], [[Oxitocina]], [[Óxido nítrico]], [[Aterosclerosis]], [[Suplementos#Suplementos basados en alimentos naturales (whole-food supplements)]]

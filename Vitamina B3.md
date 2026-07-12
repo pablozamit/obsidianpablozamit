@@ -18,6 +18,14 @@ Vitamina B3 (C6H5NO2), acido nicotínico, niacina o -en su forma aminada- niacin
 
 # Usos y beneficios
 
+## Funciones metabólicas clave (Niacinamida)
+
+**Resumen de funciones** (Metabolic Blueprint @metabolic_print, 23 mar 2026):
+- **Bloquea la salida de grasa a la sangre**, forzando a las células a quemar azúcar (altamente terapéutico)
+- **Materia prima para [[NAD+]]**, la molécula que define una celular energética
+- Convierte [[Triptófano]] en producción de energía, no en señales de peligro/hormonas
+- **Calma la inflamación** a dosis altas
+
 ## Eliminación de metales pesados
 
 "Niacin causes a “Rebound Lipolysis” first described when studied in the treatment of hypercholesterolemia – this vitamin first tries to prevent lipolysis (for about 2 hours) and then it rebounds and leads to massive fat cell release of triglycerides and at the same time release of heavy metals from fat cells. This is the reason why its good to combine the protocol with an infrared [[sauna]] and sweating to expel the neurotoxins" (no verificado, Ray Peat Forum)

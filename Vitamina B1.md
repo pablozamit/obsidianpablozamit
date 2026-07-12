@@ -4,6 +4,12 @@ Nutriente esencial para la producción de energía. Cofactor de enzimas clave de
 
 > Essential nutrient for high energy. One of the cheapest and also most overlooked (Metabolic Blueprint @metabolic_print, 5 jun 2026).
 
+**Resumen de funciones** (Metabolic Blueprint @metabolic_print, 23 mar 2026):
+- **Abre la puerta** que permite al azúcar entrar en el ciclo energético (T3 hace lo mismo)
+- **↓ Lactato** — la química de la energía estancada
+- Mantiene el hígado sano para convertir T4 en T3 activa (↑ metabolismo y quema)
+- **↓ Cortisol y adrenalina**
+
 ## Historia
 
 Descubierta por Christiaan Eijkman en **1897**, aislada en **1926** por Barend Jansen y Willem Donath, sintetizada por Robert Williams en **1936**. Fue la primera vitamina B descubierta; inicialmente se pensó que era una "vital amine", pero después se demostró que no era una amina.
@@ -96,6 +102,10 @@ La única prueba precisa de estado de tiamina es el par ETKA/TPPE. A mayor TPPE,
 B2, B3, B5, B7, B12, CoQ10, sodio, potasio, glutatión, molibdeno, cobre.
 
 ## Evidencia por condición (Metabolic Blueprint + @anomalie_blue, jul 2026)
+
+### Cabello
+
+La tiamina (B1) es necesaria para la producción de energía en el folículo piloso. Sin suficiente B1, el metabolismo energético capilar se estanca, contribuyendo a la caída y debilitamiento del cabello. La deficiencia de B1 afecta indirectamente al cabello a través de su papel en el metabolismo de carbohidratos y la producción de ATP (Markets & Health Insights @satya_game, 12 jul 2026).
 
 ### Diabetes
 - Las personas con diabetes miden ~75% menos tiamina que los controles sanos.

@@ -32,6 +32,14 @@ Estudios de Alto Rendimiento:
 
 [uui-ktbu-vnt (2023-07-25 17:34 GMT+2)](https://drive.google.com/file/d/1J_OxWnDCh6LnINREvLwXuVTpGAEpP1wa/view?usp=sharing)
 
+IA Week:
+
+[https://youtu.be/YT024Vznu64](https://youtu.be/YT024Vznu64)  
+[https://youtu.be/JNh1imA32R0](https://youtu.be/JNh1imA32R0)  
+[https://youtu.be/9Xe\_VrqVWkQ](https://youtu.be/9Xe_VrqVWkQ)  
+[https://youtu.be/jx54Re0NUpM](https://youtu.be/jx54Re0NUpM)  
+[https://youtu.be/SjGHB6rhcwY](https://youtu.be/SjGHB6rhcwY)
+
 ---
 
 *Lección del curso [[Estudios de Alto Rendimiento]]. Contenido regenerado desde Google Drive.*

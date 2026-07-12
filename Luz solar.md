@@ -57,6 +57,19 @@ Los ojos contienen **células ganglionares fotosensibles** con **[[Melanopsinas|
 
 Ver [[Ritmo circadiano]].
 
+### Falta de luz solar diurna vs. luz eléctrica nocturna
+
+La **falta de exposición a luz solar durante el día** es más dañina para la salud circadiana y metabólica que la **exposición a luz eléctrica por la noche**. Michael Rosbash (Nobel Prize 2017 por el descubrimiento del reloj circadiano molecular) sostiene que la prioridad número uno es obtener luz brillante durante la mañana y el mediodía; la luz nocturna es un problema secundario si el anclaje diurno es sólido.
+
+**Implicación práctica**: la mayoría de las personas pasan el día en interiores (100–500 lux) y la noche frente a pantallas. El error mayor es no recibir suficiente luz brillante de día, no usar pantallas de noche. Priorizar:
+1. Luz solar directa 15-30 min por la mañana y al mediodía
+2. Exposición a luz brillante (~10,000 lux) durante el día laboral
+3. Reducir luz azul nocturna solo después de asegurar el punto 1
+
+**Daylight Computer** (daylightcomputer.com): pantalla full-spectrum que emula el espectro solar completo, sin luz azul artificial y sin PWM (flicker). Diseñada para usar al aire libre con visibilidad total bajo sol directo, cero retroiluminación azul y zero PWM flicker. Representa la aplicación tecnológica de este principio: luz de día real en la pantalla que usas todo el día.
+
+> *—Rusty (@JustRustyThings), citando a Michael Rosbash (Nobel 2017)*
+
 ### Envejecimiento del cristalino
 
 El cristalino del ojo se vuelve amarillo con la edad. A los 65 años, transmite significativamente menos luz azul que a los 20. La longitud de onda específica que necesita la melanopsina (480 nm) es precisamente la que el cristalino envejecido filtra con más agresividad. La señal del reloj se debilita por ambos extremos: menos tiempo al aire libre (menos fotones) y menos transmisión (menos fotones llegando a las células).

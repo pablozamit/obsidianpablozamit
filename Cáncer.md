@@ -8,6 +8,8 @@ Thomas Seyfried (Boston College) plantea que el cáncer es una enfermedad metab�
 
 Ver sección completa en [[Deuterio#Deuterio y Cáncer (Hipótesis de Stephanie Seneff)]]
 
+**Cáncer como ruptura de geometría mitocondrial** (@yungkingmito, 2026): el [[Deuterio|deuterio]] es el centro del colapso mitocondrial. La presencia del neutrón extra del deuterio distorsiona la geometría de las proteínas y los lípidos mitocondriales, rompiendo el ritmo fino de la [[Cadenas transportadoras de electrones (CTE)|cadena de transporte de electrones]]. La célula cancerosa no es una "mutación afortunada" sino una adaptación biológica a un entorno con exceso de deuterio: reaprende a usar el deuterio como combustible preferido en lugar del hidrógeno ligero. La metástasis sería la propagación de esta geometría rota a otras células. **Implicación**: el agua deuterio-deplecionada (DDW) no solo mata células cancerosas — restaura la geometría original que la célula perdió.
+
 ### La Teoría de la Mutación
 
 Según [[Ray Peat]], la 'teoría de la mutación de genes' es la teoría del cáncer que se enseña comúnmente y que, entre otras cosas, te hace temer la [[Luz solar|luz solar]].

@@ -1,5 +1,11 @@
 La deficiencia de biotina puede causar bajos niveles de [[Testosterona]].
 
+**Resumen de funciones** (Metabolic Blueprint @metabolic_print, 23 mar 2026):
+- Mantiene el ciclo energético principal ([[Ciclo de Krebs|Krebs]]) activo
+- Restaura el [[Glucógeno|glucógeno]] (las personas hipotiroideas siempre tienen bajo)
+- **↓ Amoniaco** — la química de la proteína degradada
+- Niveles de glucosa estables en diabéticos insulinodependientes en una semana
+
 ## **Biotina y Metabolismo de la Glucosa**
 Investigaciones publicadas (como un estudio clínico de 1993, revisado en 2025) han documentado un papel crucial de la biotina en el control glucémico:
 

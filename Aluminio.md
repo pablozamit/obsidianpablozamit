@@ -25,6 +25,7 @@ El **aluminio** (Al) es el metal más abundante en la corteza terrestre (8% en m
 ## Toxicidad
 
 - **Neurotoxicidad**: en exposición alta o aguda, el aluminio altera la homeostasis del [[Calcio]] y del [[Hierro]] en neuronas, induce estrés oxidativo, interfiere con el metabolismo de la Mielina y se acumula en Neurofibrillas (lesiones histológicas de Alzheimer). En diálisis renal con agua contaminada por Al: encefalopatía dialítica (reversible al cesar exposición).
+- **Autismo y neurodesarrollo**: el aluminio en el cerebro durante la ventana crítica de desarrollo (0-5 años) se asocia con trastornos del espectro autista (TEA), retrasos del desarrollo y problemas neurológicos. Un estudio de autopsias (PMID 29413113) confirmó niveles elevados de aluminio en tejido cerebral de niños con autismo, con acumulación especialmente en neuronas microgliales. El aluminio puede permanecer en tejido neural 20-30 años antes de contribuir a neurodegeneración tipo Alzheimer o demencia. La exposición acumulativa se estima en 30-300 mg de aluminio total en el cuerpo humano, con enorme variabilidad individual. Las estrategias de quelación natural ([[Silicio]], [[Zinc]]) son clave para cuantificar y reducir la carga mediante hair testing (análisis de cabello) (Clark Engelbert, 2026).
 - **Enfermedad de Alzheimer**: hipótesis "aluminio" postula exposición crónica como factor de riesgo. **Evidencia**: epidemiológica inconsistente; la mayoría de los estudios de cohortes modernas no encuentra asociación fuerte una vez ajustados por confusores; **pero** algunos meta-análisis (Wang et al., 2016) muestran OR 1.71 (IC 95% 1.35-2.18) para exposición ocupacional. La posición oficial (Alzheimer's Association) es que no hay evidencia causal suficiente.
 - **Hueso**: aluminismo (en diálisis) causa osteomalacia adinámica.
 - **Anemia**: microcítica hipocrómica, por interferencia con el metabolismo del hierro y la Hemoglobina (↓incorporación de Fe en el grupo hemo).
@@ -34,7 +35,7 @@ El **aluminio** (Al) es el metal más abundante en la corteza terrestre (8% en m
 
 - **"La causa del Alzheimer"**: la hipótesis aluminio es **una de varias** (junto con amiloide, tau, neuroinflamación, resistencia a la insulina cerebral, etc.). Atribuir causalidad es **simplificación peligrosa**. Ver Enfermedad de Alzheimer.
 - **Desodorantes y cáncer de mama**: el vínculo propuesto (aluminio en antitranspirantes aplicado cerca de la mama) **no está respaldado por evidencia epidemiológica robusta**. La absorción percutánea es ínfima y no se ha demostrado relación causal con cáncer.
-- **Vacunas y autismo**: el aluminio adyuvante NO causa autismo. Esta creencia carece de base científica. La cantidad inyectada es despreciable comparada con la ingesta dietética.
+- **Vacunas y autismo**: la relación entre aluminio adyuvante y autismo es compleja y debatida. Aunque la cantidad inyectada por dosis es pequeña (~0.5 mg), estudios de autopsias (PMID 29413113) encuentran aluminio en cerebros de niños con autismo en niveles significativos, lo que sugiere que la eliminación puede estar comprometida en subpoblaciones susceptibles. La posición oficial (CDC/OMS) sostiene que no hay evidencia causal, pero la controversia continúa en la literatura independiente.
 - **Dosis y forma importan**: aluminio insoluble en el agua de mar (complejos silicatados) tiene biodisponibilidad casi nula. No todo el "aluminio" que entra al cuerpo se absorbe.
 
 ## Estrategias de mitigación
@@ -44,6 +45,7 @@ El **aluminio** (Al) es el metal más abundante en la corteza terrestre (8% en m
 - **Beber té con moderación**: 1-2 tazas/día, evitar consumir en ayunas (aumenta absorción). El [[Té Kukicha]] y el [[Té verde]] orgánico certificado tienen menor contenido.
 - **[[Silicio]] en el agua mineral**: el ácido ortosilícico reduce la absorción intestinal de aluminio y facilita la excreción urinaria (Edwardson et al., 1993).
 - **[[Vitamina C]]** y **[[Vitamina E]]**: antioxidantes que mitigan estrés oxidativo por aluminio en modelos animales.
+- **[[Zinc]]**: niveles altos de zinc protegen contra el daño por aluminio y mercurio. El zinc compite con metales pesados por sitios de unión en metalotioneínas y transportadores, reduciendo su absorción y toxicidad. Especialmente relevante en la protección contra daño neurológico por aluminio (Clark Engelbert, 2026).
 - **[[Calcio]] y [[Magnesio]] adecuados**: compiten con Al en absorción intestinal.
 - **Diuréticos de asa** (en intoxicación aguda): Furosemida aumenta la excreción renal.
 - **Desferoxamina** (DFO): quelante de Al³⁺ usado en encefalopatía dialítica; no apta para uso ambulatorio.
@@ -70,6 +72,7 @@ El [[Ácido ortosilícico]] (la forma biodisponible del [[Silicio]]) es el antag
 - Antiácidos
 - [[Té]]
 - [[Té verde]]
+- [[Zinc]]
 - [[Ácido ortosilícico]]
 - [[Silicio]]
 - Pedras Salgadas
