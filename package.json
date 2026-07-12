@@ -1,7 +1,7 @@
 {
   "name": "obsidian-digital-garden",
   "version": "1.0.0",
-  "description": "Minimalist static site generator for Obsidian notes",
+  "description": "Minimalist static site generator for Obsidian notes with Firebase user accounts",
   "main": "build.js",
   "scripts": {
     "build": "node build.js"

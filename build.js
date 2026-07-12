@@ -1609,6 +1609,46 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
             #main-content { padding: var(--sp-7) var(--sp-4); }
             #menu-toggle { display: inline-block; }
         }
+        /* === Auth & user features === */
+        #auth-widget { display: flex; align-items: center; gap: 8px; margin-bottom: 16px; padding: 12px; background: var(--bg-elev); border: 1px solid var(--rule); border-radius: 8px; font-size: var(--fs-sm); flex-wrap: wrap; }
+        .auth-status { color: var(--ink-mute); font-family: var(--font-mono); font-size: var(--fs-xs); max-width: 120px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+        .auth-btn { background: var(--accent); color: #fff; border: none; border-radius: 6px; padding: 6px 12px; font-size: var(--fs-xs); font-weight: 600; cursor: pointer; }
+        .auth-btn:hover { background: var(--link-hover); }
+        .favorite-btn { background: transparent; border: 1px solid var(--accent); color: var(--accent); border-radius: 6px; padding: 6px 12px; cursor: pointer; font-size: var(--fs-sm); }
+        .favorite-btn.active { background: var(--accent-soft); }
+        #favorite-section { margin: 16px 0; }
+        #annotation-section { margin-top: 32px; padding-top: 24px; border-top: 1px solid var(--rule); }
+        #annotation-section h3 { margin-top: 0; font-size: var(--fs-h5); }
+        #annotation-text { width: 100%; padding: 12px; border: 1px solid var(--rule); border-radius: 6px; background: var(--bg-elev); color: var(--ink); font-family: var(--font-sans); resize: vertical; }
+        #annotation-save { margin-top: 8px; background: var(--accent); color: #fff; border: none; border-radius: 6px; padding: 8px 16px; cursor: pointer; }
+        .annotation-msg { margin-left: 12px; color: var(--accent); font-size: var(--fs-sm); }
+        .auth-form { max-width: 400px; margin: 0 auto; }
+        .auth-form label { display: block; margin-bottom: 4px; font-size: var(--fs-sm); color: var(--ink-soft); }
+        .auth-form input { width: 100%; padding: 10px; margin-bottom: 12px; border: 1px solid var(--rule); border-radius: 6px; background: var(--bg-elev); color: var(--ink); }
+        .auth-form button { width: 100%; padding: 10px; background: var(--accent); color: #fff; border: none; border-radius: 6px; font-weight: 600; cursor: pointer; }
+        .auth-form .error { color: var(--alert); font-size: var(--fs-sm); margin-top: 8px; }
+        .auth-link { color: var(--accent); text-decoration: none; }
+        .auth-link:hover { text-decoration: underline; }
+        /* === Auth & user features === */
+        #auth-widget { display: flex; align-items: center; gap: 8px; margin-bottom: 16px; padding: 12px; background: var(--bg-elev); border: 1px solid var(--rule); border-radius: 8px; font-size: var(--fs-sm); flex-wrap: wrap; }
+        .auth-status { color: var(--ink-mute); font-family: var(--font-mono); font-size: var(--fs-xs); max-width: 120px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+        .auth-btn { background: var(--accent); color: #fff; border: none; border-radius: 6px; padding: 6px 12px; font-size: var(--fs-xs); font-weight: 600; cursor: pointer; }
+        .auth-btn:hover { background: var(--link-hover); }
+        .favorite-btn { background: transparent; border: 1px solid var(--accent); color: var(--accent); border-radius: 6px; padding: 6px 12px; cursor: pointer; font-size: var(--fs-sm); }
+        .favorite-btn.active { background: var(--accent-soft); }
+        #favorite-section { margin: 16px 0; }
+        #annotation-section { margin-top: 32px; padding-top: 24px; border-top: 1px solid var(--rule); }
+        #annotation-section h3 { margin-top: 0; font-size: var(--fs-h5); }
+        #annotation-text { width: 100%; padding: 12px; border: 1px solid var(--rule); border-radius: 6px; background: var(--bg-elev); color: var(--ink); font-family: var(--font-sans); resize: vertical; }
+        #annotation-save { margin-top: 8px; background: var(--accent); color: #fff; border: none; border-radius: 6px; padding: 8px 16px; cursor: pointer; }
+        .annotation-msg { margin-left: 12px; color: var(--accent); font-size: var(--fs-sm); }
+        .auth-form { max-width: 400px; margin: 0 auto; }
+        .auth-form label { display: block; margin-bottom: 4px; font-size: var(--fs-sm); color: var(--ink-soft); }
+        .auth-form input { width: 100%; padding: 10px; margin-bottom: 12px; border: 1px solid var(--rule); border-radius: 6px; background: var(--bg-elev); color: var(--ink); }
+        .auth-form button { width: 100%; padding: 10px; background: var(--accent); color: #fff; border: none; border-radius: 6px; font-weight: 600; cursor: pointer; }
+        .auth-form .error { color: var(--alert); font-size: var(--fs-sm); margin-top: 8px; }
+        .auth-link { color: var(--accent); text-decoration: none; }
+        .auth-link:hover { text-decoration: underline; }
     </style>
 </head>
 <body>
@@ -1616,6 +1656,7 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
     <aside id="sidebar" aria-label="Índice de notas">
         <div id="sidebar-content">
             <a href="index.html" id="inicio-link">Inicio</a>
+            <div id="auth-widget"></div>
             <a href="categorias.html" id="categorias-link">Categorías</a>
             <a href="imprescindibles.html" id="top-ratings-link">Top ratings</a>
             <div class="sidebar-sticky-area">
@@ -1641,6 +1682,8 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
             </article>
         </div>
         ${likeSection}
+        ${!isHome && !isSearch && !is404 && !isCategories && !isItinerarios && !isImprescindibles && currentSlug ? `<div id="favorite-section"></div>` : ''}
+        ${!isHome && !isSearch && !is404 && !isCategories && !isItinerarios && !isImprescindibles && currentSlug ? `<div id="annotation-section"></div>` : ''}
         ${!isHome && !isSearch && !is404 && !isCategories && !isItinerarios && !isImprescindibles && currentSlug ? `<div class="itinerary-cta"><a href="itinerarios.html?from=${currentSlug}" class="btn-itinerary">🗺️ Crear itinerario desde esta nota</a></div>` : ''}
         ${backlinkSection}
     </main>
@@ -1807,6 +1850,13 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
             if (btnUp) btnUp.addEventListener('click', function () { vote('like'); });
             if (btnDown) btnDown.addEventListener('click', function () { vote('dislike'); });
         })();
+    </script>
+    <script type="module">
+        import './js/user-features.js';
+    </script>
+    <script type="module">
+        window.__FIREBASE_CONFIG__ = {"apiKey":"","authDomain":"","databaseURL":"","projectId":"","storageBucket":"","messagingSenderId":"","appId":""};
+        import './js/user-features.js';
     </script>
 </body>
 </html>`;
@@ -2606,6 +2656,16 @@ async function build() {
         for (const img of imageFiles) {
             const slugName = getSlugifiedFilename(img.name);
             await fs.copy(img.path, path.join(DIST_DIR, slugName));
+        }
+
+        // Copy public assets (Firebase client scripts, etc.)
+        const PUBLIC_DIR = path.join(__dirname, 'public');
+        if (await fs.pathExists(PUBLIC_DIR)) {
+            const publicFiles = await fs.readdir(PUBLIC_DIR);
+            for (const pubFile of publicFiles) {
+                if (pubFile === 'desktop.ini') continue;
+                await fs.copy(path.join(PUBLIC_DIR, pubFile), path.join(DIST_DIR, pubFile));
+            }
         }
 
         const notes = [];
