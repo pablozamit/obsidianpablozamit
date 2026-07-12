@@ -69,6 +69,19 @@ Un estudio en ratas con daño cerebral crónico por etanol (MDPI, vía @KingOfVi
 - **Rango óptimo reportado: 1–3 g/día** para beneficios generales.
 - En personas **sensibles** (p. ej. sensibilidad a efectos rebote tipo [[GABA]]), se recomienda **empezar bajo y titular** gradualmente hacia arriba (consejo de @KingOfVitamins en respuesta a @CactusKoyote, 2 oct 2025).
 
+### Factor trófico neuronal (Frontiers, 2025)
+
+Estudio publicado en Frontiers in Neuroscience y citado por @KingOfVitamins (27 sept 2025):
+
+- La taurina aumenta **el % de neuronas que forman conexiones funcionales** y la **fuerza de esas conexiones** (synapse development + synaptic transmission strength).
+- Promueve **neurite outgrowth** (crecimiento de nuevas prolongaciones) en neuronas tanto de vertebrados como invertebrados.
+- Mecanismo: la taurina actúa como **factor trófico** que ayuda físicamente a las neuronas a crecer nuevas conexiones, haciendo el cerebro más conectado y eficiente en el procesamiento de información.
+
+> "Taurine supplementation increased synapse development, enhanced synaptic transmission strength, and promoted neurite outgrowth in both vertebrate and invertebrate neurons."
+> _—@KingOfVitamins, 27 sept 2025, citando Frontiers in Neuroscience_
+
+**Dosis**: la mayoría de estudios reportan beneficios en el rango **1–3 g/día**; algunos usuarios llegan a **9–10 g/día** sin efectos adversos claros (rango de seguridad amplio). En personas con tendencia a ansiedad rebote, empezar bajo y titular.
+
 ### Caso clínico testimonial (no controlado)
 
 @Gillfoster22 (1 oct 2025) reporta **menos niebla mental** ("brain fog") tras tomar taurina a diario, en el contexto de **tiroiditis de Hashimoto** y **encefalomielitis miálgica (ME)**. Es un dato anecdótico puntual y no debe generalizarse; la taurina puede ser una pieza complementaria en protocolos de Hashimoto/ME pero no sustituye el tratamiento de la causa autoinmune ni de la disregulación mitocondrial asociada a ME.
@@ -76,11 +89,27 @@ Un estudio en ratas con daño cerebral crónico por etanol (MDPI, vía @KingOfVi
 ## Regulación del Cortisol y Eje HPA
 
 
+## Salud del cabello (PMID 18489269)
+
+Un estudio peer-reviewed (Collin et al., 2006, PMID 18489269, *Int J Cosmet Sci*) demostró que la taurina:
+
+- Se acumula en el folículo piloso humano in vitro (captada por la vaina de tejido conectivo, la vaina radicular externa proximal y el bulbo).
+- **Promueve la supervivencia del cabello** en cultivo.
+- **Previene los efectos deletéreos del TGF-β1** sobre el folículo — el TGF-β1 es un inhibidor del crecimiento capilar in vitro y un master switch del programa fibrótico (clave en alopecia con componente cicatricial).
+
+> "Taurine was taken up by the connective tissue sheath, proximal outer root sheath and hair bulb, promoted hair survival in vitro and prevented TGF-beta1-induced deleterious effects on hair follicle."
+> _—Collin C, et al. 2006. PMID 18489269_
+
+**Implicación clínica**: la taurina oral puede ser un complemento en protocolos de alopecia donde el TGF-β1 elevado juega un papel (alopecia fibrosante, efluvio telógeno crónico con componente inflamatorio). No sustituye tratamientos de primera línea ([[Minoxidil]], antiandrógenos) pero es una pieza coherente con el resto del perfil de la taurina (antioxidante, antiinflamatoria, reguladora del folículo).
+
+> _—Limitación: estudio in vitro. La extrapolación a cabello humano in vivo requiere ensayos clínicos controlados que aún no se han hecho a escala._
+
+
 ## Regulación del Cortisol y Eje HPA
 Investigaciones recientes (estudios de 2025) han demostrado que la taurina es un regulador crítico del ritmo del cortisol:
 - **Reducción del Cortisol Nocturno**: La suplementación con **1000-2000 mg** redujo el cortisol nocturno en un **19%** tras 8 semanas.
 - **Señal de Apagado**: La taurina actúa como el interruptor que indica al **[[Eje HPA]]** que debe detener la cascada de estrés, permitiendo que el cuerpo pase de un estado de alerta a uno de descanso.
-- **Interacción con GABA**: Facilita la activación de los receptores **[[GABA]]**, induciendo calma y reduciendo la hiperactividad cerebral nocturna.
+- **Interacción con GABA**: Facilita la activación de los receptores **[[GABA]]**, induciendo calma y reduciendo la hiperactividad cerebral nocturna. Esta interacción GABAérgica es coherente con el marco de **[[TDAH]] = GABA bajo** (Moosa, 23 sept 2025): la taurina figura entre los suplementos GABAérgicos con mejor respuesta subjetiva en TDAH, junto con [[Progesterona|progesterona]], 5a-DHP, [[Niacinamida|niacinamida]] y [[Zinc]].
 - **Protocolo para el Sueño**: Para corregir el estado de "acelerado pero cansado" (wired but tired), se recomienda la toma durante la cena y antes de dormir. Mientras el cuerpo produce ~50 mg diarios de forma natural, la dosis terapéutica para optimizar el sueño oscila entre los 1-2 gramos.
 
 ## Metabolismo y hormonas
