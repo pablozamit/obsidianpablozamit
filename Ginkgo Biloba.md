@@ -26,7 +26,7 @@ Aumenta la capacidad antioxidante total, mejora el equilibrio redox del cerebro 
 ### Transmisión dopaminérgica en la corteza prefrontal (PFC)
 A diferencia de la mayoría de compuestos dopaminérgicos que actúan en regiones mesolímbicas (como el núcleo accumbens o NAc) —responsables de la motivación, el drive y la energía—, el Ginkgo eleva selectivamente la [[Dopamina|dopamina]] en la [[Corteza prefrontal|corteza prefrontal]] (PFC). Esto se traduce en competencia y control cognitivo en lugar de un impulso motivacional bruto.
 
-## Salud visual (Ginkgo)
+## Salud visual
 
 > "Gingko biloba: has a selective cerebro-vascular dilator and seems to increase circulation to the back of the eye as well as increasing blood flow to the eye."
 > _—Barbara O'Neill (@BarbaraOneillAU), 26 sept 2025_

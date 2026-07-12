@@ -1,6 +1,6 @@
 El cardo mariano, también conocido como 'cardo de leche', es utilizado como hepatoprotector gracias a su contenido en silimarina, que actúa en el hígado **aumentando las defensas [[Antioxidantes|antioxidantes]] y ejerciendo un efecto [[Inflamación|antiinflamatorio]]**.
 
-## Cardo mariano y salud visual (Barbara O'Neill)
+## Cardo mariano y salud visual
 
 > "Milk Thistle: Silymarin, the primary component of milk thistle, is a major liver support compound. The liver is the key organ for the eye, since all fat soluble vitamins and glutathione are stored there, and B vitamins are activated in the liver."
 > _—Barbara O'Neill (@BarbaraOneillAU), 26 sept 2025_

@@ -86,7 +86,7 @@ Combinación usada en el **Integrative Medical Center of New Mexico (IMCNN)**:
 
 - **2006**: Paciente con cáncer pancreático con metástasis hepáticas, desahuciado (hospicio). ALA IV + LDN → vuelve al trabajo en 2 meses, **sin cáncer en PET en 2008**.
 - **2007**: B-cell lymphoma, tumores grandes en cuello e ingle. ALA IV + LDN → **sin signo de cáncer en 6 meses**.
-- **2009**: 3 casos de cáncer pancreático metastásico → **sin cáncer en PET en 6 meses**.
+- **2009**: 3 casos de cáncer pancreático metastásico → **sin cáncer en PET en 6 meses** (Berkson, B.M. 2009, *Integrative Cancer Therapies*).
 - **2012**: Regresión tumoral con hydroxycitrate + ALA (inhibiendo metabolismo del tumor).
 - **2014**: Reprogramación de células cancerosas de metabolismo **anaeróbico → aeróbico** mediante ALA + hydroxycitric acid (HCA).
 

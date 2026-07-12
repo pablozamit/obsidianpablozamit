@@ -56,7 +56,7 @@ El cuero cabelludo **fabrica su propia melatonina** a concentraciones 100× mayo
 
 **Dato cuantitativo**: aumento de **densidad capilar del 41% en 6 meses** con melatonina tópica (estudio clínico citado por @nootropicguy).
 
-> "Topical melatonin uses small micro-to-mg doses. Plasma melatonin levels don't change significantly. Not concerned about it at all."
+> "Topical melatonin uses small microgram-to-milligram doses. Plasma melatonin levels don't change significantly. Not concerned about it at all."
 > _—@nootropicguy, 28 sept 2025_
 
 ### Caveat de Paul Saladino: la luz infrarroja también cuenta
