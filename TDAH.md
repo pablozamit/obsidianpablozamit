@@ -136,6 +136,27 @@ Usar herramientas que funcionen y gusten. Una app es mejor que dos. Para ingenie
 - [[Azafrán]]: tan efectivo como el Ritalin en estudios.
 - **[[Cafeína]] + [[Teanina|L-teanina]]**: la cafeína sola empeora síntomas en niños, pero combinada (2.0 mg/kg cafeína + 2.5 mg/kg L-teanina) mejora cognición, reduce mind-wandering y aumenta atención sostenida (@MyProtocols, 4 jun 2026).
 
+## Marco bioquímico: TDAH = GABA bajo (Moosa)
+
+> "ADHD = low GABA. GABA is your body's main 'relaxation' molecule, when levels are low, you get ADHD symptoms. GABAergic supplements are of great help against ADHD. Supplements such as: Progesterone and its 5-alpha reduced metabolite, 5alpha dihydroprogesterone (5a-DHP); Taurine; Niacinamide (lots of people say that niacin and/or niacinamide worked great against their ADHD anxiety); Zinc (for anxiety and intrusive thoughts); etc"
+> _—Moosa (@questmoosa), 23 sept 2025_
+
+Tesis del autor: el TDAH puede entenderse en parte como un déficit de **tono GABAérgico**, no solo como déficit dopaminérgico. El GABA es la principal molécula inhibidora del SNC; su déficit produce hiperexcitabilidad, mind-wandering, pensamientos intrusivos y dificultad de filtro atencional.
+
+**No contradice** el modelo clásico dopaminérgico del TDAH — es **complementario**. La hiperexcitabilidad GABA-baja consume recursos atencionales que la dopamina intenta compensar.
+
+### Suplementos GABAérgicos útiles (lista Moosa)
+
+- **[[Progesterona]]** y su metabolito 5α-reducido, **5α-dihidroprogesterona (5a-DHP)** — neuroesteroide GABA-A positivo potente. Ver [[Alopregnanolona]].
+- **[[Taurina]]** — agonista GABAérgico, sensible a dosis (rebotar ansiedad si se suspende bruscamente).
+- **[[Niacinamida]] (B3)** — agonista GABA-A oficial.
+- **[[Zinc]]** — para ansiedad y pensamientos intrusivos; compite con cobre y reduce glutamato.
+
+> "Supporting GABA can really help with calmness and focus for some folks, though ADHD has lots of causes. Simple things like certain nutrients or small lifestyle tweaks can safely support your brain along the way."
+> _—Bio Ecosystem (@BioProtocolEco), 24 sept 2025_
+
+> _—El marco GABA-bajo es heurístico y responde bien a intervenciones suaves. No sustituye el tratamiento farmacológico de primera línea (estimulantes), pero puede reducir la dosis efectiva necesaria y mejorar la respuesta global. Ver [[GABA]] para más detalles sobre el eje GABAérgico._
+
 ## Ver también
 
 - [[Productividad]]
