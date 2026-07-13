@@ -119,12 +119,27 @@ export async function getHistory() {
   // Deduplicar: claves legacy (texto plano) y codificadas (base64url)
   // pueden apuntar al mismo slug. Nos quedamos con el timestamp más reciente.
   const deduped = {};
+  const staleKeys = []; // claves a eliminar de RTDB en background
   for (const [k, ts] of Object.entries(val)) {
     const canonical = canonicalHistoryKey(k);
+    if (canonical !== k) staleKeys.push(k);
     if (!deduped[canonical] || deduped[canonical] < ts) {
       deduped[canonical] = ts;
     }
   }
+
+  // Limpiar claves legacy/duplicadas en background (fire-and-forget).
+  // Si falla, la próxima lectura de getHistory() lo reintentará.
+  if (staleKeys.length > 0) {
+    const historyPath = userPath(user.uid, 'history');
+    getDb().then(async (db) => {
+      const { ref, update } = await import('https://www.gstatic.com/firebasejs/10.12.0/firebase-database.js');
+      const cleanup = {};
+      for (const k of staleKeys) cleanup[k] = null;
+      await update(ref(db, historyPath), cleanup);
+    }).catch(() => { /* silencioso */ });
+  }
+
   return deduped;
 }
 
