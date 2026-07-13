@@ -134,9 +134,10 @@ export async function getHistory() {
     const historyPath = userPath(user.uid, 'history');
     getDb().then(async (db) => {
       const { ref, update } = await import('https://www.gstatic.com/firebasejs/10.12.0/firebase-database.js');
-      const cleanup = {};
-      for (const k of staleKeys) cleanup[k] = null;
-      await update(ref(db, historyPath), cleanup);
+      const patch = {};
+      for (const k of staleKeys) patch[k] = null;   // eliminar claves legacy
+      Object.assign(patch, deduped);                  // asegurar que las canónicas persistan
+      await update(ref(db, historyPath), patch);
     }).catch(() => { /* silencioso */ });
   }
 
