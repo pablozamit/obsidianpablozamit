@@ -273,6 +273,8 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
         #top-ratings-link { position: relative; display: inline-block; padding: .5rem .75rem; color: var(--text); text-decoration: none; border-radius: 6px; transition: color .15s ease; }
         #top-ratings-link::before { content: "★"; margin-right: .35rem; color: var(--accent); font-weight: 700; }
         #top-ratings-link:hover { color: var(--accent); background: var(--bg-accent-soft, transparent); }
+        .sidebar-pinned-link { display: block; font-size: var(--fs-sm); color: var(--ink-soft); text-decoration: none; padding: 4px 0; transition: color 0.15s ease; }
+        .sidebar-pinned-link:hover { color: var(--accent); }
         .imprescindibles-page { max-width: 900px; margin: 0 auto; padding: 2rem 1rem; }
         .imprescindibles-title { font-size: 1.9rem; margin: 0 0 .25rem; letter-spacing: -.01em; }
         .imprescindibles-subtitle { color: var(--muted); margin: 0 0 2rem; font-size: .95rem; }
@@ -1767,6 +1769,8 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
         <div id="sidebar-content">
             <a href="index.html" id="inicio-link">Inicio</a>
             <div id="auth-widget"></div>
+            <a href="como-funciona-la-enciclopedia.html" id="guia-link" class="sidebar-pinned-link">📖 Cómo funciona</a>
+            <a href="perfil.html" id="perfil-link" class="sidebar-pinned-link">👤 Mi perfil</a>
             <a href="categorias.html" id="categorias-link">Categorías</a>
             <a href="imprescindibles.html" id="top-ratings-link">Top ratings</a>
             <div class="sidebar-sticky-area">
