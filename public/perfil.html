@@ -81,15 +81,15 @@
 
             const favList = document.getElementById('fav-list');
             const favKeys = Object.keys(favs);
-            favList.innerHTML = favKeys.length ? favKeys.map(k => { const d = fromFirebaseKey(k); return `<li><a href="${d}.html">${d}</a></li>`; }).join('') : '<li class="empty">No tienes notas guardadas.</li>';
+            favList.innerHTML = favKeys.length ? favKeys.map(k => { const d = fromFirebaseKey(k).replace(/\.html?$/, ''); return `<li><a href="${d}.html">${d}</a></li>`; }).join('') : '<li class="empty">No tienes notas guardadas.</li>';
 
             const histList = document.getElementById('hist-list');
             const histEntries = Object.entries(history).sort((a, b) => b[1] - a[1]).slice(0, 20);
-            histList.innerHTML = histEntries.length ? histEntries.map(([k, ts]) => { const d = fromFirebaseKey(k); return `<li><a href="${d}.html">${d}</a> <small>${new Date(ts).toLocaleDateString()}</small></li>`; }).join('') : '<li class="empty">No hay historial reciente.</li>';
+            histList.innerHTML = histEntries.length ? histEntries.map(([k, ts]) => { const d = fromFirebaseKey(k).replace(/\.html?$/, ''); return `<li><a href="${d}.html">${d}</a> <small>${new Date(ts).toLocaleDateString()}</small></li>`; }).join('') : '<li class="empty">No hay historial reciente.</li>';
 
             const annotList = document.getElementById('annot-list');
             const annotEntries = Object.entries(annotations);
-            annotList.innerHTML = annotEntries.length ? annotEntries.map(([k, text]) => { const d = fromFirebaseKey(k); return `<li><a href="${d}.html">${d}: ${text.slice(0, 80)}${text.length > 80 ? '...' : ''}</a></li>`; }).join('') : '<li class="empty">No tienes notas personales.</li>';
+            annotList.innerHTML = annotEntries.length ? annotEntries.map(([k, text]) => { const d = fromFirebaseKey(k).replace(/\.html?$/, ''); return `<li><a href="${d}.html">${d}: ${text.slice(0, 80)}${text.length > 80 ? '...' : ''}</a></li>`; }).join('') : '<li class="empty">No tienes notas personales.</li>';
         });
 
         document.getElementById('logout-btn').addEventListener('click', async () => {
