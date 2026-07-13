@@ -399,7 +399,7 @@ async function initProfile() {
   if (!container) return;
   const user = getCurrentUser();
   if (!user) {
-    container.innerHTML = '<p>Inicia sesión para ver tu perfil.</p>';
+    window.location.href = 'login.html';
     return;
   }
 
@@ -479,12 +479,18 @@ async function initProfile() {
     .join('') || '<li>No tienes notas personales.</li>';
 
   container.innerHTML = `
-    <h2>${ESC(user.email)}</h2>
+    <p style="color:var(--ink-soft);font-size:14px;margin:0 0 8px;">${ESC(user.email)}</p>
     ${progressHTML}
     <section><h3>Notas guardadas</h3><ul>${favList}</ul></section>
     <section><h3>Historial reciente</h3><ul>${histList}</ul></section>
     <section><h3>Notas personales</h3><ul>${annotList}</ul></section>
+    <button id="profile-logout-btn" type="button">Cerrar sesión</button>
   `;
+
+  document.getElementById('profile-logout-btn').addEventListener('click', async () => {
+    await signOutUser();
+    window.location.href = 'login.html';
+  });
 }
 
 // Auth gate: hide content immediately and show login prompt if no user

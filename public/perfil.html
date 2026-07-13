@@ -37,65 +37,8 @@
 <body>
     <div class="auth-card">
         <h1>Mi perfil</h1>
-        <p id="user-email">Cargando...</p>
-        <section>
-            <h2>Notas guardadas</h2>
-            <ul id="fav-list"><li class="empty">Cargando...</li></ul>
-        </section>
-        <section>
-            <h2>Historial reciente</h2>
-            <ul id="hist-list"><li class="empty">Cargando...</li></ul>
-        </section>
-        <section>
-            <h2>Notas personales</h2>
-            <ul id="annot-list"><li class="empty">Cargando...</li></ul>
-        </section>
-        <button id="logout-btn">Cerrar sesión</button>
+        <div id="profile-content">Cargando...</div>
     </div>
-    <script type="module">
-        import { onUserChanged, signOutUser } from './js/auth.js';
-        import { getFavorites, getHistory, getAnnotations } from './js/db.js';
-
-        // Decodificar slugs en base64url (misma lógica que user-features.js)
-        function fromFirebaseKey(key) {
-            try {
-                const b64 = String(key || '').replace(/-/g, '+').replace(/_/g, '/');
-                const padded = b64 + '='.repeat((4 - b64.length % 4) % 4);
-                return decodeURIComponent(escape(atob(padded)));
-            } catch (e) {
-                return key;
-            }
-        }
-
-        onUserChanged(async (user) => {
-            if (!user) {
-                window.location.href = 'login.html';
-                return;
-            }
-            document.getElementById('user-email').textContent = user.email;
-            const [favs, history, annotations] = await Promise.all([
-                getFavorites().catch(() => ({})),
-                getHistory().catch(() => ({})),
-                getAnnotations().catch(() => ({}))
-            ]);
-
-            const favList = document.getElementById('fav-list');
-            const favKeys = Object.keys(favs);
-            favList.innerHTML = favKeys.length ? favKeys.map(k => { const d = fromFirebaseKey(k).replace(/\.html?$/, ''); return `<li><a href="${d}.html">${d}</a></li>`; }).join('') : '<li class="empty">No tienes notas guardadas.</li>';
-
-            const histList = document.getElementById('hist-list');
-            const histEntries = Object.entries(history).sort((a, b) => b[1] - a[1]).slice(0, 20);
-            histList.innerHTML = histEntries.length ? histEntries.map(([k, ts]) => { const d = fromFirebaseKey(k).replace(/\.html?$/, ''); return `<li><a href="${d}.html">${d}</a> <small>${new Date(ts).toLocaleDateString()}</small></li>`; }).join('') : '<li class="empty">No hay historial reciente.</li>';
-
-            const annotList = document.getElementById('annot-list');
-            const annotEntries = Object.entries(annotations);
-            annotList.innerHTML = annotEntries.length ? annotEntries.map(([k, text]) => { const d = fromFirebaseKey(k).replace(/\.html?$/, ''); return `<li><a href="${d}.html">${d}: ${text.slice(0, 80)}${text.length > 80 ? '...' : ''}</a></li>`; }).join('') : '<li class="empty">No tienes notas personales.</li>';
-        });
-
-        document.getElementById('logout-btn').addEventListener('click', async () => {
-            await signOutUser();
-            window.location.href = 'login.html';
-        });
-    </script>
+    <script type="module" src="./js/user-features.js"></script>
 </body>
 </html>
