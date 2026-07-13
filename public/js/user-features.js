@@ -1,4 +1,4 @@
-import { initAuth as _initAuth, onUserChanged, signIn, signUp, signOutUser, getCurrentUser } from './auth.js';
+import { initAuth as _initAuth, onUserChanged, signIn, signOutUser, getCurrentUser } from './auth.js';
 const initAuth = _initAuth;
 import {
   toggleFavorite, getFavorites,
@@ -350,25 +350,10 @@ function initAuthForms() {
     });
   }
 
-  const registerForm = document.getElementById('register-form');
-  if (registerForm) {
-    registerForm.addEventListener('submit', async (e) => {
-      e.preventDefault();
-      const email = document.getElementById('email').value;
-      const password = document.getElementById('password').value;
-      const confirm = document.getElementById('confirm-password').value;
-      if (password !== confirm) {
-        document.getElementById('auth-error').textContent = 'Las contraseñas no coinciden';
-        return;
-      }
-      try {
-        await signUp(email, password);
-        window.location.href = 'index.html';
-      } catch (err) {
-        document.getElementById('auth-error').textContent = err.message;
-      }
-    });
-  }
+  // Nota: el formulario de registro público está cerrado.
+  // Las cuentas solo las crea Pablo desde Firebase Console.
+  // (Si en el futuro se reabre con invitaciones, reintroducir aquí
+  // el listener #register-form y el import de signUp desde auth.js.)
 }
 
 // Profile page
