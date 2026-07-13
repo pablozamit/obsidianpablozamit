@@ -677,8 +677,9 @@ async function initCourseProgress() {
 let _formacionesCache = null; // caché en memoria para no re-fetch en cada navegación
 
 // Helper: recalcula el % global desde RTDB y actualiza/crea la barra de la
-// sidebar. Lo llamamos tanto en la init como tras toggleLessonProgress para
-// que el % se refleje al instante sin recargar la página.
+// sidebar +, si estamos en la página de Formaciones, la barra grande y los
+// mini % por curso. Lo llamamos en la init y tras toggleLessonProgress para
+// que todo se refleje al instante sin recargar la página.
 async function refreshGlobalProgress() {
   const sidebar = document.getElementById('sidebar-content');
   if (!sidebar) return;
@@ -714,7 +715,7 @@ async function refreshGlobalProgress() {
   }
   const globalPercent = cursosConLecciones > 0 ? Math.round(totalPercent / cursosConLecciones) : 0;
 
-  // Actualizar o crear la barra compacta en la sidebar
+  // ── Sidebar: barra compacta ──
   let bar = document.getElementById('global-progress-sidebar');
   if (!bar) {
     bar = document.createElement('div');
@@ -741,28 +742,22 @@ async function refreshGlobalProgress() {
     </a>
   `;
 
-  return { progress, entries, globalPercent };
-}
-
-async function initGlobalProgress() {
-  const path = window.location.pathname;
-  if (/(login|registro|perfil|buscar|404)(\.html)?\/?$/.test(path)) return;
-
-  const result = await refreshGlobalProgress();
-  if (!result) return;
-  const { progress, entries, globalPercent } = result;
-
-  // === También en la página de Formaciones: barra grande + mini % por curso ===
+  // ── Página de Formaciones: barra grande + mini % por curso ──
   const article = document.querySelector('article[data-note-type]');
-  if (!article || article.getAttribute('data-note-type') !== 'formaciones') return;
+  if (!article || article.getAttribute('data-note-type') !== 'formaciones') return { progress, entries, globalPercent };
 
+  // Barra grande de progreso global
   const h1 = document.querySelector('h1');
   const articleAnchor = h1 || article;
-  if (articleAnchor && articleAnchor.parentNode && !document.getElementById('global-progress-bar')) {
-    const bigBar = document.createElement('div');
-    bigBar.id = 'global-progress-bar';
-    bigBar.className = 'progress-bar-container';
-    bigBar.style.cssText = 'margin-top:0;';
+  if (articleAnchor && articleAnchor.parentNode) {
+    let bigBar = document.getElementById('global-progress-bar');
+    if (!bigBar) {
+      bigBar = document.createElement('div');
+      bigBar.id = 'global-progress-bar';
+      bigBar.className = 'progress-bar-container';
+      bigBar.style.cssText = 'margin-top:0;';
+      articleAnchor.parentNode.insertBefore(bigBar, articleAnchor.nextSibling);
+    }
     bigBar.innerHTML = `
       <div class="progress-bar-header">
         <span class="progress-bar-title">📊 Tu progreso global</span>
@@ -772,9 +767,9 @@ async function initGlobalProgress() {
         <div class="progress-bar-fill" style="width: ${globalPercent}%"></div>
       </div>
     `;
-    articleAnchor.parentNode.insertBefore(bigBar, articleAnchor.nextSibling);
   }
 
+  // Mini % por curso en cada <li>
   const listItems = article.querySelectorAll('li');
   for (const li of listItems) {
     const a = li.querySelector('a[href$=".html"]');
@@ -785,13 +780,23 @@ async function initGlobalProgress() {
     const total = curso.lecciones.length;
     const completed = curso.lecciones.filter(slug => !!progress[firebaseKey(slug)]).length;
     const percent = Math.round((completed / total) * 100);
-    if (li.querySelector('.curso-mini-progress')) continue;
-    const mini = document.createElement('span');
-    mini.className = 'curso-mini-progress';
-    mini.style.cssText = 'font-family:var(--font-mono);font-size:var(--fs-xs);color:var(--ink-mute);margin-left:8px;';
+    let mini = li.querySelector('.curso-mini-progress');
+    if (!mini) {
+      mini = document.createElement('span');
+      mini.className = 'curso-mini-progress';
+      mini.style.cssText = 'font-family:var(--font-mono);font-size:var(--fs-xs);color:var(--ink-mute);margin-left:8px;';
+      li.appendChild(mini);
+    }
     mini.textContent = `${completed}/${total} (${percent}%)`;
-    li.appendChild(mini);
   }
+
+  return { progress, entries, globalPercent };
+}
+
+async function initGlobalProgress() {
+  const path = window.location.pathname;
+  if (/(login|registro|perfil|buscar|404)(\.html)?\/?$/.test(path)) return;
+  await refreshGlobalProgress();
 }
 
 // Main init
