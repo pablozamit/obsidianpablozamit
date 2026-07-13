@@ -869,6 +869,7 @@ async function init() {
       if (!window.__userFeaturesStarted) {
         window.__userFeaturesStarted = true;
         (async () => {
+          await initProfile();
           await initFavorites();
           await initLikes();
           await initHistory();
@@ -876,7 +877,6 @@ async function init() {
           await initCourseProgress();
           await initGlobalProgress();
           await initItinerary();
-          await initProfile();
         })();
       }
     } else {
