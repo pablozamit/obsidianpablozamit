@@ -2,6 +2,7 @@
 title: Sistema de Transmutación Masculina
 tags: [formacion, curso]
 tipo: formacion
+categoria: formaciones
 estado: activo
 ---
 

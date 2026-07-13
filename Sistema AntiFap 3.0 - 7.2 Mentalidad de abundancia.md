@@ -2,6 +2,7 @@
 title: 7.2 Mentalidad de abundancia
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Sistema AntiFap 3.0
 orden: 70002
 modulo: Módulo 7: Mentalidad

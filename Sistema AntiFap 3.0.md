@@ -2,6 +2,7 @@
 title: Sistema AntiFap 3.0
 tags: [formacion, curso]
 tipo: formacion
+categoria: formaciones
 estado: activo
 ---
 

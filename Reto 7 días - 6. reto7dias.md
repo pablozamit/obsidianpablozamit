@@ -2,6 +2,7 @@
 title: 6. reto7dias
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Reto 7 días
 orden: 6
 ---

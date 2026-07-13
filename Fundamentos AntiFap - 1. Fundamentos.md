@@ -2,6 +2,7 @@
 title: 1. Fundamentos
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Fundamentos AntiFap
 orden: 1
 ---

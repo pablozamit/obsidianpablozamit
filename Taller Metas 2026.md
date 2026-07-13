@@ -2,6 +2,7 @@
 title: Taller Metas 2026
 tags: [formacion, curso]
 tipo: formacion
+categoria: formaciones
 estado: activo
 ---
 

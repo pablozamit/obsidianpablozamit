@@ -2,6 +2,7 @@
 title: 3. Productividad
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Sistema DAST 2.0
 orden: 3
 ---

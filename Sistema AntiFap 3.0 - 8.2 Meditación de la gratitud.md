@@ -2,6 +2,7 @@
 title: 8.2 Meditación de la gratitud
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Sistema AntiFap 3.0
 orden: 80002
 modulo: Módulo 8: Control emocional

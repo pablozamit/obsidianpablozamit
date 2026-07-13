@@ -2,6 +2,7 @@
 title: 5.3 Cuatro métodos para cambiar nuestras creencias inconscientes
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Sistema AntiFap 3.0
 orden: 50003
 modulo: Módulo 5: Creencias

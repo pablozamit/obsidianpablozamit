@@ -2,6 +2,7 @@
 title: 3. Lecciones extra
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Productividad Extrema
 orden: 3
 ---

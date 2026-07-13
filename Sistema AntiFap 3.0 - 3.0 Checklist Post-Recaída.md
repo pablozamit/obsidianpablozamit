@@ -2,6 +2,7 @@
 title: 3.0 Checklist Post-Recaída
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Sistema AntiFap 3.0
 orden: 30000
 modulo: Módulo 3: Hábitos

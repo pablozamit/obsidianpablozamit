@@ -2,6 +2,7 @@
 title: Calendario del Sistema AntiFap 3.0: explicación
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Sistema AntiFap 3.0
 orden: 9999999
 modulo: Módulo 1: Calendario de sesiones grupales

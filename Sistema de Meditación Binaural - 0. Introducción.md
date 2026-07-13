@@ -2,6 +2,7 @@
 title: 0. Introducción
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Sistema de Meditación Binaural
 orden: 0
 ---

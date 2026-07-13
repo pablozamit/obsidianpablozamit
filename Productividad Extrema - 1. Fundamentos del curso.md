@@ -2,6 +2,7 @@
 title: 1. Fundamentos del curso
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Productividad Extrema
 orden: 1
 ---

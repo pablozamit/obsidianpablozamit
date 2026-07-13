@@ -16,7 +16,7 @@ const manifest = JSON.parse(readFileSync('_tmp/dump/manifest.json', 'utf8'));
 
 // Definiciones de cursos. fileName = nombre del .md en el repo. drivePath =
 // ruta exacta de la carpeta en Drive. La descripción aparece en el frontmatter
-// de la nota del curso Y se enlaza desde Formaciones.md.
+// de la nota del curso Y se enlaza desde 0. Formaciones.md.
 const COURSES = [
   // Top-level folders
   {

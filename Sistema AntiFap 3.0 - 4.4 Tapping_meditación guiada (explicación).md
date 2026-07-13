@@ -2,6 +2,7 @@
 title: 4.4 Tapping_meditación guiada (explicación)
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Sistema AntiFap 3.0
 orden: 40004
 modulo: Módulo 4: Miedos

@@ -2,6 +2,7 @@
 title: 6.5 Clase de Yoga dirigida por Xavier Baruch
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Sistema AntiFap 3.0
 orden: 60005
 modulo: Módulo 6: Estrés

@@ -2,6 +2,7 @@
 title: Realismo Masculino (versión 1.0 del Sistema AntiFap)
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Sistema AntiFap 3.0
 orden: 9999999
 modulo: Bonus 1: Lavado de cerebro

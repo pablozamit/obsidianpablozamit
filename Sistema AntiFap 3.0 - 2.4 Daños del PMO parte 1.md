@@ -2,6 +2,7 @@
 title: 2.4 Daños del PMO parte 1
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Sistema AntiFap 3.0
 orden: 20004
 modulo: Módulo 2: Introducción y metas

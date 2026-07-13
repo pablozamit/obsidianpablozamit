@@ -2,6 +2,7 @@
 title: 1. Introducción, dirección y principios de la energía masculina
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Sistema de Transmutación Masculina
 orden: 1
 ---

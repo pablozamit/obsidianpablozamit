@@ -2,6 +2,7 @@
 title: 4.2 Taller de miedos (cuaderno)
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Sistema AntiFap 3.0
 orden: 40002
 modulo: Módulo 4: Miedos

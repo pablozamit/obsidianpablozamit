@@ -2,6 +2,7 @@
 title: Sonidos binaurales e isotónicos alfa para calmar la mente
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Sistema AntiFap 3.0
 orden: 9999999
 modulo: Bonus 2: Sistema de Reinicio Integral

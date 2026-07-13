@@ -55,7 +55,7 @@ function ratingLabel(r) {
     if (r >= 3) return "Básico";
     return "Bajo";
 }
-const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, currentSlug = '', toc = '', isSearch = false, is404 = false, isCategories = false, isItinerarios = false, isImprescindibles = false, metaDesc = '', currentRating = null, noteType = '') => {
+const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, currentSlug = '', toc = '', isSearch = false, is404 = false, isCategories = false, isItinerarios = false, isImprescindibles = false, metaDesc = '', currentRating = null, noteType = '', categoria = '') => {
     // Agrupa la sidebar por letra inicial y marca el item actual
     const grouped = {};
     const fold = (s) => (s || '').toString().normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
@@ -1780,7 +1780,7 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
     <main id="main-content" class="${isHome ? 'is-home' : isSearch ? 'is-search' : is404 ? 'is-404' : isCategories ? 'is-categories' : isItinerarios ? 'is-itinerarios' : isImprescindibles ? 'is-imprescindibles' : ''}">
         <div class="article-wrapper${toc ? ' has-toc' : ''}">
             ${toc}
-            <article data-note-type="${noteType}">
+            <article data-note-type="${noteType}" data-categoria="${categoria}">
                 ${currentRating ? `
                 <div class="note-rating" data-rating="${currentRating}" aria-label="Puntuacion ${currentRating} de 10" role="figure">
                     <span class="note-rating-score">${currentRating}</span>
@@ -2828,7 +2828,7 @@ async function build() {
             const parsed = parseFrontmatter(content);
             const ratingRaw = parsed.frontmatter.rating;
             const rating = (typeof ratingRaw === "number" && Number.isInteger(ratingRaw) && ratingRaw >= 1 && ratingRaw <= 10) ? ratingRaw : null;
-            notes.push({ title, slug, path: md.path, content: parsed.content, rating, frontmatter: parsed.frontmatter || {} });
+            notes.push({ title, slug, path: md.path, content: parsed.content, rating, frontmatter: parsed.frontmatter || {}, categoria: (parsed.frontmatter && parsed.frontmatter.categoria) || "" });
         }
 
         for (const note of notes) {
@@ -2894,10 +2894,32 @@ async function build() {
             const htmlContent = marked.parse(content, { renderer });
             const toc = buildToc(htmlContent);
             const backlinks = backlinksMap[note.slug] ? Array.from(backlinksMap[note.slug]) : [];
-            const finalHtml = htmlTemplate(note.title, htmlContent, notes, backlinks, false, note.slug, toc, false, false, false, false, false, getMetaDescription(note.content, note.title), note.rating, (note.frontmatter && note.frontmatter.tipo) || '');
+            const finalHtml = htmlTemplate(note.title, htmlContent, notes, backlinks, false, note.slug, toc, false, false, false, false, false, getMetaDescription(note.content, note.title), note.rating, (note.frontmatter && note.frontmatter.tipo) || '', (note.frontmatter && note.frontmatter.categoria) || '');
 
             await fs.writeFile(path.join(DIST_DIR, note.slug), finalHtml);
         }
+
+        // === Formaciones index: curso → lecciones para progreso global ===
+        const formacionesIndex = {};
+        for (const note of notes) {
+            const fm = note.frontmatter || {};
+            if (fm.tipo === 'formacion') {
+                formacionesIndex[note.slug] = { title: note.title, slug: note.slug, lecciones: [] };
+            }
+        }
+        for (const note of notes) {
+            const fm = note.frontmatter || {};
+            if (fm.tipo === 'leccion' && fm.curso) {
+                for (const entry of Object.values(formacionesIndex)) {
+                    if (entry.title === fm.curso) {
+                        entry.lecciones.push(note.slug);
+                        break;
+                    }
+                }
+            }
+        }
+        await fs.writeFile(path.join(DIST_DIR, 'formaciones.json'), JSON.stringify(formacionesIndex));
+        console.log(`  Formaciones index: ${Object.keys(formacionesIndex).length} cursos mapeados.`);
 
         // === Commit 6: search index + search page ===
         const searchIndex = generateSearchIndex(notes, backlinksMap);

@@ -2,6 +2,7 @@
 title: 3.2b Taller de recaídas (google forms)
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Sistema AntiFap 3.0
 orden: 30002
 modulo: Módulo 3: Hábitos

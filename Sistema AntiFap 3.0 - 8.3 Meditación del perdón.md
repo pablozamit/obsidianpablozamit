@@ -2,6 +2,7 @@
 title: 8.3 Meditación del perdón
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Sistema AntiFap 3.0
 orden: 80003
 modulo: Módulo 8: Control emocional

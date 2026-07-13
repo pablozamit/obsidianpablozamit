@@ -2,6 +2,7 @@
 title: 4.3 Tapping_introducción_los 9 puntos
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Sistema AntiFap 3.0
 orden: 40003
 modulo: Módulo 4: Miedos

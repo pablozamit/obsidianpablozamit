@@ -2,6 +2,7 @@
 title: 7.3 Mentalidad de crecimiento
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Sistema AntiFap 3.0
 orden: 70003
 modulo: Módulo 7: Mentalidad

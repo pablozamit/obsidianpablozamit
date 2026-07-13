@@ -2,6 +2,7 @@
 title: 2.1 Por qué no lo conseguimos a la primera
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Sistema AntiFap 3.0
 orden: 20001
 modulo: Módulo 2: Introducción y metas

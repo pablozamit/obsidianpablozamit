@@ -2,6 +2,7 @@
 title: 2. Grabaciones de la 1ª edición
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Sistema de Meditación Binaural
 orden: 2
 ---

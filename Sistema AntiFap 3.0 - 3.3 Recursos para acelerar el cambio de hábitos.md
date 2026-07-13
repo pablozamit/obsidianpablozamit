@@ -2,6 +2,7 @@
 title: 3.3 Recursos para acelerar el cambio de hábitos
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Sistema AntiFap 3.0
 orden: 30003
 modulo: Módulo 3: Hábitos

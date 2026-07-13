@@ -2,6 +2,7 @@
 title: 5.1 Las creencias crean tu realidad
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Sistema AntiFap 3.0
 orden: 50001
 modulo: Módulo 5: Creencias

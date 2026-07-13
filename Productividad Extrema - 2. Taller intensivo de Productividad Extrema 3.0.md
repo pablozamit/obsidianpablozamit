@@ -2,6 +2,7 @@
 title: 2. Taller intensivo de Productividad Extrema 3.0
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Productividad Extrema
 orden: 2
 ---

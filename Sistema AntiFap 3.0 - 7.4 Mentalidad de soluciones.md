@@ -2,6 +2,7 @@
 title: 7.4 Mentalidad de soluciones
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Sistema AntiFap 3.0
 orden: 70004
 modulo: Módulo 7: Mentalidad

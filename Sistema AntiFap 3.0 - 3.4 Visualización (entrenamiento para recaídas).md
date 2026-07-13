@@ -2,6 +2,7 @@
 title: 3.4 Visualización (entrenamiento para recaídas)
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Sistema AntiFap 3.0
 orden: 30004
 modulo: Módulo 3: Hábitos

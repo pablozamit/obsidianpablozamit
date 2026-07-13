@@ -2,6 +2,7 @@
 title: Enlaces
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Estudios de Alto Rendimiento
 orden: 9999999
 ---

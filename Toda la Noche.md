@@ -2,6 +2,7 @@
 title: Toda la Noche
 tags: [formacion, curso]
 tipo: formacion
+categoria: formaciones
 estado: activo
 ---
 

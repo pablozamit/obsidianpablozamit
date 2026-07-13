@@ -2,6 +2,7 @@
 title: 3.1 Naturaleza de los hábitos
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Sistema AntiFap 3.0
 orden: 30001
 modulo: Módulo 3: Hábitos

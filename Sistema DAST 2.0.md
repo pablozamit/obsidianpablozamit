@@ -2,6 +2,7 @@
 title: Sistema DAST 2.0
 tags: [formacion, curso]
 tipo: formacion
+categoria: formaciones
 estado: activo
 ---
 

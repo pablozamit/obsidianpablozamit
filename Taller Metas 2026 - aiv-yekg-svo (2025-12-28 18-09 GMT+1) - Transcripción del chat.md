@@ -2,6 +2,7 @@
 title: aiv-yekg-svo (2025-12-28 18:09 GMT+1) - Transcripción del chat
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Taller Metas 2026
 orden: 9999999
 ---

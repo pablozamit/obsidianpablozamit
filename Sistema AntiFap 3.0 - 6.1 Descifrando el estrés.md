@@ -2,6 +2,7 @@
 title: 6.1 Descifrando el estrés
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Sistema AntiFap 3.0
 orden: 60001
 modulo: Módulo 6: Estrés

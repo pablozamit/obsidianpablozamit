@@ -2,6 +2,7 @@
 title: Productividad Extrema
 tags: [formacion, curso]
 tipo: formacion
+categoria: formaciones
 estado: activo
 ---
 

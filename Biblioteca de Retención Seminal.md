@@ -2,6 +2,7 @@
 title: Biblioteca de Retención Seminal
 tags: [formacion, curso]
 tipo: formacion
+categoria: formaciones
 estado: activo
 ---
 

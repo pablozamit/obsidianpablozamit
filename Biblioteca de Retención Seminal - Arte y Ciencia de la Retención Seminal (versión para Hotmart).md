@@ -2,6 +2,7 @@
 title: Arte y Ciencia de la Retención Seminal (versión para Hotmart)
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Biblioteca de Retención Seminal
 orden: 9999999
 ---

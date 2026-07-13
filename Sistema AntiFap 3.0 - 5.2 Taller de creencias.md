@@ -2,6 +2,7 @@
 title: 5.2 Taller de creencias
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Sistema AntiFap 3.0
 orden: 50002
 modulo: Módulo 5: Creencias

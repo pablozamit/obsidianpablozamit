@@ -2,6 +2,7 @@
 title: Semana 7
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Toda la Noche
 orden: 9999999
 ---

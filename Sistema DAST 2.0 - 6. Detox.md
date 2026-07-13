@@ -2,6 +2,7 @@
 title: 6. Detox
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Sistema DAST 2.0
 orden: 6
 ---

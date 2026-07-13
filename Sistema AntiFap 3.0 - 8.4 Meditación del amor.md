@@ -2,6 +2,7 @@
 title: 8.4 Meditación del amor
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Sistema AntiFap 3.0
 orden: 80004
 modulo: Módulo 8: Control emocional

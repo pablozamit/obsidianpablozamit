@@ -2,6 +2,7 @@
 title: IA Week
 tags: [formacion, curso]
 tipo: formacion
+categoria: formaciones
 estado: activo
 ---
 

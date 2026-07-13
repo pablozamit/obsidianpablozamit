@@ -2,6 +2,7 @@
 title: Machos Beta_ cómo la dopamina te convierte en un hombre de bajo valor social.
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Sistema AntiFap 3.0
 orden: 9999999
 modulo: Bonus 1: Lavado de cerebro

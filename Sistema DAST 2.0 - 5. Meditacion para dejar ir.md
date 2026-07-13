@@ -2,6 +2,7 @@
 title: 5. Meditacion para dejar ir
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Sistema DAST 2.0
 orden: 5
 ---

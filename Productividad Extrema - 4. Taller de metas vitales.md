@@ -2,6 +2,7 @@
 title: 4. Taller de metas vitales
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Productividad Extrema
 orden: 4
 ---

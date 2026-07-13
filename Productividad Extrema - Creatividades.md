@@ -2,6 +2,7 @@
 title: Creatividades
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Productividad Extrema
 orden: 9999999
 ---

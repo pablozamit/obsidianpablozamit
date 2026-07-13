@@ -2,6 +2,7 @@
 title: cuaderno no fap intro 2
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Biblioteca de Retención Seminal
 orden: 9999999
 ---

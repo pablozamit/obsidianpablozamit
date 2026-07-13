@@ -2,6 +2,7 @@
 title: 6.3 Las cinco prácticas diarias
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Sistema AntiFap 3.0
 orden: 60003
 modulo: Módulo 6: Estrés

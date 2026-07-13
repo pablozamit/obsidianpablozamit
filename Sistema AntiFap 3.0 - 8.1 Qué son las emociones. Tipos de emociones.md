@@ -2,6 +2,7 @@
 title: 8.1 Qué son las emociones. Tipos de emociones
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Sistema AntiFap 3.0
 orden: 80001
 modulo: Módulo 8: Control emocional

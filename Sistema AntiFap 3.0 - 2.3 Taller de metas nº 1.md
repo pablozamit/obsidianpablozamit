@@ -2,6 +2,7 @@
 title: 2.3 Taller de metas nº 1
 tags: [formacion, leccion]
 tipo: leccion
+categoria: formaciones
 curso: Sistema AntiFap 3.0
 orden: 20003
 modulo: Módulo 2: Introducción y metas
