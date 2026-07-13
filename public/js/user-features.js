@@ -6,7 +6,8 @@ import {
   recordReading, getHistory,
   saveAnnotation, getAnnotations,
   saveItineraryProgress, getItineraryProgress,
-  toggleLessonProgress, getProgress
+  toggleLessonProgress, getProgress,
+  saveProfileNote, getProfileNote
 } from './db.js';
 
 const ESC = (s) => String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
@@ -403,11 +404,12 @@ async function initProfile() {
     return;
   }
 
-  const [favs, history, annotations, progress] = await Promise.all([
+  const [favs, history, annotations, progress, profileNote] = await Promise.all([
     getFavorites().catch(() => ({})),
     getHistory().catch(() => ({})),
     getAnnotations().catch(() => ({})),
-    getProgress().catch(() => ({}))
+    getProgress().catch(() => ({})),
+    getProfileNote().catch(() => '')
   ]);
 
   // Progreso global: fetch formaciones.json si no está en caché
@@ -481,11 +483,33 @@ async function initProfile() {
   container.innerHTML = `
     <p style="color:var(--ink-soft);font-size:14px;margin:0 0 8px;">${ESC(user.email)}</p>
     ${progressHTML}
+    <section>
+      <h3>✍️ Tu diario de progreso</h3>
+      <textarea id="profile-note-text" rows="6" placeholder="Escribe tus reflexiones, avances, objetivos de la membresía... Es privado." style="width:100%;padding:12px;border:1px solid var(--rule);border-radius:8px;background:var(--bg-elev);color:var(--ink);font-family:var(--font-sans);font-size:14px;resize:vertical;">${ESC(profileNote)}</textarea>
+      <div style="display:flex;align-items:center;gap:12px;margin-top:8px;">
+        <button id="profile-note-save" type="button">Guardar nota</button>
+        <span id="profile-note-msg" style="color:var(--accent);font-size:13px;"></span>
+      </div>
+    </section>
     <section><h3>Notas guardadas</h3><ul>${favList}</ul></section>
     <section><h3>Historial reciente</h3><ul>${histList}</ul></section>
     <section><h3>Notas personales</h3><ul>${annotList}</ul></section>
     <button id="profile-logout-btn" type="button">Cerrar sesión</button>
   `;
+
+  document.getElementById('profile-note-save').addEventListener('click', async () => {
+    const text = document.getElementById('profile-note-text').value;
+    const msg = document.getElementById('profile-note-msg');
+    try {
+      await saveProfileNote(text);
+      msg.textContent = 'Guardado';
+      setTimeout(() => msg.textContent = '', 2000);
+    } catch (e) {
+      msg.textContent = 'Error al guardar';
+      msg.style.color = 'var(--alert)';
+      setTimeout(() => { msg.textContent = ''; msg.style.color = ''; }, 3000);
+    }
+  });
 
   document.getElementById('profile-logout-btn').addEventListener('click', async () => {
     await signOutUser();

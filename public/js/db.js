@@ -153,6 +153,19 @@ export async function getAllItineraries() {
   return val || {};
 }
 
+// Profile note (free-form personal diary/reflection on the profile page)
+export async function saveProfileNote(text) {
+  const user = requireUser();
+  const path = userPath(user.uid, 'profileNote');
+  await setValue(path, text);
+}
+
+export async function getProfileNote() {
+  const user = requireUser();
+  const val = await getValue(userPath(user.uid, 'profileNote'));
+  return val || '';
+}
+
 // Load all user data in one shot
 export async function getUserData() {
   const user = requireUser();
