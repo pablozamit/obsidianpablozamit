@@ -175,10 +175,8 @@ function formatVisitedTimeAgo(ts) {
 }
 
 function initVisitedIndicator() {
-  const slug = getSlug();
-  if (
-    slug === 'index.html' || slug === 'buscar.html' ||
-    slug === 'login.html' || slug === 'registro.html' || slug === 'perfil.html'
+  const slug = getSlug();  if (slug === 'index.html' || slug === 'buscar.html' ||
+    slug === 'login.html' || slug === 'perfil.html'
   ) return;
 
   // Copia inmutable del map: si saveVisitedMap falla (cuota llena) no
@@ -239,7 +237,7 @@ function saveHistoryThrottleMap(map) {
 
 async function initHistory() {
   const slug = getSlug();
-  if (slug === 'index.html' || slug === 'buscar.html' || slug === 'login.html' || slug === 'registro.html' || slug === 'perfil.html') return;
+  if (slug === 'index.html' || slug === 'buscar.html' || slug === 'login.html' || slug === 'perfil.html') return;
   const now = Date.now();
   const map = loadHistoryThrottleMap();
   const lastWrite = map.get(slug);
@@ -512,7 +510,7 @@ async function initProfile() {
 // Auth gate: hide content immediately and show login prompt if no user
 function isAuthPage() {
   const path = window.location.pathname;
-  return /\/(login|registro|perfil)(\.html)?\/?$/.test(path);
+  return /\/(login|perfil)(\.html)?\/?$/.test(path);
 }
 
 // Cookie que el script inline del <head> (en build.js) lee ANTES de que
@@ -835,7 +833,7 @@ async function refreshGlobalProgress() {
 
 async function initGlobalProgress() {
   const path = window.location.pathname;
-  if (/(login|registro|perfil|buscar|404)(\.html)?\/?$/.test(path)) return;
+  if (/(login|perfil|buscar|404)(\.html)?\/?$/.test(path)) return;
   await refreshGlobalProgress();
 }
 
