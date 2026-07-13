@@ -683,6 +683,51 @@ async function initGlobalProgress() {
   } else {
     anchor.parentNode.appendChild(bar);
   }
+
+  // === También en la página de Formaciones: barra grande + mini % por curso ===
+  const article = document.querySelector('article[data-note-type]');
+  if (!article || article.getAttribute('data-note-type') !== 'formaciones') return;
+
+  // Inyectar barra de progreso global tras el h1
+  const h1 = document.querySelector('h1');
+  const articleAnchor = h1 || article;
+  if (articleAnchor && articleAnchor.parentNode && !document.getElementById('global-progress-bar')) {
+    const bigBar = document.createElement('div');
+    bigBar.id = 'global-progress-bar';
+    bigBar.className = 'progress-bar-container';
+    bigBar.style.cssText = 'margin-top:0;';
+    bigBar.innerHTML = `
+      <div class="progress-bar-header">
+        <span class="progress-bar-title">📊 Tu progreso global</span>
+        <span class="progress-bar-stats">${globalPercent}% completado</span>
+      </div>
+      <div class="progress-bar-track" role="progressbar" aria-valuenow="${globalPercent}" aria-valuemin="0" aria-valuemax="100" aria-label="Progreso global">
+        <div class="progress-bar-fill" style="width: ${globalPercent}%"></div>
+      </div>
+    `;
+    articleAnchor.parentNode.insertBefore(bigBar, articleAnchor.nextSibling);
+  }
+
+  // Mini-barras por curso: buscar los <li> que enlazan a cada curso
+  const listItems = article.querySelectorAll('li');
+  for (const li of listItems) {
+    const a = li.querySelector('a[href$=".html"]');
+    if (!a) continue;
+    const href = a.getAttribute('href');
+    // Buscar el curso correspondiente por slug
+    const curso = entries.find(c => c.slug === href || firebaseKey(c.slug) === firebaseKey(href));
+    if (!curso || !curso.lecciones.length) continue;
+    const total = curso.lecciones.length;
+    const completed = curso.lecciones.filter(slug => !!progress[firebaseKey(slug)]).length;
+    const percent = Math.round((completed / total) * 100);
+    // Evitar duplicados
+    if (li.querySelector('.curso-mini-progress')) continue;
+    const mini = document.createElement('span');
+    mini.className = 'curso-mini-progress';
+    mini.style.cssText = 'font-family:var(--font-mono);font-size:var(--fs-xs);color:var(--ink-mute);margin-left:8px;';
+    mini.textContent = `${completed}/${total} (${percent}%)`;
+    li.appendChild(mini);
+  }
 }
 
 // Main init
