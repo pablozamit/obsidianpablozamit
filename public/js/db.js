@@ -67,7 +67,30 @@ export async function toggleFavorite(slug) {
 export async function getFavorites() {
   const user = requireUser();
   const val = await getValue(userPath(user.uid, 'favorites'));
-  return val || {};
+  if (!val) return {};
+
+  // Deduplicar claves legacy y codificadas a su forma canónica.
+  // Los valores son booleanos (true = favorito), así que colapsamos con OR.
+  const deduped = {};
+  const staleKeys = [];
+  for (const [k, v] of Object.entries(val)) {
+    const canonical = firebaseKey(fromFirebaseKey(k));
+    if (canonical !== k) staleKeys.push(k);
+    if (!deduped[canonical]) deduped[canonical] = v;
+  }
+
+  if (staleKeys.length > 0) {
+    const favPath = userPath(user.uid, 'favorites');
+    getDb().then(async (db) => {
+      const { ref, update } = await import('https://www.gstatic.com/firebasejs/10.12.0/firebase-database.js');
+      const patch = {};
+      for (const k of staleKeys) patch[k] = null;
+      Object.assign(patch, deduped);
+      await update(ref(db, favPath), patch);
+    }).catch(() => { /* silencioso */ });
+  }
+
+  return deduped;
 }
 
 // Votes
@@ -154,7 +177,31 @@ export async function saveAnnotation(slug, text) {
 export async function getAnnotations() {
   const user = requireUser();
   const val = await getValue(userPath(user.uid, 'annotations'));
-  return val || {};
+  if (!val) return {};
+
+  // Deduplicar claves legacy y codificadas a su forma canónica.
+  // Las anotaciones son texto: si hay duplicados, last-wins (la última
+  // iterada, que suele ser la más reciente en el orden de RTDB).
+  const deduped = {};
+  const staleKeys = [];
+  for (const [k, v] of Object.entries(val)) {
+    const canonical = firebaseKey(fromFirebaseKey(k));
+    if (canonical !== k) staleKeys.push(k);
+    deduped[canonical] = v; // last-wins
+  }
+
+  if (staleKeys.length > 0) {
+    const annotPath = userPath(user.uid, 'annotations');
+    getDb().then(async (db) => {
+      const { ref, update } = await import('https://www.gstatic.com/firebasejs/10.12.0/firebase-database.js');
+      const patch = {};
+      for (const k of staleKeys) patch[k] = null;
+      Object.assign(patch, deduped);
+      await update(ref(db, annotPath), patch);
+    }).catch(() => { /* silencioso */ });
+  }
+
+  return deduped;
 }
 
 // Lesson progress (mark/unmark a leccion note as completed for the current user)
