@@ -7,33 +7,12 @@ import {
   saveAnnotation, getAnnotations,
   saveItineraryProgress, getItineraryProgress,
   toggleLessonProgress, getProgress,
-  saveProfileNote, getProfileNote
+  saveProfileNote, getProfileNote,
+  firebaseKey, fromFirebaseKey
 } from './db.js';
 
 const ESC = (s) => String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 
-// Firebase RTDB no permite . # $ [ ] / en keys. Codificamos en base64url
-// (reversible, URL-safe, sin caracteres prohibidos) para que slugs como
-// '1.-fundamentos' o 'mi-nota.html' no rompan los writes/reads. Esto era un
-// bug silencioso: el catch handler genérico mostraba "Inicia sesión..."
-// aunque el usuario SÍ estuviera logueado, porque el error real era
-// "Invalid key" de Firebase.
-function firebaseKey(slug) {
-  const str = String(slug || '').replace(/\.html?$/, '') || 'index';
-  return btoa(unescape(encodeURIComponent(str)))
-    .replace(/\+/g, '-')
-    .replace(/\//g, '_')
-    .replace(/=+$/, '');
-}
-function fromFirebaseKey(key) {
-  try {
-    const b64 = String(key || '').replace(/-/g, '+').replace(/_/g, '/');
-    const padded = b64 + '='.repeat((4 - b64.length % 4) % 4);
-    return decodeURIComponent(escape(atob(padded)));
-  } catch (e) {
-    return key; // fallback para claves legacy no codificadas
-  }
-}
 function getSlug() {
   const path = window.location.pathname;
   const file = path.split('/').filter(Boolean).pop() || 'index';

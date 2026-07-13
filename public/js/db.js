@@ -83,32 +83,31 @@ export async function getVotes() {
   return val || {};
 }
 
-// Reading history
-export async function recordReading(slug) {
-  const user = requireUser();
-  const path = userPath(user.uid, 'history');
-  await updateValue(path, { [slug]: Date.now() });
-}
-
-// Normaliza una clave de historial a su forma canónica codificada (base64url).
-// Si ya está codificada, la decodifica y re-codifica. Si es texto plano legacy
-// (ej. "perfil"), la codifica. Así deduplicamos "perfil" y "cGVyZmls" → misma clave.
-function canonicalHistoryKey(key) {
-  // 1. Intentar decodificar (base64url → texto plano)
-  let slug;
-  try {
-    const b64 = String(key || '').replace(/-/g, '+').replace(/_/g, '/');
-    const padded = b64 + '='.repeat((4 - b64.length % 4) % 4);
-    slug = decodeURIComponent(escape(atob(padded)));
-  } catch (e) {
-    slug = key; // legacy: ya es texto plano
-  }
-  // 2. Re-codificar a forma canónica
+// Firebase RTDB no permite . # $ [ ] / en keys. Codificamos en base64url
+// (reversible, URL-safe, sin caracteres prohibidos) para que slugs como
+// '1.-fundamentos' o 'mi-nota.html' no rompan los writes/reads.
+export function firebaseKey(slug) {
   const str = String(slug || '').replace(/\.html?$/, '') || 'index';
   return btoa(unescape(encodeURIComponent(str)))
     .replace(/\+/g, '-')
     .replace(/\//g, '_')
     .replace(/=+$/, '');
+}
+export function fromFirebaseKey(key) {
+  try {
+    const b64 = String(key || '').replace(/-/g, '+').replace(/_/g, '/');
+    const padded = b64 + '='.repeat((4 - b64.length % 4) % 4);
+    return decodeURIComponent(escape(atob(padded)));
+  } catch (e) {
+    return key; // fallback para claves legacy no codificadas
+  }
+}
+
+// Reading history
+export async function recordReading(slug) {
+  const user = requireUser();
+  const path = userPath(user.uid, 'history');
+  await updateValue(path, { [slug]: Date.now() });
 }
 
 export async function getHistory() {
@@ -117,11 +116,12 @@ export async function getHistory() {
   if (!val) return {};
 
   // Deduplicar: claves legacy (texto plano) y codificadas (base64url)
-  // pueden apuntar al mismo slug. Nos quedamos con el timestamp más reciente.
+  // pueden apuntar al mismo slug. firebaseKey(fromFirebaseKey(k)) normaliza
+  // cualquier clave a su forma canónica codificada.
   const deduped = {};
   const staleKeys = []; // claves a eliminar de RTDB en background
   for (const [k, ts] of Object.entries(val)) {
-    const canonical = canonicalHistoryKey(k);
+    const canonical = firebaseKey(fromFirebaseKey(k));
     if (canonical !== k) staleKeys.push(k);
     if (!deduped[canonical] || deduped[canonical] < ts) {
       deduped[canonical] = ts;
