@@ -610,12 +610,21 @@ async function initCourseProgress() {
   }
 }
 
-// === Progreso global: promedio entre todas las formaciones ===
-// Se ejecuta en la página 0. Formaciones.html y muestra per-curso + global.
+// === Progreso global: barra compacta en sidebar visible en todas las páginas ===
+// Se ejecuta en cada página (excepto especiales) y muestra el % global.
+let _formacionesCache = null; // caché en memoria para no re-fetch en cada navegación
+
 async function initGlobalProgress() {
-  // Detectar por data-note-type (consistente con initCourseProgress)
-  const article = document.querySelector('article[data-note-type]');
-  if (!article || article.getAttribute('data-note-type') !== 'formaciones') return;
+  // No mostrar en páginas especiales
+  const path = window.location.pathname;
+  if (/(login|registro|perfil|buscar|404)(\.html)?\/?$/.test(path)) return;
+
+  // Inyectar solo en la sidebar (visible en toda navegación)
+  const sidebar = document.getElementById('sidebar-content');
+  if (!sidebar) return;
+
+  // Idempotente: no duplicar la barra
+  if (document.getElementById('global-progress-sidebar')) return;
 
   let progress = {};
   try {
@@ -624,74 +633,55 @@ async function initGlobalProgress() {
     return; // No logueado o RTDB no disponible
   }
 
-  let formaciones;
-  try {
-    const res = await fetch('formaciones.json');
-    if (!res.ok) return;
-    formaciones = await res.json();
-  } catch (e) {
-    return;
+  // Caché en memoria para formaciones.json
+  if (!_formacionesCache) {
+    try {
+      const res = await fetch('formaciones.json');
+      if (res.ok) _formacionesCache = await res.json();
+    } catch (e) {
+      return;
+    }
   }
+  if (!_formacionesCache) return;
 
-  const entries = Object.values(formaciones || {});
+  const entries = Object.values(_formacionesCache || {});
   if (!entries.length) return;
 
-  // Calcular % por curso y global.
-  // ⚠️ Las keys en RTDB están en base64url (firebaseKey), pero los slugs en
-  // formaciones.json están en crudo. Hay que encodear antes de comparar.
+  // Calcular % global (promedio entre cursos con lecciones)
   let totalPercent = 0;
   let cursosConLecciones = 0;
-  const perCurso = entries.map(curso => {
+  for (const curso of entries) {
     const total = curso.lecciones.length;
-    if (total === 0) return { ...curso, completed: 0, total: 0, percent: null };
+    if (total === 0) continue;
     const completed = curso.lecciones.filter(slug => !!progress[firebaseKey(slug)]).length;
-    const percent = Math.round((completed / total) * 100);
-    totalPercent += percent;
+    totalPercent += Math.round((completed / total) * 100);
     cursosConLecciones++;
-    return { ...curso, completed, total, percent };
-  });
-
+  }
   const globalPercent = cursosConLecciones > 0 ? Math.round(totalPercent / cursosConLecciones) : 0;
 
-  // Inyectar barra de progreso global tras el h1
-  const h1 = document.querySelector('h1');
-  const article = document.querySelector('article');
-  const anchor = h1 || article;
-  if (!anchor || !anchor.parentNode) return;
+  // Inyectar barra compacta en la sidebar, justo después del auth-widget
+  const authWidget = document.getElementById('auth-widget');
+  const anchor = authWidget || sidebar.firstChild;
 
-  if (!document.getElementById('global-progress-bar')) {
-    const bar = document.createElement('div');
-    bar.id = 'global-progress-bar';
-    bar.className = 'progress-bar-container';
-    bar.style.cssText = 'margin-top:0;';
-    bar.innerHTML = `
-      <div class="progress-bar-header">
-        <span class="progress-bar-title">📊 Tu progreso global</span>
-        <span class="progress-bar-stats">${globalPercent}% completado</span>
+  const bar = document.createElement('div');
+  bar.id = 'global-progress-sidebar';
+  bar.style.cssText = 'margin:0 0 12px;padding:8px 10px;background:var(--bg-elev);border:1px solid var(--rule);border-radius:8px;';
+  bar.innerHTML = `
+    <a href="0.-formaciones.html" style="display:block;text-decoration:none;color:var(--ink);">
+      <div style="display:flex;justify-content:space-between;align-items:baseline;margin-bottom:4px;">
+        <span style="font-weight:600;font-size:13px;">📊 Progreso</span>
+        <span style="font-family:var(--font-mono);font-size:11px;color:var(--ink-mute);">${globalPercent}%</span>
       </div>
-      <div class="progress-bar-track" role="progressbar" aria-valuenow="${globalPercent}" aria-valuemin="0" aria-valuemax="100" aria-label="Progreso global">
-        <div class="progress-bar-fill" style="width: ${globalPercent}%"></div>
+      <div style="width:100%;height:4px;background:var(--rule);border-radius:2px;overflow:hidden;">
+        <div style="height:100%;width:${globalPercent}%;background:var(--accent);border-radius:2px;transition:width .4s ease;"></div>
       </div>
-    `;
+    </a>
+  `;
+
+  if (anchor.nextSibling) {
     anchor.parentNode.insertBefore(bar, anchor.nextSibling);
-  }
-
-  // Mini-barras por curso: buscar los <li> que enlazan a cada curso
-  const listItems = article ? article.querySelectorAll('li') : [];
-  for (const li of listItems) {
-    const a = li.querySelector('a[href$=".html"]');
-    if (!a) continue;
-    const href = a.getAttribute('href');
-    // Buscar el curso correspondiente por slug
-    const curso = perCurso.find(c => c.slug === href || firebaseKey(c.slug) === firebaseKey(href));
-    if (!curso || curso.percent === null) continue;
-    // Evitar duplicados
-    if (li.querySelector('.curso-mini-progress')) continue;
-    const mini = document.createElement('span');
-    mini.className = 'curso-mini-progress';
-    mini.style.cssText = 'font-family:var(--font-mono);font-size:var(--fs-xs);color:var(--ink-mute);margin-left:8px;';
-    mini.textContent = `${curso.completed}/${curso.total} (${curso.percent}%)`;
-    li.appendChild(mini);
+  } else {
+    anchor.parentNode.appendChild(bar);
   }
 }
 
