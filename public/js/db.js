@@ -90,10 +90,42 @@ export async function recordReading(slug) {
   await updateValue(path, { [slug]: Date.now() });
 }
 
+// Normaliza una clave de historial a su forma canónica codificada (base64url).
+// Si ya está codificada, la decodifica y re-codifica. Si es texto plano legacy
+// (ej. "perfil"), la codifica. Así deduplicamos "perfil" y "cGVyZmls" → misma clave.
+function canonicalHistoryKey(key) {
+  // 1. Intentar decodificar (base64url → texto plano)
+  let slug;
+  try {
+    const b64 = String(key || '').replace(/-/g, '+').replace(/_/g, '/');
+    const padded = b64 + '='.repeat((4 - b64.length % 4) % 4);
+    slug = decodeURIComponent(escape(atob(padded)));
+  } catch (e) {
+    slug = key; // legacy: ya es texto plano
+  }
+  // 2. Re-codificar a forma canónica
+  const str = String(slug || '').replace(/\.html?$/, '') || 'index';
+  return btoa(unescape(encodeURIComponent(str)))
+    .replace(/\+/g, '-')
+    .replace(/\//g, '_')
+    .replace(/=+$/, '');
+}
+
 export async function getHistory() {
   const user = requireUser();
   const val = await getValue(userPath(user.uid, 'history'));
-  return val || {};
+  if (!val) return {};
+
+  // Deduplicar: claves legacy (texto plano) y codificadas (base64url)
+  // pueden apuntar al mismo slug. Nos quedamos con el timestamp más reciente.
+  const deduped = {};
+  for (const [k, ts] of Object.entries(val)) {
+    const canonical = canonicalHistoryKey(k);
+    if (!deduped[canonical] || deduped[canonical] < ts) {
+      deduped[canonical] = ts;
+    }
+  }
+  return deduped;
 }
 
 // Annotations
