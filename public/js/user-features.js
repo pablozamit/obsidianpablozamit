@@ -439,7 +439,7 @@ async function initProfile() {
     rows.sort((a, b) => b.pct - a.pct);
 
     const rowsHTML = rows.map(r => {
-      const s = fromFirebaseKey(r.slug).replace(/\.html?$/, '');
+      const s = r.slug.replace(/\.html?$/, ''); // slugs en formaciones.json son raw, no base64url
       return `
         <li style="margin-bottom:10px;">
           <div style="display:flex;justify-content:space-between;align-items:baseline;margin-bottom:3px;">
