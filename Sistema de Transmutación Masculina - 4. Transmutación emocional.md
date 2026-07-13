@@ -1,7 +1,7 @@
 ---
 title: 4. Transmutación emocional
 tags: [formacion, leccion]
-tipo: leccion
+tipo: modulo
 categoria: formaciones
 curso: Sistema de Transmutación Masculina
 orden: 4

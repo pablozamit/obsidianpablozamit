@@ -1,7 +1,7 @@
 ---
 title: 2. Transmutación hormonal
 tags: [formacion, leccion]
-tipo: leccion
+tipo: modulo
 categoria: formaciones
 curso: Sistema de Transmutación Masculina
 orden: 2

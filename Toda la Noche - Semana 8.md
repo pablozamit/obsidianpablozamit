@@ -1,7 +1,7 @@
 ---
 title: Semana 8
 tags: [formacion, leccion]
-tipo: leccion
+tipo: modulo
 categoria: formaciones
 curso: Toda la Noche
 orden: 9999999

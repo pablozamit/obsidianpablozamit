@@ -1,7 +1,7 @@
 ---
 title: 0. Calendario
 tags: [formacion, leccion]
-tipo: leccion
+tipo: modulo
 categoria: formaciones
 curso: Sistema de Transmutación Masculina
 orden: 0

@@ -1,7 +1,7 @@
 ---
 title: 3. Transmutación Psicológica
 tags: [formacion, leccion]
-tipo: leccion
+tipo: modulo
 categoria: formaciones
 curso: Sistema de Transmutación Masculina
 orden: 3
