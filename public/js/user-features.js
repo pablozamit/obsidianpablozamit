@@ -403,11 +403,70 @@ async function initProfile() {
     return;
   }
 
-  const [favs, history, annotations] = await Promise.all([
+  const [favs, history, annotations, progress] = await Promise.all([
     getFavorites().catch(() => ({})),
     getHistory().catch(() => ({})),
-    getAnnotations().catch(() => ({}))
+    getAnnotations().catch(() => ({})),
+    getProgress().catch(() => ({}))
   ]);
+
+  // Progreso global: fetch formaciones.json si no está en caché
+  if (!_formacionesCache) {
+    try {
+      const res = await fetch('formaciones.json');
+      if (res.ok) _formacionesCache = await res.json();
+    } catch (e) { /* noop */ }
+  }
+
+  let progressHTML = '';
+  if (_formacionesCache) {
+    const entries = Object.values(_formacionesCache);
+    let totalPercent = 0;
+    let cursosConLecciones = 0;
+    const rows = [];
+    for (const curso of entries) {
+      const total = curso.lecciones.length;
+      if (total === 0) continue;
+      const completed = curso.lecciones.filter(slug => !!progress[firebaseKey(slug)]).length;
+      const pct = Math.round((completed / total) * 100);
+      totalPercent += pct;
+      cursosConLecciones++;
+      rows.push({ title: curso.title, slug: curso.slug, completed, total, pct });
+    }
+    const globalPercent = cursosConLecciones > 0 ? Math.round(totalPercent / cursosConLecciones) : 0;
+
+    // Ordenar por % descendente (más avanzados primero)
+    rows.sort((a, b) => b.pct - a.pct);
+
+    const rowsHTML = rows.map(r => {
+      const s = fromFirebaseKey(r.slug).replace(/\.html?$/, '');
+      return `
+        <li style="margin-bottom:10px;">
+          <div style="display:flex;justify-content:space-between;align-items:baseline;margin-bottom:3px;">
+            <a href="${s}.html" style="font-weight:500;">${ESC(r.title)}</a>
+            <span style="font-family:var(--font-mono);font-size:var(--fs-xs);color:var(--ink-mute);">${r.completed}/${r.total} (${r.pct}%)</span>
+          </div>
+          <div style="width:100%;height:4px;background:var(--rule);border-radius:2px;overflow:hidden;">
+            <div style="height:100%;width:${r.pct}%;background:var(--accent);border-radius:2px;transition:width .4s ease;"></div>
+          </div>
+        </li>`;
+    }).join('');
+
+    progressHTML = `
+      <section>
+        <h3>📊 Progreso en formaciones</h3>
+        <div style="margin-bottom:16px;padding:12px;background:var(--bg-muted);border:1px solid var(--rule);border-left:3px solid var(--accent);border-radius:8px;">
+          <div style="display:flex;justify-content:space-between;align-items:baseline;margin-bottom:6px;">
+            <span style="font-weight:600;font-size:var(--fs-sm);">Progreso global</span>
+            <span style="font-family:var(--font-mono);font-size:var(--fs-xs);color:var(--ink-mute);">${globalPercent}%</span>
+          </div>
+          <div style="width:100%;height:6px;background:var(--rule);border-radius:3px;overflow:hidden;">
+            <div style="height:100%;width:${globalPercent}%;background:var(--accent);border-radius:3px;transition:width .4s ease;"></div>
+          </div>
+        </div>
+        <ul style="list-style:none;padding:0;">${rowsHTML || '<li>No hay formaciones disponibles.</li>'}</ul>
+      </section>`;
+  }
 
   const favList = Object.keys(favs).map(k => { const s = fromFirebaseKey(k).replace(/\.html?$/, ''); return `<li><a href="${s}.html">${ESC(s)}</a></li>`; }).join('') || '<li>No tienes notas guardadas.</li>';
   const histList = Object.entries(history)
@@ -421,6 +480,7 @@ async function initProfile() {
 
   container.innerHTML = `
     <h2>${ESC(user.email)}</h2>
+    ${progressHTML}
     <section><h3>Notas guardadas</h3><ul>${favList}</ul></section>
     <section><h3>Historial reciente</h3><ul>${histList}</ul></section>
     <section><h3>Notas personales</h3><ul>${annotList}</ul></section>
