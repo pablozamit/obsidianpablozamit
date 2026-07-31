@@ -267,3 +267,62 @@ export async function getUserData() {
   const val = await getValue(userPath(user.uid));
   return val || {};
 }
+
+// ── Newsletter / Buzón de entrada ──────────────────────────────────
+
+// Obtiene todas las newsletters del catálogo global, ordenadas por createdAt desc.
+export async function listNewsletters() {
+  const db = await getDb();
+  if (!db) return [];
+  const { ref, get } = await import('https://www.gstatic.com/firebasejs/10.12.0/firebase-database.js');
+  const snap = await get(ref(db, 'newsletters'));
+  if (!snap.exists()) return [];
+  const val = snap.val();
+  return Object.values(val).sort((a, b) => (b.createdAt || 0) - (a.createdAt || 0));
+}
+
+// Obtiene una newsletter por ID.
+export async function getNewsletter(id) {
+  const val = await getValue(`newsletters/${id}`);
+  return val || null;
+}
+
+// Obtiene el inbox completo del usuario actual.
+export async function getInbox() {
+  const user = requireUser();
+  const val = await getValue(userPath(user.uid, 'inbox'));
+  return val || {};
+}
+
+// Marca una newsletter como leída (solo actualiza readAt).
+export async function markNewsletterRead(id) {
+  const user = requireUser();
+  const path = userPath(user.uid, 'inbox', id, 'readAt');
+  const current = await getValue(path);
+  if (current) return; // ya leída, no sobreescribir
+  await setValue(path, Date.now());
+}
+
+// Marca todas las newsletters del inbox como leídas.
+export async function markAllNewslettersRead() {
+  const user = requireUser();
+  const inbox = await getInbox();
+  const updates = {};
+  const now = Date.now();
+  for (const id of Object.keys(inbox)) {
+    if (!inbox[id].readAt) updates[`${id}/readAt`] = now;
+  }
+  if (Object.keys(updates).length > 0) {
+    await updateValue(userPath(user.uid, 'inbox'), updates);
+  }
+}
+
+// Cuenta las newsletters no leídas.
+export async function countUnread() {
+  try {
+    const inbox = await getInbox();
+    return Object.values(inbox).filter(e => !e.readAt).length;
+  } catch (e) {
+    return 0;
+  }
+}

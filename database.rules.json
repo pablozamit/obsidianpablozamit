@@ -2,10 +2,25 @@
   "rules": {
     ".read": false,
     ".write": false,
+    "newsletters": {
+      ".read": "auth != null",
+      "$id": {
+        ".write": false
+      }
+    },
+    "members": {
+      ".read": false,
+      ".write": false
+    },
     "users": {
       "$uid": {
         ".read": "auth != null && auth.uid === $uid",
-        ".write": "auth != null && auth.uid === $uid"
+        ".write": "auth != null && auth.uid === $uid",
+        "inbox": {
+          "$nid": {
+            ".validate": "newData.hasChildren(['receivedAt']) && (!newData.hasChild('readAt') || newData.child('readAt').isNumber() || newData.child('readAt').val() === null)"
+          }
+        }
       }
     }
   }

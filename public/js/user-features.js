@@ -8,6 +8,7 @@ import {
   saveItineraryProgress, getItineraryProgress,
   toggleLessonProgress, getProgress,
   saveProfileNote, getProfileNote,
+  listNewsletters, getInbox, markNewsletterRead, markAllNewslettersRead, countUnread,
   firebaseKey, fromFirebaseKey
 } from './db.js';
 
@@ -822,6 +823,230 @@ async function initGlobalProgress() {
   await refreshGlobalProgress();
 }
 
+// ── Buzón de entrada ───────────────────────────────────────────────
+
+// Convierte [[wikilinks]] del cuerpo de la newsletter a <a> links.
+// Usa el mismo slugify que build.js para consistencia.
+function slugify(text) {
+  if (!text) return '';
+  return text
+    .toString()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
+    .trim()
+    .replace(/[^a-z0-9.\- ]/g, '')
+    .replace(/\s+/g, '-')
+    .replace(/-+/g, '-');
+}
+
+function convertWikilinks(markdown) {
+  if (!markdown) return '';
+  // Escapar HTML primero
+  let html = markdown
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;');
+  // Convertir [[Nota]] → <a href="nota.html">Nota</a>
+  html = html.replace(/\[\[([^\]]+)\]\]/g, (match, title) => {
+    const slug = slugify(title);
+    return `<a href="${slug}.html">${title}</a>`;
+  });
+  // Convertir **bold** y *italic*
+  html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+  html = html.replace(/(?<!\*)\*(?!\*)(.+?)(?<!\*)\*(?!\*)/g, '<em>$1</em>');
+  // Separar en bloques (párrafos, encabezados, listas)
+  const blocks = html.split(/\n\n+/);
+  const rendered = blocks.map(block => {
+    const trimmed = block.trim();
+    if (!trimmed) return '';
+    // Encabezados (con posible texto restante en el mismo bloque)
+    if (/^### /.test(trimmed)) {
+      const lines = trimmed.split(/\n/);
+      const h = `<h4>${lines[0].replace(/^### /, '')}</h4>`;
+      const rest = lines.slice(1).map(l => l.trim()).filter(Boolean).join('<br>');
+      return rest ? `${h}<p>${rest}</p>` : h;
+    }
+    if (/^## /.test(trimmed)) {
+      const lines = trimmed.split(/\n/);
+      const h = `<h3>${lines[0].replace(/^## /, '')}</h3>`;
+      const rest = lines.slice(1).map(l => l.trim()).filter(Boolean).join('<br>');
+      return rest ? `${h}<p>${rest}</p>` : h;
+    }
+    if (/^# /.test(trimmed)) {
+      const lines = trimmed.split(/\n/);
+      const h = `<h3>${lines[0].replace(/^# /, '')}</h3>`;
+      const rest = lines.slice(1).map(l => l.trim()).filter(Boolean).join('<br>');
+      return rest ? `${h}<p>${rest}</p>` : h;
+    }
+    // Lista: líneas que empiezan con -
+    if (/^- /.test(trimmed)) {
+      const items = trimmed.split(/\n/).filter(l => /^- /.test(l.trim()))
+        .map(l => `<li>${l.trim().replace(/^- /, '')}</li>`);
+      return `<ul>${items.join('')}</ul>`;
+    }
+    // Párrafo normal
+    return `<p>${trimmed.replace(/\n/g, '<br>')}</p>`;
+  });
+  return rendered.join('');
+}
+
+function formatNewsletterDate(ts) {
+  if (!ts) return '';
+  return new Date(ts).toLocaleDateString('es-ES', {
+    year: 'numeric', month: 'long', day: 'numeric',
+  });
+}
+
+async function renderBuzonList(container) {
+  const user = getCurrentUser();
+  if (!user) return;
+
+  try {
+    const [newsletters, inbox] = await Promise.all([
+      listNewsletters(),
+      getInbox().catch(() => ({})),
+    ]);
+
+    if (!newsletters.length) {
+      container.innerHTML = `
+        <div style="text-align:center;padding:var(--sp-7) var(--sp-4);color:var(--ink-soft);">
+          <p style="font-size:var(--fs-h4);margin-bottom:var(--sp-3);">📭</p>
+          <p>Aún no hay newsletters publicadas.</p>
+          <p style="font-size:var(--fs-sm);color:var(--ink-mute);">Cuando Pablo publique el primer resumen de sesión, aparecerá aquí.</p>
+        </div>`;
+      return;
+    }
+
+    const entries = newsletters.map(n => ({
+      ...n,
+      readAt: inbox[n.id]?.readAt || null,
+    }));
+
+    const unreadCount = entries.filter(e => !e.readAt).length;
+
+    let html = '';
+
+    // Barra de acciones
+    if (unreadCount > 0) {
+      html += `
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:var(--sp-4);padding-bottom:var(--sp-3);border-bottom:1px solid var(--rule);">
+          <span style="font-size:var(--fs-sm);color:var(--ink-mute);">${entries.length} newsletters · ${unreadCount} sin leer</span>
+          <button id="buzon-mark-all-read" type="button" style="font-size:var(--fs-xs);padding:6px 12px;background:var(--bg-muted);border:1px solid var(--rule);border-radius:6px;color:var(--ink-soft);cursor:pointer;font-family:var(--font-sans);">Marcar todas como leídas</button>
+        </div>`;
+    }
+
+    // Lista
+    html += '<div class="buzon-list">';
+    for (const e of entries) {
+      const isUnread = !e.readAt;
+      html += `
+        <div class="buzon-item${isUnread ? ' buzon-item--unread' : ''}" data-id="${ESC(e.id)}" style="padding:var(--sp-4);border:1px solid var(--rule);border-radius:8px;margin-bottom:var(--sp-3);cursor:pointer;transition:border-color .15s ease,background .15s ease;${isUnread ? 'border-left:3px solid var(--accent);' : ''}">
+          <div style="display:flex;justify-content:space-between;align-items:baseline;gap:var(--sp-3);flex-wrap:wrap;">
+            <h3 style="margin:0;font-size:var(--fs-h5);font-weight:600;${isUnread ? 'color:var(--ink);' : 'color:var(--ink-soft);'}">${isUnread ? '● ' : ''}${ESC(e.title)}</h3>
+            <span style="font-family:var(--font-mono);font-size:var(--fs-xs);color:var(--ink-mute);white-space:nowrap;">${formatNewsletterDate(e.createdAt)}</span>
+          </div>
+          ${e.summary ? `<p style="margin:var(--sp-2) 0 0;font-size:var(--fs-sm);color:var(--ink-soft);">${ESC(e.summary)}</p>` : ''}
+          ${e.notesTouched && e.notesTouched.length > 0 ? `<p style="margin:var(--sp-2) 0 0;font-size:var(--fs-xs);color:var(--ink-mute);">${e.notesTouched.length} nota${e.notesTouched.length !== 1 ? 's' : ''} — ${e.notesTouched.map(n => ESC(n.title)).join(', ')}</p>` : ''}
+          <div class="buzon-detail" hidden style="margin-top:var(--sp-4);padding-top:var(--sp-4);border-top:1px solid var(--rule);font-size:var(--fs-sm);line-height:1.7;">
+            ${convertWikilinks(e.bodyMarkdown)}
+          </div>
+        </div>`;
+    }
+    html += '</div>';
+
+    container.innerHTML = html;
+
+    // Event listeners
+    container.querySelectorAll('.buzon-item').forEach(item => {
+      item.addEventListener('click', async () => {
+        const detail = item.querySelector('.buzon-detail');
+        const isOpen = !detail.hidden;
+
+        // Cerrar todos los demás
+        container.querySelectorAll('.buzon-detail').forEach(d => d.hidden = true);
+        container.querySelectorAll('.buzon-item').forEach(i => {
+          i.style.background = '';
+        });
+
+        if (!isOpen) {
+          detail.hidden = false;
+          item.style.background = 'var(--bg-muted)';
+          const id = item.getAttribute('data-id');
+          try {
+            await markNewsletterRead(id);
+            item.classList.remove('buzon-item--unread');
+            const dot = item.querySelector('h3');
+            if (dot) dot.textContent = dot.textContent.replace('● ', '');
+            updateBuzonBadge();
+          } catch (e) { /* noop */ }
+        }
+      });
+    });
+
+    // Marcar todas leídas
+    const markAllBtn = document.getElementById('buzon-mark-all-read');
+    if (markAllBtn) {
+      markAllBtn.addEventListener('click', async (e) => {
+        e.stopPropagation();
+        try {
+          await markAllNewslettersRead();
+          container.querySelectorAll('.buzon-item--unread').forEach(i => {
+            i.classList.remove('buzon-item--unread');
+            const h3 = i.querySelector('h3');
+            if (h3) h3.textContent = h3.textContent.replace('● ', '');
+          });
+          updateBuzonBadge();
+          markAllBtn.remove();
+        } catch (err) { /* noop */ }
+      });
+    }
+
+  } catch (e) {
+    container.innerHTML = `
+      <div style="text-align:center;padding:var(--sp-7);color:var(--alert);">
+        <p>Error al cargar el buzón.</p>
+        <p style="font-size:var(--fs-xs);">${ESC(e.message || 'Error desconocido')}</p>
+        <button type="button" onclick="location.reload()" style="margin-top:var(--sp-3);padding:6px 16px;background:var(--accent);color:#fff;border:none;border-radius:6px;cursor:pointer;">Recargar</button>
+      </div>`;
+  }
+}
+
+// Badge en sidebar con contador de no leídas
+async function updateBuzonBadge() {
+  const badge = document.getElementById('buzon-badge');
+  if (!badge) return;
+  try {
+    const count = await countUnread();
+    if (count > 0) {
+      badge.textContent = count;
+      badge.hidden = false;
+    } else {
+      badge.hidden = true;
+    }
+  } catch (e) {
+    badge.hidden = true;
+  }
+}
+
+async function initBuzon() {
+  const container = document.getElementById('newsletter-inbox');
+  if (!container) return;
+
+  const user = getCurrentUser();
+  if (!user) {
+    container.innerHTML = `
+      <div style="text-align:center;padding:var(--sp-7);color:var(--ink-soft);">
+        <p>Inicia sesión para ver tu buzón de entrada.</p>
+        <a href="login.html" style="display:inline-block;margin-top:var(--sp-3);padding:var(--sp-3) var(--sp-5);background:var(--accent);color:#fff;text-decoration:none;border-radius:6px;font-weight:600;">Iniciar sesión</a>
+      </div>`;
+    return;
+  }
+
+  await renderBuzonList(container);
+  await updateBuzonBadge();
+}
+
 // Main init
 async function init() {
   applyAuthGate();
@@ -876,6 +1101,8 @@ async function init() {
           await initCourseProgress();
           await initGlobalProgress();
           await initItinerary();
+          await initBuzon();
+          await updateBuzonBadge();
         })();
       }
     } else {

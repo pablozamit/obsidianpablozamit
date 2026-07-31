@@ -55,12 +55,12 @@ function ratingLabel(r) {
     if (r >= 3) return "Básico";
     return "Bajo";
 }
-const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, currentSlug = '', toc = '', isSearch = false, is404 = false, isCategories = false, isItinerarios = false, isImprescindibles = false, metaDesc = '', currentRating = null, noteType = '', categoria = '') => {
+const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, currentSlug = '', toc = '', isSearch = false, is404 = false, isCategories = false, isItinerarios = false, isImprescindibles = false, isBuzon = false, metaDesc = '', currentRating = null, noteType = '', categoria = '') => {
     // Agrupa la sidebar por letra inicial y marca el item actual
     const grouped = {};
     const fold = (s) => (s || '').toString().normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
     for (const n of allNotes) {
-        if (n.slug === 'index.html' || n.slug === 'buscar.html' || n.slug === '404.html' || n.slug === 'itinerarios.html' || n.slug === 'categorias.html' || n.slug === 'imprescindibles.html') continue;
+        if (n.slug === 'index.html' || n.slug === 'buscar.html' || n.slug === '404.html' || n.slug === 'itinerarios.html' || n.slug === 'categorias.html' || n.slug === 'imprescindibles.html' || n.slug === 'buzon-de-entrada.html') continue;
         const first = fold(n.title).charAt(0).toUpperCase() || '#';
         if (!grouped[first]) grouped[first] = [];
         grouped[first].push(n);
@@ -84,7 +84,7 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
            </section>`
         : '';
 
-    const likeSection = (!isHome && !isSearch && !is404 && !isItinerarios && !isCategories && !isImprescindibles && currentSlug)
+    const likeSection = (!isHome && !isSearch && !is404 && !isItinerarios && !isCategories && !isImprescindibles && !isBuzon && currentSlug)
         ? `<section class="like-section" data-slug="${currentSlug}" aria-label="Votar por esta nota">
             <span class="like-label">¿Te sirvió esta nota?</span>
             <button class="like-btn like-btn-up" data-vote="like" type="button" aria-label="Voto positivo">
@@ -572,6 +572,10 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
             font-size: var(--fs-sm);
         }
         .backlinks-list li { margin-bottom: var(--sp-2); }
+
+        /* === Buzón de entrada === */
+        main.is-buzon #main-content { max-width: 900px; }
+        main.is-buzon article { max-width: none; }
 
         /* === Botón menú (solo móvil) === */
         #menu-toggle {
@@ -1771,6 +1775,7 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
             <div id="auth-widget"></div>
             <a href="como-funciona-la-enciclopedia.html" id="guia-link" class="sidebar-pinned-link">📖 Cómo funciona</a>
             <a href="perfil.html" id="perfil-link" class="sidebar-pinned-link">👤 Mi perfil</a>
+            <a href="buzon-de-entrada.html" id="buzon-link" class="sidebar-pinned-link">📬 Buzón <span id="buzon-badge" style="display:inline-block;min-width:18px;padding:1px 5px;background:var(--accent);color:#fff;font-size:var(--fs-xs);font-weight:700;border-radius:10px;text-align:center;line-height:1.3;margin-left:4px;" hidden>0</span></a>
             <a href="categorias.html" id="categorias-link">Categorías</a>
             <a href="imprescindibles.html" id="top-ratings-link">Top ratings</a>
             <div class="sidebar-sticky-area">
@@ -1781,7 +1786,7 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
             </nav>
         </div>
     </aside>
-    <main id="main-content" class="${isHome ? 'is-home' : isSearch ? 'is-search' : is404 ? 'is-404' : isCategories ? 'is-categories' : isItinerarios ? 'is-itinerarios' : isImprescindibles ? 'is-imprescindibles' : ''}">
+    <main id="main-content" class="${isHome ? 'is-home' : isSearch ? 'is-search' : is404 ? 'is-404' : isCategories ? 'is-categories' : isItinerarios ? 'is-itinerarios' : isImprescindibles ? 'is-imprescindibles' : isBuzon ? 'is-buzon' : ''}">
         <div class="article-wrapper${toc ? ' has-toc' : ''}">
             ${toc}
             <article data-note-type="${noteType}" data-categoria="${categoria}">
@@ -1794,12 +1799,13 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
                 ` : ""}
                 ${content}
             </article>
+            ${isBuzon ? `<div id="newsletter-inbox" data-view="list"></div>` : ''}
         </div>
         ${likeSection}
-        ${!isHome && !isSearch && !is404 && !isCategories && !isItinerarios && !isImprescindibles && currentSlug ? `<div id="favorite-section"></div>` : ''}
-        ${!isHome && !isSearch && !is404 && !isCategories && !isItinerarios && !isImprescindibles && currentSlug ? `<div id="annotation-section"></div>` : ''}
-        ${(!isHome && !isSearch && !is404 && !isCategories && !isItinerarios && !isImprescindibles && currentSlug && noteType === 'leccion') ? `<div id="course-progress-section"></div>` : ''}
-        ${!isHome && !isSearch && !is404 && !isCategories && !isItinerarios && !isImprescindibles && currentSlug ? `<div class="itinerary-cta"><a href="itinerarios.html?from=${currentSlug}" class="btn-itinerary">🗺️ Crear itinerario desde esta nota</a></div>` : ''}
+        ${!isHome && !isSearch && !is404 && !isCategories && !isItinerarios && !isImprescindibles && !isBuzon && currentSlug ? `<div id="favorite-section"></div>` : ''}
+        ${!isHome && !isSearch && !is404 && !isCategories && !isItinerarios && !isImprescindibles && !isBuzon && currentSlug ? `<div id="annotation-section"></div>` : ''}
+        ${(!isHome && !isSearch && !is404 && !isCategories && !isItinerarios && !isImprescindibles && !isBuzon && currentSlug && noteType === 'leccion') ? `<div id="course-progress-section"></div>` : ''}
+        ${!isHome && !isSearch && !is404 && !isCategories && !isItinerarios && !isImprescindibles && !isBuzon && currentSlug ? `<div class="itinerary-cta"><a href="itinerarios.html?from=${currentSlug}" class="btn-itinerary">🗺️ Crear itinerario desde esta nota</a></div>` : ''}
         ${backlinkSection}
     </main>
 
@@ -2768,6 +2774,8 @@ async function build() {
                 if (stat.isFile()) {
                     const ext = path.extname(item).toLowerCase();
                     if (ext === '.md') {
+                        // Ignorar archivos de _session/ y docs/ (no son contenido público)
+                        if (itemPath.includes('\\_session\\') || itemPath.includes('/_session/') || itemPath.includes('\\docs\\') || itemPath.includes('/docs/')) continue;
                         mdFiles.push({ path: itemPath, name: item });
                     } else if (['.png', '.jpg', '.jpeg', '.webp', '.gif', '.svg'].includes(ext)) {
                         imageFiles.push({ path: itemPath, name: item });
@@ -2898,7 +2906,8 @@ async function build() {
             const htmlContent = marked.parse(content, { renderer });
             const toc = buildToc(htmlContent);
             const backlinks = backlinksMap[note.slug] ? Array.from(backlinksMap[note.slug]) : [];
-            const finalHtml = htmlTemplate(note.title, htmlContent, notes, backlinks, false, note.slug, toc, false, false, false, false, false, getMetaDescription(note.content, note.title), note.rating, (note.frontmatter && note.frontmatter.tipo) || '', (note.frontmatter && note.frontmatter.categoria) || '');
+            const isBuzon = note.frontmatter && note.frontmatter.tipo === 'buzon';
+            const finalHtml = htmlTemplate(note.title, htmlContent, notes, backlinks, false, note.slug, toc, false, false, false, false, false, isBuzon, getMetaDescription(note.content, note.title), note.rating, (note.frontmatter && note.frontmatter.tipo) || '', (note.frontmatter && note.frontmatter.categoria) || '');
 
             await fs.writeFile(path.join(DIST_DIR, note.slug), finalHtml);
         }
