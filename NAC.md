@@ -185,6 +185,58 @@ Forma esterificada de [[Acetilcisteína|NAC]] con propiedades significativamente
 
 **GlyNAC vs NACET**: GlyNAC (NAC + glicina) aporta un cofactor para la síntesis de glutatión, pero no resuelve los problemas fundamentales de biodisponibilidad y penetración del NAC (Bio.Science @1BioScience, 23 feb 2026).
 
+## NAC y alcohol: momento crítico
+
+**Regla establecida**: NAC antes del alcohol reduce o previene el daño hepático. NAC después del alcohol **lo aumenta** (@e_cdalton, 27 jul 2026). Mecanismo: NAC es precursor de glutatión, que el hígado necesita para metabolizar el alcohol. Si se toma antes, el hígado tiene glutatión disponible. Si se toma después, la movilización masiva de toxinas (reacción de Herxheimer) puede sobrecargar el hígado.
+
+## NAC y sueño
+
+NAC puede afectar negativamente al sueño. Se recomienda tomarlo temprano en el día y evitar la noche (@btplebt, 27 jul 2026). La [[Glicina|glicina]] es mejor opción 1-2 horas antes de dormir.
+
+### Estrategia circadianamente óptima (@BasedInHealth)
+- **Mañana**: NAC (apoya glutatión, detox hepático, fase catabólica del día)
+- **Noche**: [[Glicina|glicina]] (neurotransmisor inhibidor, promueve sueño profundo, fase anabólica/regenerativa)
+
+## GlyNAC (NAC + Glicina) — Ensayos clínicos Baylor
+
+El cardiólogo Dr. Afshine Emrani (@afshineemrani, 24 jul 2026) reporta que dos de los aminoácidos más baratos — glicina y NAC (GlyNAC) — lograron en ensayos clínicos de Baylor resultados que ningún fármaco de longevidad caro ha igualado. El mecanismo central: ambos son precursores rate-limiting del [[Glutatión|glutation]], el antioxidante maestro del hígado.
+
+**Resultados en ratones envejecidos**: extensión de vida del **24%**.
+
+**Resultados en humanos mayores** (RCT, doble ciego, placebo, Baylor College of Medicine, 16 semanas):
+- [[Glutatión|Glutatión]] restaurado a rangos juveniles
+- Estrés oxidativo y peroxidación lipídica reducidos drásticamente
+- Función mitocondrial reparada: más oxidación de grasas, mejor energía celular
+- [[Resistencia a la insulina]] mejorada
+- Inflamación reducida (IL-6, TNF-alfa, hs-CRP — los marcadores exactos que se siguen en cardiología)
+- Función endotelial mejorada
+- Daño oxidativo al ADN y degradación muscular reducidos
+- **Grasa corporal ↓, fuerza ↑**
+- Puntuaciones cognitivas mejoradas (velocidad de procesamiento, función ejecutiva)
+- Capacidad de ejercicio mejorada
+- **Velocidad de marcha mejorada** (predictor de supervivencia en mayores)
+- Tras 16-24 semanas, algunos marcadores de adultos mayores eran **estadísticamente indistinguibles de adultos jóvenes**
+
+**Dosis del ensayo**: ~100 mg/kg/día de cada uno. Para un adulto de 70 kg: ~7 g de glicina + 7 g de NAC al día, divididos en varias tomas. No alcanzable desde la dieta.
+
+**Mecanismo "Power of 3"** (Sekhar): glicina + cisteína → [[Glutatión|glutation]]. La producción de glutatión colapsa con la edad porque ambos precursores escasean. NAC solo no cubre el déficit de glicina; glicina sola no cubre el de cisteína. Suministrar ambos reinicia la fábrica.
+
+**Caveats honestos**:
+- Ensayos pequeños (decenas, no miles)
+- Efectos más fuertes en mayores con deficiencia documentada de glutatión; un adulto joven sano puede notar poco
+- Datos de lifespan son en ratones
+- **Al dejar de tomarlo, los beneficios se desvanecen en ~12 semanas** — es mantenimiento, no cura
+- NAC puede causar molestias GI
+- Consultar al médico si se toman nitratos, anticoagulantes o hay enfermedad renal
+
+### Precauciones adicionales con NAC solo (@stargazer / @bronzeagrindset, 27 jul 2026)
+
+NAC solo (sin glicina) puede tener potencial tóxico, supresor tiroideo y pro-estrés. La cisteína libre en exceso:
+- **Inhibe la peroxidasa tiroidea** (TPO) directamente, pudiendo afectar la función tiroidea
+- **Eleva vías de estrés** si circula libre sin ser tamponada
+
+La glicina fuerza a la cisteína a ser empaquetada de forma segura en [[Glutatión|glutation]] en lugar de flotar libre. Por eso la combinación GlyNAC es superior al NAC solo — neutraliza este riesgo y dirige la cisteína a la vía productiva.
+
 ## Reversión de daño cerebral por aluminio
 
 Un estudio crítico mostró que el NAC revierte el daño cerebral inducido por aluminio en animales. Ratas expuestas a cloruro de aluminio oral (solo ~0.5% se absorbe) mostraron deterioro severo de la memoria.

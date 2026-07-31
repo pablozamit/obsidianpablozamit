@@ -56,13 +56,28 @@ La vitamina E aumenta el tamaño testicular — y esto va más allá de lo esté
 
 **Conclusión práctica**: la vitamina E y el aceite de oliva son **complementos razonables** al protocolo de cuidado capilar, especialmente para reducir el estrés oxidativo del folículo y mejorar la salud del tallo. **No reemplazan** a finasteride/minoxidil en alopecia androgenética moderada-severa. Ver [[Alopecia#Vitamina E vs Finasteride]].
 
+# El ratio alfa-gamma importa (@Hoostethics, jul 2026)
+
+La calidad de un suplemento de vitamina E depende críticamente del **ratio entre alfa-tocoferol y gamma-tocoferol** (@Hoostethics, 27-28 jul 2026):
+
+- **Gamma y delta** son los responsables de la mayoría de los beneficios destacados de la vitamina E
+- **Alpha-dominant** (más alfa que gamma): el alfa **desplaza y desplaza** a los otros tocoferoles, anulando sus beneficios
+- **Ratio ideal**: gamma debe ser el dominante. @anabology vende una vitamina E rica en gamma-tocoferol con ratio ~5:1 (gamma:alfa)
+- Señal de baja calidad: líquido **fino y amarillo** = diluido
+
+**Qué hace realmente la vitamina E** (@Hoostethics, 27 jul 2026):
+- Soporta salud testicular, motilidad espermática y fertilidad
+- Mejora la apariencia de cicatrices y estrías (aplicación tópica)
+- Combate los efectos oxidativos de los [[PUFA|aceites de semilla]]
+- Protege la piel
+
 # Errores comunes en la suplementación
 
 Muchos suplementos de vitamina E son ineficaces para optimizar las hormonas masculinas por las siguientes razones:
 
 - **Solo Alfa-tocoferol**: Provee una señal incompleta.
 - **Aceite de germen de trigo**: Contiene un exceso de **[[PUFA]]** (ácidos grasos poliinsaturados) y una concentración insuficiente de vitamina E activa.
-- **Alto contenido en Gamma-tocoferol**: Aunque es un excelente antiinflamatorio, no tiene efecto sobre la **esteroidogénesis** (producción de hormonas esteroideas).
+- **Alto contenido en Gamma-tocoferol**: Aunque es un excelente antiinflamatorio, no tiene efecto sobre la **esteroidogénesis** (producción de hormonas esteroideas). **Caveat**: el gamma es dominante para los beneficios no esteroidogénicos (antiinflamatorio, piel, testículo), por lo que un ratio equilibrado gamma:alfa es superior al alfa puro.
 
 # Ver también
 
@@ -78,6 +93,8 @@ Muchos suplementos de vitamina E son ineficaces para optimizar las hormonas masc
 - [[AGEs]]
 - [[Vitamina C]]
 - [[Antioxidantes]]
+- [[PUFA]]
+- [[Testosterona]]
 
 # Anti-glicación (periférica)
 

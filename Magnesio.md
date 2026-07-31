@@ -159,6 +159,19 @@ El **aceite de magnesio** (cloruro de magnesio en solución acuosa) es una alter
 
 **Marcas recomendadas**: Georgi's en [[DMSO]] (mejora absorción, @anomalie_blue). Alternativa más suave: baños de [[Sales de Epsom]] (sulfato de magnesio).
 
+## Magnesio citrato pre-ejercicio (protocolo ruck)
+
+Protocolo para marchas/caminatas largas donde se busca máxima hidratación y claridad mental sin paradas frecuentes (@LouisvilleGun, 28 jul 2026):
+
+1. Tomar una botella de **citrato de magnesio lo más fría posible**
+2. Beber entera rápidamente
+3. Seguir inmediatamente con **24-36 oz (710-1065 ml) de agua**
+4. Consumir **no más tarde de 30 minutos antes** de la marcha
+
+**Mecanismo**: la mayoría de personas tienen deficiencia de magnesio. Una carga rápida de citrato + agua antes del esfuerzo asegura hidratación celular y función neuromuscular óptimas durante ejercicios de larga duración (> 90 min). El magnesio actúa como antagonista de NMDA, previniendo la fatiga mental y manteniendo claridad cognitiva bajo estrés físico prolongado.
+
+**Caveat**: el efecto laxante del citrato de magnesio en dosis altas es individual — probar fuera de un evento importante.
+
 ## Magnesio y control eyaculatorio
 
 @_aestheticprimal_ (30 sept 2025) lleva la suplementación de magnesio al rango **1 g elemental/día** específicamente para abordar la [[Eyaculación precoz|eyaculación precoz]] desde un ángulo neurovegetativo:

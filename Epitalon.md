@@ -133,6 +133,32 @@ La combinación de **Epitalon + [[Pinealon]]** tomada por la **mañana** ha most
 
 > Epitalon es **el péptido "anti-aging" más famoso del biohack** y el único con pretensiones de Telomerasa]-activador. Caveat importante: la evidencia es **mayoritariamente del grupo de Khavinson** y poco replicada independientemente. Los efectos sobre [[Sueño]], Reloj circadiano] y Antioxidante] son los más consistentes; el efecto sobre telómeros en humanos es **prometedor pero no demostrado**. Para biohackers experimentados, los protocolos de 2 ciclos al año son populares, pero la inversión significativa en péptidos bioreguladores sin aprobación FDA/EMA es difícil de justificar. Thymalin] es el segundo péptido Khavinson más popular, y la combinación **Epitalon + Thymalin** se administra en clínicas antienvejecimiento rusas. La promesa de "alargar telómeros" es cautivadora pero requiere estudios independientes en humanos.
 
+## Problema de pureza: Trifluoroacetato (TFA) vs Acetato (@BowTiedUM, 27 jul 2026)
+
+**Aviso grave para compradores**: gran parte del epitalon de proveedores chinos es **epitalon trifluoroacetato**, no acetato. El TFA constituye ~40% de la molécula, produce plegamiento parcial incorrecto del péptido y tiene propiedades tóxicas. Muchos reportes anecdóticos de efectos nulos o negativos pueden deberse a esto.
+
+**Especificaciones correctas** (preguntar al proveedor y **verificar de forma independiente**):
+- Epitalon **ACETATO** (no TFA, ni trazas)
+- Secuencia exacta: H-Ala-Glu-Asp-Gly-OH
+- HPLC de intercambio aniónico
+- >98% pureza por RP-HPLC UV analítica
+- Confirmación ESI-MS
+- Contenido peptídico neto por AAA (no inferido del peso bruto)
+- Cromatografía iónica con detección por conductividad (TFA reportado como % w/w y equivalentes molares; debe estar por debajo del límite de cuantificación o ausente)
+- Contenido de agua
+- Envío a -20°C con contenedores fotoprotectores
+
+**Panel mínimo para confirmar calidad**:
+1. RP-HPLC-UV (pureza)
+2. ESI-MS (identidad)
+3. AAA (composición)
+4. IC (contraión — crítico para distinguir acetato de TFA)
+5. Análisis elemental de N (contenido neto)
+6. HPLC quiral (asegurar que no hay contaminación D)
+7. Ensayo TRAP (capacidad antioxidante real)
+
+**Nota**: ni Finnrick ni Janoshik incluyen IC por defecto, lo que significa que el contraión no se analiza y la confusión TFA/acetato pasa desapercibida.
+
 ## Ver también
 
 - [[Péptidos bioreguladores]]

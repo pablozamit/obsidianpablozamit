@@ -1,8 +1,12 @@
+# Inositol (Mio-Inositol / Vitamina B8)
+
 ## Prediabetes y como sustituto del azúcar
 
 Bryce Hanna (@photobiogenesis, 13 jun 2026) reporta el caso de su madre: diagnosticada con prediabetes y aumento de grasa visceral, comenzó a usar inositol como sustituto del azúcar. Sus marcadores sanguíneos volvieron al rango normal.
 
 También llamado [[Vitamina B|vitamina B8]], aunque estrictamente no es una [[Vitamina|vitamina]] (?).
+
+**Resumen** (@aestheticprimal, 28 jul 2026): el inositol es el suplemento más pasado por alto. Bueno para tiroides, metabolismo de glucosa, estado de ánimo, corrige pensamientos/conductas repetitivas negativas, ayuda al sueño, neuroprotector. Precio ~$70-80/kg (€25/kg en Países Bajos, marca Woelé). Sabor dulce natural — se mezcla bien con cualquier cosa.
 
 También influye en la acción de la [[Insulina|insulina]], una [[Hormona|hormona]] esencial para el control del [[Glucosa|azúcar]] en sangre. Además, afecta a los mensajeros químicos en tu [[Cerebro|cerebro]], como la [[Serotonina|serotonina]] y la [[Dopamina|dopamina]].
 
@@ -21,7 +25,23 @@ Además de su papel en la regulación hormonal, el inositol es un componente cla
 
 Se ha demostrado que la suplementación con mio-inositol puede tener efectos similares a los [[Inhibidores de la recaptación de la serotonina|inhibidores selectivos de la recaptación de serotonina (ISRS)]] en la [[Depresión|depresión]] y el trastorno de [[Ansiedad|ansiedad]] generalizada.
 
-## [[TOC]]
+## Tiroides (TSH y biosíntesis de T4)
+
+El inositol es una de las pocas sustancias que puede reducir los niveles de **TSH** de forma muy efectiva, mejorando la sensibilidad del tirocito a la TSH. Además, **favorece la biosíntesis de T4** al hacer más eficiente la organificación del yodo. Herramienta infravalorada para la salud tiroidea (@aestheticprimal, 28 jul 2026).
+
+## Dosis recomendada (@aestheticprimal)
+
+- **Dosis alta**: 5 g, 3× al día (15 g/día total)
+- **Repartir** las tomas con tiempo entre ellas por el efecto en el tracto digestivo
+- Alternativa: 3 g, 5× al día si hay molestias digestivas
+- Polvo de sabor dulce — se mezcla bien en zumo de naranja
+
+## Fuentes naturales
+
+- **Leche de cabra**: fuente rica en inositol
+- **Zumo de naranja**: fuente natural, también buen vehículo para suplementar
+
+[[TOC]]
 
 18 gramos al día fueron efectivos, sin efectos secundarios.
 

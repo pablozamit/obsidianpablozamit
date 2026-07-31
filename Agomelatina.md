@@ -25,6 +25,12 @@ La agomelatina se distingue de otros antidepresivos por su mecanismo de acción 
 -   **Poblaciones Especiales:** No se recomienda su uso en menores de 18 años ni en ancianos mayores de 75 años. Se debe tener precaución en pacientes con [[Insuficiencia renal]] moderada o grave.
 -   **No Proconvulsivante:** Los estudios no han mostrado propiedades proconvulsivantes.
 
+## Consideraciones Adicionales (@gaezpeat, 27 jul 2026)
+
+- **↑Dopamina en corteza frontal**: a diferencia de otros antidepresivos, la agomelatina aumenta dopamina en corteza frontal vía antagonismo 5-HT2C
+- **Perfil superior a ISRS**: efectos antidepresivos comparables o mejores que ISRS sin los efectos secundarios "repugnantes" (disfunción sexual, aumento de peso, embotamiento emocional)
+- **Raíz circadiana**: su eficacia refuerza la hipótesis de que gran parte de la depresión tiene origen en ritmos circadianos alterados — la agomelatina actúa desde la raíz, no sobre síntomas downstream
+
 ## Notas Relacionadas
 - [[Melatonina]]
 - [[Ritmos circadianos]]

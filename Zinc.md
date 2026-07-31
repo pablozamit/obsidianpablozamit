@@ -171,6 +171,35 @@ El zinc tiene un papel relevante en la fisiopatología y el tratamiento de la **
 
 > *—Dalton @Outdoctrination (hilo sobre zinc y depresión, 2026)*
 
+## Zinc y pérdida de peso (@Outdoctrination, 26 jul 2026)
+
+Un RCT con 15 semanas, ~300 kcal de déficit, 30 mg de zinc (sulfato) vs placebo en adultos con sobrepeso/obesidad:
+
+| Medida | Grupo zinc vs placebo |
+|---|---|
+| Pérdida de peso | ~3× más |
+| Reducción cintura | ~3× más |
+| Reducción cadera | ~10× más |
+| Inflamación (PCR) | Reducida |
+| Glucemia | Reducida |
+| Insulina | Reducida |
+| Apetito | Reducido |
+
+**Mecanismo propuesto**: el zinc actúa sobre el **sistema melanocortínico central**:
+- **↓ Neuropéptido Y** (NPY) — el NPY estimula apetito y reduce quema de grasas
+- **↑ Síntesis y señalización de leptina** — la leptina reduce apetito y aumenta oxidación de grasas
+
+**Otros mecanismos del zinc que impactan composición corporal**:
+- Esencial para la acción de la [[Hormonas tiroideas|hormona tiroidea]]
+- Necesario para la síntesis de andrógenos ([[Testosterona]])
+- Reduce inflamación (directamente pro-adipogénica)
+- Reduce [[Cortisol]] (directamente pro-adipogénico)
+- Efectos mitocondriales
+
+**Confirmación meta-analítica**: el zinc ayuda a ganar peso en pacientes en diálisis (bajo peso) pero ayuda a *perder* peso en personas con sobrepeso/obesidad — efecto diferencial según estado basal.
+
+**Dosis**: 30 mg/día de zinc elemental (sulfato en el estudio; bisglicinato bien absorbido). No mantener dosis altas a largo plazo.
+
 ## Suplementos de alimentos integrales
 
 El zinc de **ostras deshidratadas** (ej. Befrtil Oyster Zn) es una alternativa a las formas aisladas (gluconato, picolinato, etc.). Ventaja: la matriz natural de la ostra aporta [[Cobre]], [[Selenio]] y otros cofactores que pueden mejorar el perfil de absorción y reducir el riesgo de desbalance Zn/Cu (@CookingWithChris, 30 jun 2026). Ver [[Suplementos#Suplementos basados en alimentos naturales (whole-food supplements)]].

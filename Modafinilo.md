@@ -19,12 +19,23 @@ Revisión de Oxford (2015) sobre 25 años de estudios: mejora significativa de a
 
 | Modafinilo | Armodafinilo |
 |---|---|
-| Mezcla racémica (R + S) | Solo isómero R |
+| Mezcla racémica (50% R + 50% S) | Solo isómero R (puro) |
 | 200 mg dosis estándar | 150 mg dosis estándar |
 | Vida media ~12-15 h | Concentraciones plasmáticas más altas al final del día |
 | Mejor para la mayoría | Más intenso, mejor para metabolizadores rápidos CYP2C19 |
 
-La respuesta depende de la genética individual de CYP2C19. La única forma de saber cuál funciona mejor es probar ambos.
+La respuesta depende de la genética individual de CYP2C19. Sin embargo, hay una diferencia más crítica (@biohackerziv, 26 jul 2026):
+
+**El problema del isómero S**:
+- El S-modafinilo tiene vida media corta (3-4 h), menor afinidad por DAT, pero alcanza una **Cmax significativamente más alta**
+- Este pico rápido de concentración desencadena **reactividad de mastocitos** y liberación periférica de histamina → ronchas cutáneas, rinitis, inflamación localizada
+- El S-enantiomo "weaponiza" el eje dopamina-histamina: al unirse débilmente a DAT, compensa estimulando histamina central vía núcleo tuberomamilar (TMN), lo que añade histamina periférica por estrés metabólico del metabolismo rápido
+
+**Para personas con sensibilidad a histamina** (MCAS, DAO deficiente, HNMT metilación pobre): el modafinilo racémico se vuelve contraproducente — el exceso de histamina cruza a neuroinflamación, produciendo niebla mental, ansiedad periférica, y pensamiento disperso que **anula el beneficio dopaminérgico**.
+
+**Genética DAT1 (10R/10R)**: individuos con este genotipo expresan mayor densidad de transportadores de dopamina, "aspirando" dopamina de la sinapsis. Para ellos, el armodafinilo (3× más potente en DAT) es un "cheat code" bioquímico — bloquea el excedente de transportadores y produce una estabilización masiva de dopamina sináptica.
+
+**Conclusión práctica**: para trabajo profundo, ADHD y enfoque cognitivo → **Armodafinilo**. Para consumo ocasional sin sensibilidad a histamina → Modafinilo sirve. Si modafinilo produce sensación de "wired pero disperso" con ansiedad, el problema no es la dosis sino el isómero S — cambiar a armodafinilo. @biohackerziv reporta que modafinilo 50 mg ya causa problemas histamínicos, mientras armodafinilo 50-75 mg no; a 150 mg armodafinilo sí estimula histamina ligeramente (menos que modafinilo 50 mg).
 
 ## Dosis y timing
 

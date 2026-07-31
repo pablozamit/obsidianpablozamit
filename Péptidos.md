@@ -70,6 +70,12 @@ Péptidos basados en la incretina GLP-1. Aprobados para diabetes tipo 2 y obesid
 - Liraglutida — Saxenda®, Victoza®; precursor.
 - Exenatida — Byetta®; primer agonista GLP-1 aprobado.
 
+### 3b. Agonistas de amilina (nueva generación)
+
+Péptidos que actúan sobre receptores de amilina (no GLP-1). Producen saciedad postprandial al ralentizar el vaciado gástrico y señalizar al cerebro que el cuerpo está lleno.
+
+- **Eloralintide** — agonista selectivo del receptor de amilina. En pre-clínicos supera a [[Semaglutida]] en saciedad post-comida. Pérdida de peso media: ~20 lbs en 48 semanas (Reptides @reptidesco, 28 jul 2026). **Caveat**: efectos GI/náusea más pronunciados que retatrutida. 6.7% de participantes reportaron pérdida de cabello.
+
 ### 4. Análogos de MSH y melanocortinas
 
 Modulan el receptor de melanocortinas (MC1R, MC3R, MC4R, MC5R). Efectos: pigmentación, líbido, comportamiento sexual, homeostasis energética.
@@ -111,6 +117,12 @@ Clase promovida por el gerontólogo ruso Vladimir Khavinson como "reguladores de
 - [[Thymosin Alpha-1]] (Tα1) — péptido tímico aprobado en algunos países (Italia, China) como adyuvante inmune en hepatitis B y cáncer.
 - Gonadorelina (GnRH) — péptido natural, usado clínicamente para hipogonadismo.
 
+### 8. Péptidos mitocondriales
+
+Péptidos sintéticos diseñados para actuar sobre la membrana mitocondrial interna, donde se produce la mayor parte del ATP celular. A diferencia de la mayoría de compuestos que actúan en el citoplasma, estos péptidos se concentran >1.000× en la membrana mitocondrial interna, actuando directamente sobre la fuente de energía.
+
+- **SS-31 (Elamipretide)**: péptido sintético que se concentra >1.000× en la membrana mitocondrial interna. Cuenta con **18 ensayos clínicos humanos** para insuficiencia cardíaca, enfermedad muscular y enfermedades genéticas raras (@tyler_smith, 27 jul 2026). Efecto reportado más destacado: mejora drástica en recuperación física post-ejercicio. Aún no aprobado por FDA.
+
 ## Lista alfabética de péptidos en el vault
 
 | Péptido | Categoría | Estado regulatorio | Nota |
@@ -120,6 +132,7 @@ Clase promovida por el gerontólogo ruso Vladimir Khavinson como "reguladores de
 | [[Bremelanotida]] | MSH | FDA aprobado (Vyleesi®) | Líbido femenino |
 | Cerebrolysin | Reparador/nootrópico | Aprobado en algunos países (Austria, Rusia) | Ictus, demencia |
 | [[CJC-1295]] | Secretagogo GH | Gray market | Pulsátil vs. DAC |
+| Eloralintide | Amilina | Pre-clínico | Saciedad post-comida, -20 lbs/48 sem |
 | [[Epitalon]] | Bioregulador | No aprobado | Khavinson, telomerasa |
 | Folistatina 344 | Miostatina | Research chemical | Hipertrofia |
 | [[GHK-Cu]] | Reparador | Cosmético aprobado | Cobre, anti-aging cutáneo |
@@ -131,6 +144,7 @@ Clase promovida por el gerontólogo ruso Vladimir Khavinson como "reguladores de
 | MGF | Reparador muscular | Research chemical | Local post-ejercicio |
 | [[Semaglutida]] | GLP-1 | FDA/EMA aprobado | Obesidad/DM2 |
 | [[Selank]] | Nootrópico | Rusia, gray market | Ansiolítico |
+| SS-31 (Elamipretide) | Mitocondrial | Pre-clínico | 18 RCTs en insuficiencia cardíaca, enfermedad muscular, enfermedades genéticas raras |
 | [[Semax]] | Nootrópico | Rusia, gray market | BDNF, neuroprotección |
 | [[Tesamorelin]] | Secretagogo GH | FDA aprobado (Egrifta®) | Lipodistrofia VIH |
 | [[Tirzepatida]] | GLP-1/GIP | FDA/EMA aprobado (Mounjaro®) | Dual incretina |

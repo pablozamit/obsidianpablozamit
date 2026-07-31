@@ -113,6 +113,19 @@ La DHT se convierte en **3b-diol** (3b-androstanediol), un metabolito que actúa
 
 [[Glicina]] → potencia 5-alfa-reductasa → más testosterona → DHT → más **3b-diol** → activación GABA-A → retraso eyaculatorio
 
+### GABA exógeno vs L-Teanina (EEG)
+
+Un estudio con 13 voluntarios japoneses comparó **100 mg GABA** vs **200 mg L-teanina** mediante EEG (@oxidativestate, 27 jul 2026):
+
+| Parámetro | GABA | L-Teanina |
+|---|---|---|
+| ↑ Ondas alfa (8-13 Hz, relajación) | Mayor incremento | Moderado |
+| ↓ Ondas beta (> 13 Hz, alerta/excitación) | Mayor reducción | Moderada |
+
+Ambos compuestos son efectivos como factores inhibitorios. GABA mostró mayor potencia por miligramo en este estudio, sugiriendo que cierta cantidad de GABA exógeno sí atraviesa la [[Barrera hematoencefálica|BHE]] o actúa vía periférica (nervio vago, intestino).
+
+**Nota práctica**: el GABA fermentado en té (GABA tea) combina GABA + [[Teanina|L-teanina]] + [[Cafeína]], produciendo un estado de "calma enfocada" difícil de replicar con suplementos individuales. El GABA exógeno puede tener efectos más notables de los que sugiere la narrativa popular ("no atraviesa la BHE").
+
 ### GABA-A vs GABA-B
 
 La mayoría de compuestos GABAérgicos actúan sobre el receptor **GABA-A** (canal iónico de acción rápida). El [[Baclofeno]] actúa sobre **GABA-B** (acoplado a proteína G, acción más lenta y prolongada). GABA-A produce sedación/calma inmediata; GABA-B produce relajación muscular y deshinibición más sostenida.

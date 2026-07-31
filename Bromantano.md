@@ -136,6 +136,20 @@ Forma de Administración:
 - **Sublingual**: Colocar polvo bajo la lengua durante 1-2 minutos antes de tragar; mayor bioavailabilidad, onset más rápido. Para mejorar absorción sublingual, disolver en aceite de coco (método anecdóticamente reportado como más efectivo que polvo puro)
     
 - **Tomar con grasas**: La lipofilicidad de bromantano mejora distribución tisular
+
+### Protocolo MCT Oil (@BasedBiohacker, 27 jul 2026)
+
+Bromantano es altamente lipofílico. Tomar el polvo seco produce absorción pobre e inconsistente — gran parte pasa sin absorberse. Disolverlo en **aceite MCT** forma micelas lipídicas que lo transportan por el sistema linfático, aumentando significativamente la biodisponibilidad y velocidad de onset. Bonus: los cuerpos cetónicos del MCT dan combustible limpio a las neuronas.
+
+**Preparación**:
+1. Bromantano no se disuelve bien en MCT frío (máx. ~10-15 mg/ml a temperatura ambiente)
+2. Aplicar calor: colocar el gotero o la cuchara en un baño de agua tibia (~50-60 °C) hasta que se disuelva en una solución clara
+3. Sostener sublingual 60-90 segundos antes de tragar con agua
+4. Para lotes grandes a largo plazo, añadir co-solvente (polisorbato 80 o ácido oleico) para mantenerlo disuelto establemente
+
+**Proveedores** (@BasedBiohacker):
+- US: kimera chems (código BASED para descuento)
+- EU: [[Euro-Nootropics|euro-nootropics.com]] (código BASED7)
     
 
 Farmacocinética Relevante:
