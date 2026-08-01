@@ -37,6 +37,30 @@ La respuesta depende de la genética individual de CYP2C19. Sin embargo, hay una
 
 **Conclusión práctica**: para trabajo profundo, ADHD y enfoque cognitivo → **Armodafinilo**. Para consumo ocasional sin sensibilidad a histamina → Modafinilo sirve. Si modafinilo produce sensación de "wired pero disperso" con ansiedad, el problema no es la dosis sino el isómero S — cambiar a armodafinilo. @biohackerziv reporta que modafinilo 50 mg ya causa problemas histamínicos, mientras armodafinilo 50-75 mg no; a 150 mg armodafinilo sí estimula histamina ligeramente (menos que modafinilo 50 mg).
 
+## Modafinilo vs Armodafinilo vs Flmodafinilo (@PGC1a_RB, 29 jul 2026)
+
+**Estructura química**:
+- **Modafinilo**: sulfinilacetamida racémica (mezcla 50/50 de enantiómeros R y S)
+- **Armodafinilo**: enantiómero R purificado
+- **Flmodafinilo (CRL-40,940)**: análogo bis(4-fluorofenil) — dos flúor añadidos en posición para de ambos anillos fenilo, aumentando lipofilicidad
+
+Los tres actúan primariamente como **inhibidores atípicos de la recaptación de dopamina (DAT)**, con efectos downstream sobre orexina, histamina y norepinefrina. No son diseños "radicalmente distintos".
+
+**Por qué modafinilo vs armodafinilo difieren entre personas**:
+- El modafinilo racémico tiene eliminación **bifásica**: el enantiómero S se elimina rápido (t½ ≈ 3-4 h), mientras el R persiste (t½ ≈ 13-15 h). El armodafinilo, al ser R puro, da cinética **monofásica** con 33-40% más AUC
+- Quienes necesitan alerta sostenida por la tarde/noche suelen reportar que armodafinilo "funciona mejor"; quienes son sensibles a la sobreestimulación o al insomnio pueden encontrar que armodafinilo se acumula demasiado al final del día
+- Sin embargo, los ensayos head-to-head no muestran diferencias dramáticas de eficacia — la variabilidad individual domina
+
+**Factores genéticos y enzimáticos**:
+- La mayor parte de la variabilidad "responder vs no responder" se atribuye a enzimas metabolizadoras y genética de receptores/transportadores, no al enantiómero elegido
+- **CYP2C19** maneja ~25-35% del aclaramiento del modafinilo; los metabolizadores rápidos/pobres de CYP2C19 ven diferencias notables entre formas
+- Genotipo **DAT1** (ver sección anterior): la densidad de transportadores de dopamina condiciona qué forma rinde más
+
+**Dónde flmodafinilo difiere mecanísticamente**:
+- La fluoración aumenta la lipofilicidad y la penetración de la [[Barrera hematoencefálica|BHE]] en modelos animales
+- Algunos reportes sugieren actividad a dosis más bajas con duración más larga que modafinilo
+- Sus farmacocinética humana y perfil CYP no están bien caracterizados — es la opción más "experimental" de las tres
+
 ## Dosis y timing
 
 - **Dosis**: 50-200 mg modafinilo / 75-150 mg armodafinilo

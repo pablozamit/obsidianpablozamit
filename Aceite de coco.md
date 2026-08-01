@@ -48,6 +48,17 @@ La digestibilidad de las grasas depende de la **longitud de cadena**, no de si s
 
 **Matiz** (@PerformanceProtocol): el ~50% del aceite de coco es **ácido láurico (C12)**, que se comporta parcialmente como LCT — recluta bilis y usa la ruta de quilomicrones, no el atajo portal. Los MCT puros (C8-C10) sí toman la vía portal directa.
 
+## Aceite de coco y pérdida de grasa (@Outdoctrination, 28 jul 2026)
+
+Un estudio usó **1 cucharada de aceite de coco al día durante 3 meses**, con dieta y ejercicio idénticos entre grupos — solo se añadió el aceite de coco:
+
+- Pérdida de peso
+- Reducción de cintura
+- Mejora de presión arterial
+- ↑ HDL ("colesterol bueno")
+
+**Mecanismo**: la potencia está en sus grasas de cadena media (MCT). Estas entran directamente a la mitocondria **sin necesitar el transportador CPT1**, por lo que se queman fácilmente como energía y casi nunca se almacenan como grasa. Estudios animales muestran que animales alimentados con aceite de coco tienen **metabolismo basal más alto**.
+
 ## Fuentes
 
 - Gupta, A., & Singh, R. K. (2010). *Coconut oil: A review of its role in the prevention and treatment of various disorders*. [Enlace](https://consensus.app/papers/coconut-earth-gupta/e7590553af0155a2afc07bf6e159f971/?utm_source=chatgpt)

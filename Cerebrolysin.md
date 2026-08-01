@@ -33,6 +33,7 @@ Bryan Johnson (@bryan_johnson, may-jun 2024) lo describe como "posiblemente el m
 
 - **Ryanrich (@BlueAnubis_)**: Ciclo 1: 1×5mL/día (lun-vie, finde off) × 4 semanas = 20 dosis. "This rocked!" Ciclo 2: 10mL/día × 18 días. "Too intense, would not recommend."
 - **Eric Raum (@ericraum)**: 10mL/día → bajó a 5mL tras 2 semanas por respuesta pseudo-gripal (probable respuesta inmune). 5mL/día × 30 días ha sido exitoso en cada ciclo.
+- **Morph (@doctormorphh, 29 jul 2026)**: 5 mL tras días de trabajo duro recupera el cerebro cansado más rápido que nada. Timming: 5 mL a las 20:00, dormir a las 23:00, despertar a las 6:00 listo para otras 16 horas. Antes lo ciclaba; ahora solo cuando lo necesita o cuando usa muchos estimulantes, duerme poco, etc.
 
 ## Protocolo
 
@@ -45,6 +46,7 @@ Bryan Johnson (@bryan_johnson, may-jun 2024) lo describe como "posiblemente el m
 
 ## Dónde conseguir
 
-- @OrientalBlau (según reporte de usuario)
+- @OrientalBlau (según reporte de usuario) — EU sourcing
+- @OrientalBlau (29 jul 2026): "Cerebrolysin es el rey indiscutido de la neuro-recuperación; nada se le acerca, pese a que otros compuestos tienen mucho más marketing detrás."
 
 Ver también: [[Péptidos]], [[Cortexin]], [[9-metil-beta-carbolina]], [[BDNF]], [[Nootrópicos]], [[Neurogénesis]]
