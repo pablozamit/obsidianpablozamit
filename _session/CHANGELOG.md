@@ -26,6 +26,8 @@
 | [[Zinc]] | updated | Zinc y pérdida de peso: RCT 30mg, melanocortinas |
 | [[Euro-Nootropics]] | created | Tienda EU con bromantano, fiabilidad 6/10 pendiente revisión |
 | [[Silexan]] | created | Aceite de lavanda: antagonista NMDA, iguala benzos/ISRS |
+| [[Aspirina (ácido acetilsalicílico)]] | updated | Aspirina vs salicilato: desacoplamiento mitocondrial, salsalato 55% menos grasa hepática (PMID 27554471) |
+| [[BPC-157]] | updated | Evidencia anecdótica en perros (@hubermanlab): single-blind, caveats de dosis/placebo |
 
 ## Fuentes / hilos procesados (opcional)
 

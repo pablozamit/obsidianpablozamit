@@ -87,6 +87,19 @@ Al desviar el metabolismo hacia la [[Glucosa|oxidación de glucosa]] en lugar de
 
 Este cambio metabólico —de [[Glucólisis|glucólisis anaeróbica]] a respiración oxidativa— es la base de su potencial terapéutico en enfermedades con metabolismo glucolítico disfuncional como [[Cáncer]] y [[Diabetes]].
 
+#### Aspirina vs salicilato (Metabolic Blueprint, 29 jul 2026)
+
+Los efectos metabólicos de la aspirina provienen del **salicilato**, no de la aspirina en sí:
+
+- **Aspirina** es de vida corta: su trabajo es pegar una marca química a su diana (cómo detiene la agregación plaquetaria) y se gasta en pocas horas
+- **Salicilato** es en lo que se convierte la aspirina y la molécula que realiza el trabajo metabólico
+
+**Mecanismo**: el salicilato afloja el acoplamiento dentro de las mitocondrias. Normalmente la energía de quemar combustible se captura de forma ajustada como ATP. El salicilato deja que parte de ese gradiente se filtre, de modo que la célula quema más combustible para el mismo trabajo y libera la diferencia como calor. Ese desacoplamiento es terapéutico — la hormona tiroidea T3 también es un desacoplador, y así es como la hormona tiroidea eleva la temperatura corporal.
+
+**Evidencia (PMID 27554471)**: ratones tratados con **salsalato** (que el cuerpo convierte en salicilato) quemaron más oxígeno, manejaron mejor la glucosa y acabaron con **~55% menos grasa en el hígado**. Los autores atribuyeron el efecto directamente al desacoplamiento, no a las rutas de señalización que se asumían responsables.
+
+Fuente completa: "The Aspirin Bible" (Metabolic Blueprint).
+
 ### Efecto protiroideo
 
 La aspirina en dosis altas (2g+ al día) libera la hormona tiroidea unida a proteínas transportadoras en sangre, aumentando su disponibilidad para las células. Esto produce un efecto similar —aunque más suave— al de suplementar con hormona tiroidea directamente. Mecanismo descrito por Ray Peat y reportado por Metabolic Blueprint.
