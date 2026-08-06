@@ -15,6 +15,10 @@ Estado metabólico en el que las [[Célula|células]] diana (músculo esqueléti
 - **HOMA-IR** = (insulina ayunas μU/mL × glucosa ayunas mg/dL) / 405. Valor < 1 ideal, > 2 sugiere IR.
 - **Insulina ayunas**: ideal < 5 μU/mL (rango funcional); > 10 indica hiperinsulinemia significativa.
 - **Triglicéridos / HDL**: ratio > 3 es sugestivo (TG/HDL proxy de IR).
+  - **< 2.0** = ideal, sensibilidad insulínica preservada (@HypertrophyHub, 5 ago 2026)
+  - **> 3.0** = insulinorresistencia probable incluso con "labs normales"
+  - Es el marcador metabólico "gratis" en un panel de colesterol rutinario que casi nadie interpreta bien
+- **[[ApoB]]** (independiente del TG/HDL): ApoB elevado con TG/HDL y HDL óptimos sigue siendo preocupante — refleja número de partículas aterogénicas en circulación. El TG/HDL mide tamaño metabólico; el ApoB mide riesgo cardiovascular independiente (@HypertrophyHub, 5 ago 2026).
 - **Hemoglobina glicosilada** (HbA1c): < 5.0% óptimo, 5.7-6.4% prediabetes.
 
 ## Relación con otras condiciones

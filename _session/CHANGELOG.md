@@ -28,6 +28,8 @@
 | [[Silexan]] | created | Aceite de lavanda: antagonista NMDA, iguala benzos/ISRS |
 | [[Aspirina (ácido acetilsalicílico)]] | updated | Aspirina vs salicilato: desacoplamiento mitocondrial, salsalato 55% menos grasa hepática (PMID 27554471) |
 | [[BPC-157]] | updated | Evidencia anecdótica en perros (@hubermanlab): single-blind, caveats de dosis/placebo |
+| [[Pinealon]] | created | Nueva nota: caso @belief_engineer (TDAH+bipolar, 1mg AM con Adderall → flow inmediato), @TheDrMAWZ (2mg → flow sin esfuerzo), stack con Epitalon |
+| [[Resistencia a la insulina]] | updated | Ratio TG/HDL: <2 ideal, >3 IR. Añadida nota sobre ApoB independiente |
 
 ## Fuentes / hilos procesados (opcional)
 
