@@ -57,6 +57,11 @@
 | [[Pregnenolona]] | updated | Log andrógenos gaezv: Pansterone (4mg preg + 4mg DHEA) + Kuinone (6mg K2 MK-4) escrotal; T 660→1082 ng/dL, T libre 97→234, DHT 40→70, E2 34→44, LDL 66→44 |
 | [[Bromantano]] | updated | Sección Chlodantano (@gaezpeat): sucesor soviético para hipoxia/frío/tóxicos, una sola administración, 0 anécdotas, enlace [[Mexidol]] |
 | [[Longevidad]] | updated | Cantidad ideal de ejercicio ~2h/día zona 2 (@gregmushen): cazadores-recolectores 15k pasos, mezcla cardio baja intensidad+fuerza+poco sprint, biogénesis mitocondrial, nutrient partitioning, tradeoff intensidad/duración |
+| [[Sodio]] | updated | Sodio como llave de absorción: 3 Na⁺/2 K⁺, NIS tiroideo, vitamina C, transportadores dopamina/serotonina/GABA/glutamato, ATP; Guerra de la Sal, pastillas de sal, sal sin refinar en agua (@YeHzkl99) |
+| [[Aceite de coco]] | updated | Estabilidad @RayPeatQuotes: saturadas dominan en plantas tropicales/animales de sangre caliente por estabilidad; coco 1 año sin rancidez |
+| [[Inositol]] | updated | Combo Selenio+Mio-inositol Hashimoto (@gaezpeat): TSH -31-38%, eutiroidismo 46% en 6 meses, TPOAb -44%; Sobetirome para hipotiroidismo celular; caveat tipo PFS; NIR 830nm+aloe |
+| [[Fibra]] | updated | La "paradoja" de la fibra (@Helios_Movement): soluble vs insoluble, 4 mecanismos de intolerancia (SIBO, cepas degradadoras/CAZymes, hipersensibilidad visceral, tránsito lento), fermentación sustrato-específica, probióticos SII vs SIBO, demasiada fibra → deficiencias Zn/D |
+| [[Longevidad]] | updated | Sin curva U condicional (@nntaleb): beneficios acumulan hasta 14h/semana MVPA, 180min/semana sin sentido, -70% riesgo desde VO2max ~40s; debate Z1-Z2 vs Z3-Z5, crítica metodológica 75k descartados |
 
 ## Fuentes / hilos procesados (opcional)
 

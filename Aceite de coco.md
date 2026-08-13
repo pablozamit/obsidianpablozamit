@@ -59,6 +59,13 @@ Un estudio usó **1 cucharada de aceite de coco al día durante 3 meses**, con d
 
 **Mecanismo**: la potencia está en sus grasas de cadena media (MCT). Estas entran directamente a la mitocondria **sin necesitar el transportador CPT1**, por lo que se queman fácilmente como energía y casi nunca se almacenan como grasa. Estudios animales muestran que animales alimentados con aceite de coco tienen **metabolismo basal más alto**.
 
+## Estabilidad: aceite de coco sin rancidez tras un año (@RayPeatQuotes, 10 ago 2026)
+
+> "The fact that saturated fats are dominant in tropical plants and in warm-blooded animals relates to the stability of these oils at high temperatures. Coconut oil which had been stored at room temperature for a year was found to have no measurable rancidity."
+> _—Ray Peat (vía @RayPeatQuotes, 10 ago 2026)_
+
+La dominancia de [[Ácidos grasos saturados]] en plantas tropicales y animales de sangre caliente se relaciona con la **estabilidad de estos aceites a altas temperaturas**. Dato anécdoto: aceite de coco almacenado a temperatura ambiente durante un año sin rancidez medible — coherente con el uso culinario a alta temperatura documentado arriba (la alta saturación resiste la oxidación).
+
 ## Fuentes
 
 - Gupta, A., & Singh, R. K. (2010). *Coconut oil: A review of its role in the prevention and treatment of various disorders*. [Enlace](https://consensus.app/papers/coconut-earth-gupta/e7590553af0155a2afc07bf6e159f971/?utm_source=chatgpt)

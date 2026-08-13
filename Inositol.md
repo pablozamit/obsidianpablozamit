@@ -29,7 +29,21 @@ Se ha demostrado que la suplementación con mio-inositol puede tener efectos sim
 
 El inositol es una de las pocas sustancias que puede reducir los niveles de **TSH** de forma muy efectiva, mejorando la sensibilidad del tirocito a la TSH. Además, **favorece la biosíntesis de T4** al hacer más eficiente la organificación del yodo. Herramienta infravalorada para la salud tiroidea (@aestheticprimal, 28 jul 2026).
 
-## Dosis recomendada (@aestheticprimal)
+### Combo Selenio + Mio-inositol para Hashimoto (@gaezpeat, 10 ago 2026)
+
+En la tiroiditis de Hashimoto, la combinación de [[Selenio|Selenio]] + mio-inositol reporta:
+
+- **↓ TSH 31-38%**
+- **Restaura el eutiroidismo en el 46% de los casos en 6 meses**
+- **↓ TPOAb (anticuerpos anti-tiroperoxidasa) un 44%**
+
+El mio-inositol destaca por **mejorar la sensibilidad del receptor de TSH** (ver sección anterior). Añadidos del hilo:
+
+- **Hipotiroidismo celular** (@hashter99): síntomas persisten aunque los niveles de TSH/T4/T3 estén normales → tres causas posibles: conversión T4→T3, transporte de hormona tiroidea, o sensibilidad del receptor. Para actuación a nivel del receptor, Sobetirome (agonista del receptor tiroideo, químico de investigación) vía rcpeptides.
+- ⚠️ **Caveat** (@ElKhedra54): algunas personas reportan síntomas tipo PFS (síndrome post-finasterida) con el inositol — precaución en susceptibles.
+- **Sinergia propuesta** (@UrosMikolic): añadir NIR 830 nm y aloe vera.
+
+### Dosis recomendada (@aestheticprimal)
 
 - **Dosis alta**: 5 g, 3× al día (15 g/día total)
 - **Repartir** las tomas con tiempo entre ellas por el efecto en el tracto digestivo

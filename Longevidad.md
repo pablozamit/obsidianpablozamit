@@ -91,6 +91,25 @@ Greg Mushen (@gregmushen) sobre cuánto ejercicio se acerca a lo "ideal" para lo
 
 Ver también: [[Ejercicios]]
 
+## Sin U-cup: los beneficios no tienen techo hasta 14 h/semana (@nntaleb, 10 ago 2026)
+
+Nassim Taleb (@nntaleb) sobre un estudio de ejercicio y salud con metodología estadística sofisticada, **condicionado al nivel fitness basal**:
+
+- **No hay curva U/J condicional**: los beneficios **acumulan hasta ~14 h/semana de ejercicio moderado-vigoroso (MVPA)**.
+- La recomendación actual de **~180 min/semana no tiene sentido** dados estos datos.
+- Ejemplo del propio Taleb: partiendo de un VO₂max en los ~40s altos, la reducción de riesgo total es del **70%**.
+
+**Debate clave del hilo** (@TrishankKarthik): ¿MVPA incluye Z1-Z2 o solo Z3-Z5? Si incluye zona 1-2, la forma práctica de llegar a 10-14 h/semana es mayoritariamente en Z1-Z2 — conecta con la idea de la "distribución lognormal" de frecuencia cardíaca.
+
+**Réplicas y matices:**
+
+- @everchos3n: la curva de riesgo en forma de U para atletas cardio (maratonianos, triatletas) — "LDL bajo, delgados, sin enfermedad metabólica, pero infartos e ictus" — por acumulación prematura de placa. (Matiza la narrativa de "más cardio = siempre mejor".)
+- @eddienzee: nuestros ancestros pasaban horas al día cazando, recolectando, moviéndose — ¿por qué limitar la capacidad de mejora a 180 min/semana?
+- @MrBDelany: la definición de MVPA es tan amplia que casi habría que estar todo el día tumbado para no acumularla.
+- @PaoloFMoneti (crítica metodológica): de 103.567 inscritos solo se analizaron 17.088; **75.308 descartados por falta de datos de capacidad cardiorrespiratoria (CRF)** — sería más convincente haber seguido endpoints de la parte sin ECV basal.
+
+Ver también: [[Ejercicios]]
+
 ## Estrategias prácticas (resumen biohacker)
 
 1. **[[Dieta]]**: restricción calórica leve, [[Ayuno intermitente]], [[Dieta mediterránea]] o [[Peat-friend]] (según tolerancia individual), baja en [[Azúcar]] añadido y [[Ultra-procesados]].
