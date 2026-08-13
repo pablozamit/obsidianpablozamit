@@ -76,6 +76,19 @@ Un análisis de ~500.000 personas mostró que los beneficios de mortalidad para 
 - La combinación de ambos es mejor que uno solo, pero tener cardio alto paga más que tener fuerza alta.
 - **Hacer cardio no hace perder músculo** si se cumplen: (1) entrenamiento de fuerza, (2) suficientes calorías y proteína, (3) cardio. @siimland reporta tener VO2 max >60 con un físico musculado.
 
+## Cantidad ideal de ejercicio: ~2 horas/día de zona 2 (@gregmushen, 25 mar 2025)
+
+Greg Mushen (@gregmushen) sobre cuánto ejercicio se acerca a lo "ideal" para longevidad:
+
+- **~2 horas/día de zona 2 o inferior (MVPA)** como cantidad ideal según la investigación (incluida la de cazadores-recolectores, ~15.000 pasos/día a buen ritmo, movimiento de baja intensidad casi todo el día).
+- **Mucho movimiento diario mitiga la mayoría de problemas asociados al envejecimiento**.
+- La mezcla: mayormente **cardio de baja intensidad** + algo de **fuerza** + una **cantidad muy pequeña de sprints**.
+- **Beneficios de las zonas bajas (zona 2)**:
+  - **Biogénesis mitocondrial**
+  - Capacidad de **quemar grasa a frecuencias cardíacas más altas**
+  - Mejor **nutrient partitioning** (a dónde va la comida: músculo vs. grasa)
+- **Tradeoff intensidad/duración**: las sesiones de alta intensidad (BJJ, [[Sprints]], fuerza) reducen el tiempo necesario, pero el balance entre estímulo y fatiga es **personal** — no hay una receta universal.
+
 Ver también: [[Ejercicios]]
 
 ## Estrategias prácticas (resumen biohacker)

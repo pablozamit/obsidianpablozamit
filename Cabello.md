@@ -141,6 +141,8 @@ La [[Prolactina]] elevada es una causa directa de caída del cabello y contribuy
 
 **Formas de reducirla**: [[Café]], [[Vitamina E]], [[Zinc]], [[Vitamina B6]] (P-5-P), [[Calcio]] (lácteos), luz roja en la hipófisis, agonistas D2 ([[Cabergolina]], [[Bromocriptina]]). Ver [[Prolactina#Formas de reducirla]].
 
+**Prolactina periférica (piel/grasa) y DHT adaptativa**: la prolactina también se produce localmente en el cuero cabelludo (dominada por estrógeno y serotonina), lo que explica por qué los dopaminérgicos centrales no siempre bastan. Y la DHT alta en cuero cabelludo calvo puede ser una respuesta protectora anti-estrógeno. Ver [[Prolactina#Producción periférica de prolactina: piel y grasa (@haidut, 27 may 2026)]].
+
 # Productos a Analizar
 
 ## Microneedling

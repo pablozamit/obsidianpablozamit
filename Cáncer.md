@@ -18,6 +18,36 @@ Otro argumento es que el cáncer es un tumor cuyas células descienden a su vez 
 
 Sin embargo, se sabe que la desactivación de cromosomas X puede ocurrir, y que involucra procesos de 'epigenetic imprinting', como la [[Metilación|metilación]].
 
+## Caquexia: depleción de glucógeno como driver metabólico upstream (@doctorinigo, 10 ago 2026)
+
+Hipótesis de **Iñigo San Millán** (preprint: preprints.org/manuscript/202606.1608) que reencuadra la caquexia del cáncer: el origen no es la inflamación (citocinas) sino la **deficiencia de glucógeno inducida por la demanda glucosa del tumor**.
+
+**Cascada propuesta**:
+
+1. El tumor (fenotipo [[Efecto Warburg|Warburg]]) consume glucosa de forma **continua, insulin-independiente** (GLUT1/GLUT3 siempre abiertos), a diferencia de los tejidos sanos (GLUT4 dependiente de insulina).
+2. La demanda tumoral drena progresivamente las reservas de **glucógeno del huésped (~400-500 g totales)**.
+3. Al agotarse, la **gluconeogénesis hepática se vuelve obligatoria**: la grasa no puede generar glucosa neta en humanos (la glicerol solo aporta ~15-20 g/día).
+4. La **proteólisis muscular** suministra alanina y glutamina para la gluconeogénesis y anaplerosis del ciclo de Krebs → desgaste muscular progresivo.
+5. Las **citocinas (TNF-α, IL-6, IL-1β) son amplificadores downstream**, no drivers primarios — consistente con que la caquexia persiste en el modelo C26 aunque se eliminen genéticamente IL-6, LIF e IL-11.
+
+**Evidencia clave**:
+
+- Biopsia: glucógeno muscular en pacientes con cáncer GI de **12.1 ± 2.7 µg/mg**, correlacionado con almacenamiento de glucosa mediado por insulina (r=0.964).
+- Trazadores isotópicos: gluconeogénesis elevada en pacientes con pérdida de peso, proporcional al grado de desgaste.
+- **Paradoja de la hiperglucemia**: glucosa circulante alta + déficit intracelular en tejidos del huésped; el ciclo de Cori pasa de ~20% a 50% del turnover de glucosa (~300 kcal/día perdidas).
+- Críticos en UCI con glucógeno indetectable (ultrasonido MuscleSound) → mismo patrón proteolítico.
+
+**Modelo conceptual**: `R_proteo ≈ (D_tumor + D_obligate − G_derived) / Y_glc/muscle`
+
+**Implicaciones** (reorientan la terapéutica):
+
+- **Dietas cetogénicas pueden ser perjudiciales** en caquexia: aceleran la depleción de glucógeno sin reducir D_tumor (GLUT1/GLUT3 no dependen de la dieta); el estudio Ferrer 2023 mostró tumores más pequeños pero caquexia acelerada y menor supervivencia.
+- **Restricción de carbohidratos no "mata de hambre" al tumor**: solo desplaza la fuente de glucosa de la dieta a la proteína muscular (el huésped es el combustible).
+- Dirección terapéutica: **repleción de glucógeno** con carbohidratos sincronizados en la ventana postprandial insulin-sensible (GLUT4), inhibidores de GLUT1 (ej. BAY-876), y **monitorización de glucógeno por ultrasonido** como biomarcador precoz (San Millán es cofundador de MuscleSound).
+- El éxito de **ponsegromab (anti-GDF-15)** es compatible: actúa restaurando la ingesta calórica, no reduciendo el consumo tumoral.
+
+> _—"La caquexia puede no ser solo una consecuencia del cáncer; puede ser, en parte, una respuesta metabólica sistémica a la demanda implacable de glucosa del tumor."_
+
 ## Tipos
 
 -   [[Cáncer de colon]]

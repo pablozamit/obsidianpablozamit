@@ -94,6 +94,22 @@ La pregnenolona upregula la proteína **StAR** (steroidogenic acute regulatory p
 - **Estudios tempranos**: mostraron protección testicular contra la atrofia causada por [[Estrógeno]] o dosis moderadas de [[Testosterona]]
 - La [[Vitamina E]] tópica también reporta aumento del tamaño testicular en 1 semana (@SaturatedFat_, 16 jun 2026)
 
+**Log de andrógenos con Pansterone + Kuinone tópicos** (gaezv @gaezpeat, 11 ago 2026):
+
+Protocolo: **4 mg de Pregnenolona + 4 mg de DHEA (Pansterone, Idealabs) + 6 mg de K2 MK-4 (Kuinone, Idealabs)** tópico en el **escroto**, diario durante un período extendido.
+
+| Biomarcador | Antes | Después |
+|---|---|---|
+| Testosterona total | 660 ng/dl | 1.082 ng/dl |
+| Testosterona libre | 97 pg/ml | 234 pg/ml |
+| DHT | 40 ng/dl | 70 ng/dl |
+| E2 | 34 pg/ml | 44 pg/ml |
+| LDL | 66 | 44 |
+
+- E2 sube como consecuencia de **más sustrato (testosterona) para aromatizar**, no por pérdida de grasa.
+- SHBG y LH bajaron (más T libre disponible).
+- Conclusión del autor: las **quinonas (K2) y las hormonas precursoras** son potentes para subir andrógenos por vía transdérmica escrotal. Fuente: log de lowtoxinforum "My Experiences With Raising Androgens Log (Pansterone, K2, magnoil)".
+
 ## Relación con la eyaculación precoz
 
 El estrés y la ansiedad son causas directas de la eyaculación precoz. La pregnenolona ayuda a regular la respuesta al estrés, lo que puede disminuir la activación simpática y mejorar el control eyaculatorio.

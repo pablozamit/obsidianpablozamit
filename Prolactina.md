@@ -10,6 +10,20 @@ En pacientes con cefalea en racimos, se ha observado una regulación alterada de
 
 La hiperprolactinemia interfiere con la producción de **[[DHT]]** (dihidrotestosterona) al inhibir la enzima **[[5-alfa reductasas|5α-reductasa]]**. En estudios, la elevación de testosterona en respuesta a HCG en condiciones de hiperprolactinemia fue normal, pero el aumento de DHT fue marcadamente disminuido. Esto sugiere que la prolactina altera el metabolismo de la testosterona a DHT. También se observó en un paciente con hiperprolactinemia por sección accidental del tallo hipofisario. Ver [[DHT]] y [[5-alfa reductasas]].
 
+## Producción periférica de prolactina: piel y grasa (@haidut, 27 may 2026)
+
+La prolactina no se produce solo en la hipófisis: también se sintetiza **periféricamente, especialmente en piel y tejido graso** (misma lógica que el [[Estrógeno]] local). Implicaciones:
+
+- Explica por qué algunas personas que usan **dopaminérgicos centrales** no mejoran el [[Cabello]] ni la [[Alopecia]] aunque bajen la prolactina sérica: la prolactina local del cuero cabelludo no depende de la dopamina del cerebro.
+- Los principales drivers de síntesis de prolactina en cualquier tejido son el **estrógeno y la serotonina** → bloquear estrógeno o serotonina podría tratar la caída del cabello sin fármacos antagonistas del receptor de prolactina (exóticos y poco testados).
+- **Fulvestrant (antagonista estrogénico)**: hay un estudio mostrando que **regeneró pelo** — usado como argumento para el abordaje anti-estrógeno.
+- **DHT elevada en cuero cabelludo alopécico como mecanismo adaptativo**: si el estrógeno local es alto en el cuero cabelludo calvo (sube prolactina local), tiene sentido que el cuerpo suba la DHT local — el principal anti-estrógeno masculino — como protección adaptativa contra ese estrógeno.
+
+**Reacciones del hilo** (11 ago 2026):
+- ⚠️ @brideofiliya corrige: el estudio de fulvestrant fue en **alopecia X de perros**, y el estrógeno actúa al revés en perros vs humanos porque en el folículo canino domina **ERα**, mientras que en el cuero cabelludo humano domina **ERβ**. De hecho, **fulvestrant causa caída del cabello en humanos como efecto secundario frecuente**.
+- Jamal Dinkoui @BerbarianWizard: la **progesterona tópica** es teóricamente lo mejor para la alopecia masculina (anti-fibrosis vía ↓TGF-β, anti-inflamatoria); y la finasterida podría funcionar en parte desplazando el entorno esteroideo local hacia señalización progestogénica (al bloquear la 5α-reductasa se reduce la conversión de progesterona downstream).
+- Mopsus: duda sobre **metergolina tópica** en el cuero cabelludo; Jamal responde que la solución es sistémica, no tópica.
+
 ## Relación con hipotiroidismo
 
 El hipotiroidismo duplica los niveles de prolactina en hombres. El tratamiento con hormona tiroidea (T4) en hombres hipotiroideos duplica la testosterona total y libre, y reduce la prolactina a la mitad. Ver [[Hipotiroidismo]] y [[Tiroides (glándula)]].

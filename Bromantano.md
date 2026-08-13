@@ -198,6 +198,22 @@ Mason (@masonsvitality, 15 jun 2026) reporta que tras una semana completamente o
 - **Stack**: 75 mg bromantano + 500 mg-1 g [[L-tirosina]]
 - **Observación**: el efecto rebote post-ciclo confirma que bromantano sigue upregulando síntesis de dopamina incluso después de dejar de tomarlo (Regenics @RegenicsHealth, 15 jun 2026)
 
+### Chlodantano: el sucesor soviético (@gaezpeat, 11 ago 2026)
+
+Los farmacólogos soviéticos buscaron un compuesto superior al bromantano para aplicaciones militares y de medicina espacial, y crearon el **Chlodantano**. Espectro de defensa mucho más amplio:
+
+- **Hipoxia**
+- **Frío extremo** (congelación)
+- **Exposición a químicos tóxicos**
+- Efectos **inmunes y antioxidantes** pronunciados
+
+Puntos del hilo:
+- @saturnmissiles: duda si es menos potente y de vida media más corta que el bromantano. @gaezpeat responde: "diría que es mejor; lo publico mañana. Además funciona tras una sola administración, a diferencia del bromantano que en estudios puede requerir más".
+- @munchwrap: **"Bemetil gang"** — referencia a la familia de actoprotectores [[Bemetil]]/Chlodantano.
+- @PostcookedMusic: crítica — "hay ~0 anécdotas, ¿lo has probado?". @gaezpeat no confirma haberlo probado.
+
+> ⚠️ Sin anécdotas confirmadas; información preliminar de un hilo. Ver también [[Mexidol]] (otro actoprotector ruso).
+
 ### Stack Modafinilo + Bromantano
 
 El bromantano "llena el depósito" (aumenta la síntesis de dopamina), mientras el [[Modafinilo|modafinilo]] "pisa el acelerador" (aumenta la liberación). Cuando el reservorio dopaminérgico está bajo, vaciarlo más rápido con estimulantes tiene un límite; bromantano lo soluciona desde la raíz.

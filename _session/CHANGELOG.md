@@ -49,6 +49,14 @@
 | [[Vesugen]] | updated | Estudio anecdótico @gaezpeat 30 días: flujo sistólico +53-61%, función eréctil, "reprogramación epigenética"; dosis @WhenSteroids 2-3mg/día, marca YourProtocol |
 | [[Piel]] | updated | Rutina minimalista @gregogallagher (azelaico+hidratante coreano+sunscreen, NAD+), stack "needle-movers" @LawrenceElliots (retinoide, vit C, niacinamida, azelaico 15%, MT2, GHK-Cu) |
 | [[Ácido azelaico]] | created | Nueva nota: usos (acné, despigmentante, rosácea), concentraciones 10/15/20%, activo principal en rutinas faciales |
+| [[Objective Nutrients]] | created | Nueva nota: marca de relativa confianza recomendada por @CelestialBeing, pendiente de análisis en profundidad |
+| [[Marcas de suplementos]] | updated | Objective Nutrients convertida en wikilink a nota dedicada, marcada como relativa confianza |
+| [[Cáncer]] | updated | Caquexia = depleción de glucógeno como driver metabólico upstream: Warburg, GLUT1/3, gluconeogénesis obligatoria, proteólisis (alanina/glutamina), citocinas downstream (C26 KO), ciclo de Cori 20%→50%, fórmula R_proteo, cetogénicas perjudiciales, ponsegromab, MuscleSound (@doctorinigo) |
+| [[Prolactina]] | updated | Producción periférica de prolactina en piel y grasa: fallo de dopaminérgicos centrales, estrógeno+serotonina, fulvestrant (caveat ERα canino vs ERβ humano), DHT adaptativa, progesterona tópica, metergolina (@haidut) |
+| [[Cabello]] | updated | Enlace a la nueva sección de prolactina periférica (piel/grasa) y DHT adaptativa |
+| [[Pregnenolona]] | updated | Log andrógenos gaezv: Pansterone (4mg preg + 4mg DHEA) + Kuinone (6mg K2 MK-4) escrotal; T 660→1082 ng/dL, T libre 97→234, DHT 40→70, E2 34→44, LDL 66→44 |
+| [[Bromantano]] | updated | Sección Chlodantano (@gaezpeat): sucesor soviético para hipoxia/frío/tóxicos, una sola administración, 0 anécdotas, enlace [[Mexidol]] |
+| [[Longevidad]] | updated | Cantidad ideal de ejercicio ~2h/día zona 2 (@gregmushen): cazadores-recolectores 15k pasos, mezcla cardio baja intensidad+fuerza+poco sprint, biogénesis mitocondrial, nutrient partitioning, tradeoff intensidad/duración |
 
 ## Fuentes / hilos procesados (opcional)
 

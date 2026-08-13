@@ -16,7 +16,7 @@
 -   Meraki Medicinal: Buena calidad, probada por Pablo Zamit.
 -   [Balanced Body Mind](https://www.balancedbodymind.com/): Tienda UK de suplementos
 -   [Upgraded Formulas](https://www.upgradedformulas.com/): Tienda UK de suplementos
--   Objective Nutrients: Recomendada por CelestialBeing.
+-   [[Objective Nutrients]]: Recomendada por CelestialBeing; marca de **relativa confianza** (pendiente de verificación independiente).
 -  The Ordinary
 
 ## C
