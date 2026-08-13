@@ -30,6 +30,25 @@ Para mejorar la señalización digestiva y el **tono vagal**, una opción es per
 - **Glucemia**: Puede modular positivamente la respuesta glucémica posterior.
 - **Ayuda digestiva**: Su toma pausada antes de las comidas puede ser de utilidad en casos de digestión lenta.
 
+## Miel cruda antes de dormir (@1Immortals1, 12 ago 2026)
+
+**Protocolo**: 1 cucharada de miel cruda antes de acostarse.
+
+**Mecanismo propuesto**:
+- El cerebro consume ~10 g de glucógeno hepático por noche durante el sueño; el hígado almacena ~75-100 g lleno
+- Si no se ha comido en 4-5 h antes de dormir, el glucógeno hepático está parcialmente deplecionado
+- Cuando se agota durante el sueño → el cerebro dispara [[Cortisol]] para convertir proteína muscular en glucosa (gluconeogénesis) → **pico de cortisol a las 2-3 AM** = la razón de millones de despertares nocturnos
+- 1 cucharada de miel ≈ 17 g de glucosa+fructosa: la **fructosa va directa al hígado** a reponer glucógeno, la glucosa mantiene la glucemia estable → no hay pico de cortisol
+- El cortisol suprime la liberación de **[[Hormona de crecimiento]]** durante el sueño profundo → prevenir el pico preserva el pulso de GH (quema de grasa, reparación muscular)
+- Pequeña elevación de insulina → facilita la captación cerebral de [[Triptófano]] → serotonina → [[Melatonina]]
+- IG de la miel cruda (58) < pan blanco (75); 64 kcal — coste metabólico menor que el pico de cortisol que previene
+
+**Miel cruda específicamente, no procesada**: la pasteurización destruye enzimas, antioxidantes y prebióticos.
+
+**Caveat de los comentarios**: incluso sin comer 4-5 h, un hígado lleno conserva reservas suficientes — el "hígado vacío" es una simplificación. 99% de personas conservan >10 g de glucógeno hepático.
+
+Ver también: [[Sueño]], [[Cortisol]], [[Hormona de crecimiento]]
+
 ## Notas Relacionadas
 - [[Digestión]]
 - [[Nervio vago]]

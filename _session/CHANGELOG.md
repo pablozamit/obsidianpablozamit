@@ -34,6 +34,11 @@
 | [[Ácido ortosilícico]] | updated | Agua hallada con 108 mg/L sílice (@truebritto) — mayor concentración del vault |
 | [[Dihexa]] | created | Sinaptogénesis vía HGF/c-Met, aprender mientras se toma, caveat proto-oncogén |
 | [[Tadalafilo]] | updated | Análogos adulterantes (aminotadalafil): indetectable en COA básico, sin farmacología |
+| [[Retatrutida]] | updated | Advertencia anhedonia/cambios personalidad: casos a 2mg y 10mg, recuperación ~3 sem |
+| [[Teanina]] | updated | Protocolo 200mg con comidas 4-5x/día (@Thermobolic), caveats palpitaciones/enmascaramiento |
+| [[Miel]] | updated | Miel cruda antes de dormir: glucógeno hepático, pico cortisol 2-3AM, pulso GH, melatonina |
+| [[SIBO]] | created | Protocolo 5 fases (@RyanJAyala): barrera→biofilm→starve→kill→sweep |
+| [[Nervio vago]] | updated | Meditación aumenta "FPS" perceptuales (@CEOLandshark) |
 
 ## Fuentes / hilos procesados (opcional)
 

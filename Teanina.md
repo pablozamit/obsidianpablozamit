@@ -26,4 +26,14 @@ La combinación de L-teanina con [[Magnesio|glicinato de magnesio]] es esencial 
 ## Uso para el [[Sueño]]
 La teanina se utiliza para modular la respuesta al estrés y mejorar la relajación. Es un componente clave del combo: **[[Teanina]] + [[Inositol]] + [[Bicarbonato de sodio]]** para mejorar la estabilidad del sueño.
 
+## Protocolo de microdosis múltiple (@Thermobolic, 12 ago 2026)
+
+**200 mg con las comidas, 4-5 veces al día** — "game changer" para foco, energía, estado de ánimo y salud mental en general, más allá de su uso clásico para suavizar la cafeína. Se gasta rápido ("wears off"), de ahí la frecuencia.
+
+**Caveats reportados**:
+- Palpitaciones cardíacas a 200 mg en algunos usuarios (@FentruckStimmel)
+- Jitters a dosis altas (posible efecto paradójico)
+- @theoliverxp: si la teanina está **enmascarando mala recuperación o fight-or-flight crónico**, suspenderla será un "rude awakening" — útil diagnósticamente pero la dependencia funcional es una señal de alarma
+- Dosis hasta 3 g de una vez experimentadas sin efectos adversos salvo letargo
+
 
