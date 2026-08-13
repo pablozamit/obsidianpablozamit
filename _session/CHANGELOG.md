@@ -39,6 +39,10 @@
 | [[Miel]] | updated | Miel cruda antes de dormir: glucógeno hepático, pico cortisol 2-3AM, pulso GH, melatonina |
 | [[SIBO]] | created | Protocolo 5 fases (@RyanJAyala): barrera→biofilm→starve→kill→sweep |
 | [[Nervio vago]] | updated | Meditación aumenta "FPS" perceptuales (@CEOLandshark) |
+| [[Análisis de suplementos (organizaciones y laboratorios)]] | created | Nueva nota: organizaciones (Clean Label Project, ULL, CR), plataformas (Labdoor, ConsumerLab), certificaciones (Informed Sport, Cologne List), consumidores (Öko-Test, Stiftung Warentest, OCU), labs acreditados (AGQ, Eurofins, SGS, Measurlabs) y workflow Produpin Labs |
+| [[Marcas de suplementos]] | updated | Rellenada sección "Guía para Analizar Marcas y Suplementos" + enlaces a análisis de terceros |
+| [[Metales pesados]] | updated | Enlace a [[Análisis de suplementos (organizaciones y laboratorios)]] en "Cómo Detectarlos" |
+| [[Suplementos]] | updated | Sección "Ver también" con marcas y análisis de suplementos |
 
 ## Fuentes / hilos procesados (opcional)
 

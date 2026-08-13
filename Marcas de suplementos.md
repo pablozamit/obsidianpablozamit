@@ -28,3 +28,16 @@ Se adjunta una lista de marcas de suplementación fiables:
 -   Benessence.it
 
 # Guía para Analizar Marcas y Suplementos
+
+Para verificar pureza, metales pesados y calidad de una marca de suplementos, ver [[Análisis de suplementos (organizaciones y laboratorios)]].
+
+## Marcas analizadas por terceros / recomendadas
+
+- [[Euro-Nootropics]]
+- Befrtil (@befrtil): ver [[Suplementos#Suplementos basados en alimentos naturales (whole-food supplements)]]
+- Anastore: hasta hace poco incluían PDF con resultados de análisis (update: en algunos productos sigue incluida)
+
+## Recursos para contrastar calidad
+
+- [[Análisis de suplementos (organizaciones y laboratorios)]]
+- [[Metales pesados]]

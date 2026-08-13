@@ -20,3 +20,9 @@ Marca especializada en suplementos de alimentos integrales. Productos destacados
 
 Ref: [[Zinc#Suplementos de alimentos integrales]]
 
+## Ver también
+
+- [[Marcas de suplementos]]
+- [[Análisis de suplementos (organizaciones y laboratorios)]]
+- [[Metales pesados]]
+
