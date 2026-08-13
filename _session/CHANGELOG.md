@@ -43,6 +43,10 @@
 | [[Marcas de suplementos]] | updated | Rellenada sección "Guía para Analizar Marcas y Suplementos" + enlaces a análisis de terceros |
 | [[Metales pesados]] | updated | Enlace a [[Análisis de suplementos (organizaciones y laboratorios)]] en "Cómo Detectarlos" |
 | [[Suplementos]] | updated | Sección "Ver también" con marcas y análisis de suplementos |
+| [[Luz LED]] | updated | Hilo @ze_rusty 8 dic 2025: azul aislado, CRI, flicker, nnEMF/electricidad sucia, sin IR; respuesta @IterIntellectus (gafas bloqueo azul) + alumbrado público |
+| [[Vesugen]] | updated | Estudio anecdótico @gaezpeat 30 días: flujo sistólico +53-61%, función eréctil, "reprogramación epigenética"; dosis @WhenSteroids 2-3mg/día, marca YourProtocol |
+| [[Piel]] | updated | Rutina minimalista @gregogallagher (azelaico+hidratante coreano+sunscreen, NAD+), stack "needle-movers" @LawrenceElliots (retinoide, vit C, niacinamida, azelaico 15%, MT2, GHK-Cu) |
+| [[Ácido azelaico]] | created | Nueva nota: usos (acné, despigmentante, rosácea), concentraciones 10/15/20%, activo principal en rutinas faciales |
 
 ## Fuentes / hilos procesados (opcional)
 
