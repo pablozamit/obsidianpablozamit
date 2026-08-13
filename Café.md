@@ -59,6 +59,16 @@ _(Datos de Wallace; otros compuestos como cafeína, trigonelina o kahweol varía
 
 > _—William A. Wallace, Ph.D. (@WilliamWallace), 28 sept 2025_
 
+## Café y metabolitos intestinales (caveat de @Helios_Movement, 6 ago 2026)
+
+El consumo de café se asoció con **niveles más bajos** de metabolitos intestinales beneficiosos:
+
+- **Ácido indol-3-propiónico** (IPA) — antioxidante producido por la microbiota a partir de [[Triptófano]], protector de la [[Barrera hematoencefálica|BHE]] y la mucosa intestinal
+- **Indol-3-carboxaldehído** — metabolito de triptófano de la flora, activador del receptor AhR (mantenimiento de la barrera intestinal e inmunidad mucosa)
+- **[[GABA]]** — el café consumido crónicamente se asocia con niveles más bajos de GABA (vía eje intestino-cerebro)
+
+**Implicación práctica**: si hay problemas intestinales, considerar una pausa del café. Lo que se busca con la cafeína (energía, foco, dopamina) se encuentra de forma más sostenible con hormonas saludables y un intestino sano — la dependencia de cafeína puede estar enmascarando un problema de fondo.
+
 ## Ver también
 
 - [[Cafeína]] — bioquímica del compuesto activo (mitocondria, adenosina, CYP1A2)

@@ -1,0 +1,1 @@
+kilocode - convertir encyclopedia obsidian a mcp - mcp de obsidian enciclopedia

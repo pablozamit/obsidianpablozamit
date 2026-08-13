@@ -32,6 +32,7 @@ El ácido ortosilícico es el **quelante natural más efectivo conocido para el 
 - **Pedras Salgadas** (Portugal): agua mineral natural carbonatada con **62 mg/L de ácido ortosilícico** — una de las concentraciones más altas entre aguas embotelladas europeas. Descubierta en el siglo XVIII, emerge en la región de Trás-os-Montes. Su consumo regular aporta ~60-80 mg/día de silicio biodisponible.
 - Otras aguas ricas en sílice: Spritzer (Gales, ~340 mg/L de sílice total, aunque principalmente coloidal), Fiji Water (~85 mg/L de sílice), Acqua di Nepi (Italia, ~59 mg/L), Volvic (Francia, ~32 mg/L).
 - La concentración de ácido ortosilícico en el agua del grifo suele ser <10 mg/L; el agua embotellada de manantiales volcánicos tiende a tener la concentración más alta.
+- **Hallazgo de usuario** (@truebritto, 6 ago 2026): identificó un agua con **108 mg/L de sílice** — la mayor concentración reportada hasta ahora en el vault (por encima de Fiji Water y Pedras Salgadas). El objetivo declarado: quelación de [[Aluminio]] ("Aluminum be gone").
 
 ### En las Plantas
 

@@ -30,6 +30,10 @@
 | [[BPC-157]] | updated | Evidencia anecdótica en perros (@hubermanlab): single-blind, caveats de dosis/placebo |
 | [[Pinealon]] | created | Nueva nota: caso @belief_engineer (TDAH+bipolar, 1mg AM con Adderall → flow inmediato), @TheDrMAWZ (2mg → flow sin esfuerzo), stack con Epitalon |
 | [[Resistencia a la insulina]] | updated | Ratio TG/HDL: <2 ideal, >3 IR. Añadida nota sobre ApoB independiente |
+| [[Café]] | updated | Caveat @Helios_Movement: café ↓IPA, ↓indol-3-carboxaldehído, ↓GABA intestinales |
+| [[Ácido ortosilícico]] | updated | Agua hallada con 108 mg/L sílice (@truebritto) — mayor concentración del vault |
+| [[Dihexa]] | created | Sinaptogénesis vía HGF/c-Met, aprender mientras se toma, caveat proto-oncogén |
+| [[Tadalafilo]] | updated | Análogos adulterantes (aminotadalafil): indetectable en COA básico, sin farmacología |
 
 ## Fuentes / hilos procesados (opcional)
 
