@@ -51,6 +51,23 @@ Bromantano también ejerce efectos sobre la bioenergética celular. **Upregula e
 
 Este efecto energético explica por qué usuarios reportan "resistencia" mejorada en contextos de fatiga crónica o trabajo cognitivo intenso.[mirakwak+2](https://wp.mirakwak.com/2025-02-05--266252/)​
 
+### Dependencia del estado tiroideo y conversión a noradrenalina (@aestheticprimal, 11 ago 2026)
+
+Cómo te sientas con bromantano depende en gran medida del **estado tiroideo**:
+
+- **T3 tiene relación inversa con la DBH** (dopamina beta-hidroxilasa), la enzima que convierte dopamina en noradrenalina y adrenalina.
+- La **ansiedad y los "jitters"** con bromantano indican que se está convirtiendo en exceso a nor- y epinefrina (de las que la dopamina es precursora). Es decir: un mal feeling con bromantano = señal de conversión excesiva, no de que "no te vaya".
+- **El triptófano también importa**: bromantano no solo upregula la TH (paso limitante de la dopamina) sino también la **AADC**, enzima que participa en la síntesis de dopamina **y** de serotonina y melatonina. Ingesta de triptófano ([[Triptófano]]) influye en la dirección de esa síntesis.
+
+Otros datos del hilo:
+
+- **BPC-157 oral apaga los estimulantes**: @aestheticprimal afirma que para él (y muchos otros) el [[BPC-157]] oral "dims" (atenúa) bastante los estimulantes, así que no recomienda combinarlo con bromantano.
+- **Luz solar en los ojos cambia el destino de la tirosina**: más sol → más conversión a dopamina y menos a adrenalina (respuesta de @BlueBeamMartin).
+- **Crítica de @enhancedguides**: los jitters por sí solos no pueden identificar actividad de DBH dependiente de tiroides; dosis, otros estimulantes, deuda de sueño y metabolismo individual producen experiencias similares.
+
+> [!NOTE]
+> @aestheticprimal aclara que **no tiene código de afiliado** para bromantano (responde a la acusación de @Adolphobros de "grifting").
+
 ---
 
 ## Principales Funciones: Síntesis Integrada

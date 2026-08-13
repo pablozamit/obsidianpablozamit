@@ -13,6 +13,8 @@
 | [[Citrus Bergamot]] | created | Nueva nota: S-tier digestión/lípidos/hígado (@magnus_redux); HMG-CoA reductasa, cápsulas |
 | [[DHT]] | updated | Estudio 852 hombres: DHT alta → T ↑, SHBG ↑, triglicéridos/glucosa/PA ↓ |
 | [[Bromantano]] | updated | Protocolo MCT oil (@BasedBiohacker), proveedores, enlace Euro-Nootropics |
+| [[Bromantano]] | updated | Dependencia del estado tiroideo: T3↔DBH inversa, jitters = conversión excesiva a nor-/epinefrina, triptófano/AADC, BPC-157 apaga estimulantes, luz solar en ojos (@aestheticprimal) |
+| [[Peroxidación lipídica]] | updated | Quemadura solar = grasa de membrana poniéndose rancia: 4-HNE, LA 2 dobles enlaces, recambio 2 años, LA corporal 9%→21%, omega-3 4g +36% UV, "el sol es la ignición" (@SamaHoole) |
 | [[Péptidos]] | updated | Sección amilina (Eloralintide), péptidos mitocondriales (SS-31) |
 | [[Epitalon]] | updated | Problema TFA vs acetato: especificaciones y panel de tests |
 | [[Agomelatina]] | updated | ↑dopamina frontal, perfil superior a ISRS, raíz circadiana |
