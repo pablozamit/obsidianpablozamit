@@ -22,6 +22,21 @@ Un estudio investigó los efectos del aceite de oliva oxidado térmicamente (cal
 4.  **Nuevo Mediador Inflamatorio:** Se identificó el **9,10-epoxi-esteárico**, un producto de la oxidación del [[Ácido oleico]] que promueve la inflamación.
 5.  **Deterioro de la Microbiota:** El aceite oxidado redujo bacterias beneficiosas productoras de [[Ácidos grasos de cadena corta]], afectando negativamente la salud intestinal.
 
+## Aceite de oliva y longevidad
+
+> "Olive oil is a superfood. ... participants who consumed 2 or more tablespoons of olive oil daily were 31 percent less likely to die than participants who did not consume olive oil."
+> _—Metabolic M @Metabolicmonstr (9 ago 2026)_
+
+## Extracto de hoja de olivo: efecto tiroideo (@Metabolicmonstr, 9 ago 2026)
+
+Una **pequeña dosis de extracto de hoja de olivo**:
+
+- **↑ T3 más de 2.5 veces**, reduciendo fuertemente la **TSH**.
+- Indica un **fuerte efecto estimulante tiroideo que no depende de las hormonas pituitarias**.
+- Referencia: PMID 12164280.
+
+**Aromatasa** (@yugenmarkos): la **oleuropeína** (polifenol abundante en la hoja de olivo y la aceituna verde cruda) es un **inhibidor de la aromatasa** — listado en la literatura de inhibidores de aromatasa naturales con un IC50 concreto. @Metabolicmonstr añade que también **aumenta la testosterona y baja el cortisol**.
+
 ---
 
 ## Fuente

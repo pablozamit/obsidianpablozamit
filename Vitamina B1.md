@@ -133,6 +133,23 @@ Las mujeres experimentaron menos migrañas, más cortas y menos severas.
 ### Mecanismo unificador
 La tiamina es necesaria para la puerta de entrada (PDH) en las células que permite que el azúcar se convierta en energía alta (ATP). Sin suficiente tiamina (muy común), el azúcar no se quema completamente y se acumula en sustancias dañinas (lactato, metabolitos tóxicos). Esto explica por qué un mismo nutriente aparece en investigación en áreas aparentemente no relacionadas.
 
+### Fatiga: estudio con B1 normal medida (@metabolic_print, 9 ago 2026)
+
+Metabolic Blueprint (@metabolic_print) defiende que la B1 puede ser **el mejor suplemento contra la fatiga**:
+
+- **40 personas** recibieron tiamina durante **4 semanas**. Todas tenían **niveles de tiamina "normales" medidos** al empezar.
+- La **fatiga cayó significativamente**, mientras que el grupo sin B1 empeoró ligeramente.
+- **Es muy raro tener una deficiencia directa de B1**, y los análisis de sangre "no dicen mucho" — no detectan la deficiencia funcional/subclínica tisular.
+- La mayoría de dietas normales aportan **demasiado poca B1**.
+- Dosis personal de @metabolic_print: **500 mg/día de tiamina HCl**.
+
+Respuestas del hilo:
+
+- **@anomalie_blue**: las personas cuyos cerebros no oxidan bien la glucosa tienden a ser **excesivamente serias**. Notó que al comer más fruta y al tomar tiamina por primera vez recuperó su capacidad para el *wordplay* y para divertirse con cosas que antes le molestaban — coherente con la mejora de oxidación de glucosa cerebral.
+- **@capsuline** (ángulo subclínico): los tests estándar miden niveles séricos pero **no la saturación tisular funcional**, por eso gente con labs normales responde a B1. Los ensayos de fatiga humana usaron **600-1800 mg/día de B1 HCl**.
+
+Ver también la sección [[Vitamina B1#Testeo (ETKA/TPPE)]] — la única prueba precisa es ETKA/TPPE, y "muchos pacientes con valores normales mejoran con terapia de tiamina".
+
 ### Síntomas de deficiencia
 Fatiga, irritabilidad, depresión, pérdida de apetito, mala concentración/memoria. Cefalea, estreñimiento y anorexia también pueden indicar ingesta/absorción insuficiente.
 

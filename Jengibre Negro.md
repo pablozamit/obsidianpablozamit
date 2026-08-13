@@ -75,7 +75,11 @@ La mayoría de la investigación utiliza **extracto estandarizado de jengibre n
 
 ## Rendimiento Físico/Atlético
 
-45-100 mg/kg de peso corporal diarios, administrados durante **4-12 semanas**. Para humanos, esto corresponde típicamente a 300-700 mg diarios de extracto estandarizado. Un estudio en futbolistas mostró mejoras significativas en rendimiento después de **12 semanas** de suplementación continua.
+45-100 mg/kg de peso corporal diarios, administrados durante **4-12 semanas**. Para humanos, esto corresponde típicamente a 300-700 mg diarios de extracto estandarizado. Un estudio en futbolistas mostró mejoras significativas en rendimiento después de **12 semanas** de suplementación continua.
+
+### Stack preworkout con Vesugen (@aestheticprimal, 9 ago 2026)
+
+_aestheticprimal_ recomienda **300-600 mg de jengibre negro (estandarizado ~12% DMF) + 3-4 mg de [[Vesugen]]** como stack preworkout: PDE5 (pump) + expresión génica endotelial + GLUT4/biogénesis mitocondrial vía SIRT1/PGC-1α + menos IL-6/TNF-α. Dosis del jengibre **muchas horas antes de entrenar**. Ver [[Vesugen#Stack preworkout: Vesugen + Jengibre Negro]] para detalle y PMIDs. ⚠️ El efecto de flujo sanguíneo del BG es inconsistente según el propio autor.
 
 ## Función Cognitiva
 

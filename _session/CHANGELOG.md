@@ -62,6 +62,11 @@
 | [[Inositol]] | updated | Combo Selenio+Mio-inositol Hashimoto (@gaezpeat): TSH -31-38%, eutiroidismo 46% en 6 meses, TPOAb -44%; Sobetirome para hipotiroidismo celular; caveat tipo PFS; NIR 830nm+aloe |
 | [[Fibra]] | updated | La "paradoja" de la fibra (@Helios_Movement): soluble vs insoluble, 4 mecanismos de intolerancia (SIBO, cepas degradadoras/CAZymes, hipersensibilidad visceral, tránsito lento), fermentación sustrato-específica, probióticos SII vs SIBO, demasiada fibra → deficiencias Zn/D |
 | [[Longevidad]] | updated | Sin curva U condicional (@nntaleb): beneficios acumulan hasta 14h/semana MVPA, 180min/semana sin sentido, -70% riesgo desde VO2max ~40s; debate Z1-Z2 vs Z3-Z5, crítica metodológica 75k descartados |
+| [[Vitamina B1]] | updated | Fatiga: 40 sujetos con B1 "normal" medida, 4 sem → fatiga ↓ significativa vs placebo (lige. peor); tests séricos no detectan deficiencia funcional; 500mg/día HCl (@metabolic_print); wordplay/seriedad (@anomalie_blue); ensayos 600-1800mg (@capsuline) |
+| [[Aceite de oliva]] | updated | Extracto de hoja de olivo: ↑T3 >2.5x + ↓TSH, efecto tiroideo independiente de pituitaria (PMID 12164280); oleuropeína = inhibidor de aromatasa IC50; 2+ cucharadas/día -31% mortalidad (@Metabolicmonstr, @yugenmarkos) |
+| [[Vesugen]] | updated | Stack preworkout Vesugen 3-4mg + Jengibre Negro 300-600mg (~12% DMF) (@aestheticprimal): PDE5+pump, GLUT4/biogénesis mitocondrial SIRT1/PGC-1α, menos IL-6/TNF-α; BG inconsistente en flujo sanguíneo; 7 PMIDs |
+| [[Jengibre Negro]] | updated | Cross-link al stack preworkout con Vesugen (@aestheticprimal) |
+| [[NAG (N-acetilglucosamina)]] | created | Nueva nota: precursor de GAGs/hialurónico/N-glicanos vía UDP-GlcNAc (bypass GFAT); tiroglobulina/TSH, GLUT4/galectina-3, MUC2/Tregs, tirosinasa, aggrecan/MMPs; dosis 700-1400mg (@biohackerziv) |
 
 ## Fuentes / hilos procesados (opcional)
 
