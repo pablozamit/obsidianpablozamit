@@ -68,6 +68,17 @@ La luz infrarroja del espectro solar genera melatonina en las mitocondrias de **
 
 > _—Coherente con el marco ya establecido en la nota sobre la melatonina mitocondrial local (§ "Mecanismo NIR → melatonina mitocondrial")._
 
+### Protocolo tópico 0.1% para alopecia androgénica (@jamesbondwisdom)
+
+Melatonina tópica al **0.1%** durante **6 meses** → **+29% de densidad capilar** en alopecia androgénica (Int J Trichology).
+
+- **Triple mecanismo**: antioxidante local, prolonga la fase anágena y efecto mitocondrial sobre el folículo.
+- **DIY**: disolver una tableta de 3 mg de melatonina en 30 ml de carrier (o usar fórmula tópica al 0.1%).
+- **Stack**: combinar con aceite de romero (rosemary oil).
+- Usada en clínicas europeas de cabello durante 20+ años.
+
+> _—The Hair King (@jamesbondwisdom), 14 ago 2026_
+
 
 ## Inflamación
 

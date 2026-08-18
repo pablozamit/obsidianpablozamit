@@ -20,6 +20,19 @@ Marca especializada en suplementos de alimentos integrales. Productos destacados
 
 Ref: [[Zinc#Suplementos de alimentos integrales]]
 
+## Los suplementos no funcionan aislados (@RyanJAyala)
+
+Cada suplemento altera los niveles de otros; no se pueden tomar en vacío:
+
+- [[Zinc]] (alto) → depleta [[Cobre]] y manganeso
+- [[NAC]] → depleta [[Cobre]]
+- [[Vitamina C]] a dosis altas → depleta [[Cobre]]
+- [[Magnesio]] en exceso → depleta [[Zinc]]
+- [[Vitamina E]] → desplaza otros liposolubles
+- [[Carbón activado]] semanas → depleta casi todo
+
+> _—@RyanJAyala, 14 ago 2026_
+
 ## Ver también
 
 - [[Marcas de suplementos]]

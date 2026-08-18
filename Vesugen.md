@@ -24,6 +24,16 @@ Respuestas del hilo:
 > [!WARNING]
 > La afirmación de "reprogramación epigenética" y las tasas 53-61% provienen de un único reporte anecdótico, no de un estudio clínico. Tratar como evidencia preliminar.
 
+## Protocolo "trinidad" para eficacia de péptidos (@biohackerziv)
+
+Los péptidos fallan cuando el terreno está roto: **agotamiento de second messengers** del receptor, **colapso de la perfusión microvascular** y sistema inmune **hiperreactivo** (flares de MCAS, nódulos). La "trinidad" prepara el terreno:
+
+1. **[[Inositol]] 2-5 g** — repone **PIP2/IP3/DAG**, los segundos mensajeros que los péptidos agotan al activar receptores.
+2. **[[Vilon]]** (Lys-Glu) — regula las **FoxP3+ Tregs**, apagando la hiperreactividad inmune (MCAS, nódulos).
+3. **Vesugen** (Lys-Glu-Asp) — activa **eNOS/VEGF** → restaura la perfusión microvascular.
+
+> _—@biohackerziv, 15 ago 2026_
+
 ## Stack preworkout: Vesugen + Jengibre Negro (@aestheticprimal, 9 ago 2026)
 
 _aestheticprimal_ (@aestheticprimal) propone el stack de rendimiento **Vesugen 3-4 mg + [[Jengibre Negro]] 300-600 mg (estandarizado ~12% DMF)** — "el santo grial del rendimiento en preworkout". Dosis del jengibre negro **muchas horas antes de entrenar** (tarda en actuar).

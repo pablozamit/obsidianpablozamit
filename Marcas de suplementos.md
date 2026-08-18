@@ -34,6 +34,7 @@ Para verificar pureza, metales pesados y calidad de una marca de suplementos, ve
 ## Marcas analizadas por terceros / recomendadas
 
 - [[Euro-Nootropics]]
+- **Peptaura** (peptaura.com) — marketplace abierto de péptidos, publica CoAs; ⏳ pendiente de revisión de fiabilidad
 - Befrtil (@befrtil): ver [[Suplementos#Suplementos basados en alimentos naturales (whole-food supplements)]]
 - Anastore: hasta hace poco incluían PDF con resultados de análisis (update: en algunos productos sigue incluida)
 

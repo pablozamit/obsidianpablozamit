@@ -75,6 +75,16 @@
 | [[CoQ10]] | updated | Ubiquinol (@RyanJAyala): -50% eventos cardiacos en insuf. cardiaca (300mg), migrañas a la mitad (100mg 3x), HbA1c, androstenediona→T, esperma, regenera C y E, sin techo tóxico; dosis 200mg/día |
 | [[Tatuajes]] | created | Nueva nota: estudio gemelos (@AntelmPujol) tinta→ganglios, +62% cáncer piel, tatuajes>palma +137% piel (HR 2.37) y +173% linfoma (HR 2.73); matiz riesgo relativo; debate reversible vs tratamiento capilar |
 | [[Mirabegron]] | created | Nueva nota: agonista β3 aprobado FDA (vejiga hiperactiva), termogénesis UCP1 grasa parda/beiging, REE +5.8% a las 4 sem, NO frena producción renal de orina; dosis/testimonios (@NocturnalNelly, @drmarlonperalta) |
+| [[Caspa]] | updated | Causa raíz @HansAmato: endotoxina+histamina → sebo/cerumen → Malassezia → caspa; eje intestino-piel; réplicas ayuno 16h+sin azúcar/lácteos+creatina/glutamina/cardo |
+| [[Vesugen]] | updated | Protocolo "trinidad" @biohackerziv: Inositol 2-5g (PIP2/IP3/DAG) + Vilon (FoxP3+ Tregs) + Vesugen (eNOS/VEGF) para eficacia de péptidos y MCAS/nódulos |
+| [[Marcas de suplementos]] | updated | Añadida tienda de péptidos Peptaura (peptaura.com), marketplace abierto con CoAs, ⏳ pendiente de revisión |
+| [[Péptidos]] | updated | Peptaura (peptaura.com) añadida en "Dónde comprar fiable" |
+| [[Pregnenolona]] | updated | Dosis altas tipo DHT @AntiDoc (200mg 3x/día: decisiones effortless, libido; insomnio/sudores nocturnos; Figura 5B BerbarianWizard); Pregnenolona Enanthate 5-AR Society (primera dosis mundial, debate ciclado, HCG); réplica doctorcalf sueños sexuales/brain fog |
+| [[Melatonina]] | updated | Protocolo tópico 0.1% alopecia androgénica @jamesbondwisdom: +29% densidad en 6 meses (Int J Trichology), triple mecanismo, DIY 3mg/30ml carrier, stack rosemary |
+| [[TDAH]] | updated | 10 raíces @Helios_Movement (circuitos ejecutivos, DA/NE -20-40%, canales iónicos, lactato/PDH, circadiano PER/CLOCK, neuroinflamación, cortisol, ferritina<40-50, Zn/Mg, disbiosis) + dominio de dopamina (DAT1/MAO/COMT) + herramientas (luz 10k lux, PS128, citicolina, Creapure...); matiz mineral @Outdoctrination (ADHD = deficiencia de zinc/hierro/cobre) |
+| [[Terapia de luz roja]] | updated | Luz verde 530nm para melanina + NIR, MyGreen Multitissue Torch (mygreenlamp.com) tras cirugía @seagertp; caveat pegamento quirúrgico+sol |
+| [[Suplementos]] | updated | "Los suplementos no funcionan aislados" @RyanJAyala: zinc→cobre/manganeso, NAC→cobre, vit C alta→cobre, Mg exceso→zinc, vit E→liposolubles, carbón activado→todo |
+| [[Psilocibina]] | updated | Anecdótico recuperación de parálisis (@VictorFromDE, 17 ago) |
 
 ## Fuentes / hilos procesados (opcional)
 

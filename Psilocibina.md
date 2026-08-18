@@ -16,3 +16,7 @@ Psilocibina afecta el flujo sanguíneo cerebral y la conectividad funcional del 
 · **Dosis media**: Aproximadamente entre 10 mg y 20 mg de psilocibina o 0.160 a 0.215 mg/kg. A este nivel se experimentan efectos psicodélicos significativos, como distorsiones visuales y cambios en la percepción del tiempo, además de una mayor introspección [(Lewis et al., 2017)](https://consensus.app/papers/investigation-5htagonist-psilocybin-blood-flow-lewis/6dba3a6b0c225ec3823523dfcfdcd630/?utm_source=chatgpt).
 
 · **Dosis alta**: Entre 20 mg y 30 mg de psilocibina, o 0.3 mg/kg. Estas dosis generan experiencias psicodélicas completas, que incluyen alucinaciones visuales, sinestesia y una intensa disolución del ego [(Ross et al., 2016)](https://consensus.app/papers/rapid-sustained-reduction-following-psilocybin-ross/7e0772b4b01d5d0e8c481c6666ae33fc/?utm_source=chatgpt).
+
+## Recuperación de parálisis (anecdótico)
+
+Reporte anecdótico de recuperación de parálisis tras psilocibina (@VictorFromDE, 17 ago 2026). Sin contexto clínico; tratar como anecdótico.

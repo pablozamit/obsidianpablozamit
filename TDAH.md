@@ -157,6 +157,35 @@ Tesis del autor: el TDAH puede entenderse en parte como un déficit de **tono GA
 
 > _—El marco GABA-bajo es heurístico y responde bien a intervenciones suaves. No sustituye el tratamiento farmacológico de primera línea (estimulantes), pero puede reducir la dosis efectiva necesaria y mejorar la respuesta global. Ver [[GABA]] para más detalles sobre el eje GABAérgico._
 
+## Las 10 raíces del TDAH (@Helios_Movement)
+
+Artículo de George Ferman sobre las causas profundas del TDAH más allá de la dopamina:
+
+1. **Circuitos ejecutivos** — dlPFC/ACC/striatum.
+2. **Tono de dopamina/norepinefrina 20-40% más bajo** de base.
+3. **Canales iónicos** — CACNA1C (calcio), SCN2A/SCN8A (sodio), canales K — excitabilidad neuronal.
+4. **Metabolismo energético cerebral** — lactato, PDH, fosfocreatina.
+5. **Ritmo circadiano** — genes PER1-3, CLOCK (retraso de fase de melatonina 1.5-3h).
+6. **Neuroinflamación** (mastocitos, microglía).
+7. **Cortisol basal bajo** (fatiga adrenal).
+8. **Hierro/ferritina** — ferritina < 40-50 ng/mL correlaciona con síntomas.
+9. **Zinc y magnesio** — deficiencias comunes.
+10. **Disbiosis intestinal** (eje intestino-cerebro).
+
+### Dominio de la dopamina (del mismo hilo)
+
+- Síntesis: tirosina → L-DOPA (tirosina hidroxilasa/TH, cofactor BH4/PLP) → dopamina (AADC).
+- Receptores D1-D5; recaptación por DAT1; degradación por MAO/COMT (el COMT lento y la cafeína interactúan).
+- Herramientas: luz 10.000 lux por la mañana, [[Teanina|L-teanina]] + [[Cafeína]], probiótico PS128, citicolina, frío, [[Magnesio]], Creapure ([[Creatina]]), [[Sauna]], [[NAC]], [[Taurina]], [[Azafrán]], [[Rhodiola]], oroxilina A, [[CoQ10]].
+
+> _—George Ferman (@Helios_Movement), 14 ago 2026_
+
+### Matiz mineral (@Outdoctrination)
+
+> "ADHD is a zinc, iron and (possibly) copper deficient state"
+
+Dalton (@Outdoctrination, 16h): el TDAH es un estado de deficiencia de **[[Zinc]], [[Hierro]] y (posiblemente) [[Cobre]]**. Complementa las raíces 8-9 del hilo de Ferman. Hilo propio: 7 causas raíz del TDAH (12 mar).
+
 ## Ver también
 
 - [[Productividad]]

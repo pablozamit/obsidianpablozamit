@@ -171,6 +171,7 @@ La realidad regulatoria:
 - **Dónde comprar fiable**:
   - **Farmacias de compuestos** (503B en USA): preparaciones magistrales con control de calidad.
   - **Proveedores certificados GMP** en Asia/Europa (p. ej. Peptide Sciences, Tailor Made Compounding).
+  - **Peptaura** (peptaura.com) — marketplace abierto de péptidos con CoAs publicados (MOTS-c, etc.); ⏳ pendiente de revisión de fiabilidad.
   - **NO** comprar a "research chem" de AliExpress/Reddit darknet.
 - **Pruebas recomendadas**: HPLC y MS en lote; endotoxinas (LAL test).
 

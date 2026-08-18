@@ -100,6 +100,16 @@ _—Estudio polaco sobre PBM y cáncer de piel (fuente pendiente de verificació
 
 Ver también: [[Cáncer]], [[Luz infrarroja]]
 
+## Luz verde + NIR: dispositivo multitejido (@seagertp)
+
+La **luz verde (530 nm)** se dirige a la **melanina de la piel**, mientras que el **NIR** penetra profundo en el tejido. Herramienta: **MyGreen Multitissue Torch** (mygreenlamp.com/product-page/mult-tissue-led-torch).
+
+- Indicado por el autor tras cirugía (recuperación de tejido).
+- Réplicas: "go out in the sun" (Jota Te); Knudsen (los **watts** importan más que la tecnología).
+- Caveat @SensesOfHope1: **no exponer pegamento quirúrgico al sol/luz** mientras cura.
+
+> _—Thomas P Seager, PhD (@seagertp), 14 ago 2026_
+
 ## Protocolo facial antienvejecimiento: 670 nm + té verde
 
 Un ensayo clínico mostró reducción del envejecimiento cutáneo en 1 mes: algodones empapados en [[Té verde]] sobre el rostro + luz roja 670 nm, 20 min/día. Ambos actúan sobre colágeno y elastina (Dalton @Outdoctrination, 13 jun 2026).

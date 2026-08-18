@@ -110,6 +110,26 @@ Protocolo: **4 mg de Pregnenolona + 4 mg de DHEA (Pansterone, Idealabs) + 6 mg d
 - SHBG y LH bajaron (más T libre disponible).
 - Conclusión del autor: las **quinonas (K2) y las hormonas precursoras** son potentes para subir andrógenos por vía transdérmica escrotal. Fuente: log de lowtoxinforum "My Experiences With Raising Androgens Log (Pansterone, K2, magnoil)".
 
+## Dosis altas y perfil tipo DHT (@AntiDoc)
+
+Dosis altas de preg (**200 mg 3×/día**) se reportan con un perfil similar a [[DHT]]:
+
+- **Decisiones "sin esfuerzo"** (effortless), mente más sharp.
+- **Libido** notable.
+- Efectos secundarios reportados: **insomnio** (@thec0d3z), **sudores nocturnos** (@energyviewer).
+
+Dosificación: @BerbarianWizard remite a su **Figura 5B (guía PCT/ICT)** para dosis de preg.
+
+> _—@AntiDoc, 15 ago 2026_
+
+Réplica @doctorcalf (16h): a dosis más bajas (DL) nota **sueños sexuales + brain fog** → caveat de que el perfil es dosis-dependiente.
+
+### Pregnenolona Enanthate (5-AR Society)
+
+- **Primera dosis del mundo de Pregnenolona Enanthate** (éster de liberación prolongada) (@BerbarianWizard y @PGC1a_RB).
+- **Debate sobre ciclado**: algunos la ciclan como un esteroide; otros la toman continua.
+- Pregunta abierta del hilo: dosis más alta de HCG.
+
 ## Relación con la eyaculación precoz
 
 El estrés y la ansiedad son causas directas de la eyaculación precoz. La pregnenolona ayuda a regular la respuesta al estrés, lo que puede disminuir la activación simpática y mejorar el control eyaculatorio.
