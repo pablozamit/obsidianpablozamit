@@ -24,6 +24,19 @@ https://pubmed.ncbi.nlm.nih.gov/37836520/
 
 La taurina es conocida por apoyar la salud del corazón, mejorando el flujo sanguíneo y reduciendo la presión arterial.
 
+### "El suplemento más aburrido que sigue ganando" (@RyanJAyala, 17 ago 2026)
+
+Ryan Ayala (@RyanJAyala) resume por qué "todo el mundo debería tomar taurina":
+
+- **↓ Presión arterial** (~3 g/día en meta-análisis).
+- **Conjuga los ácidos biliares** → ayuda a digerir las grasas.
+- **Ayuda al cuerpo a usar el zinc**.
+- **Agotada por el estrés y los estimulantes**.
+- **Cuesta centavos**.
+
+> "The most boring supplement keeps winning."
+> _—Ryan Ayala @RyanJAyala (17 ago 2026)_
+
 ### Reducción de presión arterial vía adrenalina
 
 La taurina reduce la presión arterial elevada por estrés al disminuir los niveles de [[Adrenalina|adrenalina]].

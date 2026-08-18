@@ -24,6 +24,22 @@ La CoQ10 protege al [[Óxido nítrico]] de la degradación por especies reactiva
 - **Salud cardiovascular**: mejora función endotelial, reduce estrés oxidativo vascular.
 - **Recuperación** tras ejercicio, especialmente en combinación con precursores de NO.
 
+## Ubiquinol: "todos deberían tomarlo" (@RyanJAyala, 17 ago 2026)
+
+Ryan Ayala (@RyanJAyala) defiende el **ubiquinol** (la forma reducida/activa de la CoQ10; "Ubiquinol is just the active form" en respuesta a @gweilonft):
+
+- **Corta los eventos cardiacos ~50%** en insuficiencia cardíaca (**300 mg**).
+- **Reduce a la mitad la frecuencia de migrañas** (100 mg 3×/día).
+- **Baja la HbA1c** en diabéticos tipo 2.
+- **Requerido para la conversión androstenediona → testosterona**.
+- **Mejora motilidad y conteo espermático**.
+- **Regenera las vitaminas C y E** (reciclaje de antioxidantes).
+- **Sin techo tóxico conocido**.
+
+Dosis del propio autor: **200 mg/día** (misma dosis que usa @BOENGLISH1).
+
+Ver también [[Testosterona]] y [[Fertilidad]] para los vínculos androgénicos/espermáticos.
+
 ## Caveats
 
 - Es liposoluble y se acumula — no hay toxicidad conocida en dosis de hasta 1200 mg/día, pero dosis altas pueden causar molestias GI leves.

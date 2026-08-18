@@ -200,6 +200,25 @@ Un RCT con 15 semanas, ~300 kcal de déficit, 30 mg de zinc (sulfato) vs placebo
 
 **Dosis**: 30 mg/día de zinc elemental (sulfato en el estudio; bisglicinato bien absorbido). No mantener dosis altas a largo plazo.
 
+## Zinc carnosine: cicatrización de la mucosa gástrica (@RyanJAyala, 17 ago 2026)
+
+Ryan Ayala (@RyanJAyala): el **zinc carnosine** (carnosina de zinc) cura el revestimiento del estómago y "casi nadie fuera de Japón lo usa":
+
+- **Fármaco de prescripción en Japón desde 1994** (para úlcera gástrica).
+- **Se adhiere al tejido dañado** y mantiene el zinc localizado en la herida.
+- **Estudiado a 75 mg 2×/día**.
+- **Repara el daño por AINE y por [[H. pylori]]**.
+
+> "The form matters more than the dose."
+> _—Ryan Ayala @RyanJAyala (17 ago 2026)_
+
+Respuestas del hilo:
+- @BOENGLISH1: lo usa a diario ("great stuff").
+- @blueeyeswhinih: 2 meses y no hizo nada para su leaky gut → @RyanJAyala: "context dependent, no es un suplemento milagro".
+- @PsychoMechanics: le ayudó con síntomas NCGS/MCAS/leaky gut, combinado con L-citrulina y huevos/mantequilla.
+- @SlinkersX: **combinarlo con [[Colostro]]** amplifica los efectos.
+- @ComfreyPond: ¿hay que combinarlo con cobre? (aplican las mismas consideraciones Zn/Cu del resto de esta nota).
+
 ## Suplementos de alimentos integrales
 
 El zinc de **ostras deshidratadas** (ej. Befrtil Oyster Zn) es una alternativa a las formas aisladas (gluconato, picolinato, etc.). Ventaja: la matriz natural de la ostra aporta [[Cobre]], [[Selenio]] y otros cofactores que pueden mejorar el perfil de absorción y reducir el riesgo de desbalance Zn/Cu (@CookingWithChris, 30 jun 2026). Ver [[Suplementos#Suplementos basados en alimentos naturales (whole-food supplements)]].

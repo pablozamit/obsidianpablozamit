@@ -70,6 +70,11 @@
 | [[Plasma marino de Quinton]] | created | Nueva nota: agua de mar microfiltrada en frío, ~78 minerales iónicos en ratios de plasma sanguíneo; isotónica vs hipertónica; marcas españolas (Quinton Medical, Aquamarina Costa Brava, Ibiza y Formentera); consejos y caveats |
 | [[Electrolitos]] | updated | Enlace a [[Plasma marino de Quinton]] en reposición típica (remineralizante de espectro completo) |
 | [[Sodio]] | updated | Enlace a [[Plasma marino de Quinton]] en reposición (agua de mar) |
+| [[Taurina]] | updated | "El suplemento más aburrido que sigue ganando" (@RyanJAyala): ↓PA ~3g/día meta-análisis, conjuga ácidos biliares, ayuda a usar zinc, agotada por estrés/estimulantes, barata |
+| [[Zinc]] | updated | Zinc carnosine (@RyanJAyala): cura mucosa gástrica, fármaco en Japón desde 1994, 75mg 2x/día, repara daño AINE/H. pylori, "la forma importa más que la dosis"; réplicas colostro, caveats leaky gut |
+| [[CoQ10]] | updated | Ubiquinol (@RyanJAyala): -50% eventos cardiacos en insuf. cardiaca (300mg), migrañas a la mitad (100mg 3x), HbA1c, androstenediona→T, esperma, regenera C y E, sin techo tóxico; dosis 200mg/día |
+| [[Tatuajes]] | created | Nueva nota: estudio gemelos (@AntelmPujol) tinta→ganglios, +62% cáncer piel, tatuajes>palma +137% piel (HR 2.37) y +173% linfoma (HR 2.73); matiz riesgo relativo; debate reversible vs tratamiento capilar |
+| [[Mirabegron]] | created | Nueva nota: agonista β3 aprobado FDA (vejiga hiperactiva), termogénesis UCP1 grasa parda/beiging, REE +5.8% a las 4 sem, NO frena producción renal de orina; dosis/testimonios (@NocturnalNelly, @drmarlonperalta) |
 
 ## Fuentes / hilos procesados (opcional)
 
