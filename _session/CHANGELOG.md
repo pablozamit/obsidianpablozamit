@@ -67,6 +67,9 @@
 | [[Vesugen]] | updated | Stack preworkout Vesugen 3-4mg + Jengibre Negro 300-600mg (~12% DMF) (@aestheticprimal): PDE5+pump, GLUT4/biogénesis mitocondrial SIRT1/PGC-1α, menos IL-6/TNF-α; BG inconsistente en flujo sanguíneo; 7 PMIDs |
 | [[Jengibre Negro]] | updated | Cross-link al stack preworkout con Vesugen (@aestheticprimal) |
 | [[NAG (N-acetilglucosamina)]] | created | Nueva nota: precursor de GAGs/hialurónico/N-glicanos vía UDP-GlcNAc (bypass GFAT); tiroglobulina/TSH, GLUT4/galectina-3, MUC2/Tregs, tirosinasa, aggrecan/MMPs; dosis 700-1400mg (@biohackerziv) |
+| [[Plasma marino de Quinton]] | created | Nueva nota: agua de mar microfiltrada en frío, ~78 minerales iónicos en ratios de plasma sanguíneo; isotónica vs hipertónica; marcas españolas (Quinton Medical, Aquamarina Costa Brava, Ibiza y Formentera); consejos y caveats |
+| [[Electrolitos]] | updated | Enlace a [[Plasma marino de Quinton]] en reposición típica (remineralizante de espectro completo) |
+| [[Sodio]] | updated | Enlace a [[Plasma marino de Quinton]] en reposición (agua de mar) |
 
 ## Fuentes / hilos procesados (opcional)
 

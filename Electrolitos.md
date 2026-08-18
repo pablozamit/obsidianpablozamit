@@ -16,6 +16,7 @@ El gradiente **Na⁺/K⁺** (mantenido por la bomba Na⁺/K⁺-ATPasa) es la bas
 ## Reposición típica
 
 - **[[Sodio]]**: 1-2 g extra/día (sal marina, agua de mar, caldo de huesos). Importante para personas con dieta baja en sal o que sudan mucho.
+- **[[Plasma marino de Quinton]]**: remineralizante de espectro completo (~78 minerales iónicos en ratios cercanos al plasma sanguíneo); isotónica para uso diario, hipertónica para aportes intensos. Marcas españolas: Quinton Medical, Aquamarina Costa Brava, Ibiza y Formentera.
 - **[[Potasio]]**: 100-400 mg/día de K elemental, o vía dieta (plátano, aguacate, patata). Cuidado con insuficiencia renal o medicación que retenga K.
 - **[[Magnesio]]**: 300-400 mg/día de glicinato. Ver [[Magnesio]].
 - **[[Calcio]]**: 500-1000 mg/día. Ver [[Calcio]].

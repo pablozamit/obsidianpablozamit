@@ -50,7 +50,7 @@ Síntomas: fatiga, calambres, mareo ortostático, confusión, cefalea, náuseas.
 
 - **Sal marina o sal celta**: 1-2 g extra/día en casos de [[Ansiedad|estrés]] crónico o sudoración elevada.
 - **Caldo de huesos**: fuente natural de [[Sodio|sodio]] y otros [[Electrolitos|electrolitos]].
-- **Agua de mar**: fuente completa de [[Electrolitos|electrolitos]] en proporciones equilibradas.
+- **Agua de mar**: fuente completa de [[Electrolitos|electrolitos]] en proporciones equilibradas. Ver [[Plasma marino de Quinton]] para el suplemento de agua de mar microfiltrada en frío (isotónica/hipertónica, marcas españolas).
 - Evitar [[Sodio|sodio]] refinado (cloruro sódico puro) sin balance con [[Potasio|potasio]] — la proporción Na⁺/K⁺ moderna (3:1 a favor del Na⁺) es opuesta a la dieta paleolítica (1:1 o 1:2).
 
 # Ver también
