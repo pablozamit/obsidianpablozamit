@@ -27,3 +27,11 @@
 	-"Estamos aquí para ayudarte a lograr la excelencia en la gestión de proyectos." < para ayudarte a llegar a facturar 1 millón al año". Tampoco me suena esa 'excelencia', señora.
 
 9. Lenguaje inclusivo, listo/a, @'s y todas las variaciones posibles. Casi te diría que es preferible usar lenguaje inclusivo a usar o/a: es preferible parecer analfabeto a sonar a empresa, porque puede ser que te lea otro analfabeto, pero no te va a leer una empresa sino un trabajador de la misma.
+
+## Errores adicionales (@giannicara, 23 ago 2022)
+
+10. **No tomar una postura fuerte.** Nunca suenes dudoso: evitar "pienso", "podría", "quizás", "creo", "probablemente". La duda pierde confianza.
+11. **No anclar el precio.** El cerebro compara. Si presentas el precio sin referencia, surge la duda "¿es buen trato?". Primero muestra el valor, luego revela el precio.
+12. **No hacer un argumento lógico.** Enganchar emocionalmente no basta: el prospecto necesita justificar su decisión (ante sí mismo y ante otros). Dale un argumento lógico de por qué es una buena decisión.
+13. **Hacer múltiples promesas.** Más de una promesa diluye el mensaje y confunde. La confusión es el enemigo nº1 de las conversiones.
+14. **No abordar las creencias limitantes.** Si creen en el producto pero no creen que **ellos** puedan lograrlo, no compran. Muestra que gente como ellos lo ha conseguido.

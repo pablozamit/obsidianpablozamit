@@ -36,6 +36,14 @@ Receta viral de @Herbalisque (2 oct 2025, 399,6K views): moler 2 hojas de laurel
 
 > _—Posición: la receta tiene un núcleo real (el eugenol del clavo es antimicrobiano y refresca), pero las claims fuertes ("elimina sarro", "blanquea") son falsas. Para blanquear de verdad: pasta con [[Hidroxiapatita]], evitar manchas de café/vino, o blanqueamiento profesional. Para "sarro": limpieza dental periódica con ultrasonidos, no hay atajo._
 
+## Remedios tradicionales y DIY (respuestas de hilo, oct-nov 2022)
+
+- **Sal o carbón**: en África se usa sal o carbón para limpiar dientes con buenos resultados (@Geoffre49291878).
+- **Aceite de coco**: solo coco es suave y eficaz para uso prolongado; el bicarbonato no se recomienda a largo plazo (@Sasmo171).
+- **Cáscara de huevo**: fuente de calcio para remineralizar, pero no para uso diario (@Sasmo171).
+- **Brown eggs** también sirven como fuente de calcio (@johnemoe).
+- **Advertencia**: quien avise al dentista de que la pasta dental puede estar envenenando verá la reacción del sistema (@SmelOdiesOG); la pasta convencional y hasta el cepillo pueden ser fuentes de exposición.
+
 ## Ver también
 
 - [[Salud dental]]

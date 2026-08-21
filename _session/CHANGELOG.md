@@ -85,6 +85,12 @@
 | [[Terapia de luz roja]] | updated | Luz verde 530nm para melanina + NIR, MyGreen Multitissue Torch (mygreenlamp.com) tras cirugía @seagertp; caveat pegamento quirúrgico+sol |
 | [[Suplementos]] | updated | "Los suplementos no funcionan aislados" @RyanJAyala: zinc→cobre/manganeso, NAC→cobre, vit C alta→cobre, Mg exceso→zinc, vit E→liposolubles, carbón activado→todo |
 | [[Psilocibina]] | updated | Anecdótico recuperación de parálisis (@VictorFromDE, 17 ago) |
+| [[XX errores de copywriting en emails]] | updated | 5 errores adicionales @giannicara: postura fuerte, anclar precio, argumento lógico, una sola promesa, creencias limitantes |
+| [[Lactato]] | updated | Ejercicio de lactato + locus ceruleus + respiración/biofeedback (acetilcolina) para ansiedad/depresión (@liverman_t); mitocondrias, caveat adherencia HIT |
+| [[Postura]] | updated | Asimetría erector espinal (@Snafu__u): trabajar glúteos, terapia manual; reencuadre cifosis "típico→normal" |
+| [[Higiene dental]] | updated | Remedios tradicionales DIY: sal/carbón, aceite de coco, cáscara de huevo; caveat pasta convencional tóxica |
+| [[Cabello]] | updated | Remedios del hilo: colágeno bone broth, CBD tópico, no-poo, hígado |
+| [[Resaca]] | updated | Estrategias para dejar alcohol: kombucha como sustituto social, Allen Carr, podcast Huberman ep.86 |
 
 ## Fuentes / hilos procesados (opcional)
 

@@ -164,3 +164,10 @@ Loxstar (X-347) superó a minoxidil en ensayo clínico para crecimiento capilar.
 | Apigenina | Vasodilatación, flavona |
 | Biotinil-GHK péptido | Cobre-péptido, regeneración folicular |
 | [[Melatonina]] | Regulador del ciclo capilar, antioxidante |
+
+### Remedios del hilo (respuestas, oct 2022)
+
+- **Colágeno del bone broth**: ideal para cuero cabelludo sano y sustancia del cabello (@RobbertSocial).
+- **CBD tópico**: brillo y reducción de irritación/sarpullidos (@RobbertSocial).
+- **No-poo**: dejar que el cuerpo encuentre su balance sin champú (@RobbertSocial).
+- **Hígado**: comer hígado para nutrición caplar (@soultransurfer).

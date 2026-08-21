@@ -15,6 +15,14 @@ La secuencia clásica de descompensación descrita desde el pie hasta la mandíb
 
 Esta cascada puede originarse desde arriba (mala posición de cabeza) o desde abajo (pie colapsado), y corregir un eslabón suele ayudar a los demás.
 
+## Asimetría del erector espinal (@Snafu__u, 22 oct 2022)
+
+Al inclinarse hacia delante, un lado del erector espinal puede estar notablemente más grueso que el otro — signo de **asimetría funcional** (no solo estética).
+
+- Posibles causas: dominancia lateral, compensación por desequilibrio pélvico, o patrón de reclutamiento asimétrico.
+- Sugerencias del hilo: trabajar **glúteos** ("you need some glute action", @bielawski_marek); terapia manual sobre puntos de control (@Petra_BodyWorks).
+- Reencuadre terminológico: "típico" → "normal", "cifótico" → "muy común" (@John298427) — la cifosis leve es ubícua, no patológica por defecto.
+
 ## Notas relacionadas
 
 - [[Tendón tibial anterior]] — el tendón que dorsiflexiona el pie; su inactividad desencadena toda la cascada postural ascendente. Caminar descalzo y ejercicios funcionales son clave.

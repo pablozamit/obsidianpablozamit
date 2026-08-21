@@ -97,6 +97,12 @@ La resaca no es un único proceso, sino una constelación de efectos del etanol,
 - **[[Migraña]] post-bebida**: en personas con migraña episódica, el alcohol es un trigger común. Identificar la bebida concreta (vino tinto, cerveza) y evitar.
 - **[[Prediabetes]]**: las resacas recurrentes que cursan con hipoglucemia son una señal de alerta. No掩盖s un problema metabólico subyacente.
 
+## Estrategias para dejar el alcohol (hilo, oct 2022)
+
+- **Kombucha como sustituto social**: llevar kombucha a las fiestas — bueno para el microbioma intestinal, sabe parecido a la sidra y cuesta casi lo mismo que el alcohol, así que no podrás permitirte ambos (@MyCap7).
+- **Allen Carr**: el libro de Allen Carr para dejar de beber es la recomendación recurrente (@Poopsypoop2).
+- **Podcast de Huberman**: "What Alcohol Does to Your Body, Brain and Health" (ep. 86) — información detallada que motiva a dejar (@enjoyoooooooor, @E37908518).
+
 ## Ver también
 
 - [[Alcohol]]
