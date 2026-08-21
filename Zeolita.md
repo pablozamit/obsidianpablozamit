@@ -83,6 +83,34 @@ Se recomienda:
 
 ## Ver también
 
+## Claims populares y escepticismo (@miraunpichon_, dic 2022)
+
+Hilo viral en español con claims entusiastas sobre la zeolita:
+
+**Claims reportados**:
+- Refuerza el sistema inmunológico, equilibra el pH, antiinflamatoria.
+- Optimiza absorción de vitaminas y minerales.
+- Libera calcio y magnesio.
+- Nivela glucosa en sangre.
+- Incrementa antioxidantes, elimina radicales libres y elementos radiactivos.
+- Antiácido para úlceras gástricas; efectiva para diarreas e infecciones urinarias.
+- Elimina nicotina del cuerpo.
+- Uso tópico para la piel (cataplasmas/emplastos).
+
+**Precauciones prácticas del hilo**:
+- **No debe estar en contacto con metales** al servirla o tomarla (usar vaso/botella de cristal, cuchara de plástico o madera).
+- Empezar con una cucharada por vaso e ir aumentando; tratamiento de ~3 semanas; también en pastillas.
+- No tomar con tratamientos químicos/farmacológicos.
+
+**Escepticismo**:
+- @MartinG39205538: "30 euros el bote sin garantías de que haga nada de eso".
+- @nova2000az1: la zeolita tomada **no pasa a la sangre** como tal; se degrada en el estómago y lo que pasa a la sangre son sus cationes (aluminio, silicio, sodio, potasio, calcio, etc.).
+- Esto es coherente con el mecanismo conocido: la clinoptilolita convencional **no se absorbe** y actúa solo en el tracto digestivo (ver "Zeolita nano y aluminio" arriba).
+
+> _—@miraunpichon_, 5 dic 2022. Claims no verificados independientemente; tratar como anecdóticos hasta que haya estudios clínicos._
+
+## Ver también
+
 - [[Clorela]]
 - [[Carbón activado]]
 - [[Enterosgel]]

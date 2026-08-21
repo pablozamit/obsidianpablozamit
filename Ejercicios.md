@@ -2,6 +2,20 @@
 
 El [[Cáncer#Ejercicio de alta intensidad|ejercicio de alta intensidad]] produce factores sanguíneos que inhiben el cáncer.
 
+## Estándares-ideal para hombres 30+ (@anymanfitness, nov 2022)
+
+Lista de **ideales** (no requisitos mínimos) para hombres mayores de 30 años:
+
+- **Press de banca**: peso corporal
+- **Sentadilla**: 1,25× peso corporal
+- **40 yardas (dash)**: < 5,0 s
+- **Dominadas**: 15
+- **Flexiones**: 50
+
+> _—Jason Helmes (@anymanfitness), 16 nov 2022. "Son ideales, no estándares. Apuntar al 1% superior es bueno."_
+
+**Matiz del hilo**: la combinación completa la cumple <1% de la gente; 30 dominadas seguidas es top 0,00001%. La sentadilla 1,25× y el press de banca son "fáciles" comparados con el dash sub-5,0s y las 15 dominadas (@dmorris345). No es necesario lograrlo todo el mismo día — es un panorama general.
+
 ## Bow Wall Sit ISO Hold (GOATA)
 
 ### Origen

@@ -91,6 +91,9 @@
 | [[Higiene dental]] | updated | Remedios tradicionales DIY: sal/carbón, aceite de coco, cáscara de huevo; caveat pasta convencional tóxica |
 | [[Cabello]] | updated | Remedios del hilo: colágeno bone broth, CBD tópico, no-poo, hígado |
 | [[Resaca]] | updated | Estrategias para dejar alcohol: kombucha como sustituto social, Allen Carr, podcast Huberman ep.86 |
+| [[Ejercicios]] | updated | Estándares-ideal hombres 30+ @anymanfitness: banca peso corporal, sentadilla 1.25x, dash 40yd <5s, 15 dominadas, 50 flexiones; son ideales no mínimos |
+| [[Estrés]] | updated | Herramientas anti-estrés @hubermanlab: suspiro fisiológico (doble inhalación nasal + exhalación boca) en tiempo real; frío ~12min/sem 1-5min/sesión, no 4-8h post-fuerza; complementos agua tibia + reinterpretación cognitiva |
+| [[Zeolita]] | updated | Claims populares @miraunpichon_: inmune, pH, antiinflamatoria, glucosa, antioxidantes, nicotina; no contacto con metales; escepticismo @nova2000az1 (no pasa a sangre, se degrada en estómago) |
 
 ## Fuentes / hilos procesados (opcional)
 
