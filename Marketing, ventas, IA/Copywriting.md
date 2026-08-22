@@ -27,6 +27,58 @@ De *Copywriting Secrets*:
 - **Sin medias tintas**: "You don't go halfway with your copy" (clipping #42).
 - **Método de estudio**: leer cualquier mensaje de venta que te haga gastar dinero a ti (clipping #20).
 
+### Secret #3: Sin un "porqué" fuerte, la gente no compra
+
+> "The secret of all effective advertising is not the creation of new and tricky words and pictures, but one of putting familiar words and pictures into new relationships."
+> _—Leo Burnett, citado por Jim Edwards_ (clipping #75)
+
+**Las 10 razones por las que la gente compra** (clippings #77-81):
+
+1. Ganar dinero
+2. Ahorrar dinero
+3. Ahorrar tiempo
+4. Evitar esfuerzo
+5. Escapar del dolor mental o físico
+6. Conseguir más comodidad
+7. Lograr mayor limpieza o higiene para estar más sano
+8. Recibir elogios
+9. Sentirse más querido
+10. Aumentar su popularidad o estatus social
+
+La clave es **vincular múltiples razones de compra** al mismo producto (clipping #82).
+
+**Las 11 preguntas sobre tu producto** (clipping #84): ¿de qué 5 formas les ayuda a ganar dinero? ¿cómo les ahorra dinero esta semana/mes/año? ¿cuánto tiempo les ahorra y qué podrían hacer con él? ¿qué ya no tendrán que hacer? ¿qué dolor físico elimina? ¿qué preocupación mental? ¿3 formas de darles más comodidad? ¿cómo facilita limpieza/higiene? ¿cómo los hace sentirse más sanos o vivos? ¿3 formas de ser la envidia de sus amigos y sentirse más amados? ¿cómo aumenta su popularidad y estatus?
+
+> "Force yourself to come up with ten answers to each of those questions."
+> _—Jim Edwards_ (clipping #85)
+
+**Método de las páginas llenas**: escribe el problema arriba de una hoja y llena la página entera de soluciones; pasa a la siguiente y llénala también. Las respuestas fáciles llegan en el primer tercio; **las respuestas reales llegan después**, cuando hay que pensar fuera de la caja (clippings #86-88).
+
+### Secret #4: En tu copy de ventas, nadie se preocupa por ti
+
+- Al lector solo le importa recibir el valor de su dinero, obtener lo prometido, tenerlo cuando lo quiere y que cubra sus necesidades (clipping #91).
+- **Ejercicio**: repasa el copy buscando "yo, mí, mi, nosotros, nuestro" y cambia la perspectiva: "Quiero contarte algo" → "Esto es algo que necesitas saber" (clipping #92).
+- Ellos quieren ser **el héroe** de tu mensaje de venta (clipping #93).
+
+### Secret #5: La habilidad más valiosa que aprenderás
+
+- Contratar un copywriter está bien cuando hay tiempo; pero si lo necesitas "para la semana que viene", pagas precios premium. Escribir tu propio copy rápido es la habilidad (clipping #95).
+- Progresión: "Before you can be great, you have to be good. Before you can be good, you have to be bad. Before you can be bad, you have to try" (clipping #96).
+- Somos miembros de nuestro propio mercado objetivo 999 veces de cada 1.000: fíjate en el copy que te hace gastar a ti — **si te hace gastar dinero, es buen copy** (clippings #97-99).
+
+### Secret #6: El titular es la pieza más importante del copy
+
+Orden recomendado de dominio: primero titulares, segundo bullets, tercero llamadas a la acción y enmarcado de ofertas (clippings #100-103).
+
+> "On the average, five times as many people read the headlines as read the body copy."
+> _—David Ogilvy_ (clipping #105)
+
+- Por experiencia propia: un gran titular con copy mediocre supera a un copy excelente con titular débil (clipping #106).
+- Un buen titular conecta **emocionalmente** con el prospecto ideal: apunta a un miedo o a un deseo (clipping #107).
+- Un gran titular **filtra la audiencia**: no quieres que gente fuera del público objetivo siga leyendo tras el titular (clipping #110-111).
+- Ejemplo de iteración: "How I Took Myself From Bankrupt Trailer Trash To Successful Online" → "How To Gain A Positively Unfair Advantage In Business And In Life!" (clipping #112).
+- **Swipe file**: colección de anuncios que te gustan para desarrollar tus propias fórmulas (clipping #113). Ejemplo de adaptación: "The Grand Theft Auto 4 Secrets You're Not Supposed To Know" → "The Ebook Marketing Secrets You're Not Supposed To Know" (clipping #114).
+
 ## 6 hacks de copywriting según Chase Diamong
 
 - **No empieces tus historias desde el principio.** En su lugar:

@@ -43,3 +43,16 @@ Sin señales de luz, el sentido interno del tiempo se pierde fácilmente.
 > _—Linda Geddes, Chasing the Sun_ (clipping #57)
 
 - **Tristeza invernal**: la exposición a luz brillante, particularmente durante la mañana temprana, es una forma probada de combatir el bajón invernal (clipping #58).
+
+# El reloj maestro: núcleo supraquiasmático (Linda Geddes)
+
+- Existe un **trastorno del ritmo circadiano llamado non-24-hour sleep-wake disorder (non-24)**: el reloj interno no se ajusta al ciclo de 24 horas (clipping #63).
+- Todos los relojes celulares del cuerpo responden a las señales de una zona cerebral cuyo trabajo es mantenerlos sincronizados entre sí y con la hora exterior: el **núcleo supraquiasmático (SCN)**:
+
+> "It is closely connected to the pineal gland, which is sometimes referred to as the 'third eye', although this name would really be better applied to this master clock, the SCN. Containing just 20,000 cells, and no bigger than a grain of rice, this remarkable piece of tissue is the biological equivalent of the Greenwich meridian: it is the reference point used by the billions of other cellular clocks in your body to remain accurate."
+> _—Linda Geddes, Chasing the Sun_ (clipping #68)
+
+- El SCN es un pequeño grupo de células en el hipotálamo (bajo la zona entre las cejas), estrechamente conectado con la glándula pineal.
+- **Si se extirpa el reloj maestro** (estudios en ratas y hámsteres), los ritmos diarios de los tejidos se descomponen gradualmente; si se trasplanta uno nuevo, **los ritmos reaparecen**.
+- Los ritmos circadianos evolucionaron porque alinear la actividad con el ciclo diario luz-oscuridad **aumenta las probabilidades de supervivencia** (clipping #69).
+- **Función social**: los relojes sincronizados también pudieron permitirnos desarrollar como criaturas sociales — cooperamos mejor en grupos cohesionados si sentimos hambre, sociabilidad y sueño aproximadamente a la vez (clipping #74).

@@ -118,6 +118,10 @@
 | [[Copywriting]] | updated | KINDLE B1 (Jim Edwards #13-42): fundamentos — una sales letter de la riqueza (Halbert), copy=amplificador, definición acción concreta, mejor copy no parece copy, miedos/deseos, gente ama comprar, sin warm-up, FRED, nicho=personas |
 | [[Ritmo circadiano]] | updated | KINDLE B1 (Geddes #43-58): ciclo 24h y casinos sin ventanas, luz blanco-azul alerta, dormir contra el reloj, ~50% genes bajo control circadiano, luz matutina vs tristeza invernal |
 | [[Luz solar]] | updated | KINDLE B1 (Geddes #46-60): biología en alianza con el sol, cianobacterias, sol ordena bioquímica vía ojos, terapia fotodinámica (cáncer piel/acné), IR para dolor, UV endorfinas, serotonina/oscuridad manía, fotón 8min20s |
+| [[Luz solar]] | updated | KINDLE B2 (Geddes #61-73): estrellas=mirar atrás en tiempo, UV daña ADN (10 mutaciones/célula/4h), origen reloj circadiano protección ADN (cianobacterias paran síntesis al mediodía), teoría ROS, separación de procesos |
+| [[Ritmo circadiano]] | updated | KINDLE B2 (Geddes #63-74): trastorno non-24, SCN reloj maestro (20k células, meridiano de Greenwich biológico, extirpar/trasplantar), evolución supervivencia, función social de la sincronía |
+| [[Copywriting]] | updated | KINDLE B2 (Edwards #75-114): Secrets 3-6 — 10 razones de compra, 11 preguntas del producto, método páginas llenas, nadie se preocupa por ti (héroe=lector), escribir copy propio rápido, titular 5x leído (Ogilvy), miedo/deseo, swipe file |
+| [[Hooks]] | updated | KINDLE B2 (Edwards #115-120): 6 fórmulas de titulares (How To Get X, In As Little As X even if Y, How Every X Can Y, 5 Quick Ways, Which Mistakes) |
 
 ## Fuentes / hilos procesados (opcional)
 

@@ -23,7 +23,15 @@ El espectro electromagnético de la luz del Sol contiene:
 - **Luz y percepción del dolor**: la luz infrarroja se usa como tratamiento para varios tipos de dolor agudo y crónico y se investiga para promover la cicatrización de heridas. La luz UV también estimula la producción de **endorfinas**, que amortiguan la percepción del dolor (clipping #53).
 - El sol permite fabricar [[Vitamina D]] en la piel, con niveles que varían a lo largo del año (clipping #54).
 - **Serotonina y manía**: la exposición solar aumenta la disponibilidad de [[Serotonina]] en el cerebro; la oscuridad se está investigando como tratamiento para la manía (clipping #55).
-- **Viaje del fotón**: los fotones tardan ~170.000 años en salir del núcleo solar hasta su borde... y solo **8 minutos y 20 segundos** en llegar a tu ojo desde ahí (clipping #60).
+- **Viaje del fotón**: los fotones tardan ~170.000 años en salir del núcleo solar hasta su borde... y solo **8 minutos y 20 segundos** en llegar a tu ojo desde ahí (clipping #60). Cuando esos fotones emprendieron viaje, "el hombre apenas estaba inventando la ropa". Mirar las estrellas es mirar atrás en el tiempo: las ves como eran hace cientos de miles o millones de años (clippings #61-62).
+- **La luz UV daña el ADN**: cuatro horas de baño de sol producen aproximadamente **diez mutaciones en el ADN de cada célula de la piel** (clipping #70).
+- **Origen de los relojes circadianos (teoría UV)**: el reloj de las cianobacterias es el ancestro más antiguo identificado; una teoría sostiene que evolucionó para **proteger el ADN de la luz solar** — el ADN es vulnerable mientras se sintetiza, así que las cianobacterias **detienen la síntesis de ADN durante 3-6 horas al mediodía**, cuando el sol es más intenso (clipping #71):
+
+> "DNA is extremely susceptible to damage by UV light – just four hours of sunbathing results in approximately ten mutations in the DNA of every skin cell."
+> _—Linda Geddes, Chasing the Sun_ (clipping #70)
+
+- **Teoría alternativa (ROS)**: el reloj anticiparía el inicio diario de la fotosíntesis, que aunque muy beneficiosa también genera especies reactivas de oxígeno (**radicales libres**) (clipping #72). Ver [[Anión superóxido]].
+- **Separación de procesos**: hoy el reloj circadiano cumple otra función clave en las cianobacterias: separar procesos bioquímicos que compiten entre sí (clipping #73).
 
 ## Síntesis de vitamina D
 

@@ -27,3 +27,14 @@ Se pueden dividir los titulares aproximadamente en tres categorías:
 > _—Andy Maslen, The Copywriting Sourcebook_ (clipping #12)
 
 La combinación de los tres es el tipo de titular con mayor respuesta.
+
+## Fórmulas de titulares (Jim Edwards)
+
+Plantillas listas para rellenar (*Copywriting Secrets*):
+
+- **How To Get ________** (clipping #115)
+- **How To ________ In As Little As ________** — ej.: "Duplica tus flexiones en tan solo 10 días", "Deshazte del acné en tan solo 24 horas" (clipping #116)
+- La anterior, potenciada: **How To ________ In As Little As ________ . . . even if you ________!** (clipping #117)
+- **How Every ________ Can ________** — ej.: "Cómo cada recluta militar novato puede convertirse en un dios del PT en 12 semanas" (clipping #118)
+- **5 Quick And Easy Ways To ________** (clipping #119)
+- **Which Of These ________ Mistakes Will You Make?** — "¿Cuál de estos errores cometerás tú?" (clipping #120)
