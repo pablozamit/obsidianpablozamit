@@ -99,6 +99,8 @@
 | [[Proteína]] | updated | Ratio Ca:fósforo y por qué evitar whey @JustinMihaly: diversidad de aminoácidos >>>> cantidad; pechuga/claras sin beneficio real; réplicas críticas |
 | [[Progesterona]] | updated | Beneficios en hombres @JustinMihaly: sueño (no despertar 3AM), ansiedad, aldosterona, cortisol, prolactina, estrógeno, 5α-reductasa, fertilidad; Progest-E 2-3 gotas 2-4x/sem; réplicas Uros (pregnenolona más segura) y debate DHT |
 | [[NAC]] | updated | NAC nocturno resetea receptores dopamina @BasedBiohacker (500-1000mg, no diario); stack NACET/cerebrolysin/memantina/agmatina; contradicción con @btplebt (NAC afecta sueño); réplicas migraña/estómago/blunting |
+| [[Aspirina (ácido acetilsalicílico)]] | updated | Aceite de wintergreen @metabolic_print: 1 cucharadita ≈ 7g salicilato ≈ 18 aspirinas; uso tópico, caveats toxicidad/PUFA/costo, dudas consumo |
+| [[Leche]] | updated | CLA+TVA del queso compensan falta de pescado @mct4health: 50g/día queso pastoreado eleva EPA/DHA (estudio humano), 1.16-1.52g CLA+TVA por 50g (6x industrial), PPARα, DNL; matiz trans-VA vs cis-VA |
 
 ## Fuentes / hilos procesados (opcional)
 

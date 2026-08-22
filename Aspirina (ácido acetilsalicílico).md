@@ -100,6 +100,22 @@ Los efectos metabólicos de la aspirina provienen del **salicilato**, no de la a
 
 Fuente completa: "The Aspirin Bible" (Metabolic Blueprint).
 
+### Aceite de wintergreen (salicilato de metilo) (@metabolic_print, 21 ago 2026)
+
+El **aceite de wintergreen** (gaulteria) es una fuente concentrada de **salicilato de metilo**:
+
+- **1 cucharadita ≈ 7 g de salicilato** — el equivalente a **18 tabletas de aspirina**.
+- Para referencia: 500 mg de aspirina contienen **384 mg de salicilato**.
+- El autor lo considera "muy infravalorado" por sus efectos **pro-metabólicos y antiinflamatorios** (los mismos del salicilato de la aspirina, ver arriba).
+- **Uso tópico**: útil como remedio para picaduras de insectos; salicilatos minerales tamponados siguen siendo preferibles para ingestión (@jeffreytee). El salicilato de zinc/boro cristalino en líquido sirve para uso tópico (@jeffreytee).
+- **Caveats del hilo**:
+  - Riesgo de **toxicidad por salicilato** si se abusa (@rtnnnie).
+  - Preocupación por contenido de **PUFA/estrogenicidad** en el aceite (@Kris21155596033).
+  - **Costo-beneficio**: una botella de 1 oz (~$14.99) rinde ~153 aspirinas de 325 mg; $12.23 compran 1500 aspirinas — la aspirina es mucho más barata por dosis (@TwistedTexanDFW).
+  - Dudas sobre **adelgazamiento de la sangre** y cómo consumirlo (tópico vs oral) (@yann9619, @mellicrypto).
+
+> _—Metabolic Blueprint (@metabolic_print), 21 ago 2026. Guía completa: "The Aspirin Bible" ([open.substack.com](https://open.substack.com/pub/metabolicblueprint/p/the-aspirin-bible))_
+
 ### Efecto protiroideo
 
 La aspirina en dosis altas (2g+ al día) libera la hormona tiroidea unida a proteínas transportadoras en sangre, aumentando su disponibilidad para las células. Esto produce un efecto similar —aunque más suave— al de suplementar con hormona tiroidea directamente. Mecanismo descrito por Ray Peat y reportado por Metabolic Blueprint.
