@@ -136,3 +136,15 @@ Un cliente de MAYA @ArsAlendi describió tras tomar ~175 mg de vitamina E (tocof
 - Algunas personas prefieren la aplicación **tópica** para evitar molestias digestivas
 
 > _—MAYA (@ArsAlendi), 16 jun 2026. Reporte anecdótico, no clínico._
+
+## NASH / hígado graso (@skindotfood, 20 ago 2026)
+
+Estudio con **247 pacientes con esteatohepatitis no alcohólica (NASH)** aleatorizados a **vitamina E**, **pioglitazona** o placebo durante **2 años**:
+
+- La **vitamina E normalizó ALT, AST y GGT**.
+- El **porcentaje de sujetos con mejoría fue el más alto en el grupo de vitamina E**.
+- Replica anecdótica del hilo: paciente con cáncer de próstata + diabetes + HTA mejoró enzimas hepáticas con tocotrienoles (@ExecutorNight2).
+
+> _—@skindotfood, 20 ago 2026. Fuente original: estudio PIVENS (vit E vs pioglitazona vs placebo en NASH)._
+
+Ver también hígado graso (NAFLD).

@@ -101,6 +101,11 @@
 | [[NAC]] | updated | NAC nocturno resetea receptores dopamina @BasedBiohacker (500-1000mg, no diario); stack NACET/cerebrolysin/memantina/agmatina; contradicción con @btplebt (NAC afecta sueño); réplicas migraña/estómago/blunting |
 | [[Aspirina (ácido acetilsalicílico)]] | updated | Aceite de wintergreen @metabolic_print: 1 cucharadita ≈ 7g salicilato ≈ 18 aspirinas; uso tópico, caveats toxicidad/PUFA/costo, dudas consumo |
 | [[Leche]] | updated | CLA+TVA del queso compensan falta de pescado @mct4health: 50g/día queso pastoreado eleva EPA/DHA (estudio humano), 1.16-1.52g CLA+TVA por 50g (6x industrial), PPARα, DNL; matiz trans-VA vs cis-VA |
+| [[Zanahoria]] | updated | Champiñón blanco como rival @HansAmato: actividad inhibidora de aromatasa real (T:E2 23→32:1), 420g/día 2 sem, freír 15-20min; caveats agaritina/Stamets, SLC22A4 |
+| [[Prolactina]] | updated | Hormona menos testada en hombres @JustinMihaly: eje tiroides→TRH→prolactina, 40% hipotiroidismo/32% subclínico, cascada LH→T; estudio 23 hombres T normal+ED mejoró con agonista dopa sin T (PMID 40966237); B2/B6 |
+| [[Pregnenolona]] | updated | Vías de administración @HansAmato: oral (→P4/allopreg), tópica (vida media larga), sublingual (pico rápido), intranasal (neuroesteroides), enanthate (vida media máxima, sin picos) |
+| [[Vitamina E]] | updated | NASH @skindotfood: estudio 247 pacientes 2 años vit E vs pioglitazona vs placebo; vit E normalizó ALT/AST/GGT, mayor % de mejoría |
+| [[Calcio]] | updated | Manejo intracelular Ca2+ neuronal @Helios_Movement: transversal a insomnio/bipolar/TDAH/epilepsia/ansiedad; fusión vesicular, canales BK/SK; enlace a raíces TDAH (CACNA1C) |
 
 ## Fuentes / hilos procesados (opcional)
 

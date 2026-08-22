@@ -130,6 +130,20 @@ Réplica @doctorcalf (16h): a dosis más bajas (DL) nota **sueños sexuales + br
 - **Debate sobre ciclado**: algunos la ciclan como un esteroide; otros la toman continua.
 - Pregunta abierta del hilo: dosis más alta de HCG.
 
+## Vías de administración (@HansAmato, 20 ago 2026)
+
+| Vía | Vida media | Perfil |
+|---|---|---|
+| **Oral** | Corta | Rápidamente convertida a progesterona y alopregnanolona |
+| **Tópica** | Mucho más larga | Efectos dominados por preg; vida media extendida |
+| **Sublingual** | Rápida absorción | Pico rápido pero caída rápida |
+| **Intranasal** | — | Captación cerebral superior para creación de neuroesteroides |
+| **Inyección de Pregnenolona Enanthate** | La más larga | Efectos dominados por preg, conversión lenta y estable a neuroesteroides; sin picos ni caídas |
+
+Hans Amato la toma **por la mañana**. No le ha afectado al ratio T:E2. Reporta que la preg no le ha subido la prolactina (pregunta frecuente del hilo).
+
+> _—Hans Amato (@HansAmato), 20 ago 2026. Guía completa: [hansamato.substack.com/p/the-pregnenolone-dosing-guide-route](https://hansamato.substack.com/p/the-pregnenolone-dosing-guide-route)_
+
 ## Relación con la eyaculación precoz
 
 El estrés y la ansiedad son causas directas de la eyaculación precoz. La pregnenolona ayuda a regular la respuesta al estrés, lo que puede disminuir la activación simpática y mejorar el control eyaculatorio.

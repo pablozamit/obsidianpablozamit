@@ -28,6 +28,46 @@ La prolactina no se produce solo en la hipófisis: también se sintetiza **perif
 
 El hipotiroidismo duplica los niveles de prolactina en hombres. El tratamiento con hormona tiroidea (T4) en hombres hipotiroideos duplica la testosterona total y libre, y reduce la prolactina a la mitad. Ver [[Hipotiroidismo]] y [[Tiroides (glándula)]].
 
+## La hormona menos testada en hombres (@JustinMihaly, 21 ago 2026)
+
+La prolactina es la **hormona menos testeada en hombres** y está suprimiendo la testosterona (y la dopamina).
+
+### El eje tiroides → TRH → prolactina
+
+- Todas las hormonas de la hipófisis necesitan una señal que les diga que **suban**. La prolactina es la excepción: está **retenida todo el día por la dopamina**. No necesita motivo para subir — solo que esa supresión falle.
+- Lo que más hace fallar esa supresión es la **tiroides**.
+- Cuando la producción tiroidea baja, el cerebro bombea más **TRH** para empujar el TSH. El TRH no solo toca las células de TSH: **también toca las células de prolactina, justo al lado**. Un problema de tiroides se convierte en problema de testosterona por aquí.
+
+### Prevalencia
+
+| Población | % con prolactina alta |
+|---|---|
+| Hombres con función tiroidea normal | ~2% |
+| Hombres con **hipotiroidismo subclínico** (TSH límite) | **32%** |
+| Hombres con **hipotiroidismo** | **40%** |
+
+### La cascada
+
+Prolactina alta → apaga la señal que impulsa **LH** → LH cae → **testosterona cae** → libido y erección caen.
+
+### Estudio clave (PMID 40966237): el síntoma nunca fue el número de testosterona
+
+- **23 hombres** con prolactina alta y **testosterona completamente NORMAL** (rango medio) acudieron con libido baja y disfunción eréctil.
+- Se trató **solo la prolactina** con un agonista dopaminérgico; **nunca se les dio testosterona**.
+- La testosterona no cambió significativamente antes/después.
+- **La función eréctil mejoró significativamente de todos modos.**
+
+### Qué hacer
+
+1. **Incluir prolactina en el panel** de hormonas masculinas, junto a TSH, T3 libre, T4 libre y T3 reversa — casi nunca se pide con el panel de testosterona y debería ser estándar.
+2. **Si está alta, mirar primero la tiroides** antes de recurrir a algo que baje la prolactina directamente. Arregla el hipotiroidismo y la prolactina suele volver con él.
+3. Testosterona normal con libido inexistente **no es un problema hormonal**.
+4. **Vitamina B2 y B6**: útiles antes de actividad sexual — "cualquier tipo que haya tomado B2 y B6 sabe el efecto". La secuencia importa.
+
+> _—@JustinMihaly, 21 ago 2026_
+
+**Réplicas del hilo**: @Gabri3lTheGreat: "un poco de P5P, un poquito de Tren y un toque de T3". @DadResearcher pregunta si prolactina 21.1 con tiroides bien y T libre baja sigue causando problemas de libido.
+
 ## Prolactina, cabello y canas
 
 La prolactina elevada contribuye directamente a la [[Alopecia|caída del cabello]] y al envejecimiento prematuro ([[Canas|canas]]). Bloquear o reducir la prolactina estimula el crecimiento capilar y revierte las canas en estudios preliminares — se está desarrollando un anticuerpo contra el receptor de prolactina con este fin (Dalton @Outdoctrination, 21 jun 2026).

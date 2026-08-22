@@ -83,6 +83,20 @@ La ingesta diaria óptima de calcio se sitúa en 3-5 g/día para aumentar el [[M
 
 Cuando un espermatozoide penetra el óvulo, desencadena la liberación de iones de calcio almacenados en el óvulo — el "Calcium Spark" (chispa de calcio). Este pulso de calcio activa la [[Piruvato deshidrogenasa (PDH)]], las enzimas del [[Ciclo de Krebs]], la [[Cadena de transporte de electrones]] y la [[ATP sintasa]], encendiendo la producción de energía de la primera célula y permitiendo la formación de un nuevo ser (Oxidative State @oxidativestate, 15 mar 2026).
 
+## Manejo intracelular del calcio neuronal (@Helios_Movement, 20 ago 2026)
+
+El **manejo intracelular del calcio (Ca²⁺) alterado en las neuronas** aparece a través de condiciones como insomnio, trastorno bipolar, TDAH, epilepsia y ansiedad — y la mayoría que las padece no lo sabe.
+
+La señalización del calcio es uno de los principales "lenguajes" que la neurona usa dentro de la célula para convertir una señal entrante (neurotransmisor, potencial de acción, estímulos) en una acción concreta.
+
+**Cambios en el Ca²⁺ citoplasmático libre controlan**:
+- **Fusión vesicular síncrona y liberación de neurotransmisores** en la terminal presináptica: cuando el potencial de acción llega, se abren los canales de calcio dependientes de voltaje.
+- **Excitabilidad intrínseca** modulando canales de potasio activados por calcio (BK, SK): tras una ráfaga de potenciales de acción, el Ca²⁺ activa estos canales que controlan lo fácil que es disparar la neurona.
+
+**Implicación**: el calcio no es solo un mineral óseo — su manejo intracelular neuronal es transversal a múltiples trastornos psiquiátricos y neurológicos. Ver también [[TDAH#Las 10 raíces del TDAH (@Helios_Movement)]] (donde los canales de calcio CACNA1C aparecen entre las raíces).
+
+> _—George Ferman (@Helios_Movement), 20 ago 2026_
+
 ## Preparación de Calcio Casero (Cáscaras de Huevo)
 
 "Esto es lo que he hecho yo mismo para obtener calcio de cáscaras de huevo durante los últimos cuatro años y no me he enfermado ni he muerto. Enjuago las cáscaras de huevo y las pongo a secar. Una vez que tengo una buena cantidad, las horneo durante 10 minutos a 200 grados. Una vez que se enfrían, las pulverizo en una licuadora hasta obtener la molienda más fina posible."

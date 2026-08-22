@@ -62,6 +62,29 @@ _Caveat_: la semilla de zanahoria silvestre tiene efectos hormonales **opuestos*
 
 Master Metabolism (@lowmegatron, 28 jun 2026) comenta sobre [[DIM]]: "It has oestrogenic and antiandrogenic effects. Probably best avoided." Esto contrasta con la reputación habitual de DIM como modulador estrogénico beneficioso (ver [[DIM]]). La afirmación de actividad estrogénica directa del DIM no está bien documentada en la literatura — podría referirse a efectos paradójicos en ciertos contextos.
 
+### El rival: champiñón blanco como inhibidor de aromatasa (@HansAmato, 20 ago 2026)
+
+> "Move over carrot salad, this is a job for white button mushroom."
+
+La fibra de zanahoria **sí** une estrógeno excretado en el intestino (bloqueando la beta-glucuronidasa), pero **no es única**: su ratio soluble/insoluble es casi idéntico al de la mayoría de verduras, y una zanahoria media aporta una fracción de la fibra de una ración de legumbres u hojas. El "ritual" de rallarla longitudinalmente es "teatro alrededor de una fuente de fibra bastante común".
+
+El **champiñón blanco** (*Agaricus bisporus*) hace algo que la zanahoria no puede: es **uno de los pocos alimentos enteros con actividad inhibidora de aromatasa real**:
+
+- **Menos testosterona se convierte en estrógeno en primer lugar** — en lugar de solo recoger el que ya circula.
+- **Evidencia de sangre propia**: ratio T:E2 mejoró de **23:1 → 32:1** con solo champiñón cocinado a diario.
+- **Mega-dosis**: 420 g/día durante 2 semanas (Hans Amato).
+
+**Preparación**: freír **15-20 min** (no hace falta hervir 3 horas como el protocolo de Ray Peat para la zanahoria). No crudo ni en ayunas (@jakewesleystack).
+
+**Caveats**:
+- **Agaritina** (hidrazina natural): cocinarlo bien la desnaturaliza; el micólogo Paul Stamets considera poco prudente comerlos crudos (la industria tiene una orden judicial que le impide discutirlo) (@SusiB348).
+- **Intolerancia genética**: comprobar **SLC22A4 (rs1050152)** si hay sensibilidad digestiva a champiñones (@Naomi_D_Harvey).
+- Los champiñones blancos puntúan por debajo de los de madera (shiitake) en otros marcadores de salud (@firsttosettle).
+
+> _—Hans Amato (@HansAmato), 20 ago 2026. Artículo: [hansamato.substack.com/p/white-button-mushrooms-the-natural](https://hansamato.substack.com/p/white-button-mushrooms-the-natural)_
+
+Ver también [[Aromatasa]] y [[Champiñones]].
+
 ## Notas Relacionadas
 - [[Vitamina A]]
 - [[Retinol]]
