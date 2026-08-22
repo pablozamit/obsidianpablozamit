@@ -193,6 +193,28 @@ Forma esterificada de [[Acetilcisteína|NAC]] con propiedades significativamente
 
 NAC puede afectar negativamente al sueño. Se recomienda tomarlo temprano en el día y evitar la noche (@btplebt, 27 jul 2026). La [[Glicina|glicina]] es mejor opción 1-2 horas antes de dormir.
 
+### NAC nocturno para resetear receptores de dopamina (@BasedBiohacker, 21 ago 2026)
+
+Postura contraria a la anterior: **NAC antes de dormir** (500-1.000 mg) resetea la sensibilidad de los receptores de [[Dopamina|dopamina]].
+
+- Por eso **mata la eficacia de los estimulantes** si se toman juntos.
+- No dosificar a diario.
+- **Stack** mencionado en el mismo hilo:
+  - **NACET**: forma más biodisponible del NAC.
+  - **[[Cerebrolysin]]**: repara neuronas vía neurotrofinas.
+  - **Memantina**: bloquea la exitotoxicidad por glutamato.
+  - **[[Agmatina]] (sulfato)**: previene la tolerancia receptorial.
+
+> _—@BasedBiohacker, 21 ago 2026_
+
+**Réplicas del hilo**:
+- @Moorlach: NACET + glicina cada noche = excelentes resultados.
+- @whiteboigocrazy: la memantina le resolvió migrañas crónicas de años.
+- @Amonhohohotep: NAC antes de dormir puede alterar el estómago.
+- @WhiteGoys: "el NAC te deja embotado, no lo tomes" (efecto blunting).
+- @iissaacc22: le deprime si lo toma de mañana; quizás mejor de noche.
+- @nocodesam1: preguntan si se puede combinar tiamina + NAC.
+
 ### Estrategia circadianamente óptima (@BasedInHealth)
 - **Mañana**: NAC (apoya glutatión, detox hepático, fase catabólica del día)
 - **Noche**: [[Glicina|glicina]] (neurotransmisor inhibidor, promueve sueño profundo, fase anabólica/regenerativa)

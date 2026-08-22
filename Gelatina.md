@@ -2,6 +2,20 @@
 
 Ver también: [[Colágeno]], [[Pescado]]
 
+# Gelatina + hongos para curar el intestino (@BigolWave, 21 ago 2026)
+
+La combinación de **[[Gelatina|gelatina]] + hongos** cura el intestino a una velocidad "asombrosa":
+
+- De síntomas tipo **SII** a digestión casi perfecta.
+- **Bone broth** (caldo de huesos) cada mañana con el desayuno — un vaso de 8 oz (@controscience).
+- **Gelatina de vacuno** en zumo de naranja + yema de huevo = "Orange Julius" (@EricTrauman).
+- **Hongos**: cualquier tipo sirve; hervirlos si se comen en gran cantidad a diario (para ablandar la quitina); si son de buena calidad, freír en mantequilla.
+- **Tip**: espaciar la gelatina de la fibra — demasiada fibra con la comida reduce la absorción de nutrientes (@BigolWave).
+
+> _—@BigolWave, 21 ago 2026_
+
+Ver [[Permeabilidad intestinal]].
+
 # Como prebiótico animal
 
 La [[Gelatina|gelatina]] es [[Colágeno|colágeno]] parcialmente hidrolizado. Una fracción llega al [[Intestino|intestino]] distal donde es fermentada por la [[Microbiota|microbiota]], produciendo [[Butirato|butirato]] y otros [[Ácidos grasos de cadena corta|ácidos grasos de cadena corta]]. En los estudios de Depauw con guepardos, el [[Colágeno|colágeno]] fue comparable al FOS vegetal en producción de [[Butirato|butirato]]. Ver [[Fibra animal]].

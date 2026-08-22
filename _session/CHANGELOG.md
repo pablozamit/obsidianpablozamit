@@ -94,6 +94,11 @@
 | [[Ejercicios]] | updated | Estándares-ideal hombres 30+ @anymanfitness: banca peso corporal, sentadilla 1.25x, dash 40yd <5s, 15 dominadas, 50 flexiones; son ideales no mínimos |
 | [[Estrés]] | updated | Herramientas anti-estrés @hubermanlab: suspiro fisiológico (doble inhalación nasal + exhalación boca) en tiempo real; frío ~12min/sem 1-5min/sesión, no 4-8h post-fuerza; complementos agua tibia + reinterpretación cognitiva |
 | [[Zeolita]] | updated | Claims populares @miraunpichon_: inmune, pH, antiinflamatoria, glucosa, antioxidantes, nicotina; no contacto con metales; escepticismo @nova2000az1 (no pasa a sangre, se degrada en estómago) |
+| [[Nattoquinasa]] | created | Nueva nota: enzima fibrinolítica del nattō; spike+fibrina=tromboinflamación (Nature 2024); estudio humano 2000FU ↑D-dímero/↓factor VIII; réplicas lumbroquinasa/serrapeptasa/niacina; caveat ACE2/AT1R (@Parsifaler) |
+| [[Gelatina]] | updated | Gelatina+hongos curan intestino @BigolWave: IBS→digestión perfecta, bone broth mornings, gelatina en zumo+yema, espaciar de fibra |
+| [[Proteína]] | updated | Ratio Ca:fósforo y por qué evitar whey @JustinMihaly: diversidad de aminoácidos >>>> cantidad; pechuga/claras sin beneficio real; réplicas críticas |
+| [[Progesterona]] | updated | Beneficios en hombres @JustinMihaly: sueño (no despertar 3AM), ansiedad, aldosterona, cortisol, prolactina, estrógeno, 5α-reductasa, fertilidad; Progest-E 2-3 gotas 2-4x/sem; réplicas Uros (pregnenolona más segura) y debate DHT |
+| [[NAC]] | updated | NAC nocturno resetea receptores dopamina @BasedBiohacker (500-1000mg, no diario); stack NACET/cerebrolysin/memantina/agmatina; contradicción con @btplebt (NAC afecta sueño); réplicas migraña/estómago/blunting |
 
 ## Fuentes / hilos procesados (opcional)
 

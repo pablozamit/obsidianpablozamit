@@ -17,3 +17,15 @@ La proteína dietética es **más importante que el calcio** para la densidad mi
 > Dietary protein is more important than calcium for bone health (Moosa @questmoosa, 5 jun 2026).
 
 Ver también: [[Hígado]], [[Colágeno]], [[Calcio]], [[Metabolismo]], [[Aminoácidos]]
+
+## Ratio calcio:fósforo y por qué evitar whey (@JustinMihaly, 22 ago 2026)
+
+Justin Mihaly (dueño de una empresa de suplementos) dejó de usar **whey protein** al aprender sobre el **ratio calcio:fósforo**:
+
+- El whey, las pechugas de pollo y las claras de huevo **no ofrecen beneficios reales** según él — el ratio Ca:P es desfavorable.
+- **La diversidad de aminoácidos es más importante que la cantidad total de proteína** ("amino acid diversity >>>> amount of protein intake").
+- Preferir fuentes con mayor diversidad de aminoácidos y mejor perfil mineral.
+
+> _—@JustinMihaly, 22 ago 2026_
+
+**Réplicas**: @PrometheanPrt y @BrownNectarFund critican desechar las claras de huevo; @MarshallsFolly señala que la carne no eleva la PTH de forma significativa.
