@@ -113,6 +113,11 @@
 | [[DHEA]] | updated | Guía @Helios_Movement: funciones (GLUT4, lipólisis, RMR, hueso, alopregnanolona, tiroides, 11β-HSD1, dopamina, inmune), formas DHEA/DHEA-S, subirla natural (StAR, evitar glifosato, manzanilla, shilajit, jalea real), protocolo >45 años 5mg+10mg |
 | [[PEA (palmitoiletanolamida)]] | created | Nueva nota: buffer endógeno (mastocitos, microglía, PPAR-α, LPS, anandamida, alopregnanolona); 600mg/comida dobla alopregnanolona en 14 días @HansAmato; experimento DHT (un solo estudio in vitro glial, test propio HuMap, resting Oura 2h30) |
 | [[Salud dental]] | updated | Remineralización por saliva con vitamina D @Outdoctrination: 1000 IU/día remineralizó dientes tras ácido (PMID 35761922); dientes = tejido activo |
+| [[Mitocondria]] | updated | KINDLE B1 (Nick Lane, Power Sex Suicide #1-9): powerhouse/ATP, 300-400/célula, origen bacteriano 2.000M años, herencia materna exclusiva, asimetría sexual, dos sexos = selección sobre genes mitocondriales |
+| [[Hooks]] | updated | KINDLE B1 (Maslen #10-12): 3 tipos de titulares (noticia, curiosidad, beneficio); la combinación de los tres es la más responsiva |
+| [[Copywriting]] | updated | KINDLE B1 (Jim Edwards #13-42): fundamentos — una sales letter de la riqueza (Halbert), copy=amplificador, definición acción concreta, mejor copy no parece copy, miedos/deseos, gente ama comprar, sin warm-up, FRED, nicho=personas |
+| [[Ritmo circadiano]] | updated | KINDLE B1 (Geddes #43-58): ciclo 24h y casinos sin ventanas, luz blanco-azul alerta, dormir contra el reloj, ~50% genes bajo control circadiano, luz matutina vs tristeza invernal |
+| [[Luz solar]] | updated | KINDLE B1 (Geddes #46-60): biología en alianza con el sol, cianobacterias, sol ordena bioquímica vía ojos, terapia fotodinámica (cáncer piel/acné), IR para dolor, UV endorfinas, serotonina/oscuridad manía, fotón 8min20s |
 
 ## Fuentes / hilos procesados (opcional)
 

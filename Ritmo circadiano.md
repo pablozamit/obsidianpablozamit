@@ -27,3 +27,19 @@ Optimizar los ritmos circadianos puede mejorar significativamente la salud y el 
 
 
 ![[Pasted image 20240602130920.png]]
+
+# Datos de Chasing the Sun (Linda Geddes)
+
+> "The 24-hour cycle of light and darkness is crucial to our internal sense of time; if there are no windows, it's easier for gamblers to lose track of it and stay for hours longer than they mean to."
+> _—Linda Geddes, Chasing the Sun_ (clipping #43)
+
+Sin señales de luz, el sentido interno del tiempo se pierde fácilmente.
+
+- **Luz blanco-azulada**: simula la luz del día y hace sentir más alerta (clipping #45).
+- **Dormir contra el reloj**: "it's very difficult to sleep when your body thinks it should be awake, and vice versa" (clipping #56).
+- **Casi la mitad de nuestros genes están bajo control circadiano**, incluyendo genes asociados a cada una de las principales enfermedades investigadas hasta ahora (clipping #57):
+
+> "Almost half of our genes are under circadian control, including ones associated with every major illness investigated so far."
+> _—Linda Geddes, Chasing the Sun_ (clipping #57)
+
+- **Tristeza invernal**: la exposición a luz brillante, particularmente durante la mañana temprana, es una forma probada de combatir el bajón invernal (clipping #58).

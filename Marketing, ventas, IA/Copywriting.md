@@ -4,6 +4,29 @@
 
 # Recursos sueltos
 
+## Fundamentos del copy de ventas (Jim Edwards)
+
+De *Copywriting Secrets*:
+
+> "You are one sales letter away from being rich."
+> _—Gary Halbert, citado por Jim Edwards_ (clipping #13)
+
+- **El copy como amplificador**: "Copywriting is what made me rich. It is the great amplifier. It has more impact on how much money you make with your company than anything else" (clipping #15).
+- **Definición**: "Sales copywriting is anything intended to persuade the right reader, viewer, or listener to take a specific action" (clipping #23) — siempre se busca una acción concreta: clics, formularios, dinero.
+- **Vender no es lo difícil**: "selling wasn't the hard part, getting in front of the people at the right time was" (clipping #17).
+- **Estructura y estrategia**: el copy es estructura y estrategia — empezar por *Scientific Advertising* de Claude Hopkins (clipping #19).
+- **El mejor copy no parece copy**: "the best copywriting occurs when people don't realize it's copy because it's interesting to them" — cuando hay interés, leen sin pensar que les están vendiendo (clippings #27-28).
+- **El contenido aborda miedos y deseos** (clipping #29). La gente compra cuando siente que algo la hará sentir mejor o la ayudará a conseguir lo que quiere (clipping #31); usa palabras familiares y cómodas — el copy es una conversación con un amigo o asesor de confianza.
+- **A la gente le encanta comprar**: "The reality is that people love to buy stuff" (clipping #30).
+- **Todo es intención** ("Copywriting comes down to intention", clipping #33).
+- **No es que la gente sea más tonta**: tiene más cosas compitiendo por su atención; hoy hace falta mucha más curiosidad para parar al lector (clippings #34-35).
+- **Elimina el calentamiento**: "you've got to dispense with a lot of the warm-up" (clipping #36).
+- **Lo que no cambia**: la gente sigue siendo gente que quiere comprar, con esperanzas, miedos y sueños (clippings #37-38).
+- **Entender el nicho**: cuánto mejor entiendes a la gente de tu nicho, más ganas y más felices son tus clientes (clipping #39). Ojo: "most people talk about numbers... they forget that people in the niche actually are the niche" — las personas SON el nicho, no los datos demográficos (clipping #40).
+- **FRED**: llama al avatar/ideal person "FRED" (clipping #41).
+- **Sin medias tintas**: "You don't go halfway with your copy" (clipping #42).
+- **Método de estudio**: leer cualquier mensaje de venta que te haga gastar dinero a ti (clipping #20).
+
 ## 6 hacks de copywriting según Chase Diamong
 
 - **No empieces tus historias desde el principio.** En su lugar:

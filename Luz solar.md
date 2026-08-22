@@ -6,6 +6,25 @@ El espectro electromagnético de la luz del Sol contiene:
 - Fotones del espectro visible.
 - [[Luz ultravioleta]] y **luz violeta** (~410 nm) (síntesis de [[Vitamina D]], liberación de [[Óxido nítrico]], producción de β-endorfina, y activación del fotorreceptor corneal Opn5 para cicatrización). Invisible.
 
+## Biología en alianza con el sol (Linda Geddes)
+
+> "Our biology is set up to work in partnership with the sun. Life itself arose on earth because its relationship with the sun was a special one."
+> _—Linda Geddes, Chasing the Sun_ (clipping #46)
+
+- La distancia Tierra-Sol —ni demasiado cerca ni demasiado lejos— permitió que el agua superficial permaneciera líquida (en Venus se evaporó; en Marte quedó congelada) (clipping #47).
+- Las **cianobacterias** convirtieron la luz del sol en energía química vía fotosíntesis, almacenándola como azúcar e incorporando la luz solar a su ser; produjeron el oxígeno que transformó la atmósfera terrestre (clipping #48).
+- **El sol ordena nuestra bioquímica** a través de los ojos:
+
+> "And as the sun's light penetrated our eyes, it changed the chemistry of our brains, tweaking pathways that control our internal sense of time. So the sun brought order to our ancestors' biochemical reactions and behaviours."
+> _—Linda Geddes, Chasing the Sun_ (clipping #50)
+
+- **Terapia fotodinámica**: se aplica un agente fotosensibilizante sobre la zona afectada y, al iluminarla, se forma una sustancia que mata las células cancerosas. Se usa ya para algunos cánceres de piel y, cada vez más, para tratar el [[Acné]] (clipping #51). Ver [[Cáncer]].
+- **Espectro completo**: más allá del UV, el sol emite en todo el espectro, incluidas las longitudes visibles y la [[Luz infrarroja|infrarroja]] (clipping #52).
+- **Luz y percepción del dolor**: la luz infrarroja se usa como tratamiento para varios tipos de dolor agudo y crónico y se investiga para promover la cicatrización de heridas. La luz UV también estimula la producción de **endorfinas**, que amortiguan la percepción del dolor (clipping #53).
+- El sol permite fabricar [[Vitamina D]] en la piel, con niveles que varían a lo largo del año (clipping #54).
+- **Serotonina y manía**: la exposición solar aumenta la disponibilidad de [[Serotonina]] en el cerebro; la oscuridad se está investigando como tratamiento para la manía (clipping #55).
+- **Viaje del fotón**: los fotones tardan ~170.000 años en salir del núcleo solar hasta su borde... y solo **8 minutos y 20 segundos** en llegar a tu ojo desde ahí (clipping #60).
+
 ## Síntesis de vitamina D
 
 Un fotón UVB atraviesa 150 millones de km, impacta una molécula de **7-dehidrocolesterol** en la piel y rompe un enlace químico. En 48 horas, ese enlace roto se convierte en una hormona que controla más de 200 genes.
