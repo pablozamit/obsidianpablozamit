@@ -109,6 +109,10 @@
 | [[Enterosgel]] | updated | Historia militar soviética @FarvingCo: Chernobyl, no arrastra minerales, uso diario mañana/tub0, sauna, resaca, estudio 440 pacientes RCT (heces/dolor/urgencia/frecuencia), dosis 1 cucharada |
 | [[Glicina]] | updated | Glicina+carga de azúcar @metabolic_print: corta pico de glucosa a la mitad sin insulina; gelatina+Coca-Cola, "la próxima creatina"; Dalton: gelatina en carne picada |
 | [[5-alfa reductasas]] | updated | Zinc como inhibidor 5AR @RayPeatHeadShop (comparable a finasteride, ↓ratio DHT/T, zinc tópico para cabello, T sube en papel y aromatiza); progesterona no metabolizada → pezones hinchados, hombres 5AR alta → AlloP, estrés bloquea 5AR, MED, testimonio BerbarianWizard |
+| [[Pregnenolona]] | updated | Guía completa @Helios_Movement: hormona madre, síntesis Δ5/Δ4, cerebro produce tanto como adrenales, efectos (GABA-A sin tolerancia, mielina, MAP2, TLR4), qué la baja, protocolo 10mg inicial; experiencia sueño @somaobscura (100mg); escalado preg+T3 @PGC1a_RB hasta 1000-1500mg |
+| [[DHEA]] | updated | Guía @Helios_Movement: funciones (GLUT4, lipólisis, RMR, hueso, alopregnanolona, tiroides, 11β-HSD1, dopamina, inmune), formas DHEA/DHEA-S, subirla natural (StAR, evitar glifosato, manzanilla, shilajit, jalea real), protocolo >45 años 5mg+10mg |
+| [[PEA (palmitoiletanolamida)]] | created | Nueva nota: buffer endógeno (mastocitos, microglía, PPAR-α, LPS, anandamida, alopregnanolona); 600mg/comida dobla alopregnanolona en 14 días @HansAmato; experimento DHT (un solo estudio in vitro glial, test propio HuMap, resting Oura 2h30) |
+| [[Salud dental]] | updated | Remineralización por saliva con vitamina D @Outdoctrination: 1000 IU/día remineralizó dientes tras ácido (PMID 35761922); dientes = tejido activo |
 
 ## Fuentes / hilos procesados (opcional)
 

@@ -144,6 +144,66 @@ Hans Amato la toma **por la mañana**. No le ha afectado al ratio T:E2. Reporta 
 
 > _—Hans Amato (@HansAmato), 20 ago 2026. Guía completa: [hansamato.substack.com/p/the-pregnenolone-dosing-guide-route](https://hansamato.substack.com/p/the-pregnenolone-dosing-guide-route)_
 
+## Guía de suplementación (@Helios_Movement, 19 ago 2026)
+
+Si ignoras la preg y la DHEA (por fijarte solo en testosterona, insulina, T3, tiroides, estrógeno, progesterona, cortisol...), puedes seguir sufriendo **inflamación crónica, fatiga, libido baja, problemas cognitivos y de ánimo** (depresión leve, ansiedad).
+
+**Niveles bajos de preg en cerebro y plasma** se encuentran de forma consistente en: depresión mayor, depresión bipolar, esquizofrenia, PTSD, trastornos del espectro autista y abstinencia de cannabis.
+
+### Síntesis y "hormona madre"
+
+- La preg es el **colesterol → StAR (STARD1)** transporta el colesterol a la mitocondria (paso limitante) → **CYP11A1 (P450scc)** elimina 6 carbonos → **pregnenolona** + isocaproaldehído.
+- **Δ5 pathway**: preg → 17α-hidroxipregnenolona (CYP17A1) → DHEA (CYP17A1 17,20-liasa, estimulada por citocromo b5).
+- **Δ4 pathway**: preg → progesterona (HSD3B2) → androstenediona → testosterona, o a cortisol y aldosterona.
+- En cerebro y nervios periféricos, la preg se reduce rápido por **5α-reductasa tipo 1 + 3α-HSD** → **alopregnanolona** y **pregnanolona** (los moduladores positivos de GABA-A más potentes que se conocen).
+
+### Producción diaria
+
+- Personas sanas y jóvenes: **35–50 mg/día**.
+- El **cerebro produce casi tanto de novo como las adrenales** (15–20 mg/día cada uno); contribuciones menores de gónadas, piel, retina y placenta.
+- La síntesis cerebral es **independiente del colesterol periférico** — continúa incluso en la enfermedad de Addison.
+- Regulación aguda: ACTH y LH (fosforilan StAR en minutos). Regulación crónica: SF-1 (estimula), DAX-1 (inhibe), citocinas, insulina, IGF-1.
+
+### Efectos documentados
+
+1. **Sulfato de preg y alopregnanolona** están entre los neuroesteroides más abundantes del LCR. Potencian GABA-A sináptico y extrasináptico (δ-subunidad) → **ansiolisis tipo benzodiacepina SIN tolerancia**; antagonizan débilmente NMDA a dosis altas.
+2. **Upregula MBP y PLP** (mielina) y promueve diferenciación de oligodendrocitos.
+3. **Estabiliza microtúbulos** uniéndose a MAP2 y aumenta acetilcolina en hipocampo.
+4. **Inhibe TLR4 y activación microglial** en médula → analgesia en dolor lumbar crónico y fibromialgia.
+
+### Qué la baja
+
+- **Edad**: declive de 60-70% a los 75 años (menos StAR y CYP11A1).
+- **Estrés crónico**: desvía la preg hacia cortisol a costa de DHEA y progesterona (el "pregnenolone steal" es una simplificación, pero el cambio de ratio es real — la desregulación del eje HPA eleva cortisol y baja preg/DHEA/hormonas downstream).
+- **Estatinas, restricción calórica severa, hipotiroidismo, privación de sueño, ISRS a largo plazo y opioides a dosis altas.**
+
+### Protocolo (si decides suplementar)
+
+- **Antes**: testear niveles **libres y sulfatados**.
+- Si salen bajos, primero abordar los factores negativos listados.
+- **Dosis inicial: 10 mg**; subir solo después de 10-14 días si no notas nada.
+- **Efectos adversos → parar**: insomnio, irritabilidad, cefalea, piel grasa e incluso caída de cabello.
+- **Señales de dosis correcta**: mejor resiliencia al estrés, menos ansiedad/depresión, mejor sueño, mejor memoria, libido, energía, y analíticas bien.
+
+### Experiencia de sueño (@somaobscura, 19 ago 2026)
+
+100 mg de preg oral dieron el sueño más rápido y reparador de su vida ("cerré los ojos, desaparecí durante lo que parecieron segundos y desperté cargado"). Hans Amato (@HansAmato, 20 ago): la preg oral se convierte rápido en progesterona y luego alopregnanolona — un estudio encontró que 25 mg de progesterona 2×/día tenía efectos casi "hipnóticos". Si la preg ayuda, es muy probable que progesterona y especialmente alopregnanolona estén bajas. Réplicas: tomada a las 2pm fue energizante Y dio mejor sueño; también mejora la brain fog en TRT; otros reportan dolor de cabeza a 100 mg (dosis alta).
+
+### Escalado preg + T3 (@PGC1a_RB, 19 ago 2026)
+
+Log de Richard (@PGC1a_RB) escalando preg y T3 exógena juntas de forma lineal ("feeling good → feeling better"):
+
+| Periodo | Pregnenolona oral | T3 exógena |
+|---|---|---|
+| 2023 - inicios 2025 | 50 mg/día → 100 mg/día | — |
+| Inicios 2025 - inicios 2026 | 100 mg/día | 25 mcg/día |
+| Inicios 2026 - mediados 2026 | 300 mg/día | 50 mcg/día |
+| Mediados 2026 - actual | 1.000-1.500 mg/día (tests hasta 3.000 mg) | 75-85 mcg/día |
+
+- No tuvo problemas al combinar preg con hCG antes (luego retiró hCG y siguió con preg sin rebote).
+- Si eres conservador: empezar a **100 mg EOD** (@PGC1a_RB).
+- Comentario: "el problema es que tengo la tiroides hecha polvo y solo corro 30 mcg/día" (@couchsecurity).
+
 ## Relación con la eyaculación precoz
 
 El estrés y la ansiedad son causas directas de la eyaculación precoz. La pregnenolona ayuda a regular la respuesta al estrés, lo que puede disminuir la activación simpática y mejorar el control eyaculatorio.
