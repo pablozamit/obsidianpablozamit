@@ -1,5 +1,23 @@
 https://twitter.com/PrimalBrah/status/1668009058694049797?s=20
 
+# Los dos sistemas que regulan el sueño (Linda Geddes)
+
+> "The timing of our sleep is regulated by two systems: a 'homeostatic' system which keeps track of how long you've been awake, and gradually builds up a pressure to sleep through the release of sleep-inducing substances in the brain – much like sand accumulating at the bottom of an hourglass – and a circadian system, which sends out alerting signals during the day and creates an optimal window for sleep at night."
+> _—Linda Geddes, Chasing the Sun_ (clipping #158)
+
+- **Sistema homeostático**: acumula presión de sueño según el tiempo despierto (arena en un reloj de arena).
+- **Sistema circadiano**: envía señales de alerta durante el día y crea una ventana óptima para dormir por la noche.
+- Si alguien pierde los ojos, la presión de sueño sigue montando, pero la **ventana de sueño marcada por el sistema circadiano se desplaza constantemente** siguiendo su reloj interno (clipping #159). Ver [[Ritmo circadiano#El reloj maestro: núcleo supraquiasmático (Linda Geddes)]].
+
+## Funciones del sueño NREM y REM
+
+- **NREM** parece dedicarse a **purgar conexiones innecesarias entre neuronas**; el **REM** fortalece las conexiones que quedan (clipping #237).
+- Los **husos de sueño (spindles)** —ráfagas cortas e intensas de NREM ligero, prolíficas en la segunda mitad de la noche— transfieren los recuerdos recientes al almacenamiento a largo plazo, **liberando capacidad para aprender y manipular conocimiento nuevo al día siguiente** (clipping #238).
+- El REM también hace **referencias cruzadas** de los recuerdos nuevos con el catálogo de memorias antiguas del cerebro (clipping #240).
+
+> "When researchers selectively deprived healthy young adults of REM sleep, but allowed them plenty of NREM sleep, within three days some of them were displaying signs of mental illness – seeing and hearing things that weren't there."
+> _—Linda Geddes, Chasing the Sun_ (clipping #239)
+
 # Consejos aislados
 
 ### Consumo de [[Kiwi]] (2 kiwis una hora antes de dormir)

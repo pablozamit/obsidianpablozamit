@@ -19,6 +19,19 @@ Puntos clave del hilo:
 
 Respuesta de @IterIntellectus: considera "una locura que los LED sean disruptores endocrinos y sigan siendo legales"; recomienda **gafas de bloqueo de luz azul tras la puesta de sol** y velas sin perfume como iluminación nocturna.
 
+## Historia de la luz nocturna artificial (Linda Geddes)
+
+Durante milenios, la única luz nocturna fue la de luna/estrellas —espectro amplio pero muy tenue— o la de madera, cera y aceite:
+
+- El fuego produce mucha luz en la **parte roja del espectro** y muy poca azul; además es relativamente tenue (clipping #163).
+- Las bombillas **LED** de pantallas, techos y alumbrado público son mucho más brillantes y emiten **mucho más azul** (clipping #164).
+- 1802: Boulton y Watt instalan iluminación de gas en su fundición Soho (Birmingham); se extendió a molinos y fábricas, prolongó el día e hizo realista el **trabajo por turnos** (clipping #176). La palabra "nightlife" data de 1852 (clipping #177). Hasta el queroseno (años 1850), pueblos y granjas quedaban a oscuras (clipppings #178-179).
+
+## Contaminación lumínica
+
+- Las luces urbanas dispersan fotones en direcciones no deseadas, **incluido hacia arriba, al espacio** (clipping #235).
+- Efectos ecológicos: ciclos vitales de insectos alterados, migración de aves desviada, y árboles que se aferran a sus hojas más tiempo en otoño — acortando potencialmente sus vidas (clipping #236).
+
 ### Dato extra: frío vs cálido en el alumbrado público
 
 @Kristennetten señala que el cambio del alumbrado público de sodio ámbar (dorado) a blanco frío es "horrible"; @IterIntellectus confirma. Los efectos en niños se estiman **2x los de adultos**.

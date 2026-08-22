@@ -122,6 +122,14 @@
 | [[Ritmo circadiano]] | updated | KINDLE B2 (Geddes #63-74): trastorno non-24, SCN reloj maestro (20k células, meridiano de Greenwich biológico, extirpar/trasplantar), evolución supervivencia, función social de la sincronía |
 | [[Copywriting]] | updated | KINDLE B2 (Edwards #75-114): Secrets 3-6 — 10 razones de compra, 11 preguntas del producto, método páginas llenas, nadie se preocupa por ti (héroe=lector), escribir copy propio rápido, titular 5x leído (Ogilvy), miedo/deseo, swipe file |
 | [[Hooks]] | updated | KINDLE B2 (Edwards #115-120): 6 fórmulas de titulares (How To Get X, In As Little As X even if Y, How Every X Can Y, 5 Quick Ways, Which Mistakes) |
+| [[Catecolaminas]] | updated | KINDLE B3 (Matt Stone #137-153): luna de miel catecolaminérgica (↑temp/mitocondria/energía/lipólisis), downregulación receptores (Keys insensibles a adrenalina), colapso (grasa vuelve, apetito insaciable), RRARF/overfeeding baja catecolaminas+cortisol, recargas cada 3 días |
+| [[Galectina-3]] | created | Nueva nota KINDLE B3 (Eliaz #188-212): arquitecta de respuesta supervivencia; repara→se descontrola (inflamación/fibrosis); secuestrada por patógenos/tumores (biofilm); pentámeros→lattice hipóxico→glucólisis anaerobia; trauma amplifica; bloquear gal-3 desmantela daño |
+| [[Las cinco heridas (Lise Bourbeau)]] | created | Nueva nota KINDLE B3 (#131-136,224-234): rechazo/abandono/humillación/traición/injusticia; 4 etapas del niño y máscaras; aceptar experiencia vs aceptarse; repetición hasta aceptación, ley del espejo |
+| [[Copywriting]] | updated | KINDLE B3: Secret 7 segmentación (Schwartz consciencia producto/deseo/problema, tráfico hot/warm/cold) + Inés Díaz puntos de dolor (#213-223): error nunca es el lector, colar en beneficios, equilibrio dolor/placer, fisiología hormonal, nadie compra sin querer |
+| [[Ritmo circadiano]] | updated | KINDLE B3 (Geddes #155-172): genes reloj celulares, luz=botón reset SCN, ipRGCs, melatonina suprimida por azul, pubertad -2h, cronoipo por edad, hipótesis centinela + abuelo mal dormido |
+| [[Sueño]] | updated | KINDLE B3 (Geddes #158-159,237-240): modelo dos procesos (homeostático+circadiano), ciegos ventana desplazada, NREM purga conexiones/REM fortalece, spindles→memoria largo plazo, privación REM 3 días→psicosis |
+| [[Luz LED]] | updated | KINDLE B3 (Geddes #163-179,235-236): historia luz nocturna (fuego rojo tenue vs LED azul brillante, gas 1802 turnos), contaminación lumínica (fotones arriba, insectos/aves/árboles) |
+| [[Aceites esenciales]] | created | Nueva nota KINDLE B3 (Zielinski #183-187): claims clínicos amplios ⚠️, límites regulatorios, principios de uso (fruta baja, individualidad bioquímica) |
 
 ## Fuentes / hilos procesados (opcional)
 

@@ -79,6 +79,32 @@ Orden recomendado de dominio: primero titulares, segundo bullets, tercero llamad
 - Ejemplo de iteración: "How I Took Myself From Bankrupt Trailer Trash To Successful Online" → "How To Gain A Positively Unfair Advantage In Business And In Life!" (clipping #112).
 - **Swipe file**: colección de anuncios que te gustan para desarrollar tus propias fórmulas (clipping #113). Ejemplo de adaptación: "The Grand Theft Auto 4 Secrets You're Not Supposed To Know" → "The Ebook Marketing Secrets You're Not Supposed To Know" (clipping #114).
 
+### Secret #7: Nunca es "talla única"
+
+> "I don't know how to speak to everybody, only to somebody."
+> _—Howard Gossage_ (clipping #125)
+
+- El error más común online: **no segmentar el tráfico** → mensaje equivocado a audiencia equivocada (clipping #126).
+- Niveles de consciencia (Eugene Schwartz): si el prospecto conoce tu producto y sabe que satisface su deseo → titular empieza por el producto. Si no lo conoce pero tiene el deseo → titular empieza por el deseo. Si ni siquiera sabe qué busca pero le preocupa el problema general → titular empieza por el problema y lo cristaliza en una necesidad específica (clippings #128-129).
+- Traducción online: **tráfico caliente** (lista de email/followers que conocen tu nombre), **templado** (busca solución a un problema pero no te conoce), **frío** (ni siquiera sabe que existe una solución, solo sabe que tiene un problema) (clipping #130).
+
+## Meter el dedo en la llaga (Inés Díaz)
+
+Sobre los puntos de dolor en copy:
+
+- Si tu producto es bueno para el cliente, transmítele todo lo que está "padeciendo" por no tenerlo: háblale del tiempo, oportunidades, energía, dinero e ilusión que está perdiendo (clipping #213).
+- Rascando la superficie, **el dolor y el placer se juntan** (clipping #214).
+- No tocarás casi nunca puntos de dolor muy profundos — manejarás entre los miedos más evidentes; si te equivocas aquí, el discurso se vuelve contra ti (clipping #215).
+- **El cliente no es tu amigo ni tu madre**: si te metes con él, se cierra a tu mensaje (clipping #216).
+
+> "cuando tocas un punto de dolor, no te metes con la persona que te está leyendo. No haces ver que en él hay un error. El error puede ser la circunstancia por la que pasa, puede ser lo que le dijeron que tenía que hacer y era falso... El error nunca nunca es el lector."
+> _—Inés Díaz_ (clipping #217)
+
+- Técnica preferida: colar el punto de dolor dentro de los beneficios ("Consigue detectar tu error a la hora de escribir textos persuasivos y deja de perder tu tiempo con información teórica que cuando la aplicas no funciona") (clipping #218).
+- Equilibrio: si da demasiado mal rollo, el usuario abandona la web — los puntos de dolor tienen que estar equilibrados con los beneficios del producto (clipping #219).
+- **Fisiología de la conversión**: al tocar un punto de dolor, aguanta ahí. Dale tiempo para que su cerebro dé órdenes y cambien las hormonas en su torrente sanguíneo. Que sea el lector quien quiera salir de su situación... dándole al botón (clippings #220-222).
+- Humildad persuasiva: "NADIE COMPRA NADA QUE NO QUIERA COMPRAR. Así que no tengas miedo de usar un poder que NO tienes" (clipping #223).
+
 ## 6 hacks de copywriting según Chase Diamong
 
 - **No empieces tus historias desde el principio.** En su lugar:

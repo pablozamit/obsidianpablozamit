@@ -95,6 +95,29 @@ Los catecol-estrógenos son sustratos de [[COMT]], que los metila para hacerlos 
 - **β-bloqueantes**: propranolol, metoprolol, etc., bloquean efectos β-adrenérgicos.
 - **α-bloqueantes**: prazosina, tamsulosina, etc.
 
+## La luna de miel catecolaminérgica (Matt Stone)
+
+El fenómeno de la "luna de miel" del low carb (energía asombrosa y pérdida de grasa sin esfuerzo al inicio) es solo una forma de lograr un **subidón de hormonas adrenales**: la restricción de carbohidratos eleva las **catecolaminas** (principalmente [[Adrenalina|epinefrina]] y [[Norepinefrina]]).
+
+> "These hormones, when released, cause a rise in body temperature, a rise in mitochondrial activity, an increase in mental acuity, cognition, and alertness... a huge rise in physical energy, the release of fat tissue from fat cells, a drop in appetite, and weight loss while feeling not only good – but far better than normal."
+> _—Matt Stone, 180 Degree Health_ (clipping #140)
+
+**Signos del estado catecolaminérgico alto**: incapaz de dormir más de 6 horas por noche; nunca cansado ni bostezando durante el día (clippings #141-142).
+
+### El colapso: downregulación de receptores
+
+> "when you chronically elevate your adrenal hormones for months on end? Your adrenal gland receptors (adrenergic receptors) tend to downregulate."
+> _—Matt Stone_ (clipping #143)
+
+- Los sujetos del estudio de restricción calórica de **Ancel Keys**, al final del periodo de 1.700 kcal, eran **casi completamente insensibles a inyecciones de adrenalina** (clipping #144).
+- Después: mal humor, la grasa no solo deja de caer sino que **vuelve**, la energía cae, y el apetito amortiguado se convierte en **apetito insaciable** (clippings #145-146).
+
+### El antídoto: RRARF
+
+- El protocolo **RRARF** de Stone es la antítesis de estos callejones sin salida adrenales: la sobrealimentación —especialmente alta en carbohidratos y combinada con mucho sueño y poca actividad física— **baja las catecolaminas y el cortisol** (Lyle McDonald) (clipping #148).
+- Perder grasa requiere elevar catecolaminas, pero **NO se debe estar en modo pérdida de peso 7 días por semana**: recargas de carbohidratos periódicas (cada 3 días, Jay Robb) o ayuno intermitente (Leangains, Martin Berkhan, "el mejor actualmente") (clippings #150-152).
+- Autores de referencia del enfoque: Lyle McDonald, Scott Abel, Rob Faigan, Brad Pilon, Jay Robb, Martin Berkhan, Clarence Bass, Joel Marion, Dan Duchaine, Anthony Colpo (clipping #153).
+
 ## Ver también
 
 - [[Dopamina]]

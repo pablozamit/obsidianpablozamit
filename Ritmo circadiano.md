@@ -56,3 +56,22 @@ Sin señales de luz, el sentido interno del tiempo se pierde fácilmente.
 - **Si se extirpa el reloj maestro** (estudios en ratas y hámsteres), los ritmos diarios de los tejidos se descomponen gradualmente; si se trasplanta uno nuevo, **los ritmos reaparecen**.
 - Los ritmos circadianos evolucionaron porque alinear la actividad con el ciclo diario luz-oscuridad **aumenta las probabilidades de supervivencia** (clipping #69).
 - **Función social**: los relojes sincronizados también pudieron permitirnos desarrollar como criaturas sociales — cooperamos mejor en grupos cohesionados si sentimos hambre, sociabilidad y sueño aproximadamente a la vez (clipping #74).
+
+# El reloj celular y el botón de reset (Linda Geddes, clippings #155-172)
+
+- **Dentro de cada célula** hay un ciclo diario autosostenible: proteínas que se acumulan, se unen, **apagan su propia producción**, se degradan y reinician el proceso (genes reloj) (clipping #156).
+- Aschoff y Wever asumieron que era la interacción social lo que nos sincronizaba con las 24 horas. Resultó ser algo mucho más simple: **la luz actúa como el botón de reset de un cronómetro** — ajusta el momento preciso del reloj maestro (SCN) (clipping #157).
+- La ventana al mundo exterior del reloj maestro son las **células ganglionares retinales intrínsecamente fotosensibles (ipRGCs)**, detrás de conos y bastones: cuando la luz las impacta, envían señal al SCN, que altera la expresión de genes reloj y **resetea su horario** (clippings #160-161).
+- Aunque parezca blanca, la luz solar contiene un espectro amplio de longitudes de onda, **incluida luz azul** — algo que no ocurre con muchas fuentes artificiales (clipping #162).
+- La [[Melatonina]] se libera por la noche en respuesta a una señal del SCN; su liberación es **suprimida por la luz, particularmente la azul**. La luz artificial nocturna acorta la duración de la noche biológica (clipping #167). Nota: Geddes atribuye erróneamente la secreción a la hipófisis; la fuente es la glándula pineal.
+- **Pubertad**: parece desencadenar un cambio en el timing del sueño adolescente, retrasándolo unas **2 horas** (clipping #168).
+- Con la edad nos despertamos cada vez más temprano: esa variabilidad de cronoipo podría ser beneficiosa para la sociedad humana (clipping #169).
+
+## Las hipótesis evolutivas del centinela y del abuelo mal dormido
+
+- En campamentos cazadores-recolectores (~30 adultos), si había **al menos alguien despierto la mayor parte de la noche**, podían dar la alarma (clippings #170-171):
+
+> "'We're calling it the poorly sleeping grandparent hypothesis'... the reason so many people live long past reproductive age is because of the survival advantage to the group conferred by grandparents helping with child-rearing. Now it seems there may be an additional advantage: keeping look-out."
+> _—Linda Geddes, Chasing the Sun_ (clipping #172)
+
+La variabilidad de cronoipos (jóvenes nocturnos, mayores madrugadores) habría garantizado vigilancia continua del grupo — y podría explicar parte de nuestra longevidad.
