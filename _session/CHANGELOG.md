@@ -106,6 +106,9 @@
 | [[Pregnenolona]] | updated | Vías de administración @HansAmato: oral (→P4/allopreg), tópica (vida media larga), sublingual (pico rápido), intranasal (neuroesteroides), enanthate (vida media máxima, sin picos) |
 | [[Vitamina E]] | updated | NASH @skindotfood: estudio 247 pacientes 2 años vit E vs pioglitazona vs placebo; vit E normalizó ALT/AST/GGT, mayor % de mejoría |
 | [[Calcio]] | updated | Manejo intracelular Ca2+ neuronal @Helios_Movement: transversal a insomnio/bipolar/TDAH/epilepsia/ansiedad; fusión vesicular, canales BK/SK; enlace a raíces TDAH (CACNA1C) |
+| [[Enterosgel]] | updated | Historia militar soviética @FarvingCo: Chernobyl, no arrastra minerales, uso diario mañana/tub0, sauna, resaca, estudio 440 pacientes RCT (heces/dolor/urgencia/frecuencia), dosis 1 cucharada |
+| [[Glicina]] | updated | Glicina+carga de azúcar @metabolic_print: corta pico de glucosa a la mitad sin insulina; gelatina+Coca-Cola, "la próxima creatina"; Dalton: gelatina en carne picada |
+| [[5-alfa reductasas]] | updated | Zinc como inhibidor 5AR @RayPeatHeadShop (comparable a finasteride, ↓ratio DHT/T, zinc tópico para cabello, T sube en papel y aromatiza); progesterona no metabolizada → pezones hinchados, hombres 5AR alta → AlloP, estrés bloquea 5AR, MED, testimonio BerbarianWizard |
 
 ## Fuentes / hilos procesados (opcional)
 

@@ -60,6 +60,17 @@ La glicina es el contrapeso al patrón de aminoácidos de las carnes musculares 
 
 Una cucharada de ~5 g aumenta los niveles de glicina en sangre ~4x a los 40 minutos, y se elimina en un par de horas. Varias dosis bien espaciadas a lo largo del día proporcionan un goteo continuo.
 
+### Glicina + carga de azúcar (@metabolic_print, 19 ago 2026)
+
+> "I always add some glycine when drinking tons of sugary drinks. Glycine alongside a sugar load cuts the glucose rise by more than half without raising insulin, so the body uses the fuel much better."
+
+- Añadir glicina junto a una carga de azúcar **corta el pico de glucosa a más de la mitad sin elevar insulina**.
+- Combinaciones prácticas del hilo: **gelatina + Coca-Cola** (@GawdawgElite), glicina con helado (@Vero_atLast).
+- Comentario del hilo: "la glicina es la próxima creatina" (@balanced_alex).
+- Dalton @Outdoctrination: añadir **gelatina a la carne picada** la hace "100× más saludable y sabrosa" — aporta glicina e hidroxiprolina, aminoácidos antiinflamatorios que equilibran las propiedades pro-envejecimiento de la carne muscular.
+
+> _—Metabolic Blueprint (@metabolic_print), 19 ago 2026_
+
 ## Relación con la eyaculación precoz
 
 Como neurotransmisor inhibidor, la glicina contrarresta la excitación excesiva del sistema nervioso. Su efecto anticortisol reduce la respuesta al estrés, y su mejora del flujo sanguíneo puede beneficiar la función sexual. Tomada antes de dormir, mejora el sueño profundo, clave para la recuperación del sistema nervioso.

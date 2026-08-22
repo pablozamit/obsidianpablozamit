@@ -39,6 +39,32 @@ La [[Glicina]] parece regular al alza de forma potente la actividad de la 5-alfa
 ### Dopamina y Prolactina
 La **[[Prolactina]]** es un regulador negativo de la 5α-reductasa. En hiperprolactinemia experimental, la elevación de [[Testosterona]] en respuesta a HCG fue normal, pero el aumento de **[[DHT]]** fue marcadamente disminuido, demostrando interferencia directa con la actividad de la 5α-reductasa. Resultados similares se observaron en un paciente con sección del tallo hipofisario (PMID: 2943108). La [[Dopamina]] podría regular la expresión de la 5-AR a través de su antagonismo con la [[Prolactina]].
 
+### Zinc como inhibidor de la 5AR (@RayPeatHeadShop, 19 ago 2026)
+
+> "High concentrations of zinc strongly inhibit 5AR activity — Effects comparable to finasteride!"
+
+- **Concentraciones altas de zinc inhiben fuertemente la 5α-reductasa** — efectos comparables al [[Finasteride]].
+- **Estudio en ratas vivas** (no tejidos aislados), con dosis equivalentes a las de suplementación humana estándar: la administración de zinc redujo significativamente el **ratio DHT/T** → relativamente menos T convertida a DHT. **El zinc es un inhibidor 5AR leve**.
+- **Implicación paradójica**: por eso el zinc está en todos los "test boosters" y "multivitamínicos de cabello" — al inhibir la 5AR, la T sube "en papel" porque no se metaboliza a DHT... **y en su lugar aromatiza a estrógeno** 😹.
+- **Caveats del hilo**:
+  - La mayoría de suplementos de zinc están **sobredosificados**, así que el efecto puede ser más potente de lo que sugiere el estudio.
+  - La evidencia en contra (deficiencia de zinc) no aplica: aquí se habla de **suplementar zinc sin deficiencia**.
+  - **Para el cabello**: si el problema es DHT, es más seguro **aplicar zinc tópicamente** (hay un estudio mostrando que el zinc tópico inhibe la 5AR en la piel, y probablemente es más efectivo por esa vía).
+- @JimmySteier confirma: esto es cierto para muchos "T boosters" — los fitoquímicos (fenogreco, curcuminoides, rosas) que "suben testosterona" en realidad inhiben la 5AR.
+
+> _—Ray Peat HubblyBubbly Emporium (@RayPeatHeadShop), 19 ago 2026. Fuente: estudio en ratas (mdpi.com) sobre zinc/selenio y receptor de andrógenos._
+
+### Progesterona no metabolizada y pezones inflamados (@RayPeatHeadShop, 19 ago 2026)
+
+> "Progesterone, when NOT metabolized, independently contributes to alveolar/ductal growth (puffy nips)."
+
+- La [[Progesterona]], cuando **no se metaboliza**, contribuye de forma independiente al crecimiento alveolar/ductal (**pezones hinchados**).
+- Afortunadamente, los hombres tienen **mayor densidad de 5AR** que las mujeres y convierten la mayor parte en [[Alopregnanolona]], que no afecta al tejido mamario.
+- **Los estados de estrés pueden bloquear la actividad de la 5AR** → siempre usar **dosis mínima efectiva (MED)**.
+- @BerbarianWizard: "no megadosees sin conocer tu estado de 5AR. He tenido dos experiencias completamente distintas con la misma dosis y la misma fuente: una me dio pezones hinchados y la otra fue puramente androgénica y me dejó más seco".
+
+> _—Ray Peat HubblyBubbly Emporium (@RayPeatHeadShop), 19 ago 2026_
+
 ## Notas Relacionadas
 - [[Testosterona]]
 - [[Progesterona]]
