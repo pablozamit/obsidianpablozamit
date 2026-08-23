@@ -4,6 +4,28 @@ El **aprendizaje acelerado** es un conjunto de [[Estrategias]] y [[Metodologías
 
 # Principios
 
+## Los principios de Make It Stick (Peter C. Brown)
+
+De *Make It Stick* — aspectos inmutables del aprendizaje:
+
+1. Para ser útil, aprender requiere **memoria**: que lo aprendido siga ahí cuando lo necesites.
+2. Hay que seguir aprendiendo y recordando **toda la vida**.
+3. Aprender es una **habilidad adquirida**, y las estrategias más eficaces suelen ser **contraintuitivas** (clippings #5908-5910).
+
+> "Learning is deeper and more durable when it's effortful. Learning that's easy is like writing in sand, here today and gone tomorrow."
+> _—Peter C. Brown, Make It Stick_ (clipping #5913)
+
+- Somos **malos jueces** de cuándo estamos aprendiendo bien y cuándo no (clipping #5913).
+- **Releer textos y practicar en bloque** son las estrategias de estudio preferidas de casi todos... y también de las menos productivas (clipping #5914).
+- **Práctica de recuperación** (recordar hechos, conceptos o eventos desde la memoria) es más eficaz que repasar releyendo; las flashcards son el ejemplo sencillo (clippings #5915-5917).
+- **Espaciar e intercalar**: espaciar la práctica (quedándote algo oxidado entre sesiones) o intercalar dos o más temas hace la recuperación más difícil y parece menos productiva, pero produce aprendizaje más duradero y versátil. Intentar resolver un problema antes de que te enseñen la solución mejora el aprendizaje, incluso con errores (clipping #5918).
+- **Mito de los estilos de aprendizaje**: la idea popular de que aprendes mejor con instrucción adaptada a tu estilo (auditivo, visual...) **no está respaldada por la investigación empírica** (clipping #5919).
+- Extraer los principios o reglas que diferencian tipos de problemas permite elegir mejores soluciones en situaciones nuevas; esa habilidad se adquiere mejor con práctica intercalada y variada que en bloque (clipping #5920).
+- Todo nuevo aprendizaje requiere una base de conocimiento previo: "hay que saber aterrizar un bimotor con dos motores antes de aprender a hacerlo con uno" (clipping #5921).
+- Insertar el conocimiento nuevo en un contexto mayor ayuda al aprendizaje (clipping #5922).
+
+Ver [[Memoria]], [[Palacio de memoria]].
+
 ## Diversión
 
 **El aburrimiento como síntoma de un aprendizaje ineficaz.** La sensación de aburrimiento durante el aprendizaje indica que no se está produciendo un aprendizaje efectivo. Estudios de electroencefalografía (EEG) muestran que un aprendizaje pasivo se asocia con ondas cerebrales lentas, similares a las de alguien que se está quedando dormido, mientras que el aprendizaje efectivo genera una actividad cerebral caótica y de alta frecuencia. El cerebro humano está diseñado para disfrutar del aprendizaje, por lo que el aburrimiento es incompatible con un aprendizaje profundo y significativo.

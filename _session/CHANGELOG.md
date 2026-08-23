@@ -130,6 +130,14 @@
 | [[Sueño]] | updated | KINDLE B3 (Geddes #158-159,237-240): modelo dos procesos (homeostático+circadiano), ciegos ventana desplazada, NREM purga conexiones/REM fortalece, spindles→memoria largo plazo, privación REM 3 días→psicosis |
 | [[Luz LED]] | updated | KINDLE B3 (Geddes #163-179,235-236): historia luz nocturna (fuego rojo tenue vs LED azul brillante, gas 1802 turnos), contaminación lumínica (fotones arriba, insectos/aves/árboles) |
 | [[Aceites esenciales]] | created | Nueva nota KINDLE B3 (Zielinski #183-187): claims clínicos amplios ⚠️, límites regulatorios, principios de uso (fruta baja, individualidad bioquímica) |
+| [[Alex Hormozi]] | created | Nueva nota KINDLE B30 (100M Money Models #5827-5847): Money Model=secuencia de ofertas, 4 tipos (atracción/upsell/downsell/continuidad), truco del trastero, gimnasios a plena capacidad día 1 ($1→$34), 5 formas de regalar, Recupera Tu Dinero (10% devoluciones) |
+| [[Storytelling]] | updated | KINDLE B30 (Storr #5848-5873): cambio inesperado en aperturas, brechas de información (Loewenstein 4 formas), cerebro-alucinación por predicciones, orden transitivo, 3 cualidades específicas, mostrar no etiquetar |
+| [[Copywriting]] | updated | KINDLE B30: 8 deseos biológicos Cashvertising (#5893-5899, Starch=nosotros mismos) + hábito escribir cada día (Handley #5875) |
+| [[Vitamina K]] | updated | KINDLE B30 (Rheaume-Bleue #5876-5892): tabla K2 alimentos (natto 1103mcg 90% MK-7), fermentación multiplica K2 (leche 1mcg→queso 76mcg), yemas holandesas 2x, natto/fracturas cadera, pirazina+nattoquinasa+PQQ, RDI insuficiente, MK-4 vs MK-7 vida media, cápsula blanda oleosa |
+| [[Naval Ravikant]] | created | Nueva nota KINDLE B30 (#5903-5907): eliminar lo que no funciona, problema principal-agente, si no puedes decidir la respuesta es no, camino más doloroso a corto plazo |
+| [[Aprendizaje acelerado]] | updated | KINDLE B30 (Make It Stick #5908-5922): aprendizaje esfuerzo>arena, releer/práctica bloqueada=peores, recuperación+flashcards, espaciar/intercalar, mito estilos de aprendizaje, base de conocimiento previa, contexto mayor |
+| [[Deseo mimético (René Girard)]] | created | Nueva nota KINDLE B30 (Burgis #5923-5927): deseo imitativo no intrínseco, se aprende como el idioma, lado oscuro=insatisfacción |
+| [[MJ DeMarco]] | created | Nueva nota KINDLE B30 (#5928-5930): sabiduría convencional rara vez da vida no convencional, vidas convencionales=servidumbre, 1%≠pensar como 99% |
 
 ## Fuentes / hilos procesados (opcional)
 

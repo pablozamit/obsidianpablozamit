@@ -105,6 +105,32 @@ Sobre los puntos de dolor en copy:
 - **Fisiología de la conversión**: al tocar un punto de dolor, aguanta ahí. Dale tiempo para que su cerebro dé órdenes y cambien las hormonas en su torrente sanguíneo. Que sea el lector quien quiera salir de su situación... dándole al botón (clippings #220-222).
 - Humildad persuasiva: "NADIE COMPRA NADA QUE NO QUIERA COMPRAR. Así que no tengas miedo de usar un poder que NO tienes" (clipping #223).
 
+## Los 8 deseos biológicos (Cashvertising)
+
+De *Cashvertising* (Drew Eric Whitman):
+
+- La investigación de Starch mostró que lo que más les importa a las personas es... **ellas mismas**: les importa lo que los productos harán por ellas, cómo les harán la vida mejor, más feliz, más plena (clippings #5894-5895).
+- El artículo de Warren "Cómo entender por qué compra la gente" — que todo anunciante debería leer dos veces: conocer a la gente y tener agudo sentido de la naturaleza humana; saber distinguir necesidades de deseos (clipping #5896).
+
+> "eight powerful desires are responsible for more sales than all other human wants combined."
+> _—Drew Eric Whitman_ (clipping #5898)
+
+Los ocho deseos biológicos con los que venimos programados (clipping #5899):
+
+1. **Supervivencia**, disfrute de la vida, extensión de vida
+2. Disfrute de **comida y bebida**
+3. **Libertad del miedo**, el dolor y el peligro
+4. Compañía **sexual**
+5. Condiciones de vida **cómodas**
+6. Ser **superior**, ganar, mantenerse a la altura de los vecinos
+7. Cuidado y protección de los **seres queridos**
+8. **Aprobación social**
+
+## Hábito de escritura
+
+> "the key to taking your writing muscles from puny to brawny is to write every day."
+> _—Ann Handley, Everybody Writes_ (clipping #5875)
+
 ## 6 hacks de copywriting según Chase Diamong
 
 - **No empieces tus historias desde el principio.** En su lugar:
