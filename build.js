@@ -49,11 +49,7 @@ function parseFrontmatter(raw) {
 }
 
 function ratingLabel(r) {
-    if (r >= 9) return "Imprescindible";
-    if (r >= 7) return "Bueno";
-    if (r >= 5) return "Medio";
-    if (r >= 3) return "Básico";
-    return "Bajo";
+    return '';
 }
 const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, currentSlug = '', toc = '', isSearch = false, is404 = false, isCategories = false, isItinerarios = false, isImprescindibles = false, isBuzon = false, metaDesc = '', currentRating = null, noteType = '', categoria = '') => {
     // Agrupa la sidebar por letra inicial y marca el item actual
@@ -1173,11 +1169,7 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
             transition: width 320ms ease;
         }
         .note-rating-label {
-            font-size: 13px;
-            font-weight: 600;
-            text-transform: uppercase;
-            letter-spacing: 0.04em;
-            opacity: 0.85;
+            display: none;
         }
         .note-rating[data-rating="1"],
         .note-rating[data-rating="2"] {
@@ -1270,7 +1262,6 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
                 -webkit-print-color-adjust: exact;
             }
             .note-rating-fill { background: #444 !important; }
-            .note-rating-label { color: #444 !important; }
         }
 
         .like-section {
@@ -1794,7 +1785,6 @@ const htmlTemplate = (title, content, allNotes, backlinks, isHome = false, curre
                 <div class="note-rating" data-rating="${currentRating}" aria-label="Puntuacion ${currentRating} de 10" role="figure">
                     <span class="note-rating-score">${currentRating}</span>
                     <div class="note-rating-bar" aria-hidden="true"><div class="note-rating-fill" style="width: ${currentRating * 10}%"></div></div>
-                    <span class="note-rating-label">${ratingLabel(currentRating)}</span>
                 </div>
                 ` : ""}
                 ${content}
@@ -2033,7 +2023,7 @@ function generateHomeContent(notes, backlinksMap, catCount = 0, impCount = 0) {
                 <input type="search" name="q" placeholder="Busca una sustancia, síntoma o mecanismo…" aria-label="Buscar en la enciclopedia">
                 <button type="submit">Buscar</button>
             </form>
-            <p class="home-stats"><span class="num">${notes.length}</span> notas · <span class="num">${totalLinks}</span> enlaces · <span class="num">${catCount}</span> <a href="categorias.html">categorías</a>${impCount > 0 ? ' · <span class="num">' + impCount + '</span> <a href="imprescindibles.html">imprescindibles</a>' : ''}</p>
+            <p class="home-stats"><span class="num">${notes.length}</span> notas · <span class="num">${totalLinks}</span> enlaces · <span class="num">${catCount}</span> <a href="categorias.html">categorías</a>${impCount > 0 ? ' · <span class="num">' + impCount + '</span> <a href="imprescindibles.html">top ratings</a>' : ''}</p>
         </section>
 
         <section class="home-section">
@@ -2596,9 +2586,9 @@ function generateRobotsTxt() {
 // === Commit 13: imprescindibles ===
 function generateImprescindiblesIndex(notes) {
     const tiers = [
-        { min: 9, max: 10, key: 'imprescindible', label: 'Imprescindible (9-10)', notes: [] },
-        { min: 7, max: 8,  key: 'bueno',         label: 'Bueno (7-8)',          notes: [] },
-        { min: 5, max: 6,  key: 'medio',         label: 'Medio (5-6)',          notes: [] }
+        { min: 9, max: 10, key: 'imprescindible', label: '9-10', notes: [] },
+        { min: 7, max: 8,  key: 'bueno',         label: '7-8',  notes: [] },
+        { min: 5, max: 6,  key: 'medio',         label: '5-6',  notes: [] }
     ];
     for (const n of notes) {
         const r = n.frontmatter && n.frontmatter.rating;
@@ -2628,7 +2618,7 @@ function generateImprescindiblesContent(index) {
             const slug = encodeURI(n.slug);
             return '<a class="tier-card tier-card--' + g.key + '" href="' + slug + '"><span class="tier-card-rating tier-card-rating--' + g.key + '">' + r + '</span><span class="tier-card-title">' + n.title + '</span></a>';
         }).join('');
-        return '<section class="tier-section tier-section--' + g.key + '"><header class="tier-header"><h2 class="tier-label">' + g.label + '</h2><span class="tier-range">' + g.min + '-' + g.max + '</span></header><div class="tier-grid">' + cardsHtml + '</div></section>';
+        return '<section class="tier-section tier-section--' + g.key + '"><header class="tier-header"><h2 class="tier-label">' + g.label + '</h2></header><div class="tier-grid">' + cardsHtml + '</div></section>';
     }).join('');
     return '<section class="imprescindibles-page"><h1 class="imprescindibles-title">🏆 Top ratings</h1><p class="imprescindibles-subtitle">Las notas mejor valoradas, organizadas por tier.</p>' + sectionsHtml + '</section>';
 }
