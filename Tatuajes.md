@@ -1,3 +1,6 @@
+---
+rating: 0
+---
 # Tatuajes
 
 ## Estudio en gemelos: tatuajes y riesgo de cáncer (@AntelmPujol, 17 ago 2026)
