@@ -1,8 +1,12 @@
+---
+rating: 9
+---
 
 Vitamina K
 
 ·Vitamina K2 (MK-4) parece alterar la forma del [[Rostro masculino]], especialmente la mandíbula.
 ·Vitamina K2 (MK-4) también parece aumentar la [[Testosterona]]: "There are multiple animal studies showing that vitamin K (only MK-4) boosts testosterone production by increasing StAR, which is the rate-limited step in transporting cholesterol into the [[Mitocondria]] for conversion to pregnenolone.". Esto podría evitar el 'robo de la [[pregnenolona]]'?
+
 	·"The increase in testosterone is independent of [[LH (hormona luteinizante)]] secretion as LH remains unchanged with vitamin K2 administration"
 
 ·Vitamina K2 (MK-4) aumenta la [[Dopamina]].
@@ -45,7 +49,7 @@ De *Vitamin K2 and the Calcium Paradox*:
 - **MK-7**: vida media larga — una dosis diaria única da protección continua, con niveles sanguíneos más altos y estables (clipping #5891).
 - Como es liposoluble: buscar **cápsula blanda de gelatina o suspensión líquida oleosa** (no cápsula dura ni tableta) para mejorar biodisponibilidad (clipping #5892).
 
-Ver también [[Ratio vitaminas A, D y K]], [[Ratio calcio y vitamina K]], [[Calcio#Fuentes de calcio (moosa)]].
+Ver también [[Ratio vitaminas A, D y K]], [[Ratio calcio y vitamina K]], [[Calcio#Fuentes de calcio (moosa)].
 
 ## Experimento de Megadosis (N=1) y Metabolismo Estrogénico
 
@@ -74,4 +78,3 @@ Los reportes del experimento mencionan una mejora en:
 Thorne
 Health Natura (https://healthnatura.com/liquid-vitamins/?ref=ANALYZEANDOPTIMIZE)
 IdealabsDC (Kuinone)
-
