@@ -1,3 +1,6 @@
+---
+rating: 9
+---
 # Naval Ravikant
 
 Del *Almanack of Naval Ravikant* (Eric Jorgenson):
