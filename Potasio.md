@@ -1,3 +1,6 @@
+---
+rating: 7
+---
 
 
 ## La deficiencia de potasio disminuye la [[Testosterona]]
