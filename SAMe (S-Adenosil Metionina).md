@@ -1,4 +1,6 @@
-
+---
+rating: 5
+---
 
 # S-Adenosil Metionina (SAMe)
 
