@@ -1,3 +1,6 @@
+---
+rating: 6
+---
 # Astaxantina
 
 La **astaxantina** es un [[Carotenoide]] [[Liposoluble]], un tipo de [[Pigmento natural]] que se encuentra en una amplia variedad de [[Organismos marinos]] y que es responsable de la coloración rojiza de muchas especies de [[Mariscos]], como el [[Salmón]], la [[Trucha]] y los [[Camarones]]. Es un poderoso [[Antioxidantes|antioxidante]], lo cual ha sido implicado en sus diversas actividades biológicas tanto en estudios con [[Animales]] como en [[Humanos]].
