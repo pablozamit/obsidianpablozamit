@@ -1,3 +1,6 @@
+---
+rating: 9
+---
 # Nattoquinasa
 
 La **nattoquinasa** es una enzima fibrinolítica producida durante la fermentación de la soja por *Bacillus subtilis* (nattō). Es conocida por su capacidad de descomponer fibrina y ha ganado atención como herramienta potencial frente a la tromboinflamación por spike protein.
